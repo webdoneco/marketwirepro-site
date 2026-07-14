@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MarketWirePro — Global Financial Markets News</title>
+<meta name="description" content="Real-time financial news covering crypto, forex, stocks, and global economics. Stay ahead with MarketWirePro.">
+<meta name="keywords" content="financial news, crypto news, forex news, stock market, economics, trading news">
+<meta name="robots" content="index, follow">
+<meta name="author" content="MarketWirePro">
+<link rel="canonical" href="https://marketwirepro.com/">
+
+<!-- Open Graph -->
+<meta property="og:type"        content="website">
+<meta property="og:title"       content="MarketWirePro — Global Financial Markets News">
+<meta property="og:description" content="Real-time financial news covering crypto, forex, stocks, and global economics.">
+<meta property="og:url"         content="https://marketwirepro.com/">
+<meta property="og:image"       content="https://marketwirepro.com/images/og-home.jpg">
+<meta property="og:site_name"   content="MarketWirePro">
+
+<!-- Twitter Card -->
+<meta name="twitter:card"        content="summary_large_image">
+<meta name="twitter:title"       content="MarketWirePro — Global Financial Markets News">
+<meta name="twitter:description" content="Real-time financial news covering crypto, forex, stocks, and global economics.">
+<meta name="twitter:image"       content="https://marketwirepro.com/images/og-home.jpg">
+
+<!-- Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "name": "MarketWirePro",
+  "url": "https://marketwirepro.com",
+  "logo": "https://marketwirepro.com/images/logo.png",
+  "description": "Global Financial Markets News",
+  "email": "hello@marketwirepro.com",
+  "sameAs": []
+}
+</script>
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- CSS -->
+<link rel="stylesheet" href="/css/style.css">
+
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="/images/favicon.png">
+<link rel="apple-touch-icon"      href="/images/apple-touch-icon.png">
+</head>
+<body>
+
+<!-- BREAKING NEWS BAR -->
+<div class="breaking-bar" id="breakingBar" style="display:none;">
+  <div class="breaking-inner">
+    <span class="breaking-label">Breaking</span>
+    <span class="breaking-text" id="breakingText"></span>
+  </div>
+</div>
+
+<!-- TICKER -->
+<div class="ticker-wrap">
+  <div class="ticker-track" id="tickerTrack"></div>
+</div>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">
+      <img src="/images/logo-horizontal.png" alt="MarketWirePro" onerror="this.style.display='none'">
+      <span class="logo-text">MarketWire<span>Pro</span></span>
+    </a>
+
+    <nav class="main-nav">
+      <a href="/"             class="active">Home</a>
+      <a href="/crypto/">Crypto</a>
+      <a href="/forex/">Forex</a>
+      <a href="/stocks/">Stocks</a>
+      <a href="/economics/">Economics</a>
+      <a href="/tools/">Tools</a>
+    </nav>
+
+    <div class="header-actions">
+      <button class="search-btn" aria-label="Search">
+        <svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        Search
+        <span style="font-size:11px;opacity:0.5;">Ctrl K</span>
+      </button>
+    </div>
+
+    <button class="hamburger" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<!-- MOBILE NAV -->
+<nav class="mobile-nav">
+  <button class="mobile-close">✕ Close</button>
+  <a href="/">Home</a>
+  <a href="/crypto/">Crypto</a>
+  <a href="/forex/">Forex</a>
+  <a href="/stocks/">Stocks</a>
+  <a href="/economics/">Economics</a>
+  <a href="/tools/">Tools</a>
+</nav>
+
+<!-- SEARCH OVERLAY -->
+<div class="search-overlay">
+  <button class="search-close">✕ Close</button>
+  <div class="search-inner">
+    <div class="search-input-wrap">
+      <span class="search-icon-pos">
+        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      </span>
+      <input type="text" class="search-input" placeholder="Search financial news..." autocomplete="off">
+    </div>
+    <p style="color:var(--muted);font-size:14px;">Press Enter to search · Esc to close</p>
+  </div>
+</div>
+
+<!-- MAIN -->
+<main>
+  <div class="container">
+
+    <!-- HERO -->
+    <section class="hero-section">
+      <div class="hero-grid" id="heroGrid">
+        <!-- Loaded by JS -->
+        <div class="hero-featured" style="min-height:400px;">
+          <div class="skeleton" style="height:280px;border-radius:0;"></div>
+          <div class="article-body" style="padding:20px;">
+            <div class="skeleton" style="height:16px;width:80px;margin-bottom:12px;"></div>
+            <div class="skeleton" style="height:24px;margin-bottom:8px;"></div>
+            <div class="skeleton" style="height:24px;width:70%;"></div>
+          </div>
+        </div>
+        <div class="hero-small" style="min-height:180px;">
+          <div class="skeleton" style="height:140px;border-radius:0;"></div>
+          <div class="article-body" style="padding:16px;">
+            <div class="skeleton" style="height:14px;margin-bottom:8px;"></div>
+            <div class="skeleton" style="height:14px;width:60%;"></div>
+          </div>
+        </div>
+        <div class="hero-small" style="min-height:180px;">
+          <div class="skeleton" style="height:140px;border-radius:0;"></div>
+          <div class="article-body" style="padding:16px;">
+            <div class="skeleton" style="height:14px;margin-bottom:8px;"></div>
+            <div class="skeleton" style="height:14px;width:60%;"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TOP AD BANNER -->
+    <div class="ad-wrap" style="margin-top:28px;">
+      <div class="ad-block">
+        <div class="ad-label">Advertisement</div>
+        <script async="async" data-cfasync="false" src="https://pl28139515.effectivecpmnetwork.com/1b151f3a616d5db11be8ba3fe6a82cbf/invoke.js"></script>
+        <div id="container-1b151f3a616d5db11be8ba3fe6a82cbf"></div>
+      </div>
+    </div>
+
+    <!-- PAGE WRAP: MAIN + SIDEBAR -->
+    <div class="page-wrap">
+      <div class="main-col">
+
+        <!-- LATEST NEWS -->
+        <section class="category-section">
+          <div class="section-header">
+            <h2 class="section-title">Latest News</h2>
+            <a href="/all-news/" class="see-all">View All →</a>
+          </div>
+          <div class="news-list" id="latestArticles">
+            <!-- Skeleton -->
+            <div class="news-card"><div class="skeleton news-card-img"></div><div class="news-card-body"><div class="skeleton" style="height:12px;width:60px;margin-bottom:8px;"></div><div class="skeleton" style="height:16px;margin-bottom:6px;"></div><div class="skeleton" style="height:12px;width:40%;"></div></div></div>
+            <div class="news-card"><div class="skeleton news-card-img"></div><div class="news-card-body"><div class="skeleton" style="height:12px;width:60px;margin-bottom:8px;"></div><div class="skeleton" style="height:16px;margin-bottom:6px;"></div><div class="skeleton" style="height:12px;width:40%;"></div></div></div>
+            <div class="news-card"><div class="skeleton news-card-img"></div><div class="news-card-body"><div class="skeleton" style="height:12px;width:60px;margin-bottom:8px;"></div><div class="skeleton" style="height:16px;margin-bottom:6px;"></div><div class="skeleton" style="height:12px;width:40%;"></div></div></div>
+          </div>
+        </section>
+
+        <!-- MID BANNER -->
+        <div class="ad-block" style="margin:24px 0;text-align:center;">
+          <div class="ad-label">Advertisement</div>
+          <div class="xm-banner-728"></div>
+        </div>
+
+        <!-- CRYPTO NEWS -->
+        <section class="category-section">
+          <div class="section-header">
+            <h2 class="section-title crypto">Crypto Markets</h2>
+            <a href="/crypto/" class="see-all">More Crypto →</a>
+          </div>
+          <div class="category-grid" id="cryptoArticles">
+            <div class="cat-card"><div class="skeleton cat-card-img"></div><div><div class="skeleton" style="height:13px;margin-bottom:6px;"></div><div class="skeleton" style="height:13px;width:70%;"></div></div></div>
+            <div class="cat-card"><div class="skeleton cat-card-img"></div><div><div class="skeleton" style="height:13px;margin-bottom:6px;"></div><div class="skeleton" style="height:13px;width:70%;"></div></div></div>
+            <div class="cat-card"><div class="skeleton cat-card-img"></div><div><div class="skeleton" style="height:13px;margin-bottom:6px;"></div><div class="skeleton" style="height:13px;width:70%;"></div></div></div>
+            <div class="cat-card"><div class="skeleton cat-card-img"></div><div><div class="skeleton" style="height:13px;margin-bottom:6px;"></div><div class="skeleton" style="height:13px;width:70%;"></div></div></div>
+          </div>
+        </section>
+
+        <!-- EXNESS AFFILIATE -->
+        <div class="article-cta" style="margin:32px 0;">
+          <div class="cta-text">
+            <h4>Trade Global Markets with Exness</h4>
+            <p>Ultra-low spreads · Instant withdrawals · Regulated broker · Trade Forex, Crypto, Stocks</p>
+          </div>
+          <a href="https://one.exnessonelink.com/a/c_xfuaf31zu5" target="_blank" rel="noopener" class="cta-btn">Open Account →</a>
+        </div>
+
+        <!-- FOREX NEWS -->
+        <section class="category-section">
+          <div class="section-header">
+            <h2 class="section-title forex">Forex Markets</h2>
+            <a href="/forex/" class="see-all">More Forex →</a>
+          </div>
+          <div class="category-grid" id="forexArticles"></div>
+        </section>
+
+        <!-- TRADINGVIEW AFFILIATE -->
+        <div class="article-cta" style="margin:32px 0;background:linear-gradient(135deg,#0d1f0d,#1a2e1a);border-color:rgba(34,197,94,0.3);">
+          <div class="cta-text">
+            <h4>Professional Charts & Analysis</h4>
+            <p>Used by 50M+ traders worldwide · Real-time data · Advanced charting tools</p>
+          </div>
+          <a href="https://www.tradingview.com/?aff_id=160287" target="_blank" rel="noopener" class="cta-btn" style="background:#22C55E;">Open TradingView →</a>
+        </div>
+
+        <!-- STOCKS NEWS -->
+        <section class="category-section">
+          <div class="section-header">
+            <h2 class="section-title stocks">Stock Markets</h2>
+            <a href="/stocks/" class="see-all">More Stocks →</a>
+          </div>
+          <div class="news-list" id="stocksArticles"></div>
+        </section>
+
+        <!-- BOTTOM BANNER -->
+        <div class="ad-block" style="margin:24px 0;text-align:center;">
+          <div class="ad-label">Advertisement</div>
+          <div class="xm-banner-728"></div>
+        </div>
+
+        <!-- XM AFFILIATE -->
+        <div class="article-cta" style="margin:32px 0;background:linear-gradient(135deg,#1a0d2e,#2d1a4d);border-color:rgba(167,139,250,0.3);">
+          <div class="cta-text">
+            <h4>Start Trading with XM — Up to $30 No Deposit Bonus</h4>
+            <p>Award-winning broker · MT4 & MT5 · 1000+ instruments · 24/7 support</p>
+          </div>
+          <a href="https://affs.click/iBKCk" target="_blank" rel="noopener" class="cta-btn" style="background:#7C3AED;">Open XM Account →</a>
+        </div>
+
+      </div><!-- /.main-col -->
+
+      <!-- SIDEBAR -->
+      <aside class="sidebar">
+
+        <!-- MARKETS WIDGET -->
+        <div class="sidebar-widget">
+          <div class="widget-head">Live Markets</div>
+          <div class="widget-body">
+            <div class="markets-widget-body">
+              <div class="skeleton" style="height:40px;margin-bottom:8px;"></div>
+              <div class="skeleton" style="height:40px;margin-bottom:8px;"></div>
+              <div class="skeleton" style="height:40px;margin-bottom:8px;"></div>
+              <div class="skeleton" style="height:40px;"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TRENDING -->
+        <div class="sidebar-widget">
+          <div class="widget-head">Trending Now</div>
+          <div class="widget-body" style="padding:8px 16px;">
+            <div class="trending-list" id="trendingList"></div>
+          </div>
+        </div>
+
+        <!-- EXNESS SIDEBAR -->
+        <div class="affiliate-widget">
+          <h4>Trade With Exness</h4>
+          <p>Ultra-low spreads. Instant withdrawals. Start with $10.</p>
+          <a href="https://one.exnessonelink.com/a/c_xfuaf31zu5" target="_blank" rel="noopener" class="btn-affiliate">Start Trading →</a>
+        </div>
+
+        <!-- NORDVPN 300x250 -->
+        <div class="ad-block" style="margin-bottom:24px;">
+          <div class="ad-label">Advertisement</div>
+          <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=136217&file_id=25"><img src="https://media.go2speed.org/brand/files/nordvpn/15/300x250v12.gif" width="300" height="250" border="0" alt="NordVPN" style="border-radius:8px;"/></a>
+        </div>
+
+        <!-- ADSTERRA 300x250 -->
+        <div class="ad-block" style="margin-bottom:24px;">
+          <div class="ad-label">Advertisement</div>
+          <script>atOptions={'key':'fc64616050aa5735690383cf450960ac','format':'iframe','height':250,'width':300,'params':{}};</script>
+          <script src="https://www.highperformanceformat.com/fc64616050aa5735690383cf450960ac/invoke.js"></script>
+        </div>
+
+        <!-- XM SIDEBAR CTA -->
+        <div class="affiliate-widget" style="background:linear-gradient(135deg,#1a0d2e,#2d1a4d);border-color:rgba(167,139,250,0.3);">
+          <h4>Trade with XM</h4>
+          <p>$30 No Deposit Bonus. 1000+ instruments. MT4/MT5.</p>
+          <a href="https://affs.click/QtyGt" target="_blank" rel="noopener" class="btn-affiliate" style="background:#7C3AED;">Open Real Account →</a>
+        </div>
+
+        <!-- TOOLS CTA -->
+        <div class="sidebar-widget">
+          <div class="widget-head">Free Trading Tools</div>
+          <div class="widget-body">
+            <div style="display:flex;flex-direction:column;gap:8px;">
+              <a href="/tools/pip-calculator/" style="display:flex;align-items:center;gap:10px;padding:10px;border-radius:8px;background:var(--bg3);font-size:13px;font-weight:500;transition:0.2s;" onmouseover="this.style.background='var(--bg)'" onmouseout="this.style.background='var(--bg3)'">
+                <span>📐</span> Pip Calculator
+              </a>
+              <a href="/tools/profit-calculator/" style="display:flex;align-items:center;gap:10px;padding:10px;border-radius:8px;background:var(--bg3);font-size:13px;font-weight:500;transition:0.2s;" onmouseover="this.style.background='var(--bg)'" onmouseout="this.style.background='var(--bg3)'">
+                <span>💰</span> Profit Calculator
+              </a>
+              <a href="/tools/crypto-converter/" style="display:flex;align-items:center;gap:10px;padding:10px;border-radius:8px;background:var(--bg3);font-size:13px;font-weight:500;transition:0.2s;" onmouseover="this.style.background='var(--bg)'" onmouseout="this.style.background='var(--bg3)'">
+                <span>🔄</span> Crypto Converter
+              </a>
+              <a href="/tools/fear-greed/" style="display:flex;align-items:center;gap:10px;padding:10px;border-radius:8px;background:var(--bg3);font-size:13px;font-weight:500;transition:0.2s;" onmouseover="this.style.background='var(--bg)'" onmouseout="this.style.background='var(--bg3)'">
+                <span>😨</span> Fear & Greed Index
+              </a>
+            </div>
+          </div>
+        </div>
+
+      </aside>
+    </div><!-- /.page-wrap -->
+
+    <!-- CATEGORY QUICK LINKS -->
+    <section style="margin-bottom:48px;">
+      <div class="section-header">
+        <h2 class="section-title">Browse by Category</h2>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:12px;">
+        <a href="/crypto/" style="background:rgba(245,158,11,0.08);border:1px solid rgba(245,158,11,0.2);border-radius:12px;padding:20px;text-align:center;transition:0.2s;" onmouseover="this.style.background='rgba(245,158,11,0.15)'" onmouseout="this.style.background='rgba(245,158,11,0.08)'">
+          <div style="font-size:28px;margin-bottom:8px;">₿</div>
+          <div style="font-size:14px;font-weight:700;color:#F59E0B;">Crypto</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px;">Bitcoin · Ethereum · Altcoins</div>
+        </a>
+        <a href="/forex/" style="background:rgba(14,165,233,0.08);border:1px solid rgba(14,165,233,0.2);border-radius:12px;padding:20px;text-align:center;transition:0.2s;" onmouseover="this.style.background='rgba(14,165,233,0.15)'" onmouseout="this.style.background='rgba(14,165,233,0.08)'">
+          <div style="font-size:28px;margin-bottom:8px;">💱</div>
+          <div style="font-size:14px;font-weight:700;color:#0EA5E9;">Forex</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px;">EUR/USD · GBP · JPY</div>
+        </a>
+        <a href="/stocks/" style="background:rgba(34,197,94,0.08);border:1px solid rgba(34,197,94,0.2);border-radius:12px;padding:20px;text-align:center;transition:0.2s;" onmouseover="this.style.background='rgba(34,197,94,0.15)'" onmouseout="this.style.background='rgba(34,197,94,0.08)'">
+          <div style="font-size:28px;margin-bottom:8px;">📈</div>
+          <div style="font-size:14px;font-weight:700;color:#22C55E;">Stocks</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px;">S&P 500 · NASDAQ · NYSE</div>
+        </a>
+        <a href="/economics/" style="background:rgba(167,139,250,0.08);border:1px solid rgba(167,139,250,0.2);border-radius:12px;padding:20px;text-align:center;transition:0.2s;" onmouseover="this.style.background='rgba(167,139,250,0.15)'" onmouseout="this.style.background='rgba(167,139,250,0.08)'">
+          <div style="font-size:28px;margin-bottom:8px;">🌍</div>
+          <div style="font-size:14px;font-weight:700;color:#A78BFA;">Economics</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px;">GDP · Inflation · Fed</div>
+        </a>
+        <a href="/tools/" style="background:rgba(26,107,255,0.08);border:1px solid rgba(26,107,255,0.2);border-radius:12px;padding:20px;text-align:center;transition:0.2s;" onmouseover="this.style.background='rgba(26,107,255,0.15)'" onmouseout="this.style.background='rgba(26,107,255,0.08)'">
+          <div style="font-size:28px;margin-bottom:8px;">🛠️</div>
+          <div style="font-size:14px;font-weight:700;color:#1A6BFF;">Tools</div>
+          <div style="font-size:11px;color:var(--muted);margin-top:2px;">Calculators · Converters</div>
+        </a>
+      </div>
+    </section>
+
+  </div><!-- /.container -->
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="/" class="logo">
+          <span class="logo-text" style="font-size:20px;">MarketWire<span>Pro</span></span>
+        </a>
+        <p>Your trusted source for global financial markets news. Covering crypto, forex, stocks, and economics — 24/7.</p>
+        <div style="margin-top:16px;display:flex;gap:12px;">
+          <a href="mailto:hello@marketwirepro.com" style="font-size:12px;color:var(--muted);">hello@marketwirepro.com</a>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h5>Markets</h5>
+        <ul>
+          <li><a href="/crypto/">Cryptocurrency</a></li>
+          <li><a href="/forex/">Forex</a></li>
+          <li><a href="/stocks/">Stock Markets</a></li>
+          <li><a href="/economics/">Economics</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Tools</h5>
+        <ul>
+          <li><a href="/tools/pip-calculator/">Pip Calculator</a></li>
+          <li><a href="/tools/profit-calculator/">Profit Calculator</a></li>
+          <li><a href="/tools/crypto-converter/">Crypto Converter</a></li>
+          <li><a href="/tools/fear-greed/">Fear & Greed</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Company</h5>
+        <ul>
+          <li><a href="/about/">About Us</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          <li><a href="/privacy/">Privacy Policy</a></li>
+          <li><a href="/disclaimer/">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- BOTTOM AD -->
+    <div class="ad-block" style="margin-bottom:24px;text-align:center;">
+      <div class="ad-label">Advertisement</div>
+      <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=136217&file_id=33"><img src="https://media.go2speed.org/brand/files/nordvpn/15/728x90v11.gif" width="728" height="90" border="0" alt="NordVPN" style="max-width:100%;border-radius:8px;"/></a>
+    </div>
+
+    <div class="footer-bottom">
+      <p>© 2025 MarketWirePro. All rights reserved.</p>
+      <p><a href="/privacy/" style="color:var(--muted);transition:0.2s;" onmouseover="this.style.color='var(--blue)'" onmouseout="this.style.color='var(--muted)'">Privacy</a> · <a href="/disclaimer/" style="color:var(--muted);transition:0.2s;" onmouseover="this.style.color='var(--blue)'" onmouseout="this.style.color='var(--muted)'">Disclaimer</a> · <a href="/contact/" style="color:var(--muted);transition:0.2s;" onmouseover="this.style.color='var(--blue)'" onmouseout="this.style.color='var(--muted)'">Contact</a></p>
+    </div>
+    <p class="footer-disclaimer">
+      <strong>Risk Disclaimer:</strong> Trading financial instruments involves significant risk and may not be suitable for all investors. The content on MarketWirePro is for informational purposes only and does not constitute financial advice. Past performance is not indicative of future results. Please ensure you fully understand the risks involved before trading.
+    </p>
+  </div>
+</footer>
+
+<!-- BACK TO TOP -->
+<button class="back-top" aria-label="Back to top">↑</button>
+
+<script src="/js/main.js"></script>
+
+<!-- Hero Grid Loader -->
+<script>
+async function loadHero() {
+  try {
+    const res  = await fetch('/api/articles.json');
+    const data = await res.json();
+    const arts = (data.articles || []).slice(0, 3);
+    if (arts.length < 1) return;
+    const grid = document.getElementById('heroGrid');
+    const defImg = 'https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800';
+    const [a1, a2, a3] = arts;
+    grid.innerHTML = `
+      <a href="/article.html?slug=${a1.slug}" class="hero-featured">
+        <img class="article-img" src="${a1.image || defImg}" alt="${a1.title}" loading="lazy">
+        <div class="article-body">
+          <span class="article-tag ${a1.category || 'markets'}">${a1.category || 'Markets'}</span>
+          <div class="article-title">${a1.title}</div>
+          <p class="article-excerpt">${a1.excerpt || ''}</p>
+          <div class="article-meta">
+            <span>MarketWirePro Desk</span>
+            <span class="dot"></span>
+            <span>${formatDate(a1.date)}</span>
+          </div>
+        </div>
+      </a>
+      ${a2 ? `<a href="/article.html?slug=${a2.slug}" class="hero-small">
+        <img class="article-img" src="${a2.image || defImg}" alt="${a2.title}" loading="lazy">
+        <div class="article-body">
+          <span class="article-tag ${a2.category || 'markets'}">${a2.category || 'Markets'}</span>
+          <div class="article-title">${a2.title}</div>
+          <div class="article-meta"><span>${formatDate(a2.date)}</span></div>
+        </div>
+      </a>` : ''}
+      ${a3 ? `<a href="/article.html?slug=${a3.slug}" class="hero-small">
+        <img class="article-img" src="${a3.image || defImg}" alt="${a3.title}" loading="lazy">
+        <div class="article-body">
+          <span class="article-tag ${a3.category || 'markets'}">${a3.category || 'Markets'}</span>
+          <div class="article-title">${a3.title}</div>
+          <div class="article-meta"><span>${formatDate(a3.date)}</span></div>
+        </div>
+      </a>` : ''}
+    `;
+  } catch(e) {}
+}
+function formatDate(d) {
+  if (!d) return 'Today';
+  const diff = Math.floor((new Date() - new Date(d)) / 60000);
+  if (diff < 60) return diff + 'm ago';
+  if (diff < 1440) return Math.floor(diff/60) + 'h ago';
+  return new Date(d).toLocaleDateString('en-US',{month:'short',day:'numeric'});
+}
+loadHero();
+</script>
+</body>
+</html>
