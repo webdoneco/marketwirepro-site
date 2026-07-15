@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "59770a76ee2e",
+      "slug": "us-senator-blasts-ag-pick-for-dismantling-crypto-unit-trumps-cz-pardon-59770a76ee2e",
+      "title": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
+      "excerpt": "US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon",
+      "content": "<p>US Senator blasts AG pick for ‘dismantling’ crypto unit, Trump’s CZ pardon</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:33.151825+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5aaecf2eb5c4",
+      "slug": "ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploi-5aaecf2eb5c4",
+      "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
+      "excerpt": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
+      "content": "<p>Ostium pauses trading as security firms report multimillion-dollar oracle exploit</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:34.687099+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a06bf56d8062",
+      "slug": "blackrock-goldman-and-jp-morgan-will-give-tokenized-stocks-a-try-a06bf56d8062",
+      "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
+      "excerpt": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
+      "content": "<p>BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:36.607418+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "01228b9ef53c",
+      "slug": "irans-qalibaf-we-must-always-be-ready-to-fight-and-stand-to-the-end-to-safeguard-01228b9ef53c",
+      "title": "Iran's Qalibaf: We must always be ready to fight and stand to the end to safeguard our national security and interests",
+      "excerpt": "Iran's Qalibaf: We must always be ready to fight and stand to the end to safeguard our national security and interests",
+      "content": "<p>Iran's Qalibaf: We must always be ready to fight and stand to the end to safeguard our national security and interests</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:38.286843+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "414df655e32a",
+      "slug": "euro-elevates-as-softer-us-ppi-weighs-on-the-dollar-414df655e32a",
+      "title": "Euro elevates as softer US PPI weighs on the Dollar",
+      "excerpt": "Euro elevates as softer US PPI weighs on the Dollar",
+      "content": "<p>Euro elevates as softer US PPI weighs on the Dollar</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:39.906614+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a15a6cdc0016",
+      "slug": "silver-slips-as-hawkish-fed-outlook-persists-despite-soft-us-inflation-data-a15a6cdc0016",
+      "title": "Silver slips as hawkish Fed outlook persists despite soft US inflation data",
+      "excerpt": "Silver slips as hawkish Fed outlook persists despite soft US inflation data",
+      "content": "<p>Silver slips as hawkish Fed outlook persists despite soft US inflation data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:41.437450+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a2aa80b94959",
+      "slug": "dow-jones-industrial-average-toasts-peak-inflation-then-drops-the-glass-a2aa80b94959",
+      "title": "Dow Jones Industrial Average toasts peak inflation, then drops the glass",
+      "excerpt": "Dow Jones Industrial Average toasts peak inflation, then drops the glass",
+      "content": "<p>Dow Jones Industrial Average toasts peak inflation, then drops the glass</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:42.981183+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7444ccb5e8e8",
+      "slug": "fed-chair-warsh-inflation-will-not-be-permanent-7444ccb5e8e8",
+      "title": "Fed Chair Warsh: Inflation will not be permanent",
+      "excerpt": "Fed Chair Warsh: Inflation will not be permanent",
+      "content": "<p>Fed Chair Warsh: Inflation will not be permanent</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:44.513359+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "27c87932a93b",
+      "slug": "british-pound-rallies-as-soft-us-ppi-hits-us-dollar-27c87932a93b",
+      "title": "British Pound rallies as soft US PPI hits US Dollar",
+      "excerpt": "British Pound rallies as soft US PPI hits US Dollar",
+      "content": "<p>British Pound rallies as soft US PPI hits US Dollar</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:46.043847+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c3f51074bc41",
+      "slug": "a-big-dividend-cut-and-a-2-billion-charge-conagras-results-signal-more-pain-ahea-c3f51074bc41",
+      "title": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
+      "excerpt": "A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry",
+      "content": "<p>A big dividend cut and a $2 billion charge: Conagra’s results signal more pain ahead for food industry</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-15T18:35:47.864646+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "db0f5af13fac",
       "slug": "aave-launches-v4-on-avalanche-laying-groundwork-for-tokenized-credit-markets-db0f5af13fac",
       "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
@@ -719,189 +899,9 @@
       "date": "2026-07-15T12:09:39.105208+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a2fe1b9efe28",
-      "slug": "bitcoin-gets-new-80k-august-target-watch-these-btc-price-levels-next-a2fe1b9efe28",
-      "title": "Bitcoin gets new $80K August target: Watch these BTC price levels next",
-      "excerpt": "Bitcoin gets new $80K August target: Watch these BTC price levels next",
-      "content": "<p>Bitcoin gets new $80K August target: Watch these BTC price levels next</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:16.546470+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e03b030fef5c",
-      "slug": "czech-republic-tells-isps-to-block-polymarket-after-gambling-blacklisting-e03b030fef5c",
-      "title": "Czech Republic tells ISPs to block Polymarket after gambling blacklisting",
-      "excerpt": "Czech Republic tells ISPs to block Polymarket after gambling blacklisting",
-      "content": "<p>Czech Republic tells ISPs to block Polymarket after gambling blacklisting</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:18.130532+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ea231a5656d6",
-      "slug": "cathie-woods-ark-buys-another-220k-circle-shares-despite-sell-off-ea231a5656d6",
-      "title": "Cathie Wood’s ARK buys another 220K Circle shares despite sell-off",
-      "excerpt": "Cathie Wood’s ARK buys another 220K Circle shares despite sell-off",
-      "content": "<p>Cathie Wood’s ARK buys another 220K Circle shares despite sell-off</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:19.659935+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98c40024206a",
-      "slug": "ai-agentic-payments-enter-mainstream-as-visa-mastercard-ripple-back-x402-standar-98c40024206a",
-      "title": "AI agentic payments enter mainstream as Visa, Mastercard, Ripple back x402 standard",
-      "excerpt": "AI agentic payments enter mainstream as Visa, Mastercard, Ripple back x402 standard",
-      "content": "<p>AI agentic payments enter mainstream as Visa, Mastercard, Ripple back x402 standard</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:21.373009+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e07aaec27ec0",
-      "slug": "us-uk-outline-recommendations-to-align-stablecoin-and-tokenization-rules-e07aaec27ec0",
-      "title": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
-      "excerpt": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
-      "content": "<p>US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:22.943562+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d2cf9e78d3ec",
-      "slug": "euro-area-industrial-output-falls-in-may-missing-on-estimates-d2cf9e78d3ec",
-      "title": "Euro area industrial output falls in May, missing on estimates",
-      "excerpt": "Euro area industrial output falls in May, missing on estimates",
-      "content": "<p>Euro area industrial output falls in May, missing on estimates</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:24.680371+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dbb138718dc4",
-      "slug": "canadian-dollar-boc-caution-limits-cad-losses-against-us-dollar-mufg-dbb138718dc4",
-      "title": "Canadian Dollar: BoC caution limits CAD losses against US Dollar – MUFG",
-      "excerpt": "Canadian Dollar: BoC caution limits CAD losses against US Dollar – MUFG",
-      "content": "<p>Canadian Dollar: BoC caution limits CAD losses against US Dollar – MUFG</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:26.326059+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1c91b35ae63d",
-      "slug": "british-pound-modest-uk-growth-and-baileys-cautious-stance-td-securities-1c91b35ae63d",
-      "title": "British Pound: Modest UK growth and Bailey’s cautious stance – TD Securities",
-      "excerpt": "British Pound: Modest UK growth and Bailey’s cautious stance – TD Securities",
-      "content": "<p>British Pound: Modest UK growth and Bailey’s cautious stance – TD Securities</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:27.862172+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1c2a74abcb79",
-      "slug": "boc-set-to-keep-interest-rates-steady-for-sixth-consecutive-meeting-1c2a74abcb79",
-      "title": "BoC set to keep interest rates steady for sixth consecutive meeting",
-      "excerpt": "BoC set to keep interest rates steady for sixth consecutive meeting",
-      "content": "<p>BoC set to keep interest rates steady for sixth consecutive meeting</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:29.394705+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6ed9c282a678",
-      "slug": "euro-gives-away-gains-as-eurozone-industrial-production-disappoints-6ed9c282a678",
-      "title": "Euro gives away gains as Eurozone Industrial Production disappoints",
-      "excerpt": "Euro gives away gains as Eurozone Industrial Production disappoints",
-      "content": "<p>Euro gives away gains as Eurozone Industrial Production disappoints</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-15T10:41:30.923359+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-15T17:15:30.746244+00:00",
+  "lastUpdated": "2026-07-15T18:35:49.364806+00:00",
   "totalCount": 50,
   "newCount": 10
 }
