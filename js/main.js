@@ -1,92 +1,141 @@
 /* ═══════════════════════════════════════════════════
-   MARKETWIREPRO — Main JavaScript
+   MARKETWIREPRO — Main JS v2
    ═══════════════════════════════════════════════════ */
 
-// ── TICKER ──────────────────────────────────────────
-const TICKER_DATA = [
-  { name: 'BTC/USD', price: '0.00', change: '+0.00%', up: true },
-  { name: 'ETH/USD', price: '0.00', change: '+0.00%', up: true },
-  { name: 'XAU/USD', price: '0.00', change: '+0.00%', up: true },
-  { name: 'EUR/USD', price: '0.0000', change: '+0.00%', up: true },
-  { name: 'GBP/USD', price: '0.0000', change: '-0.00%', up: false },
-  { name: 'S&P 500',  price: '0.00',  change: '+0.00%', up: true },
-  { name: 'NASDAQ',   price: '0.00',  change: '+0.00%', up: true },
-  { name: 'DOW',      price: '0.00',  change: '-0.00%', up: false },
-  { name: 'USD/JPY',  price: '0.00',  change: '+0.00%', up: true },
-  { name: 'BNB/USD',  price: '0.00',  change: '+0.00%', up: true },
+// ── TICKER DATA (static fallback) ───────────────────
+const TICKER_PAIRS = [
+  { name:'BTC/USD',  id:'bitcoin',      type:'crypto', decimals:2  },
+  { name:'ETH/USD',  id:'ethereum',     type:'crypto', decimals:2  },
+  { name:'BNB/USD',  id:'binancecoin',  type:'crypto', decimals:2  },
+  { name:'SOL/USD',  id:'solana',       type:'crypto', decimals:2  },
+  { name:'XRP/USD',  id:'ripple',       type:'crypto', decimals:4  },
+  { name:'XAU/USD',  id:'gold',         type:'fx',     decimals:2  },
+  { name:'EUR/USD',  id:'eurusd',       type:'fx',     decimals:4  },
+  { name:'GBP/USD',  id:'gbpusd',       type:'fx',     decimals:4  },
+  { name:'USD/JPY',  id:'usdjpy',       type:'fx',     decimals:3  },
+  { name:'S&P 500',  id:'sp500',        type:'index',  decimals:2  },
+  { name:'NASDAQ',   id:'nasdaq',       type:'index',  decimals:2  },
 ];
+
+let tickerPrices = {};
 
 function buildTicker() {
   const track = document.querySelector('.ticker-track');
   if (!track) return;
-  const items = [...TICKER_DATA, ...TICKER_DATA].map(d => `
-    <span class="ticker-item">
-      <span class="ticker-name">${d.name}</span>
-      <span class="ticker-price" data-sym="${d.name}">${d.price}</span>
-      <span class="ticker-change ${d.up ? 'up' : 'down'}">${d.change}</span>
-    </span>
-  `).join('');
-  track.innerHTML = items;
+  // Build double set for seamless loop
+  const allPairs = [...TICKER_PAIRS, ...TICKER_PAIRS];
+  track.innerHTML = allPairs.map(p => `
+    <span class="ticker-item" data-id="${p.id}">
+      <span class="ticker-name">${p.name}</span>
+      <span class="ticker-price" id="tp-${p.id}">—</span>
+      <span class="ticker-change" id="tc-${p.id}">—</span>
+    </span>`).join('');
 }
 
-// Fetch live prices from CoinGecko (free, no key)
-async function fetchPrices() {
+async function fetchCryptoPrices() {
   try {
-    const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,binancecoin&vs_currencies=usd&include_24hr_change=true');
-    const data = await res.json();
-    updatePrice('BTC/USD', data.bitcoin?.usd, data.bitcoin?.usd_24h_change);
-    updatePrice('ETH/USD', data.ethereum?.usd, data.ethereum?.usd_24h_change);
-    updatePrice('BNB/USD', data.binancecoin?.usd, data.binancecoin?.usd_24h_change);
+    const ids = 'bitcoin,ethereum,binancecoin,solana,ripple';
+    const url = `https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=usd&include_24hr_change=true`;
+    const res = await fetch(url);
+    const d   = await res.json();
+    const map = {
+      bitcoin:     { name:'BTC/USD', id:'bitcoin' },
+      ethereum:    { name:'ETH/USD', id:'ethereum' },
+      binancecoin: { name:'BNB/USD', id:'binancecoin' },
+      solana:      { name:'SOL/USD', id:'solana' },
+      ripple:      { name:'XRP/USD', id:'ripple' },
+    };
+    for (const [key, info] of Object.entries(map)) {
+      if (!d[key]) continue;
+      const price  = d[key].usd;
+      const change = d[key].usd_24h_change || 0;
+      updateTickerItem(info.id, price, change, price < 1 ? 4 : 2);
+      // Update market widget
+      updateMarketRow(info.id, price, change);
+    }
+  } catch(e) { console.log('Crypto price fetch error:', e.message); }
+}
+
+async function fetchForexPrices() {
+  // Use exchangerate-api free tier for forex
+  try {
+    const res = await fetch('https://open.er-api.com/v6/latest/USD');
+    const d   = await res.json();
+    if (!d.rates) return;
+    const eur = d.rates.EUR ? (1/d.rates.EUR) : null;
+    const gbp = d.rates.GBP ? (1/d.rates.GBP) : null;
+    const jpy = d.rates.JPY || null;
+    if (eur) updateTickerItem('eurusd', eur, 0, 4);
+    if (gbp) updateTickerItem('gbpusd', gbp, 0, 4);
+    if (jpy) updateTickerItem('usdjpy', jpy, 0, 3);
   } catch(e) {}
 }
 
-function updatePrice(sym, price, change) {
-  if (!price) return;
-  document.querySelectorAll(`[data-sym="${sym}"]`).forEach(el => {
-    el.textContent = '$' + price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-    const chEl = el.nextElementSibling;
-    if (chEl && change !== undefined) {
-      const pct = change.toFixed(2);
-      chEl.textContent = (change >= 0 ? '+' : '') + pct + '%';
-      chEl.className = 'ticker-change ' + (change >= 0 ? 'up' : 'down');
+function updateTickerItem(id, price, change, dec) {
+  // Update all instances (ticker has doubled pairs)
+  document.querySelectorAll(`#tp-${id}`).forEach(el => {
+    el.textContent = '$' + price.toLocaleString('en-US', { minimumFractionDigits: dec, maximumFractionDigits: dec });
+  });
+  document.querySelectorAll(`#tc-${id}`).forEach(el => {
+    if (change !== 0) {
+      el.textContent = (change >= 0 ? '+' : '') + change.toFixed(2) + '%';
+      el.className = 'ticker-change ' + (change >= 0 ? 'up' : 'down');
     }
   });
+  tickerPrices[id] = { price, change };
 }
 
-// ── SEARCH ──────────────────────────────────────────
+function updateMarketRow(id, price, change) {
+  const row = document.querySelector(`[data-market="${id}"]`);
+  if (!row) return;
+  const priceEl  = row.querySelector('.market-price');
+  const changeEl = row.querySelector('.market-change');
+  if (priceEl)  priceEl.textContent  = '$' + price.toLocaleString('en-US', {minimumFractionDigits:2,maximumFractionDigits:2});
+  if (changeEl) {
+    changeEl.textContent = (change >= 0 ? '+' : '') + change.toFixed(2) + '%';
+    changeEl.className   = 'market-change ' + (change >= 0 ? 'up' : 'down');
+  }
+}
+
+// ── MARKETS WIDGET ────────────────────────────────────
+async function loadMarketsWidget() {
+  const wrap = document.querySelector('.markets-widget-body');
+  if (!wrap) return;
+  // Render skeleton rows with data-market IDs
+  const pairs = [
+    { id:'bitcoin',    name:'Bitcoin',  sym:'BTC' },
+    { id:'ethereum',   name:'Ethereum', sym:'ETH' },
+    { id:'solana',     name:'Solana',   sym:'SOL' },
+    { id:'ripple',     name:'XRP',      sym:'XRP' },
+  ];
+  wrap.innerHTML = pairs.map(p => `
+    <div class="market-row" data-market="${p.id}">
+      <span class="market-name">${p.sym}</span>
+      <span class="market-price" style="color:var(--muted);">Loading...</span>
+      <span class="market-change">—</span>
+    </div>`).join('');
+}
+
+// ── SEARCH ────────────────────────────────────────────
 function initSearch() {
   const btn     = document.querySelector('.search-btn');
   const overlay = document.querySelector('.search-overlay');
   const close   = document.querySelector('.search-close');
   const input   = document.querySelector('.search-input');
   if (!btn || !overlay) return;
-
-  btn.addEventListener('click', () => {
-    overlay.classList.add('open');
-    setTimeout(() => input?.focus(), 100);
-  });
+  btn.addEventListener('click', () => { overlay.classList.add('open'); setTimeout(() => input?.focus(), 100); });
   close?.addEventListener('click', () => overlay.classList.remove('open'));
-  overlay.addEventListener('click', e => {
-    if (e.target === overlay) overlay.classList.remove('open');
-  });
+  overlay.addEventListener('click', e => { if (e.target === overlay) overlay.classList.remove('open'); });
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') overlay.classList.remove('open');
-    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
-      e.preventDefault();
-      overlay.classList.add('open');
-      setTimeout(() => input?.focus(), 100);
-    }
+    if ((e.ctrlKey || e.metaKey) && e.key === 'k') { e.preventDefault(); overlay.classList.add('open'); setTimeout(() => input?.focus(), 100); }
   });
-
   input?.addEventListener('keydown', e => {
-    if (e.key === 'Enter') {
-      const q = input.value.trim();
-      if (q) window.location.href = `/search.html?q=${encodeURIComponent(q)}`;
-    }
+    if (e.key === 'Enter' && input.value.trim()) window.location.href = `/search.html?q=${encodeURIComponent(input.value.trim())}`;
   });
 }
 
-// ── MOBILE NAV ──────────────────────────────────────
+// ── MOBILE NAV ────────────────────────────────────────
 function initMobileNav() {
   const ham   = document.querySelector('.hamburger');
   const nav   = document.querySelector('.mobile-nav');
@@ -96,319 +145,340 @@ function initMobileNav() {
   close?.addEventListener('click', () => nav.classList.remove('open'));
 }
 
-// ── BACK TO TOP ─────────────────────────────────────
+// ── BACK TO TOP ───────────────────────────────────────
 function initBackTop() {
   const btn = document.querySelector('.back-top');
   if (!btn) return;
-  window.addEventListener('scroll', () => {
-    btn.classList.toggle('show', window.scrollY > 400);
-  });
+  window.addEventListener('scroll', () => btn.classList.toggle('show', window.scrollY > 400));
   btn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 }
 
-// ── READ TIME ────────────────────────────────────────
-function calcReadTime() {
-  const content = document.querySelector('.article-content');
-  const el = document.querySelector('.read-time');
-  if (!content || !el) return;
-  const words = content.textContent.trim().split(/\s+/).length;
-  const mins  = Math.ceil(words / 200);
-  el.textContent = mins + ' min read';
-}
-
-// ── AFFILIATE ROTATION ───────────────────────────────
-const XM_BANNERS_728 = [
-  '<a href="https://clicks.pipaffiliates.com/c?m=131492&c=1129129" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.pipaffiliates.com/i/131492?c=1129129" width="728" height="90" referrerpolicy="no-referrer-when-downgrade"/></a>',
-  '<a href="https://clicks.pipaffiliates.com/c?m=131532&c=1129129" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.pipaffiliates.com/i/131532?c=1129129" width="728" height="90" referrerpolicy="no-referrer-when-downgrade"/></a>',
-  '<a href="https://clicks.pipaffiliates.com/c?m=132219&c=1129129" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.pipaffiliates.com/i/132219?c=1129129" width="728" height="90" referrerpolicy="no-referrer-when-downgrade"/></a>',
-  '<a href="https://clicks.pipaffiliates.com/c?m=132386&c=1129129" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.pipaffiliates.com/i/132386?c=1129129" width="728" height="90" referrerpolicy="no-referrer-when-downgrade"/></a>',
-  '<a href="https://clicks.pipaffiliates.com/c?m=133412&c=1129129" referrerpolicy="no-referrer-when-downgrade"><img src="https://ads.pipaffiliates.com/i/133412?c=1129129" width="728" height="90" referrerpolicy="no-referrer-when-downgrade"/></a>',
+// ── AFFILIATE BANNER ROTATION ─────────────────────────
+const XM_BANNERS = [
+  'https://ads.pipaffiliates.com/i/131492?c=1129129',
+  'https://ads.pipaffiliates.com/i/131532?c=1129129',
+  'https://ads.pipaffiliates.com/i/132219?c=1129129',
+  'https://ads.pipaffiliates.com/i/132386?c=1129129',
+  'https://ads.pipaffiliates.com/i/133412?c=1129129',
+  'https://ads.pipaffiliates.com/i/149879?c=1129129',
+  'https://ads.pipaffiliates.com/i/150335?c=1129129',
 ];
 
 function rotateAffiliates() {
   document.querySelectorAll('.xm-banner-728').forEach(el => {
-    const idx = Math.floor(Math.random() * XM_BANNERS_728.length);
-    el.innerHTML = XM_BANNERS_728[idx];
+    const src = XM_BANNERS[Math.floor(Math.random() * XM_BANNERS.length)];
+    el.innerHTML = `<a href="https://clicks.pipaffiliates.com/c?m=131492&c=1129129" target="_blank" rel="noopener sponsored"><img src="${src}" width="728" height="90" alt="XM Trading" style="max-width:100%;border-radius:8px;" loading="lazy"/></a>`;
   });
 }
 
-// ── LAZY IMAGES ──────────────────────────────────────
-function initLazyLoad() {
-  const imgs = document.querySelectorAll('img[data-src]');
-  if (!imgs.length) return;
-  const obs = new IntersectionObserver((entries, o) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const img = entry.target;
-        img.src = img.dataset.src;
-        img.removeAttribute('data-src');
-        o.unobserve(img);
-      }
-    });
-  }, { rootMargin: '200px' });
-  imgs.forEach(img => obs.observe(img));
+// ── FORMAT DATE ───────────────────────────────────────
+function formatDate(dateStr) {
+  if (!dateStr) return 'Today';
+  const d    = new Date(dateStr);
+  const now  = new Date();
+  const diff = Math.floor((now - d) / 60000);
+  if (diff < 1)    return 'Just now';
+  if (diff < 60)   return diff + 'm ago';
+  if (diff < 1440) return Math.floor(diff / 60) + 'h ago';
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
 }
 
-// ── MARKETS WIDGET ───────────────────────────────────
-async function loadMarketsWidget() {
-  const wrap = document.querySelector('.markets-widget-body');
-  if (!wrap) return;
-  try {
-    const res  = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,binancecoin,solana&vs_currencies=usd&include_24hr_change=true');
-    const data = await res.json();
-    const pairs = [
-      { name: 'Bitcoin',  sym: 'BTC', id: 'bitcoin' },
-      { name: 'Ethereum', sym: 'ETH', id: 'ethereum' },
-      { name: 'BNB',      sym: 'BNB', id: 'binancecoin' },
-      { name: 'Solana',   sym: 'SOL', id: 'solana' },
-    ];
-    wrap.innerHTML = pairs.map(p => {
-      const price  = data[p.id]?.usd || 0;
-      const change = data[p.id]?.usd_24h_change || 0;
-      const up     = change >= 0;
-      return `
-        <div class="market-row">
-          <span class="market-name">${p.sym}</span>
-          <span class="market-price">$${price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</span>
-          <span class="market-change ${up ? 'up' : 'down'}">${up ? '+' : ''}${change.toFixed(2)}%</span>
-        </div>`;
-    }).join('');
-  } catch(e) {
-    wrap.innerHTML = '<p style="color:var(--muted);font-size:13px;">Market data unavailable</p>';
-  }
-}
-
-// ── ARTICLES LOADER ──────────────────────────────────
-async function loadArticles(containerId, category = '', limit = 10) {
+// ── ARTICLES ──────────────────────────────────────────
+async function loadArticles(containerId, category, limit) {
   const container = document.getElementById(containerId);
   if (!container) return;
   try {
-    const url = category ? `/api/articles.json` : `/api/articles.json`;
-    const res  = await fetch(url);
+    const res  = await fetch('/api/articles.json?v=' + Date.now());
     const data = await res.json();
-    let articles = data.articles || [];
-    if (category) articles = articles.filter(a => a.category === category);
-    articles = articles.slice(0, limit);
-    if (!articles.length) {
-      container.innerHTML = '<p style="color:var(--muted);padding:20px;">No articles yet. Check back soon.</p>';
+    let arts   = data.articles || [];
+    if (category) arts = arts.filter(a => a.category === category);
+    arts = arts.slice(0, limit || 10);
+    if (!arts.length) {
+      container.innerHTML = '<p style="color:var(--muted);padding:20px 0;font-size:14px;">No articles yet — check back soon.</p>';
       return;
     }
-    container.innerHTML = articles.map(a => newsCardHTML(a)).join('');
+    container.innerHTML = arts.map(a => newsCardHTML(a)).join('');
   } catch(e) {
-    container.innerHTML = '<p style="color:var(--muted);padding:20px;">Loading articles...</p>';
+    container.innerHTML = '<p style="color:var(--muted);padding:20px 0;font-size:14px;">Loading articles...</p>';
   }
 }
 
 function newsCardHTML(a) {
-  const tagClass = a.category || 'markets';
-  const img = a.image || `https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=400`;
+  const cat  = a.category || 'markets';
+  const img  = a.image || fallbackImg(cat);
+  const slug = a.slug || '';
   return `
-    <a href="/article.html?slug=${a.slug}" class="news-card">
-      <img class="news-card-img" src="${img}" alt="${a.title}" loading="lazy">
+    <a href="/article.html?slug=${slug}" class="news-card">
+      <img class="news-card-img" src="${img}" alt="${escHtml(a.title)}" loading="lazy" onerror="this.src='${fallbackImg(cat)}'">
       <div class="news-card-body">
-        <span class="article-tag ${tagClass}">${a.category || 'Markets'}</span>
-        <div class="news-card-title">${a.title}</div>
+        <span class="article-tag ${cat}">${cat.charAt(0).toUpperCase()+cat.slice(1)}</span>
+        <div class="news-card-title">${escHtml(a.title)}</div>
         <div class="article-meta">
           <span>MarketWirePro Desk</span>
           <span class="dot"></span>
           <span>${formatDate(a.date)}</span>
           <span class="dot"></span>
-          <span>${a.readTime || '3'} min read</span>
+          <span>${a.readTime || 3} min read</span>
         </div>
       </div>
     </a>`;
 }
 
-function formatDate(dateStr) {
-  if (!dateStr) return 'Today';
-  const d = new Date(dateStr);
-  const now = new Date();
-  const diff = Math.floor((now - d) / 60000);
-  if (diff < 60)  return diff + 'm ago';
-  if (diff < 1440) return Math.floor(diff/60) + 'h ago';
-  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+function catCardHTML(a) {
+  const cat = a.category || 'markets';
+  const img = a.image || fallbackImg(cat);
+  return `
+    <a href="/article.html?slug=${a.slug}" class="cat-card">
+      <img class="cat-card-img" src="${img}" alt="${escHtml(a.title)}" loading="lazy" onerror="this.src='${fallbackImg(cat)}'">
+      <div>
+        <div class="cat-card-title">${escHtml(a.title)}</div>
+        <div class="article-meta" style="margin-top:6px;"><span>${formatDate(a.date)}</span></div>
+      </div>
+    </a>`;
 }
 
-// ── PIP CALCULATOR ───────────────────────────────────
-function initPipCalc() {
-  const btn = document.getElementById('calcPip');
-  if (!btn) return;
-  btn.addEventListener('click', () => {
-    const pair     = document.getElementById('pipPair')?.value || 'EURUSD';
-    const lots     = parseFloat(document.getElementById('pipLots')?.value) || 1;
-    const pipSize  = pair.includes('JPY') ? 0.01 : 0.0001;
-    const pipValue = pair.includes('JPY') ? (pipSize / 1) * lots * 100000 : pipSize * lots * 100000;
-    const result   = document.getElementById('pipResult');
-    const val      = document.getElementById('pipValue');
-    if (result && val) {
-      val.textContent = '$' + pipValue.toFixed(2) + ' per pip';
-      result.classList.add('show');
-    }
-  });
+function fallbackImg(cat) {
+  const imgs = {
+    crypto:    'https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=400',
+    forex:     'https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=400',
+    stocks:    'https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=400',
+    economics: 'https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=400',
+    markets:   'https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=400',
+  };
+  return imgs[cat] || imgs.markets;
 }
 
-// ── PROFIT CALCULATOR ────────────────────────────────
-function initProfitCalc() {
-  const btn = document.getElementById('calcProfit');
-  if (!btn) return;
-  btn.addEventListener('click', () => {
-    const entry  = parseFloat(document.getElementById('profEntry')?.value) || 0;
-    const exit   = parseFloat(document.getElementById('profExit')?.value) || 0;
-    const lots   = parseFloat(document.getElementById('profLots')?.value) || 1;
-    const type   = document.getElementById('profType')?.value || 'buy';
-    const pnl    = type === 'buy' ? (exit - entry) * lots * 100000 * 0.0001 : (entry - exit) * lots * 100000 * 0.0001;
-    const result = document.getElementById('profitResult');
-    const val    = document.getElementById('profitValue');
-    if (result && val) {
-      val.textContent = (pnl >= 0 ? '+' : '') + '$' + pnl.toFixed(2);
-      val.style.color = pnl >= 0 ? 'var(--green)' : 'var(--red)';
-      result.classList.add('show');
-    }
-  });
+function escHtml(str) {
+  return (str||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-// ── CRYPTO CONVERTER ─────────────────────────────────
-function initCryptoConvert() {
-  const btn = document.getElementById('calcConvert');
-  if (!btn) return;
-  btn.addEventListener('click', async () => {
-    const amount = parseFloat(document.getElementById('convAmount')?.value) || 1;
-    const from   = document.getElementById('convFrom')?.value || 'bitcoin';
-    const to     = document.getElementById('convTo')?.value || 'usd';
-    try {
-      const res  = await fetch(`https://api.coingecko.com/api/v3/simple/price?ids=${from}&vs_currencies=${to}`);
-      const data = await res.json();
-      const rate = data[from]?.[to] || 0;
-      const converted = amount * rate;
-      const result = document.getElementById('convertResult');
-      const val    = document.getElementById('convertValue');
-      if (result && val) {
-        val.textContent = converted.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 6 });
-        result.classList.add('show');
-      }
-    } catch(e) {}
-  });
+// ── TRENDING SIDEBAR ──────────────────────────────────
+async function loadTrending() {
+  const wrap = document.querySelector('.trending-list');
+  if (!wrap) return;
+  try {
+    const res  = await fetch('/api/articles.json?v=' + Date.now());
+    const data = await res.json();
+    const top  = (data.articles || []).slice(0, 5);
+    wrap.innerHTML = top.map((a, i) => `
+      <a href="/article.html?slug=${a.slug}" class="trending-item">
+        <span class="trending-num">0${i+1}</span>
+        <div>
+          <div class="trending-title">${escHtml(a.title)}</div>
+          <div class="trending-meta">${formatDate(a.date)} · ${(a.category||'Markets').charAt(0).toUpperCase()+(a.category||'markets').slice(1)}</div>
+        </div>
+      </a>`).join('');
+  } catch(e) {}
 }
 
-// ── ARTICLE PAGE LOADER ──────────────────────────────
+// ── ARTICLE PAGE ──────────────────────────────────────
 async function loadArticlePage() {
-  const params = new URLSearchParams(window.location.search);
-  const slug   = params.get('slug');
+  const slug = new URLSearchParams(window.location.search).get('slug');
   if (!slug) return;
   try {
-    const res  = await fetch(`/api/articles.json`);
+    const res  = await fetch('/api/articles.json?v=' + Date.now());
     const data = await res.json();
     const art  = (data.articles || []).find(a => a.slug === slug);
-    if (!art) return;
-
-    document.title = art.title + ' | MarketWirePro';
-    const metaDesc = document.querySelector('meta[name="description"]');
-    if (metaDesc) metaDesc.content = art.excerpt || art.title;
-
-    const headline = document.querySelector('.article-headline');
-    if (headline) headline.textContent = art.title;
-
-    const content = document.querySelector('.article-content');
-    if (content) content.innerHTML = art.content || art.body || '';
-
-    const featImg = document.querySelector('.article-feature-img');
-    if (featImg && art.image) { featImg.src = art.image; featImg.alt = art.title; }
-
-    const dateEl = document.querySelector('.article-date');
-    if (dateEl) dateEl.textContent = formatDate(art.date);
-
-    const tagEl = document.querySelector('.article-tag-top');
-    if (tagEl) { tagEl.textContent = art.category || 'Markets'; tagEl.className = 'article-tag ' + (art.category || 'markets'); }
-
-    const tagsWrap = document.querySelector('.article-tags');
-    if (tagsWrap && art.tags) {
-      tagsWrap.innerHTML = art.tags.map(t => `<span class="tag-pill">${t}</span>`).join('');
+    if (!art) {
+      document.getElementById('articleHeadline').textContent = 'Article not found';
+      return;
     }
 
-    calcReadTime();
+    // Page title & meta
+    document.title = art.title + ' | MarketWirePro';
+    document.getElementById('metaDesc')?.setAttribute('content', art.excerpt || art.title);
+    document.getElementById('ogTitle')?.setAttribute('content', art.title);
+    document.getElementById('ogDesc')?.setAttribute('content', art.excerpt || '');
+    document.getElementById('ogImage')?.setAttribute('content', art.image || '');
 
-    // Load related
+    // Content
+    document.getElementById('articleHeadline').textContent = art.title;
+    document.getElementById('articleDate').textContent     = formatDate(art.date);
+    document.getElementById('articleContent').innerHTML    = art.content || '<p>Content unavailable.</p>';
+
+    // Category tag
+    const tagEl = document.getElementById('articleTag');
+    if (tagEl) { tagEl.textContent = (art.category||'Markets').charAt(0).toUpperCase()+(art.category||'markets').slice(1); tagEl.className = 'article-tag ' + (art.category||'markets'); }
+
+    // Breadcrumb
+    const catEl = document.getElementById('breadCat');
+    if (catEl) { catEl.textContent = art.category||'Markets'; catEl.href = '/'+(art.category||'markets')+'/'; }
+    const breadTitle = document.getElementById('breadTitle');
+    if (breadTitle) breadTitle.textContent = art.title.substring(0,45)+'...';
+
+    // Feature image
+    const featImg = document.getElementById('articleFeatImg');
+    if (featImg) { featImg.src = art.image || fallbackImg(art.category); featImg.alt = art.title; }
+
+    // Tags
+    if (art.tags?.length) {
+      const tagsWrap = document.getElementById('articleTags');
+      if (tagsWrap) tagsWrap.innerHTML = art.tags.map(t => `<span class="tag-pill">${escHtml(t)}</span>`).join('');
+    }
+
+    // Read time
+    const words = (art.content||'').replace(/<[^>]*>/g,'').split(/\s+/).length;
+    const rtEl  = document.querySelector('.read-time');
+    if (rtEl) rtEl.textContent = Math.max(2, Math.ceil(words/200)) + ' min read';
+
+    // Schema
+    const schema = document.getElementById('articleSchema');
+    if (schema) schema.textContent = JSON.stringify({
+      "@context":"https://schema.org","@type":"NewsArticle",
+      "headline": art.title, "description": art.excerpt||'',
+      "image": art.image||'', "datePublished": art.date||'',
+      "dateModified": art.date||'',
+      "author":{"@type":"Organization","name":"MarketWirePro Desk"},
+      "publisher":{"@type":"Organization","name":"MarketWirePro","logo":{"@type":"ImageObject","url":"https://marketwirepro.com/images/logo.png"}},
+      "mainEntityOfPage":{"@type":"WebPage","@id":window.location.href}
+    });
+
+    // Share links
+    const url   = encodeURIComponent(window.location.href);
+    const title = encodeURIComponent(art.title);
+    document.querySelectorAll('.share-tw').forEach(b => b.href = `https://twitter.com/intent/tweet?url=${url}&text=${title}`);
+    document.querySelectorAll('.share-fb').forEach(b => b.href = `https://www.facebook.com/sharer/sharer.php?u=${url}`);
+    document.querySelectorAll('.share-wa').forEach(b => b.href = `https://wa.me/?text=${title}%20${url}`);
+
+    // Related
     loadRelated(art.category, art.slug);
-  } catch(e) {}
+
+  } catch(e) { console.error('Article load error:', e); }
 }
 
 async function loadRelated(category, currentSlug) {
   const wrap = document.getElementById('relatedArticles');
   if (!wrap) return;
   try {
-    const res  = await fetch(`/api/articles.json`);
+    const res  = await fetch('/api/articles.json?v=' + Date.now());
     const data = await res.json();
-    const related = (data.articles || [])
-      .filter(a => a.category === category && a.slug !== currentSlug)
-      .slice(0, 3);
-    wrap.innerHTML = related.map(a => newsCardHTML(a)).join('');
+    const rel  = (data.articles||[]).filter(a => a.category === category && a.slug !== currentSlug).slice(0,3);
+    wrap.innerHTML = rel.length ? rel.map(a => newsCardHTML(a)).join('') : '<p style="color:var(--muted);font-size:13px;">More articles coming soon.</p>';
   } catch(e) {}
 }
 
-// ── SHARE BUTTONS ────────────────────────────────────
-function initShare() {
-  const url   = encodeURIComponent(window.location.href);
-  const title = encodeURIComponent(document.title);
-  document.querySelectorAll('.share-tw').forEach(btn => {
-    btn.href = `https://twitter.com/intent/tweet?url=${url}&text=${title}`;
-  });
-  document.querySelectorAll('.share-fb').forEach(btn => {
-    btn.href = `https://www.facebook.com/sharer/sharer.php?u=${url}`;
-  });
-  document.querySelectorAll('.share-wa').forEach(btn => {
-    btn.href = `https://wa.me/?text=${title}%20${url}`;
+// ── CATEGORY PAGE ─────────────────────────────────────
+async function loadCategoryPage() {
+  const catEl = document.querySelector('[data-category]');
+  if (!catEl) return;
+  const cat  = catEl.dataset.category;
+  const list = document.getElementById('articleList');
+  if (!list) return;
+  try {
+    const res  = await fetch('/api/articles.json?v=' + Date.now());
+    const data = await res.json();
+    const arts = (data.articles||[]).filter(a => a.category === cat).slice(0, 20);
+    list.innerHTML = arts.length ? arts.map(a => newsCardHTML(a)).join('') : '<p style="color:var(--muted);padding:20px 0;">No articles yet in this category. Check back soon.</p>';
+  } catch(e) {}
+}
+
+// ── HOMEPAGE ──────────────────────────────────────────
+async function loadHomepage() {
+  if (!document.querySelector('.hero-section')) return;
+  try {
+    const res  = await fetch('/api/articles.json?v=' + Date.now());
+    const data = await res.json();
+    const arts = data.articles || [];
+
+    // Hero grid
+    const heroGrid = document.getElementById('heroGrid');
+    if (heroGrid && arts.length >= 1) {
+      const [a1, a2, a3] = arts;
+      heroGrid.innerHTML = `
+        <a href="/article.html?slug=${a1.slug}" class="hero-featured">
+          <img class="article-img" src="${a1.image||fallbackImg(a1.category)}" alt="${escHtml(a1.title)}" loading="eager" onerror="this.src='${fallbackImg(a1.category)}'">
+          <div class="article-body">
+            <span class="article-tag ${a1.category||'markets'}">${(a1.category||'Markets').charAt(0).toUpperCase()+(a1.category||'markets').slice(1)}</span>
+            <div class="article-title">${escHtml(a1.title)}</div>
+            <p class="article-excerpt">${escHtml(a1.excerpt||'')}</p>
+            <div class="article-meta"><span>MarketWirePro Desk</span><span class="dot"></span><span>${formatDate(a1.date)}</span></div>
+          </div>
+        </a>
+        ${a2?`<a href="/article.html?slug=${a2.slug}" class="hero-small">
+          <img class="article-img" src="${a2.image||fallbackImg(a2.category)}" alt="${escHtml(a2.title)}" loading="lazy" onerror="this.src='${fallbackImg(a2.category)}'">
+          <div class="article-body">
+            <span class="article-tag ${a2.category||'markets'}">${(a2.category||'Markets').charAt(0).toUpperCase()+(a2.category||'markets').slice(1)}</span>
+            <div class="article-title">${escHtml(a2.title)}</div>
+            <div class="article-meta"><span>${formatDate(a2.date)}</span></div>
+          </div>
+        </a>`:''}
+        ${a3?`<a href="/article.html?slug=${a3.slug}" class="hero-small">
+          <img class="article-img" src="${a3.image||fallbackImg(a3.category)}" alt="${escHtml(a3.title)}" loading="lazy" onerror="this.src='${fallbackImg(a3.category)}'">
+          <div class="article-body">
+            <span class="article-tag ${a3.category||'markets'}">${(a3.category||'Markets').charAt(0).toUpperCase()+(a3.category||'markets').slice(1)}</span>
+            <div class="article-title">${escHtml(a3.title)}</div>
+            <div class="article-meta"><span>${formatDate(a3.date)}</span></div>
+          </div>
+        </a>`:''}`;
+    }
+
+    // Latest news list
+    const latest = document.getElementById('latestArticles');
+    if (latest) latest.innerHTML = arts.slice(0,8).map(a => newsCardHTML(a)).join('');
+
+    // Category grids
+    const cryptoEl = document.getElementById('cryptoArticles');
+    if (cryptoEl) {
+      const cryptoArts = arts.filter(a => a.category==='crypto').slice(0,4);
+      cryptoEl.innerHTML = cryptoArts.map(a => catCardHTML(a)).join('');
+    }
+    const forexEl = document.getElementById('forexArticles');
+    if (forexEl) {
+      const forexArts = arts.filter(a => a.category==='forex').slice(0,4);
+      forexEl.innerHTML = forexArts.map(a => catCardHTML(a)).join('');
+    }
+    const stocksEl = document.getElementById('stocksArticles');
+    if (stocksEl) {
+      const stocksArts = arts.filter(a => a.category==='stocks').slice(0,4);
+      stocksEl.innerHTML = stocksArts.map(a => newsCardHTML(a)).join('');
+    }
+
+  } catch(e) { console.error('Homepage load error:', e); }
+}
+
+// ── PIP CALCULATOR ────────────────────────────────────
+function initPipCalc() {
+  const btn = document.getElementById('calcPip');
+  if (!btn) return;
+  btn.addEventListener('click', () => {
+    const pair    = document.getElementById('pipPair')?.value || 'EURUSD';
+    const lotSize = parseFloat(document.getElementById('pipLotType')?.value) || 1;
+    const isJPY   = pair.includes('JPY');
+    const isGold  = pair === 'XAUUSD';
+    let pipVal;
+    if (isJPY)  pipVal = 0.01   * 100000 * lotSize / 100;
+    else if (isGold) pipVal = 0.01 * 100 * lotSize;
+    else        pipVal = 0.0001 * 100000 * lotSize;
+    const res = document.getElementById('pipResult');
+    const val = document.getElementById('pipValue');
+    if (res && val) {
+      val.textContent = '$' + pipVal.toFixed(2) + ' per pip';
+      document.getElementById('pip10')?.setAttribute('style','');
+      document.getElementById('pip10') && (document.getElementById('pip10').textContent = '$'+(pipVal*10).toFixed(2));
+      document.getElementById('pip50') && (document.getElementById('pip50').textContent = '$'+(pipVal*50).toFixed(2));
+      document.getElementById('pip100') && (document.getElementById('pip100').textContent = '$'+(pipVal*100).toFixed(2));
+      res.classList.add('show');
+    }
   });
 }
 
-// ── INIT ─────────────────────────────────────────────
+// ── INIT ──────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
   buildTicker();
-  fetchPrices();
-  setInterval(fetchPrices, 60000);
+  loadMarketsWidget();
+  fetchCryptoPrices();
+  fetchForexPrices();
+  setInterval(() => { fetchCryptoPrices(); fetchForexPrices(); }, 60000);
+
   initSearch();
   initMobileNav();
   initBackTop();
-  initLazyLoad();
-  loadMarketsWidget();
   rotateAffiliates();
   initPipCalc();
-  initProfitCalc();
-  initCryptoConvert();
-  initShare();
 
-  // Article page
   if (document.querySelector('.article-page')) loadArticlePage();
+  else if (document.querySelector('[data-category]')) loadCategoryPage();
+  else if (document.querySelector('.hero-section')) loadHomepage();
 
-  // Category pages
-  const catEl = document.querySelector('[data-category]');
-  if (catEl) loadArticles('articleList', catEl.dataset.category, 20);
-
-  // Homepage
-  if (document.querySelector('.hero-section')) {
-    loadArticles('latestArticles', '', 8);
-    loadArticles('cryptoArticles', 'crypto', 4);
-    loadArticles('forexArticles',  'forex',  4);
-    loadArticles('stocksArticles', 'stocks', 4);
-  }
-
-  // Trending sidebar
   loadTrending();
 });
-
-async function loadTrending() {
-  const wrap = document.querySelector('.trending-list');
-  if (!wrap) return;
-  try {
-    const res  = await fetch('/api/articles.json');
-    const data = await res.json();
-    const top5 = (data.articles || []).slice(0, 5);
-    wrap.innerHTML = top5.map((a, i) => `
-      <a href="/article.html?slug=${a.slug}" class="trending-item">
-        <span class="trending-num">0${i+1}</span>
-        <div>
-          <div class="trending-title">${a.title}</div>
-          <div class="trending-meta">${formatDate(a.date)} · ${a.category || 'Markets'}</div>
-        </div>
-      </a>`).join('');
-  } catch(e) {}
-}
