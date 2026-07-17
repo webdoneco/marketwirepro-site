@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "c97e30da3d6f",
+      "slug": "bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure-c97e30da3d6f",
+      "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
+      "excerpt": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
+      "content": "<p>Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:21.259504+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "59680dfc1642",
+      "slug": "the-british-virgin-islands-are-a-top-crypto-hub-no-one-ever-talks-about-heres-wh-59680dfc1642",
+      "title": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
+      "excerpt": "The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why",
+      "content": "<p>The British Virgin Islands are a top crypto hub no one ever talks about: Here’s why</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:22.792289+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8427dc42474b",
+      "slug": "inside-robinhoods-high-stakes-bet-to-onboard-10-million-casual-users-onto-decent-8427dc42474b",
+      "title": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
+      "excerpt": "Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance",
+      "content": "<p>Inside Robinhood’s high-stakes bet to onboard 10 million casual users onto decentralized finance</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:24.597919+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7cfd3c9d33da",
+      "slug": "us-june-import-prices-03-vs--07-expected-7cfd3c9d33da",
+      "title": "US June import prices +0.3% vs -0.7% expected",
+      "excerpt": "US June import prices +0.3% vs -0.7% expected",
+      "content": "<p>US June import prices +0.3% vs -0.7% expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:26.474674+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3da262eae15b",
+      "slug": "swiss-franc-holds-gains-against-us-dollar-as-middle-east-tensions-outweigh-upbea-3da262eae15b",
+      "title": "Swiss Franc holds gains against US Dollar as Middle East tensions outweigh upbeat US data",
+      "excerpt": "Swiss Franc holds gains against US Dollar as Middle East tensions outweigh upbeat US data",
+      "content": "<p>Swiss Franc holds gains against US Dollar as Middle East tensions outweigh upbeat US data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:28.076355+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1a703541e7bb",
+      "slug": "brent-oil-risks-rise-on-bab-al-mandab-threat-commerzbank-1a703541e7bb",
+      "title": "Brent: Oil risks rise on Bab al-Mandab threat – Commerzbank",
+      "excerpt": "Brent: Oil risks rise on Bab al-Mandab threat – Commerzbank",
+      "content": "<p>Brent: Oil risks rise on Bab al-Mandab threat – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:29.607440+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6d6f2da3da79",
+      "slug": "global-fx-divergent-central-bank-paths-and-oil-wells-fargo-6d6f2da3da79",
+      "title": "Global FX: Divergent central bank paths and Oil – Wells Fargo",
+      "excerpt": "Global FX: Divergent central bank paths and Oil – Wells Fargo",
+      "content": "<p>Global FX: Divergent central bank paths and Oil – Wells Fargo</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:31.136137+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fda2774a7ef4",
+      "slug": "feds-hammack-persistently-high-inflation-is-the-bigger-concern-fda2774a7ef4",
+      "title": "Fed’s Hammack: Persistently high inflation is the bigger concern",
+      "excerpt": "Fed’s Hammack: Persistently high inflation is the bigger concern",
+      "content": "<p>Fed’s Hammack: Persistently high inflation is the bigger concern</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:32.667154+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7f14e56674a7",
+      "slug": "euro-modest-pullback-before-ecb-decision-against-us-dollar-scotiabank-7f14e56674a7",
+      "title": "Euro: Modest pullback before ECB decision against US Dollar – Scotiabank",
+      "excerpt": "Euro: Modest pullback before ECB decision against US Dollar – Scotiabank",
+      "content": "<p>Euro: Modest pullback before ECB decision against US Dollar – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:34.196632+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5631972f2dd9",
+      "slug": "gold-trades-below-4000-as-stronger-us-dollar-hawkish-fed-outlook-weigh-5631972f2dd9",
+      "title": "Gold trades below $4,000 as stronger US Dollar, hawkish Fed outlook weigh",
+      "excerpt": "Gold trades below $4,000 as stronger US Dollar, hawkish Fed outlook weigh",
+      "content": "<p>Gold trades below $4,000 as stronger US Dollar, hawkish Fed outlook weigh</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T15:52:35.743919+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b7b92d2db3ac",
       "slug": "hsbc-wins-bank-of-england-approval-to-enter-digital-securities-sandbox-b7b92d2db3ac",
       "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
@@ -719,189 +899,9 @@
       "date": "2026-07-17T09:25:37.109312+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:34.116647+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "95efae733c33",
-      "slug": "ordinals-advocate-leonidas-proposes-new-bitcoin-client-dog-mode-95efae733c33",
-      "title": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
-      "excerpt": "Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’",
-      "content": "<p>Ordinals advocate Leonidas proposes new Bitcoin client: ‘$DOG Mode’</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:35.647213+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9eb3aff823e3",
-      "slug": "bitcoins-anti-spam-fight-gets-a-dog-mode-reply-9eb3aff823e3",
-      "title": "Bitcoin’s anti-spam fight gets a 'DOG Mode' reply",
-      "excerpt": "Bitcoin’s anti-spam fight gets a 'DOG Mode' reply",
-      "content": "<p>Bitcoin’s anti-spam fight gets a 'DOG Mode' reply</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:37.555484+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a15869f96a7e",
-      "slug": "bitcoin-under-63000-after-new-us-strike-on-iran-trumps-china-comment-adds-to-unc-a15869f96a7e",
-      "title": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
-      "excerpt": "Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty",
-      "content": "<p>Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:39.085329+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e4c6da1b959d",
-      "slug": "morgan-stanley-launches-bitcoin-ethereum-and-solana-trading-on-etrade-e4c6da1b959d",
-      "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-      "excerpt": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-      "content": "<p>Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:40.671208+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "68c116c0f9b3",
-      "slug": "what-are-the-main-events-for-today-68c116c0f9b3",
-      "title": "What are the main events for today?",
-      "excerpt": "What are the main events for today?",
-      "content": "<p>What are the main events for today?</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:42.429377+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7ff705124dd6",
-      "slug": "japan-finance-minister-katayama-reaffirms-that-monetary-policy-setting-is-up-to--7ff705124dd6",
-      "title": "Japan finance minister Katayama reaffirms that monetary policy setting is up to the BOJ to decide",
-      "excerpt": "Japan finance minister Katayama reaffirms that monetary policy setting is up to the BOJ to decide",
-      "content": "<p>Japan finance minister Katayama reaffirms that monetary policy setting is up to the BOJ to decide</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:43.962329+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3f2b73fa865c",
-      "slug": "british-pound-pullback-pauses-within-near-term-range-against-us-dollar-uob-3f2b73fa865c",
-      "title": "British Pound: Pullback pauses within near-term range against US Dollar – UOB",
-      "excerpt": "British Pound: Pullback pauses within near-term range against US Dollar – UOB",
-      "content": "<p>British Pound: Pullback pauses within near-term range against US Dollar – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:45.570783+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bcff35f71cd3",
-      "slug": "new-zealand-dollar-declines-below-05850-as-us-launches-wave-of-strikes-against-i-bcff35f71cd3",
-      "title": "New Zealand Dollar declines below 0.5850 as US launches wave of strikes against Iran",
-      "excerpt": "New Zealand Dollar declines below 0.5850 as US launches wave of strikes against Iran",
-      "content": "<p>New Zealand Dollar declines below 0.5850 as US launches wave of strikes against Iran</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:47.105871+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e24ae38c393c",
-      "slug": "audusd-price-forecast-more-upside-likely-amid-stabilization-above-20-day-ema-e24ae38c393c",
-      "title": "AUD/USD Price Forecast: More upside likely amid stabilization above 20-day EMA",
-      "excerpt": "AUD/USD Price Forecast: More upside likely amid stabilization above 20-day EMA",
-      "content": "<p>AUD/USD Price Forecast: More upside likely amid stabilization above 20-day EMA</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T07:09:48.636740+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-17T14:24:34.910616+00:00",
+  "lastUpdated": "2026-07-17T15:52:37.244069+00:00",
   "totalCount": 50,
   "newCount": 10
 }
