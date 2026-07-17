@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:19.908470+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b1755b9e105f",
+      "slug": "cardano-hands-core-development-to-outside-teams-in-decentralization-push-b1755b9e105f",
+      "title": "Cardano hands core development to outside teams in decentralization push",
+      "excerpt": "Cardano hands core development to outside teams in decentralization push",
+      "content": "<p>Cardano hands core development to outside teams in decentralization push</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:21.802279+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cae0d0565424",
+      "slug": "live-markets-bitcoin-returns-to-63000-as-nasdaq-trims-large-early-loss-cae0d0565424",
+      "title": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
+      "excerpt": "Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss",
+      "content": "<p>Live markets: Bitcoin returns to $63,000 as Nasdaq trims large early loss</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:23.341160+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e4c6da1b959d",
+      "slug": "morgan-stanley-launches-bitcoin-ethereum-and-solana-trading-on-etrade-e4c6da1b959d",
+      "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "excerpt": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+      "content": "<p>Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:24.977503+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eadc3ed03f25",
+      "slug": "us-sending-more-planes-to-israel-ahead-of-possible-escalation---report-eadc3ed03f25",
+      "title": "US sending more planes to Israel ahead of possible escalation - report",
+      "excerpt": "US sending more planes to Israel ahead of possible escalation - report",
+      "content": "<p>US sending more planes to Israel ahead of possible escalation - report</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:26.848444+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d24a8c2213a8",
+      "slug": "british-pound-slips-as-oil-spike-revives-inflation-fears-d24a8c2213a8",
+      "title": "British Pound slips as Oil spike revives inflation fears",
+      "excerpt": "British Pound slips as Oil spike revives inflation fears",
+      "content": "<p>British Pound slips as Oil spike revives inflation fears</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:28.472614+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3b3b6383b5c1",
+      "slug": "wti-oil-rallies-above-81-as-middle-east-tensions-threaten-global-oil-supplies-3b3b6383b5c1",
+      "title": "WTI Oil rallies above $81 as Middle East tensions threaten global Oil supplies",
+      "excerpt": "WTI Oil rallies above $81 as Middle East tensions threaten global Oil supplies",
+      "content": "<p>WTI Oil rallies above $81 as Middle East tensions threaten global Oil supplies</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:30.012785+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5e7000a20175",
+      "slug": "australian-dollar-recovers-as-mixed-us-data-weakens-the-us-dollar-5e7000a20175",
+      "title": "Australian Dollar recovers as mixed US data weakens the US Dollar",
+      "excerpt": "Australian Dollar recovers as mixed US data weakens the US Dollar",
+      "content": "<p>Australian Dollar recovers as mixed US data weakens the US Dollar</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:31.556671+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "941836c698a5",
+      "slug": "british-pound-burnham-policy-hopes-underpin-sterling-against-us-dollar-scotiaban-941836c698a5",
+      "title": "British Pound: Burnham policy hopes underpin Sterling against US Dollar – Scotiabank",
+      "excerpt": "British Pound: Burnham policy hopes underpin Sterling against US Dollar – Scotiabank",
+      "content": "<p>British Pound: Burnham policy hopes underpin Sterling against US Dollar – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:33.096645+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a11a94afa3c9",
+      "slug": "japanese-yen-struggles-as-higher-oil-prices-and-a-wide-us-japan-rate-gap-weigh-a11a94afa3c9",
+      "title": "Japanese Yen struggles as higher Oil prices and a wide US-Japan rate gap weigh",
+      "excerpt": "Japanese Yen struggles as higher Oil prices and a wide US-Japan rate gap weigh",
+      "content": "<p>Japanese Yen struggles as higher Oil prices and a wide US-Japan rate gap weigh</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-17T16:58:34.643580+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "c97e30da3d6f",
       "slug": "bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure-c97e30da3d6f",
       "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
@@ -719,189 +899,9 @@
       "date": "2026-07-17T11:02:19.307813+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "aa1589678050",
-      "slug": "macos-malware-hijacks-telegram-sessions-targets-crypto-wallets-slowmist-aa1589678050",
-      "title": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
-      "excerpt": "MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist",
-      "content": "<p>MacOS malware hijacks Telegram sessions, targets crypto wallets: SlowMist</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:22.822921+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b3a513a26788",
-      "slug": "bitcoin-etfs-add-368m-in-three-day-buying-streak-b3a513a26788",
-      "title": "Bitcoin ETFs add $368M in three-day buying streak",
-      "excerpt": "Bitcoin ETFs add $368M in three-day buying streak",
-      "content": "<p>Bitcoin ETFs add $368M in three-day buying streak</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:24.354026+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "14c3abce3a9e",
-      "slug": "airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-on-tokenization-14c3abce3a9e",
-      "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
-      "excerpt": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
-      "content": "<p>Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:26.043055+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ae7cd1d6e7c2",
-      "slug": "ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds-ae7cd1d6e7c2",
-      "title": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
-      "excerpt": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
-      "content": "<p>Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:27.573299+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ee7bd32ad4ec",
-      "slug": "this-28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos-ee7bd32ad4ec",
-      "title": "This $28 million ether market bet aims to profit from pure market chaos",
-      "excerpt": "This $28 million ether market bet aims to profit from pure market chaos",
-      "content": "<p>This $28 million ether market bet aims to profit from pure market chaos</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:29.107534+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "43b5f66b8b02",
-      "slug": "bitcoin-ordinals-leader-proposes-a-way-to-bypass-data-restriction-efforts-43b5f66b8b02",
-      "title": "Bitcoin Ordinals leader proposes a way to bypass data restriction efforts",
-      "excerpt": "Bitcoin Ordinals leader proposes a way to bypass data restriction efforts",
-      "content": "<p>Bitcoin Ordinals leader proposes a way to bypass data restriction efforts</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:30.642203+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d9294f59bbab",
-      "slug": "leaks-reveal-suno-fed-thousands-of-hours-of-deezer-youtube-and-pond5-data-into-i-d9294f59bbab",
-      "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
-      "excerpt": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
-      "content": "<p>Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:32.239680+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e9b87db34e71",
-      "slug": "euro-area-inflation-confirmed-to-have-eased-slightly-in-june-e9b87db34e71",
-      "title": "Euro area inflation confirmed to have eased slightly in June",
-      "excerpt": "Euro area inflation confirmed to have eased slightly in June",
-      "content": "<p>Euro area inflation confirmed to have eased slightly in June</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:33.984123+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c403d0943971",
-      "slug": "us-dollar-smile-narrative-supports-gradual-gains-ocbc-c403d0943971",
-      "title": "US Dollar: Smile narrative supports gradual gains – OCBC",
-      "excerpt": "US Dollar: Smile narrative supports gradual gains – OCBC",
-      "content": "<p>US Dollar: Smile narrative supports gradual gains – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:35.579004+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c149555404d8",
-      "slug": "indian-rupee-holds-early-ground-elevated-oil-prices-keep-upside-limited-c149555404d8",
-      "title": "Indian Rupee holds early ground, elevated oil prices keep upside limited",
-      "excerpt": "Indian Rupee holds early ground, elevated oil prices keep upside limited",
-      "content": "<p>Indian Rupee holds early ground, elevated oil prices keep upside limited</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T09:25:37.109312+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-17T15:52:37.244069+00:00",
+  "lastUpdated": "2026-07-17T16:58:36.143736+00:00",
   "totalCount": 50,
   "newCount": 10
 }
