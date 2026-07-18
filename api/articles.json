@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "1088a5191426",
+      "slug": "iran-targeted-a-ship-trying-to-pass-through-hormuz---tasnim-1088a5191426",
+      "title": "Iran targeted a ship trying to pass through Hormuz - Tasnim",
+      "excerpt": "Iran targeted a ship trying to pass through Hormuz - Tasnim",
+      "content": "<p>Iran targeted a ship trying to pass through Hormuz - Tasnim</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T06:26:22.379296+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "c120d4c1c875",
       "slug": "baker-hughes-oil-rig-count-up-7-to-452-c120d4c1c875",
       "title": "Baker Hughes oil rig count up 7 to 452",
@@ -881,27 +899,9 @@
       "date": "2026-07-17T18:04:32.928001+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3cf19e952856",
-      "slug": "galaxy-puts-its-name-on-texas-techs-stadium-in-a-15-year-crypto-native-deal-3cf19e952856",
-      "title": "Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal",
-      "excerpt": "Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal",
-      "content": "<p>Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T18:04:34.477993+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-18T04:19:25.099478+00:00",
+  "lastUpdated": "2026-07-18T06:26:24.361787+00:00",
   "totalCount": 50,
   "newCount": 1
 }
