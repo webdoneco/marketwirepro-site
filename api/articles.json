@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "05f69b42d423",
+      "slug": "chinas-kimi-k3-is-outand-beats-claude-fable-and-gpt-56-sol-on-key-benchmarks-05f69b42d423",
+      "title": "China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
+      "excerpt": "China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
+      "content": "<p>China’s Kimi K3 Is Out—And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T09:51:57.585651+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "3cf19e952856",
       "slug": "galaxy-puts-its-name-on-texas-techs-stadium-in-a-15-year-crypto-native-deal-3cf19e952856",
       "title": "Galaxy Puts Its Name on Texas Tech's Stadium in a 15-Year, Crypto-Native Deal",
@@ -881,27 +899,9 @@
       "date": "2026-07-17T18:04:29.711200+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "74e5561e24b9",
-      "slug": "kimi-k3-just-triggered-deepseek-flashbacks-for-the-stock-market-74e5561e24b9",
-      "title": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
-      "excerpt": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
-      "content": "<p>Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T18:04:31.380899+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-18T08:15:52.837338+00:00",
+  "lastUpdated": "2026-07-18T09:51:59.595695+00:00",
   "totalCount": 50,
   "newCount": 1
 }
