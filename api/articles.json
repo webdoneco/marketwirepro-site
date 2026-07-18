@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T12:48:31.031279+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1c865dd227e7",
+      "slug": "kaspersky-identifies-malware-framework-targeting-crypto-investors-1c865dd227e7",
+      "title": "Kaspersky identifies malware framework targeting crypto investors",
+      "excerpt": "Kaspersky identifies malware framework targeting crypto investors",
+      "content": "<p>Kaspersky identifies malware framework targeting crypto investors</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T12:48:32.572176+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b79eaf48f835",
+      "slug": "your-social-security-check-could-go-up-by-74-a-month-next-year-b79eaf48f835",
+      "title": "Your Social Security check could go up by $74 a month next year",
+      "excerpt": "Your Social Security check could go up by $74 a month next year",
+      "content": "<p>Your Social Security check could go up by $74 a month next year</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T12:48:35.667788+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "10536ec4b53b",
+      "slug": "how-a-homegrown-chinese-chip-maker-became-the-memory-industrys-biggest-wild-card-10536ec4b53b",
+      "title": "How a homegrown Chinese chip maker became the memory industry’s biggest wild card",
+      "excerpt": "How a homegrown Chinese chip maker became the memory industry’s biggest wild card",
+      "content": "<p>How a homegrown Chinese chip maker became the memory industry’s biggest wild card</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T12:48:37.210198+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c1840bdfd9bd",
+      "slug": "forget-gasoline-why-the-price-surge-in-this-under-the-radar-fuel-is-the-real-thr-c1840bdfd9bd",
+      "title": "Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy",
+      "excerpt": "Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy",
+      "content": "<p>Forget gasoline: Why the price surge in this under-the-radar fuel is the real threat to the U.S. economy</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T12:48:38.750722+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "53a680a90aec",
+      "slug": "this-may-be-the-real-reason-usda-made-a-huge-revision-to-its-beef-export-sales-d-53a680a90aec",
+      "title": "This may be the real reason USDA made a huge revision to its beef-export sales data",
+      "excerpt": "This may be the real reason USDA made a huge revision to its beef-export sales data",
+      "content": "<p>This may be the real reason USDA made a huge revision to its beef-export sales data</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T12:48:40.291308+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "ac1fec2a6a89",
       "slug": "polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-dr-ac1fec2a6a89",
       "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
@@ -791,117 +899,9 @@
       "date": "2026-07-17T19:38:07.594017+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b8ee09edee9d",
-      "slug": "gold-climbs-as-iran-war-premium-revives-fed-hike-risk-b8ee09edee9d",
-      "title": "Gold climbs as Iran war premium revives Fed hike risk",
-      "excerpt": "Gold climbs as Iran war premium revives Fed hike risk",
-      "content": "<p>Gold climbs as Iran war premium revives Fed hike risk</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T19:38:09.126826+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b952a613b5c8",
-      "slug": "dow-jones-industrial-average-fades-its-own-good-news-as-the-hawks-take-the-last--b952a613b5c8",
-      "title": "Dow Jones Industrial Average fades its own good news as the hawks take the last word",
-      "excerpt": "Dow Jones Industrial Average fades its own good news as the hawks take the last word",
-      "content": "<p>Dow Jones Industrial Average fades its own good news as the hawks take the last word</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T19:38:10.659740+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e3fadecf0f34",
-      "slug": "usdchf-price-forecast-bulls-pause-below-08150-as-momentum-fades-e3fadecf0f34",
-      "title": "USD/CHF Price Forecast: Bulls pause below 0.8150 as momentum fades",
-      "excerpt": "USD/CHF Price Forecast: Bulls pause below 0.8150 as momentum fades",
-      "content": "<p>USD/CHF Price Forecast: Bulls pause below 0.8150 as momentum fades</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T19:38:12.196607+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1e9540054582",
-      "slug": "euro-steadies-as-markets-weigh-ecb-and-fed-interest-rate-expectations-1e9540054582",
-      "title": "Euro steadies as markets weigh ECB and Fed interest rate expectations",
-      "excerpt": "Euro steadies as markets weigh ECB and Fed interest rate expectations",
-      "content": "<p>Euro steadies as markets weigh ECB and Fed interest rate expectations</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T19:38:13.728328+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1e5862e17a3f",
-      "slug": "they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhoo-1e5862e17a3f",
-      "title": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "excerpt": "‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-      "content": "<p>‘They are relentless’: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T19:38:15.513340+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ad377f423c6a",
-      "slug": "my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2000-insurance-settleme-ad377f423c6a",
-      "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-      "excerpt": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
-      "content": "<p>My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T19:38:17.046117+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-18T11:43:48.665762+00:00",
+  "lastUpdated": "2026-07-18T12:48:42.032310+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 6
 }
