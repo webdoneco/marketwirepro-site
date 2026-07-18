@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "c120d4c1c875",
+      "slug": "baker-hughes-oil-rig-count-up-7-to-452-c120d4c1c875",
+      "title": "Baker Hughes oil rig count up 7 to 452",
+      "excerpt": "Baker Hughes oil rig count up 7 to 452",
+      "content": "<p>Baker Hughes oil rig count up 7 to 452</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T04:19:23.249593+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b1755b9e105f",
       "slug": "cardano-hands-core-development-to-outside-teams-in-decentralization-push-b1755b9e105f",
       "title": "Cardano hands core development to outside teams in decentralization push",
@@ -881,27 +899,9 @@
       "date": "2026-07-17T18:04:34.477993+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1088a5191426",
-      "slug": "iran-targeted-a-ship-trying-to-pass-through-hormuz---tasnim-1088a5191426",
-      "title": "Iran targeted a ship trying to pass through Hormuz - Tasnim",
-      "excerpt": "Iran targeted a ship trying to pass through Hormuz - Tasnim",
-      "content": "<p>Iran targeted a ship trying to pass through Hormuz - Tasnim</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T18:04:36.189183+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-18T01:22:47.121984+00:00",
+  "lastUpdated": "2026-07-18T04:19:25.099478+00:00",
   "totalCount": 50,
   "newCount": 1
 }
