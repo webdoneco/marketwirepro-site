@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "ac1fec2a6a89",
+      "slug": "polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-dr-ac1fec2a6a89",
+      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "excerpt": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
+      "content": "<p>Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T11:43:43.369070+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "82fbe9424508",
+      "slug": "stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastr-82fbe9424508",
+      "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
+      "excerpt": "Stripe and Swift race to control the next generation of global payments infrastructure",
+      "content": "<p>Stripe and Swift race to control the next generation of global payments infrastructure</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T11:43:44.902976+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3caa258ac160",
+      "slug": "will-the-fed-hike-interest-rates-this-month-3caa258ac160",
+      "title": "Will the Fed hike interest rates this month?",
+      "excerpt": "Will the Fed hike interest rates this month?",
+      "content": "<p>Will the Fed hike interest rates this month?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-18T11:43:47.090192+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "60f2746b0302",
       "slug": "french-gambling-regulator-orders-isps-to-block-polymarket-60f2746b0302",
       "title": "French gambling regulator orders ISPs to block Polymarket",
@@ -845,63 +899,9 @@
       "date": "2026-07-17T19:38:17.046117+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5f6601112f10",
-      "slug": "how-to-find-the-best-mortgage-rate-it-could-save-you-3300-a-year-5f6601112f10",
-      "title": "How to find the best mortgage rate — it could save you $3,300 a year",
-      "excerpt": "How to find the best mortgage rate — it could save you $3,300 a year",
-      "content": "<p>How to find the best mortgage rate — it could save you $3,300 a year</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T19:38:18.579790+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "46c71abb2073",
-      "slug": "okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc-46c71abb2073",
-      "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-      "excerpt": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-      "content": "<p>OKX Europe lets users convert USDT to MiCA-compliant USDC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T18:04:24.661431+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8a56c4d3e0e6",
-      "slug": "senator-warren-requests-2026-reporting-for-trumps-crypto-earnings-after-14b-disc-8a56c4d3e0e6",
-      "title": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
-      "excerpt": "Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure",
-      "content": "<p>Senator Warren requests 2026 reporting for Trump’s crypto earnings after $1.4B disclosure</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-17T18:04:26.215333+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-18T10:55:02.689080+00:00",
+  "lastUpdated": "2026-07-18T11:43:48.665762+00:00",
   "totalCount": 50,
-  "newCount": 2
+  "newCount": 3
 }
