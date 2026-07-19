@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "bf02196f82c4",
+      "slug": "the-genius-act-turns-1-state-of-crypto-bf02196f82c4",
+      "title": "The GENIUS Act turns 1: State of Crypto",
+      "excerpt": "The GENIUS Act turns 1: State of Crypto",
+      "content": "<p>The GENIUS Act turns 1: State of Crypto</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T18:48:49.153326+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fb73a86c4781",
+      "slug": "us-july-prelim-umich-consumer-sentiment-544-vs-510-expected-fb73a86c4781",
+      "title": "US July prelim UMich consumer sentiment 54.4 vs 51.0 expected",
+      "excerpt": "US July prelim UMich consumer sentiment 54.4 vs 51.0 expected",
+      "content": "<p>US July prelim UMich consumer sentiment 54.4 vs 51.0 expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T18:48:50.905192+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "0417cd0a0764",
       "slug": "saylor-turns-up-heat-with-110-reasons-why-bip-110-is-a-bad-idea-0417cd0a0764",
       "title": "Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea",
@@ -863,45 +899,9 @@
       "date": "2026-07-18T18:26:34.747370+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3383f0741c90",
-      "slug": "running-out-of-money-is-not-the-saddest-retirement-mistake-you-can-make-this-is-3383f0741c90",
-      "title": "Running out of money is not the saddest retirement mistake you can make. This is.",
-      "excerpt": "Running out of money is not the saddest retirement mistake you can make. This is.",
-      "content": "<p>Running out of money is not the saddest retirement mistake you can make. This is.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T18:26:36.278128+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3d735d54830c",
-      "slug": "you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflati-3d735d54830c",
-      "title": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation",
-      "excerpt": "You are missing the bond deal of the decade — and it is guaranteed to beat inflation",
-      "content": "<p>You are missing the bond deal of the decade — and it is guaranteed to beat inflation</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T18:26:37.809635+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-19T17:30:36.742280+00:00",
+  "lastUpdated": "2026-07-19T18:48:53.074852+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 2
 }
