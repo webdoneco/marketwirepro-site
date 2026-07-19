@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "f3df59d6bb24",
+      "slug": "us-launches-airstrikes-to-swiftly-punish-iran-for-deaths-of-us-troops-f3df59d6bb24",
+      "title": "US launches airstrikes to ‘swiftly punish’ Iran for deaths of US troops",
+      "excerpt": "US launches airstrikes to ‘swiftly punish’ Iran for deaths of US troops",
+      "content": "<p>US launches airstrikes to ‘swiftly punish’ Iran for deaths of US troops</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T23:24:34.137122+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "662d946ff992",
+      "slug": "oil-prices-surge-stock-futures-flat-as-fighting-between-us-and-iran-intensifies-662d946ff992",
+      "title": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies",
+      "excerpt": "Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies",
+      "content": "<p>Oil prices surge, stock futures flat as fighting between U.S. and Iran intensifies</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T23:24:36.110618+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c00d3862fe40",
+      "slug": "world-cup-champion-spain-just-won-50-million-and-the-irs-gets-a-cut-c00d3862fe40",
+      "title": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+      "excerpt": "World Cup-champion Spain just won $50 million — and the IRS gets a cut",
+      "content": "<p>World Cup-champion Spain just won $50 million — and the IRS gets a cut</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T23:24:37.653862+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d661e98adea1",
       "slug": "icymi---france-orders-isps-to-block-polymarket-after-prediction-market-ban-ignor-d661e98adea1",
       "title": "ICYMI - France orders ISPs to block Polymarket after prediction market ban ignored",
@@ -845,63 +899,9 @@
       "date": "2026-07-18T18:26:27.570532+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d6c1f446d8e7",
-      "slug": "south-korea-faster-hiking-path-dbs-d6c1f446d8e7",
-      "title": "South Korea: Faster hiking path – DBS",
-      "excerpt": "South Korea: Faster hiking path – DBS",
-      "content": "<p>South Korea: Faster hiking path – DBS</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T18:26:29.829496+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "96a1f10f84fc",
-      "slug": "silver-price-forecast-xag-hits-fresh-ytd-low-bears-eye-54-breakdown-96a1f10f84fc",
-      "title": "Silver Price Forecast: XAG hits fresh YTD low, bears eye $54 breakdown",
-      "excerpt": "Silver Price Forecast: XAG hits fresh YTD low, bears eye $54 breakdown",
-      "content": "<p>Silver Price Forecast: XAG hits fresh YTD low, bears eye $54 breakdown</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T18:26:31.358846+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b4958fe6c054",
-      "slug": "americans-say-they-need-12-million-to-retire-most-are-too-deep-in-debt-to-get-th-b4958fe6c054",
-      "title": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
-      "excerpt": "Americans say they need $1.2 million to retire. Most are too deep in debt to get there.",
-      "content": "<p>Americans say they need $1.2 million to retire. Most are too deep in debt to get there.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T18:26:33.207985+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-19T22:13:41.395769+00:00",
+  "lastUpdated": "2026-07-19T23:24:39.354172+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 3
 }
