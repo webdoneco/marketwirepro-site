@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "6acdad030c7e",
+      "slug": "i-racked-up-35000-in-credit-card-debt-should-i-file-for-bankruptcy-6acdad030c7e",
+      "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+      "excerpt": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+      "content": "<p>I racked up $35,000 in credit-card debt. Should I file for bankruptcy?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T12:51:51.825890+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8e839a2eeeed",
+      "slug": "can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-8e839a2eeeed",
+      "title": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+      "excerpt": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+      "content": "<p>Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T12:51:53.376072+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "f6d5189fe0c6",
       "slug": "gpt-56-vs-fable-5-review-which-one-you-pick-depends-on-these-factors-f6d5189fe0c6",
       "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
@@ -863,45 +899,9 @@
       "date": "2026-07-18T16:25:44.993254+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb907ed2340a",
-      "slug": "trump-says-he-will-add-to-canadian-tariffs-due-to-wildfire-smoke-as-two-minnesot-eb907ed2340a",
-      "title": "Trump says he will add to Canadian tariffs due to wildfire smoke as two Minnesota fires cross into Canada",
-      "excerpt": "Trump says he will add to Canadian tariffs due to wildfire smoke as two Minnesota fires cross into Canada",
-      "content": "<p>Trump says he will add to Canadian tariffs due to wildfire smoke as two Minnesota fires cross into Canada</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T16:25:46.537518+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "440ca07a9ce2",
-      "slug": "a-bad-health-diagnosis-will-upend-your-financial-plan-but-you-can-set-it-right-a-440ca07a9ce2",
-      "title": "A bad health diagnosis will upend your financial plan, but you can set it right again",
-      "excerpt": "A bad health diagnosis will upend your financial plan, but you can set it right again",
-      "content": "<p>A bad health diagnosis will upend your financial plan, but you can set it right again</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T16:25:48.645604+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-19T11:48:07.756077+00:00",
+  "lastUpdated": "2026-07-19T12:51:55.046692+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 2
 }
