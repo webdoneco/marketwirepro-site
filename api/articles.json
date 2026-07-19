@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "0417cd0a0764",
+      "slug": "saylor-turns-up-heat-with-110-reasons-why-bip-110-is-a-bad-idea-0417cd0a0764",
+      "title": "Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea",
+      "excerpt": "Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea",
+      "content": "<p>Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T17:30:30.381435+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6b1934f52f9b",
+      "slug": "china-stagnation-to-persist-as-growth-model-shifts-commerzbank-6b1934f52f9b",
+      "title": "China: Stagnation to persist as growth model shifts – Commerzbank",
+      "excerpt": "China: Stagnation to persist as growth model shifts – Commerzbank",
+      "content": "<p>China: Stagnation to persist as growth model shifts – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T17:30:33.257598+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5d3b1b8e9ff0",
+      "slug": "mexican-peso-tumbles-as-iran-war-jitters-denting-pesos-appetite-5d3b1b8e9ff0",
+      "title": "Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite",
+      "excerpt": "Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite",
+      "content": "<p>Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T17:30:34.803001+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "79e73aeba3bb",
       "slug": "japanese-yen-verbal-intervention-fails-to-move-jpy-against-us-dollar-scotiabank-79e73aeba3bb",
       "title": "Japanese Yen: Verbal intervention fails to move JPY against US Dollar – Scotiabank",
@@ -845,63 +899,9 @@
       "date": "2026-07-18T18:26:37.809635+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9fe65e0fae53",
-      "slug": "galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal-9fe65e0fae53",
-      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-      "excerpt": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-      "content": "<p>Galaxy lands 15-year Texas Tech stadium naming rights deal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T17:28:06.547036+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "df345c97d71d",
-      "slug": "dog-mode-explains-bitcoins-next-governance-fight-df345c97d71d",
-      "title": "DOG Mode explains Bitcoin's next governance fight",
-      "excerpt": "DOG Mode explains Bitcoin's next governance fight",
-      "content": "<p>DOG Mode explains Bitcoin's next governance fight</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T17:28:08.419716+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fb73a86c4781",
-      "slug": "us-july-prelim-umich-consumer-sentiment-544-vs-510-expected-fb73a86c4781",
-      "title": "US July prelim UMich consumer sentiment 54.4 vs 51.0 expected",
-      "excerpt": "US July prelim UMich consumer sentiment 54.4 vs 51.0 expected",
-      "content": "<p>US July prelim UMich consumer sentiment 54.4 vs 51.0 expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T17:28:10.306428+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-19T16:26:48.157906+00:00",
+  "lastUpdated": "2026-07-19T17:30:36.742280+00:00",
   "totalCount": 50,
-  "newCount": 2
+  "newCount": 3
 }
