@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "aa7d032a7f74",
+      "slug": "inside-zcashs-new-node-that-targets-visa-scale-privacy-at-50000-transactions-per-aa7d032a7f74",
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "excerpt": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "content": "<p>Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T07:21:48.913082+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "57d8b1e32281",
       "slug": "france-orders-countrys-internet-service-providers-to-block-polymarket-57d8b1e32281",
       "title": "France orders country's internet service providers to block Polymarket",
@@ -881,27 +899,9 @@
       "date": "2026-07-18T15:27:05.786978+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d8db1f6fc3ec",
-      "slug": "heres-the-net-worth-you-need-to-start-getting-ahead-in-your-20s-30s-40s-and-beyo-d8db1f6fc3ec",
-      "title": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
-      "excerpt": "Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.",
-      "content": "<p>Here’s the net worth you need to start getting ahead in your 20s, 30s, 40s and beyond in the U.S.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T15:27:07.337610+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-19T04:47:34.797426+00:00",
+  "lastUpdated": "2026-07-19T07:21:51.546690+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 1
 }
