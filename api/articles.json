@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "b8013ad4a75a",
+      "slug": "my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-y-b8013ad4a75a",
+      "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+      "excerpt": "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
+      "content": "<p>My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T09:24:08.364226+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "aa7d032a7f74",
       "slug": "inside-zcashs-new-node-that-targets-visa-scale-privacy-at-50000-transactions-per-aa7d032a7f74",
       "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
@@ -881,27 +899,9 @@
       "date": "2026-07-18T15:27:04.236262+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6061092ec8a3",
-      "slug": "your-stock-portfolio-is-tied-to-the-japanese-yen-and-a-looming-intervention-is-f-6061092ec8a3",
-      "title": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
-      "excerpt": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
-      "content": "<p>Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T15:27:05.786978+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-19T07:21:51.546690+00:00",
+  "lastUpdated": "2026-07-19T09:24:09.893308+00:00",
   "totalCount": 50,
   "newCount": 1
 }
