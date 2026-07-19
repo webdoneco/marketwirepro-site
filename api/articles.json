@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "79e73aeba3bb",
+      "slug": "japanese-yen-verbal-intervention-fails-to-move-jpy-against-us-dollar-scotiabank-79e73aeba3bb",
+      "title": "Japanese Yen: Verbal intervention fails to move JPY against US Dollar – Scotiabank",
+      "excerpt": "Japanese Yen: Verbal intervention fails to move JPY against US Dollar – Scotiabank",
+      "content": "<p>Japanese Yen: Verbal intervention fails to move JPY against US Dollar – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T16:26:44.832219+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "02e1851da061",
+      "slug": "is-there-a-deadline-to-claim-the-1000-trump-account-contribution-for-my-kid-02e1851da061",
+      "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
+      "excerpt": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
+      "content": "<p>Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-19T16:26:46.568994+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "efe9347f142d",
       "slug": "bitcoins-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchai-efe9347f142d",
       "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
@@ -863,45 +899,9 @@
       "date": "2026-07-18T17:28:10.306428+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6b1934f52f9b",
-      "slug": "china-stagnation-to-persist-as-growth-model-shifts-commerzbank-6b1934f52f9b",
-      "title": "China: Stagnation to persist as growth model shifts – Commerzbank",
-      "excerpt": "China: Stagnation to persist as growth model shifts – Commerzbank",
-      "content": "<p>China: Stagnation to persist as growth model shifts – Commerzbank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T17:28:12.006175+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5d3b1b8e9ff0",
-      "slug": "mexican-peso-tumbles-as-iran-war-jitters-denting-pesos-appetite-5d3b1b8e9ff0",
-      "title": "Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite",
-      "excerpt": "Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite",
-      "content": "<p>Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-18T17:28:13.556962+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-19T15:29:10.857173+00:00",
+  "lastUpdated": "2026-07-19T16:26:48.157906+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 2
 }
