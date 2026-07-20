@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "1a9be3e72e48",
+      "slug": "strategy-raises-2635m-through-mstr-sales-holds-843775-bitcoin-1a9be3e72e48",
+      "title": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin",
+      "excerpt": "Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin",
+      "content": "<p>Strategy raises $263.5M through MSTR sales, holds 843,775 Bitcoin</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:03.463376+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ca5b479ac802",
+      "slug": "hyperliquid-sets-500000-hype-stake-for-permissionless-prediction-market-deployer-ca5b479ac802",
+      "title": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
+      "excerpt": "Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers",
+      "content": "<p>Hyperliquid sets 500,000 HYPE stake for permissionless prediction market deployers</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:05.007108+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "df85f13470cb",
+      "slug": "vietnam-sets-fines-for-unlicensed-crypto-trading-ahead-of-regulation-rollout-df85f13470cb",
+      "title": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
+      "excerpt": "Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout",
+      "content": "<p>Vietnam sets fines for unlicensed crypto trading ahead of regulation rollout</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:06.551520+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "25c656d9dc1d",
+      "slug": "zilliqa-asks-exchanges-to-pause-zil-transfers-after-suspected-cold-wallet-theft-25c656d9dc1d",
+      "title": "Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft",
+      "excerpt": "Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft",
+      "content": "<p>Zilliqa asks exchanges to pause ZIL transfers after suspected cold wallet theft</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:08.092134+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5b33ec72433b",
+      "slug": "crypto-institutions-look-beyond-audits-as-trust-signals-falter-hacken-5b33ec72433b",
+      "title": "Crypto institutions look beyond audits as trust signals falter: Hacken",
+      "excerpt": "Crypto institutions look beyond audits as trust signals falter: Hacken",
+      "content": "<p>Crypto institutions look beyond audits as trust signals falter: Hacken</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:09.637932+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "72d4ffbe4287",
+      "slug": "capital-b-approves-10-for-1-reverse-stock-split-to-broaden-investor-base-72d4ffbe4287",
+      "title": "Capital B approves 10-for-1 reverse stock split to broaden investor base",
+      "excerpt": "Capital B approves 10-for-1 reverse stock split to broaden investor base",
+      "content": "<p>Capital B approves 10-for-1 reverse stock split to broaden investor base</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:11.184161+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3f70c28e8c7d",
+      "slug": "tom-lees-bitmine-slowed-ether-purchases-as-it-bought-back-86-million-in-stock-3f70c28e8c7d",
+      "title": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock.",
+      "excerpt": "Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock.",
+      "content": "<p>Tom Lee's Bitmine slowed ether purchases as it bought back $86 million in stock.</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:13.067005+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "033baf6bfae8",
+      "slug": "saylors-strategy-raises-cash-reserves-to-3225-billion-leaving-bitcoin-holdings-u-033baf6bfae8",
+      "title": "Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged",
+      "excerpt": "Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged",
+      "content": "<p>Saylor's Strategy raises cash reserves to $3.225 billion, leaving bitcoin holdings unchanged</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:14.608096+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9cb959e5a434",
+      "slug": "brazils-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokeniz-9cb959e5a434",
+      "title": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
+      "excerpt": "Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal",
+      "content": "<p>Brazil’s securities regulator sets up task force with 60-day deadline for tokenization proposal</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:16.156154+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5dfcbcb85e9b",
+      "slug": "a-bitcoin-volmageddon-may-be-brewing-key-indicator-suggests-5dfcbcb85e9b",
+      "title": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
+      "excerpt": "A bitcoin 'volmageddon' may be brewing, key indicator suggests",
+      "content": "<p>A bitcoin 'volmageddon' may be brewing, key indicator suggests</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-20T13:00:17.698563+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "a9127ce64825",
       "slug": "trader-maintains-67k-btc-price-target-five-things-to-know-in-bitcoin-this-week-a9127ce64825",
       "title": "Trader maintains $67K BTC price target: Five things to know in Bitcoin this week",
@@ -719,189 +899,9 @@
       "date": "2026-07-19T18:48:49.153326+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fb73a86c4781",
-      "slug": "us-july-prelim-umich-consumer-sentiment-544-vs-510-expected-fb73a86c4781",
-      "title": "US July prelim UMich consumer sentiment 54.4 vs 51.0 expected",
-      "excerpt": "US July prelim UMich consumer sentiment 54.4 vs 51.0 expected",
-      "content": "<p>US July prelim UMich consumer sentiment 54.4 vs 51.0 expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T18:48:50.905192+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0417cd0a0764",
-      "slug": "saylor-turns-up-heat-with-110-reasons-why-bip-110-is-a-bad-idea-0417cd0a0764",
-      "title": "Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea",
-      "excerpt": "Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea",
-      "content": "<p>Saylor turns up heat with ‘110 reasons’ why BIP-110 is a bad idea</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T17:30:30.381435+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6b1934f52f9b",
-      "slug": "china-stagnation-to-persist-as-growth-model-shifts-commerzbank-6b1934f52f9b",
-      "title": "China: Stagnation to persist as growth model shifts – Commerzbank",
-      "excerpt": "China: Stagnation to persist as growth model shifts – Commerzbank",
-      "content": "<p>China: Stagnation to persist as growth model shifts – Commerzbank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T17:30:33.257598+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5d3b1b8e9ff0",
-      "slug": "mexican-peso-tumbles-as-iran-war-jitters-denting-pesos-appetite-5d3b1b8e9ff0",
-      "title": "Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite",
-      "excerpt": "Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite",
-      "content": "<p>Mexican Peso tumbles as Iran war jitters, denting Peso’s appetite</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T17:30:34.803001+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "79e73aeba3bb",
-      "slug": "japanese-yen-verbal-intervention-fails-to-move-jpy-against-us-dollar-scotiabank-79e73aeba3bb",
-      "title": "Japanese Yen: Verbal intervention fails to move JPY against US Dollar – Scotiabank",
-      "excerpt": "Japanese Yen: Verbal intervention fails to move JPY against US Dollar – Scotiabank",
-      "content": "<p>Japanese Yen: Verbal intervention fails to move JPY against US Dollar – Scotiabank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T16:26:44.832219+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "02e1851da061",
-      "slug": "is-there-a-deadline-to-claim-the-1000-trump-account-contribution-for-my-kid-02e1851da061",
-      "title": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
-      "excerpt": "Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?",
-      "content": "<p>Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T16:26:46.568994+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "efe9347f142d",
-      "slug": "bitcoins-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchai-efe9347f142d",
-      "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
-      "excerpt": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
-      "content": "<p>Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T15:28:59.982061+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e1604e7cd487",
-      "slug": "ecb-warns-stablecoins-may-drain-bank-depositsheres-what-that-means-e1604e7cd487",
-      "title": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means",
-      "excerpt": "ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means",
-      "content": "<p>ECB Warns Stablecoins May Drain Bank Deposits—Here's What That Means</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T15:29:01.579156+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "94d996fe9a9f",
-      "slug": "investinglive-americas-market-news-wrap-stock-markets-struggle-on-kimi-higher-oi-94d996fe9a9f",
-      "title": "investingLive Americas market  news wrap: Stock markets struggle on Kimi, higher oil and NFLX",
-      "excerpt": "investingLive Americas market  news wrap: Stock markets struggle on Kimi, higher oil and NFLX",
-      "content": "<p>investingLive Americas market  news wrap: Stock markets struggle on Kimi, higher oil and NFLX</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T15:29:07.458764+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0afa0c2b4ea4",
-      "slug": "can-former-employers-withhold-money-from-your-401k-when-youre-laid-off-0afa0c2b4ea4",
-      "title": "Can former employers withhold money from your 401(k) when you’re laid off?",
-      "excerpt": "Can former employers withhold money from your 401(k) when you’re laid off?",
-      "content": "<p>Can former employers withhold money from your 401(k) when you’re laid off?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-19T15:29:09.300053+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-20T10:39:39.044670+00:00",
+  "lastUpdated": "2026-07-20T13:00:19.198735+00:00",
   "totalCount": 50,
   "newCount": 10
 }
