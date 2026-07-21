@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "cc04ebed905f",
+      "slug": "bis-warns-stablecoins-could-weaken-capital-controls-in-emerging-markets-cc04ebed905f",
+      "title": "BIS warns stablecoins could weaken capital controls in emerging markets",
+      "excerpt": "BIS warns stablecoins could weaken capital controls in emerging markets",
+      "content": "<p>BIS warns stablecoins could weaken capital controls in emerging markets</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:02.614255+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "be0058ad87a9",
+      "slug": "mexc-adds-bittensor-tao-staking-for-its-global-user-base-be0058ad87a9",
+      "title": "MEXC adds Bittensor TAO staking for its global user base",
+      "excerpt": "MEXC adds Bittensor TAO staking for its global user base",
+      "content": "<p>MEXC adds Bittensor TAO staking for its global user base</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:04.146743+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6b721f3ac8f3",
+      "slug": "bitcoin-nears-seven-week-high-as-stocks-ignore-iran-strikes-trump-10-tariff-plan-6b721f3ac8f3",
+      "title": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
+      "excerpt": "Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans",
+      "content": "<p>Bitcoin nears seven-week high as stocks ignore Iran strikes, Trump 10% tariff plans</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:05.679095+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f77db4f02695",
+      "slug": "claudes-fable-5-just-solved-an-87-year-old-math-problem-and-it-matters-for-bitco-f77db4f02695",
+      "title": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
+      "excerpt": "Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin",
+      "content": "<p>Claude's Fable 5 just solved an 87-year-old math problem, and it matters for bitcoin</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:07.529034+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e605e1018bdd",
+      "slug": "galaxy-sets-up-5-million-fund-to-help-shield-bitcoin-against-quantum-computing-t-e605e1018bdd",
+      "title": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+      "excerpt": "Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats",
+      "content": "<p>Galaxy sets up $5 million fund to help shield Bitcoin against quantum computing threats</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:09.066391+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a86d34498bce",
+      "slug": "xrp-breaks-out-on-clarity-act-hopes-the-charts-are-still-cautious-a86d34498bce",
+      "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
+      "excerpt": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
+      "content": "<p>XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:10.647655+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "28c77f0b306b",
+      "slug": "jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses-28c77f0b306b",
+      "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
+      "excerpt": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
+      "content": "<p>Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:12.178579+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "64051e0983e0",
+      "slug": "trump-meets-with-lebanese-president-joseph-aoun-in-the-white-house-64051e0983e0",
+      "title": "Trump meets with Lebanese President Joseph Aoun in the White House",
+      "excerpt": "Trump meets with Lebanese President Joseph Aoun in the White House",
+      "content": "<p>Trump meets with Lebanese President Joseph Aoun in the White House</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:13.902483+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b71b17d16bca",
+      "slug": "canada-carney-latest-tariff-threat-are-a-violation-of-usmca-b71b17d16bca",
+      "title": "Canada Carney: Latest tariff threat are a violation of USMCA",
+      "excerpt": "Canada Carney: Latest tariff threat are a violation of USMCA",
+      "content": "<p>Canada Carney: Latest tariff threat are a violation of USMCA</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:15.438060+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2c64081478f8",
+      "slug": "usdchf-price-forecast-buyers-hold-the-upper-hand-above-08000-2c64081478f8",
+      "title": "USD/CHF Price Forecast: Buyers hold the upper hand above 0.8000",
+      "excerpt": "USD/CHF Price Forecast: Buyers hold the upper hand above 0.8000",
+      "content": "<p>USD/CHF Price Forecast: Buyers hold the upper hand above 0.8000</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-21T16:52:17.027326+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "73ab854cc24b",
       "slug": "coinshares-debuts-bitcoin-mining-etf-in-europe-entrance-73ab854cc24b",
       "title": "CoinShares debuts Bitcoin mining ETF in Europe entrance",
@@ -719,189 +899,9 @@
       "date": "2026-07-21T09:59:35.972437+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6d23480e3bb3",
-      "slug": "bases-11-backed-tokenized-equities-launch-imminent-pollak-says-6d23480e3bb3",
-      "title": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-      "excerpt": "Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says",
-      "content": "<p>Base’s 1:1-backed tokenized equities launch ‘imminent,’ Pollak says</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:15.783539+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9b780407b0c2",
-      "slug": "binance-okx-users-face-1900-fines-in-vietnam-coinbase-in-china-asia-express-9b780407b0c2",
-      "title": "Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express",
-      "excerpt": "Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express",
-      "content": "<p>Binance & OKX users face $1,900 fines in Vietnam, Coinbase in China? Asia Express</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:17.330034+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c745d57ae2a2",
-      "slug": "xrp-jumps-4-as-traders-watch-triangle-breakout-toward-135-c745d57ae2a2",
-      "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-      "excerpt": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-      "content": "<p>XRP jumps 4% as traders watch 'triangle breakout' toward $1.35</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:19.266579+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7465580da421",
-      "slug": "live-markets-bitcoin-etfs-post-a-fifth-straight-day-of-inflows-in-a-first-since--7465580da421",
-      "title": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
-      "excerpt": "Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April",
-      "content": "<p>Live markets: Bitcoin ETFs post a fifth straight day of inflows in a first since April</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:20.820615+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1a168df850d7",
-      "slug": "uk-parliament-begins-inquiry-into-banking-chokepoint-for-crypto-businesses-1a168df850d7",
-      "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-      "excerpt": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-      "content": "<p>UK Parliament begins inquiry into banking chokepoint for crypto businesses</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:22.364059+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "691f32a6caba",
-      "slug": "bitcoin-hits-a-two-week-high-near-65500-as-the-chip-trade-turns-back-into-a-tail-691f32a6caba",
-      "title": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
-      "excerpt": "Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind",
-      "content": "<p>Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:23.911708+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fc3827b23f0f",
-      "slug": "russias-first-comprehensive-crypto-law-is-two-votes-away-from-passing-fc3827b23f0f",
-      "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
-      "excerpt": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
-      "content": "<p>Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:25.563806+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "112e4e531a20",
-      "slug": "cardano-triggers-hard-fork-with-first-community-voted-upgrade-112e4e531a20",
-      "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
-      "excerpt": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
-      "content": "<p>Cardano Triggers Hard Fork With First Community-Voted Upgrade</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:27.113222+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "806f664b5e7f",
-      "slug": "trouble-already-for-burnham-in-his-first-policy-announcement-806f664b5e7f",
-      "title": "Trouble already for Burnham in his first policy announcement?",
-      "excerpt": "Trouble already for Burnham in his first policy announcement?",
-      "content": "<p>Trouble already for Burnham in his first policy announcement?</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:28.982859+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "390520050b2d",
-      "slug": "iran-says-any-decision-to-reopen-the-strait-of-hormuz-depends-on-security-consid-390520050b2d",
-      "title": "Iran says any decision to reopen the Strait of Hormuz depends on security considerations",
-      "excerpt": "Iran says any decision to reopen the Strait of Hormuz depends on security considerations",
-      "content": "<p>Iran says any decision to reopen the Strait of Hormuz depends on security considerations</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-21T07:27:30.525257+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-21T15:21:11.354817+00:00",
+  "lastUpdated": "2026-07-21T16:52:18.527518+00:00",
   "totalCount": 50,
   "newCount": 10
 }
