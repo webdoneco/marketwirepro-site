@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "2ea0843bc151",
+      "slug": "alibabas-new-qwen-image-3-ai-wants-to-be-useful-not-just-pretty-2ea0843bc151",
+      "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
+      "excerpt": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
+      "content": "<p>Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:35.339477+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "275b4e9e3b7a",
+      "slug": "franklin-templeton-says-agentic-ai-is-cryptos-killer-use-case-275b4e9e3b7a",
+      "title": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
+      "excerpt": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
+      "content": "<p>Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:36.872145+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "39e365ac4a8b",
+      "slug": "gbpjpy-price-forecast-breaks-support-trendline-eyes-on-21750-39e365ac4a8b",
+      "title": "GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50",
+      "excerpt": "GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50",
+      "content": "<p>GBP/JPY Price Forecast: Breaks support trendline, eyes on 217.50</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:38.924420+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8ebdf462b033",
+      "slug": "chinese-yuan-growth-shortfall-feeds-mild-depreciation-bias-commerzbank-8ebdf462b033",
+      "title": "Chinese Yuan: Growth shortfall feeds mild depreciation bias – Commerzbank",
+      "excerpt": "Chinese Yuan: Growth shortfall feeds mild depreciation bias – Commerzbank",
+      "content": "<p>Chinese Yuan: Growth shortfall feeds mild depreciation bias – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:40.457608+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "97a7ec9b3b37",
+      "slug": "usdchf-price-forecast-swissy-reclaims-081-as-pair-nears-one-year-high-97a7ec9b3b37",
+      "title": "USD/CHF Price Forecast: Swissy reclaims 0.81 as pair nears one-year high",
+      "excerpt": "USD/CHF Price Forecast: Swissy reclaims 0.81 as pair nears one-year high",
+      "content": "<p>USD/CHF Price Forecast: Swissy reclaims 0.81 as pair nears one-year high</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:41.990004+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8ab9c1c11606",
+      "slug": "we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-8ab9c1c11606",
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+      "excerpt": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+      "content": "<p>We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:44.088181+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0cd2f57f2f97",
+      "slug": "owning-a-pet-has-become-a-luxury-vets-worry-about-higher-prices-and-shrinking-pe-0cd2f57f2f97",
+      "title": "‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds",
+      "excerpt": "‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds",
+      "content": "<p>‘Owning a pet has become a luxury’ — vets worry about higher prices and shrinking pet population, survey finds</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:45.618294+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e8807f86c198",
+      "slug": "my-second-husband-and-i-have-kids-from-previous-relationships-should-my-house-go-e8807f86c198",
+      "title": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+      "excerpt": "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+      "content": "<p>My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:47.150820+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3dc2e5fd8264",
+      "slug": "more-than-70-of-recent-home-buyers-were-counting-on-mortgage-rates-to-drop-now-t-3dc2e5fd8264",
+      "title": "More than 70% of recent home buyers were counting on mortgage rates to drop. Now they’re stuck.",
+      "excerpt": "More than 70% of recent home buyers were counting on mortgage rates to drop. Now they’re stuck.",
+      "content": "<p>More than 70% of recent home buyers were counting on mortgage rates to drop. Now they’re stuck.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:48.682010+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7e5f60310da7",
+      "slug": "the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intens-7e5f60310da7",
+      "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+      "excerpt": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+      "content": "<p>The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T20:06:50.213172+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "f1aa5785e1a7",
       "slug": "us-officials-barred-until-2029-from-issuing-or-sponsoring-tokens-under-claritys--f1aa5785e1a7",
       "title": "US officials barred until 2029 from issuing or sponsoring tokens under CLARITY’s proposed ethics rules",
@@ -719,189 +899,9 @@
       "date": "2026-07-22T14:54:42.634208+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1db741b2a66b",
-      "slug": "bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow-1db741b2a66b",
-      "title": "Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow",
-      "excerpt": "Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow",
-      "content": "<p>Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:35.466554+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0395e867c5f0",
-      "slug": "zilliqa-ledger-app-vulnerability-lets-attackers-recover-signers-private-keys-0395e867c5f0",
-      "title": "Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
-      "excerpt": "Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
-      "content": "<p>Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:37.008419+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "52cd5178b16d",
-      "slug": "us-seeks-forfeiture-of-25m-in-crypto-tied-to-romance-investment-scams-52cd5178b16d",
-      "title": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
-      "excerpt": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
-      "content": "<p>US seeks forfeiture of $25M in crypto tied to romance, investment scams</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:38.549135+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5b33ec72433b",
-      "slug": "crypto-institutions-look-beyond-audits-as-trust-signals-falter-hacken-5b33ec72433b",
-      "title": "Crypto institutions look beyond audits as trust signals falter: Hacken",
-      "excerpt": "Crypto institutions look beyond audits as trust signals falter: Hacken",
-      "content": "<p>Crypto institutions look beyond audits as trust signals falter: Hacken</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:40.093869+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7a313d814e3d",
-      "slug": "kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-us-7a313d814e3d",
-      "title": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
-      "excerpt": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
-      "content": "<p>Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:41.886581+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "930e5d9b7d1a",
-      "slug": "midnight-token-rebounds-19-after-wanchain-bridge-hack-hoskinson-calls-for-zk-rev-930e5d9b7d1a",
-      "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
-      "excerpt": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
-      "content": "<p>Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:43.427213+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f9b3fe20c847",
-      "slug": "heres-why-bitcoin-bulls-should-take-a-closer-look-at-interest-rates-f9b3fe20c847",
-      "title": "Here's why bitcoin bulls should take a closer look at interest rates",
-      "excerpt": "Here's why bitcoin bulls should take a closer look at interest rates",
-      "content": "<p>Here's why bitcoin bulls should take a closer look at interest rates</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:44.972596+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "250f74c50edb",
-      "slug": "justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs-250f74c50edb",
-      "title": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
-      "excerpt": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
-      "content": "<p>Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:46.591553+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5d1d1551d44b",
-      "slug": "morning-minute-openai-model-escapes-containment-hacks-hugging-face-5d1d1551d44b",
-      "title": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
-      "excerpt": "Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face",
-      "content": "<p>Morning Minute: OpenAI Model Escapes Containment, Hacks Hugging Face</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:48.132358+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6438685c6604",
-      "slug": "openai-models-escaped-locked-test-environment-hacked-hugging-face-to-cheat-on-be-6438685c6604",
-      "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
-      "excerpt": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
-      "content": "<p>OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T12:53:49.674966+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-22T18:55:52.670129+00:00",
+  "lastUpdated": "2026-07-22T20:06:51.713329+00:00",
   "totalCount": 50,
   "newCount": 10
 }
