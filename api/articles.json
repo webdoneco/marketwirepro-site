@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:43.666007+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "57a1e6310b51",
+      "slug": "key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issu-57a1e6310b51",
+      "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "excerpt": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "content": "<p>Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:45.576025+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "60180fd15a01",
+      "slug": "washington-to-expand-nuclear-technology-exports-to-saudi-arabia---ussaudi-nuclea-60180fd15a01",
+      "title": "Washington to expand nuclear technology exports to Saudi Arabia - US/Saudi nuclear deal",
+      "excerpt": "Washington to expand nuclear technology exports to Saudi Arabia - US/Saudi nuclear deal",
+      "content": "<p>Washington to expand nuclear technology exports to Saudi Arabia - US/Saudi nuclear deal</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:47.523582+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4303126843bc",
+      "slug": "investinglive-americas-fx-news-wrap-22-jul-middle-east-tensions-keep-markets-on--4303126843bc",
+      "title": "investingLive Americas FX news wrap 22 Jul.  Middle east tensions keep markets on edge. Oil higher.",
+      "excerpt": "investingLive Americas FX news wrap 22 Jul.  Middle east tensions keep markets on edge. Oil higher.",
+      "content": "<p>investingLive Americas FX news wrap 22 Jul.  Middle east tensions keep markets on edge. Oil higher.</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:49.070089+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5046273d4dde",
+      "slug": "economic-and-event-calendar-in-asia---australian-jobs-report-5046273d4dde",
+      "title": "Economic and event calendar in Asia - Australian jobs report",
+      "excerpt": "Economic and event calendar in Asia - Australian jobs report",
+      "content": "<p>Economic and event calendar in Asia - Australian jobs report</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:50.615293+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d3f30c92e368",
+      "slug": "euro-stalls-as-high-energy-prices-increase-fed-hawkish-bets-d3f30c92e368",
+      "title": "Euro stalls as high energy prices increase Fed hawkish bets",
+      "excerpt": "Euro stalls as high energy prices increase Fed hawkish bets",
+      "content": "<p>Euro stalls as high energy prices increase Fed hawkish bets</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:52.427810+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1187f7c57d38",
+      "slug": "chinese-yuan-short-term-consolidation-with-bullish-bias-against-us-dollar-uob-1187f7c57d38",
+      "title": "Chinese Yuan: Short-term consolidation with bullish bias against US Dollar – UOB",
+      "excerpt": "Chinese Yuan: Short-term consolidation with bullish bias against US Dollar – UOB",
+      "content": "<p>Chinese Yuan: Short-term consolidation with bullish bias against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:53.969793+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "98ea108503c3",
+      "slug": "new-zealand-dollar-stalls-after-hotter-than-expected-inflation-98ea108503c3",
+      "title": "New Zealand Dollar stalls after hotter-than-expected inflation",
+      "excerpt": "New Zealand Dollar stalls after hotter-than-expected inflation",
+      "content": "<p>New Zealand Dollar stalls after hotter-than-expected inflation</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:55.510015+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "84229789234a",
+      "slug": "south-korean-won-internationalisation-roadmap-supports-won-recovery-dbs-84229789234a",
+      "title": "South Korean Won: Internationalisation roadmap supports won recovery – DBS",
+      "excerpt": "South Korean Won: Internationalisation roadmap supports won recovery – DBS",
+      "content": "<p>South Korean Won: Internationalisation roadmap supports won recovery – DBS</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:52:57.052810+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5ca9560b1120",
+      "slug": "i-want-to-transfer-17000-in-credit-card-debt-why-did-wells-fargo-offer-me-only-a-5ca9560b1120",
+      "title": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+      "excerpt": "I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?",
+      "content": "<p>I want to transfer $17,000 in credit-card debt. Why did Wells Fargo offer me only a $4,000 credit limit?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-22T22:53:00.771775+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "20e79f3ad8dd",
       "slug": "sp-launches-blockchain-fundamentals-index-for-digital-assets-20e79f3ad8dd",
       "title": "S&P launches blockchain fundamentals index for digital assets",
@@ -719,189 +899,9 @@
       "date": "2026-07-22T17:46:47.741699+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b13aee8211cc",
-      "slug": "bitcoin-price-avoids-major-iran-jitters-as-sp-500-short-squeeze-on-horizon-b13aee8211cc",
-      "title": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
-      "excerpt": "Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon",
-      "content": "<p>Bitcoin price avoids major Iran jitters as S&P 500 ‘short squeeze’ on horizon</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:14.559427+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "13917dcbef91",
-      "slug": "revolut-hits-115-billion-valuation-in-employee-share-sale-wsj-13917dcbef91",
-      "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
-      "excerpt": "Revolut hits $115 billion valuation in employee share sale: WSJ",
-      "content": "<p>Revolut hits $115 billion valuation in employee share sale: WSJ</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:16.555981+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bdf156e1e5d0",
-      "slug": "secs-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-law-bdf156e1e5d0",
-      "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
-      "excerpt": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
-      "content": "<p>SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:18.107167+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8715be159581",
-      "slug": "uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash-8715be159581",
-      "title": "UK digital bond plans hinge on one missing piece: onchain cash",
-      "excerpt": "UK digital bond plans hinge on one missing piece: onchain cash",
-      "content": "<p>UK digital bond plans hinge on one missing piece: onchain cash</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:19.648394+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "126f0b1dd8aa",
-      "slug": "crypto-long-short-the-crypto-question-isnt-what-to-own-its-what-you-can-survive--126f0b1dd8aa",
-      "title": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
-      "excerpt": "Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding",
-      "content": "<p>Crypto Long & Short: The crypto question isn't what to own — it's what you can survive holding</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:21.191106+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c78673f82cb5",
-      "slug": "us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams-c78673f82cb5",
-      "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
-      "excerpt": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
-      "content": "<p>US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:22.819007+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e942ba6dee24",
-      "slug": "dat-went-wrong-satsuma-to-unwind-bitcoin-treasury-sell-off-43-million-in-btc-e942ba6dee24",
-      "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
-      "excerpt": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
-      "content": "<p>DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:24.360613+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "28d19db72b44",
-      "slug": "investinglive-european-markets-wrap-oil-prices-ramp-higher-as-middle-east-confli-28d19db72b44",
-      "title": "investingLive European markets wrap: Oil prices ramp higher as Middle East conflict expands to the Red Sea",
-      "excerpt": "investingLive European markets wrap: Oil prices ramp higher as Middle East conflict expands to the Red Sea",
-      "content": "<p>investingLive European markets wrap: Oil prices ramp higher as Middle East conflict expands to the Red Sea</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:26.140682+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6cf646704f8a",
-      "slug": "red-sea-shipping-disruption-now-in-focus-as-vessels-are-forced-to-change-course-6cf646704f8a",
-      "title": "Red Sea shipping disruption now in focus as vessels are forced to change course",
-      "excerpt": "Red Sea shipping disruption now in focus as vessels are forced to change course",
-      "content": "<p>Red Sea shipping disruption now in focus as vessels are forced to change course</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:27.685849+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "757377a48ff6",
-      "slug": "british-pound-steadies-as-cooler-uk-cpi-meets-oil-shock-757377a48ff6",
-      "title": "British Pound steadies as cooler UK CPI meets Oil shock",
-      "excerpt": "British Pound steadies as cooler UK CPI meets Oil shock",
-      "content": "<p>British Pound steadies as cooler UK CPI meets Oil shock</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T16:13:29.848767+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-22T21:34:23.857058+00:00",
+  "lastUpdated": "2026-07-22T22:53:02.271937+00:00",
   "totalCount": 50,
   "newCount": 10
 }
