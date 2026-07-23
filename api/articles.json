@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:40.901471+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dc8dc028fe25",
+      "slug": "fears-of-ai-driven-defi-hack-epidemic-overstated-for-now-but-not-for-long-dc8dc028fe25",
+      "title": "Fears of AI-driven DeFi hack epidemic overstated for now — but not for long",
+      "excerpt": "Fears of AI-driven DeFi hack epidemic overstated for now — but not for long",
+      "content": "<p>Fears of AI-driven DeFi hack epidemic overstated for now — but not for long</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:42.439501+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "475d74ca94b0",
+      "slug": "strategy-led-group-pledges-15m-to-quantum-proof-bitcoin-network-475d74ca94b0",
+      "title": "Strategy-led group pledges $15M to quantum-proof Bitcoin network",
+      "excerpt": "Strategy-led group pledges $15M to quantum-proof Bitcoin network",
+      "content": "<p>Strategy-led group pledges $15M to quantum-proof Bitcoin network</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:43.973109+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "42cd6e16c2f4",
+      "slug": "binance-joins-stop-the-traffik-in-anti-human-trafficking-effort-42cd6e16c2f4",
+      "title": "Binance joins STOP THE TRAFFIK in anti-human trafficking effort",
+      "excerpt": "Binance joins STOP THE TRAFFIK in anti-human trafficking effort",
+      "content": "<p>Binance joins STOP THE TRAFFIK in anti-human trafficking effort</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:45.503030+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "726781737b78",
+      "slug": "bitmex-token-crashes-90-as-exchange-announces-shutdown-726781737b78",
+      "title": "BitMEX token crashes 90% as exchange announces shutdown",
+      "excerpt": "BitMEX token crashes 90% as exchange announces shutdown",
+      "content": "<p>BitMEX token crashes 90% as exchange announces shutdown</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:47.036127+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b93f684f9f7f",
+      "slug": "bitget-secures-license-for-new-zealand-expansion-b93f684f9f7f",
+      "title": "Bitget secures license for New Zealand expansion",
+      "excerpt": "Bitget secures license for New Zealand expansion",
+      "content": "<p>Bitget secures license for New Zealand expansion</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:48.569123+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "255a47c8d1d4",
+      "slug": "uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools-255a47c8d1d4",
+      "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
+      "excerpt": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
+      "content": "<p>Uniswap pushes deeper into tokenized assets with permissioned trading pools</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:50.539630+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "68e39c1705bf",
+      "slug": "goldman-sachs-ceo-backs-clarity-act-despite-banking-industrys-concerns-over-stab-68e39c1705bf",
+      "title": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
+      "excerpt": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
+      "content": "<p>Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:52.073336+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4b22b0ace1ea",
+      "slug": "the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system-4b22b0ace1ea",
+      "title": "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
+      "excerpt": "The KIDS Act is way worse than digital carding — it is a mass surveillance system",
+      "content": "<p>The KIDS Act is way worse than digital carding — it is a mass surveillance system</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:53.603687+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a4eb9280852b",
+      "slug": "blackrock-coinbase-strategy-in-a-new-group-pledging-15-million-to-prepare-bitcoi-a4eb9280852b",
+      "title": "BlackRock, Coinbase, Strategy in a new group pledging $15 million to prepare Bitcoin for quantum threats",
+      "excerpt": "BlackRock, Coinbase, Strategy in a new group pledging $15 million to prepare Bitcoin for quantum threats",
+      "content": "<p>BlackRock, Coinbase, Strategy in a new group pledging $15 million to prepare Bitcoin for quantum threats</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-23T14:38:55.137380+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "922c07a67fe9",
       "slug": "bernstein-says-bitcoin-mining-deals-necessary-for-ai-power-crunch-922c07a67fe9",
       "title": "Bernstein says Bitcoin mining deals necessary for AI power crunch",
@@ -719,189 +899,9 @@
       "date": "2026-07-23T05:15:08.947638+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cc60f51fb0fd",
-      "slug": "us-has-informed-israel-of-its-intention-to-use-bombers-in-bombing-iran-cc60f51fb0fd",
-      "title": "US has informed Israel of its intention to use bombers in bombing Iran",
-      "excerpt": "US has informed Israel of its intention to use bombers in bombing Iran",
-      "content": "<p>US has informed Israel of its intention to use bombers in bombing Iran</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:46:58.566881+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2d749eaf44ae",
-      "slug": "breaking-australias-unemployment-rate-holds-steady-at-44-in-june-as-expected-2d749eaf44ae",
-      "title": "Breaking: Australia’s Unemployment Rate holds steady at 4.4% in June, as expected",
-      "excerpt": "Breaking: Australia’s Unemployment Rate holds steady at 4.4% in June, as expected",
-      "content": "<p>Breaking: Australia’s Unemployment Rate holds steady at 4.4% in June, as expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:47:00.396659+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dcf12d795167",
-      "slug": "japans-katayama-ready-to-take-decisive-action-on-foreign-exchange-as-needed-dcf12d795167",
-      "title": "Japan’s Katayama: Ready to take decisive action on foreign exchange as needed",
-      "excerpt": "Japan’s Katayama: Ready to take decisive action on foreign exchange as needed",
-      "content": "<p>Japan’s Katayama: Ready to take decisive action on foreign exchange as needed</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:47:01.980355+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "96a159dc574b",
-      "slug": "pboc-sets-usdcny-reference-rate-at-67906-vs-67933-previous-96a159dc574b",
-      "title": "PBOC sets USD/CNY reference rate at 6.7906 vs. 6.7933 previous",
-      "excerpt": "PBOC sets USD/CNY reference rate at 6.7906 vs. 6.7933 previous",
-      "content": "<p>PBOC sets USD/CNY reference rate at 6.7906 vs. 6.7933 previous</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:47:03.541136+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "309a5e66e5ec",
-      "slug": "canadian-dollar-holds-gains-vs-soft-usd-as-rallying-oil-prices-counter-trade-ris-309a5e66e5ec",
-      "title": "Canadian Dollar holds gains vs soft USD as rallying oil prices counter trade risks",
-      "excerpt": "Canadian Dollar holds gains vs soft USD as rallying oil prices counter trade risks",
-      "content": "<p>Canadian Dollar holds gains vs soft USD as rallying oil prices counter trade risks</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:47:05.097531+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c4fb1a33ca98",
-      "slug": "wti-climbs-above-8700-as-middle-east-conflict-threatens-key-choke-points-c4fb1a33ca98",
-      "title": "WTI climbs above $87.00 as Middle East conflict threatens key choke points",
-      "excerpt": "WTI climbs above $87.00 as Middle East conflict threatens key choke points",
-      "content": "<p>WTI climbs above $87.00 as Middle East conflict threatens key choke points</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:47:06.669518+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "63040f599495",
-      "slug": "japanese-yen-strengthens-on-boj-hawkish-signals-intervention-risks-63040f599495",
-      "title": "Japanese Yen strengthens on BoJ hawkish signals, intervention risks",
-      "excerpt": "Japanese Yen strengthens on BoJ hawkish signals, intervention risks",
-      "content": "<p>Japanese Yen strengthens on BoJ hawkish signals, intervention risks</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:47:08.219104+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a1e7c74b50f0",
-      "slug": "servicenows-stock-rises-as-earnings-show-momentum-in-cybersecurity-a1e7c74b50f0",
-      "title": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-      "excerpt": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-      "content": "<p>ServiceNow’s stock rises as earnings show momentum in cybersecurity</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:47:14.343581+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c803b454aed",
-      "slug": "ibm-just-cut-its-outlook-but-not-by-as-much-as-investors-feared-6c803b454aed",
-      "title": "IBM just cut its outlook, but not by as much as investors feared",
-      "excerpt": "IBM just cut its outlook, but not by as much as investors feared",
-      "content": "<p>IBM just cut its outlook, but not by as much as investors feared</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-23T01:47:15.912037+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f4fca650fe34",
-      "slug": "senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discu-f4fca650fe34",
-      "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
-      "excerpt": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
-      "content": "<p>Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-22T23:53:52.843890+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-23T12:08:20.507046+00:00",
+  "lastUpdated": "2026-07-23T14:38:56.637526+00:00",
   "totalCount": 50,
   "newCount": 10
 }
