@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "02732cf2167b",
+      "slug": "democratizing-weather-derivatives-through-tokenization-could-be-cryptos-most-imp-02732cf2167b",
+      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "excerpt": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "content": "<p>Democratizing weather derivatives through tokenization could be crypto's most important real-world use case</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-25T13:03:14.760931+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a4b39053ece2",
+      "slug": "nvidia-meta-and-microsoft-tell-washington-dont-kill-open-source-ai-a4b39053ece2",
+      "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
+      "excerpt": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
+      "content": "<p>Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-25T13:03:16.433991+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "65f9b382497e",
+      "slug": "spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-u-65f9b382497e",
+      "title": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
+      "excerpt": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
+      "content": "<p>SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-25T13:03:19.086564+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "02e4f6f819c5",
       "slug": "fidelity-joins-push-for-senate-passage-of-clarity-act-02e4f6f819c5",
       "title": "Fidelity joins push for Senate passage of CLARITY Act",
@@ -845,63 +899,9 @@
       "date": "2026-07-24T18:53:02.701325+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2f6ba22ad2f1",
-      "slug": "euro-falls-even-amid-strong-eurozone-pmis-2f6ba22ad2f1",
-      "title": "Euro falls even amid strong Eurozone PMIs",
-      "excerpt": "Euro falls even amid strong Eurozone PMIs",
-      "content": "<p>Euro falls even amid strong Eurozone PMIs</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-24T18:53:04.391549+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a772f21e6190",
-      "slug": "gold-gains-despite-firm-us-dollar-a772f21e6190",
-      "title": "Gold gains despite firm US Dollar",
-      "excerpt": "Gold gains despite firm US Dollar",
-      "content": "<p>Gold gains despite firm US Dollar</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-24T18:53:05.924326+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fccbefab2def",
-      "slug": "indonesian-rupiah-bi-pause-seen-as-hawkish-hold-uob-fccbefab2def",
-      "title": "Indonesian Rupiah: BI pause seen as hawkish hold – UOB",
-      "excerpt": "Indonesian Rupiah: BI pause seen as hawkish hold – UOB",
-      "content": "<p>Indonesian Rupiah: BI pause seen as hawkish hold – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-24T18:53:07.461058+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-25T11:55:55.261543+00:00",
+  "lastUpdated": "2026-07-25T13:03:20.747923+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 3
 }
