@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "127027fe6d62",
+      "slug": "north-korea-arrests-bank-hacking-ring-tied-to-crypto-laundering-report-127027fe6d62",
+      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "excerpt": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "content": "<p>North Korea arrests bank hacking ring tied to crypto laundering: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-25T22:16:32.970655+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1c1a0db5e41d",
+      "slug": "what-is-an-ai-kill-switch-and-why-do-us-lawmakers-want-one-1c1a0db5e41d",
+      "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+      "excerpt": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+      "content": "<p>What Is an AI Kill Switch and Why Do US Lawmakers Want One?</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-25T22:16:34.903909+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b5c44c05d1c0",
       "slug": "robinhood-in-talks-with-cryptocom-over-prediction-markets-wsj-b5c44c05d1c0",
       "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
@@ -863,45 +899,9 @@
       "date": "2026-07-25T15:55:43.989523+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fdd531af8072",
-      "slug": "the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-i-fdd531af8072",
-      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
-      "excerpt": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
-      "content": "<p>The August stock-market slump is a myth — so why does Wall Street keep repeating it?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T15:55:45.525356+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a907de156b4c",
-      "slug": "im-38-lost-my-job-and-have-to-move-back-in-with-my-parents-what-did-i-do-wrong-a907de156b4c",
-      "title": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
-      "excerpt": "I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?",
-      "content": "<p>I’m 38, lost my job, and have to move back in with my parents. What did I do wrong?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T15:55:47.058959+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-25T21:14:28.031897+00:00",
+  "lastUpdated": "2026-07-25T22:16:40.691949+00:00",
   "totalCount": 50,
-  "newCount": 6
+  "newCount": 2
 }
