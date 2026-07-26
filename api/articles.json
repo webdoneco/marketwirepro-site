@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "7bd59e1e2e63",
+      "slug": "shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally-7bd59e1e2e63",
+      "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+      "excerpt": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+      "content": "<p>Shiba Inu surges 36% as South Korean traders fuel mystery rally</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T09:34:14.944476+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "88f5c0ac8e97",
+      "slug": "eu-fines-today-trump-301-tariffs-tomorrow-88f5c0ac8e97",
+      "title": "EU fines today, Trump 301 tariffs tomorrow?",
+      "excerpt": "EU fines today, Trump 301 tariffs tomorrow?",
+      "content": "<p>EU fines today, Trump 301 tariffs tomorrow?</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T09:34:16.827008+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "1f00aca60ad2",
       "slug": "bitmart-to-wind-down-exchange-end-trading-by-aug-26-1f00aca60ad2",
       "title": "BitMart to wind down exchange, end trading by Aug. 26",
@@ -863,45 +899,9 @@
       "date": "2026-07-25T15:55:34.986097+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7b589b27dced",
-      "slug": "poolin-once-one-of-bitcoins-biggest-mining-pools-files-for-bankruptcy-7b589b27dced",
-      "title": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
-      "excerpt": "Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy",
-      "content": "<p>Poolin, Once One of Bitcoin's Biggest Mining Pools, Files for Bankruptcy</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T15:55:36.518052+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "37c41b0f21df",
-      "slug": "ny-times-trump-meets-with-top-advisors-to-decide-whether-to-increase-military-pr-37c41b0f21df",
-      "title": "NY Times: Trump meets with top advisors to decide whether to increase military pressure on Iran",
-      "excerpt": "NY Times: Trump meets with top advisors to decide whether to increase military pressure on Iran",
-      "content": "<p>NY Times: Trump meets with top advisors to decide whether to increase military pressure on Iran</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T15:55:38.246296+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-26T07:30:10.458165+00:00",
+  "lastUpdated": "2026-07-26T09:34:18.952116+00:00",
   "totalCount": 50,
   "newCount": 2
 }
