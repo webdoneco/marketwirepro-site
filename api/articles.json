@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "3f4af2961d1c",
+      "slug": "binance-red-teams-its-own-staff-every-month-to-keep-hackers-out-3f4af2961d1c",
+      "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+      "excerpt": "Binance ‘red teams’ its own staff every month to keep hackers out",
+      "content": "<p>Binance ‘red teams’ its own staff every month to keep hackers out</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T04:50:53.564422+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "127027fe6d62",
       "slug": "north-korea-arrests-bank-hacking-ring-tied-to-crypto-laundering-report-127027fe6d62",
       "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
@@ -881,27 +899,9 @@
       "date": "2026-07-25T15:55:42.457851+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bda9f5693142",
-      "slug": "still-waiting-for-the-free-1000-to-hit-your-childs-trump-account-heres-what-to-k-bda9f5693142",
-      "title": "Still waiting for the free $1,000 to hit your child’s ‘Trump account’? Here’s what to know.",
-      "excerpt": "Still waiting for the free $1,000 to hit your child’s ‘Trump account’? Here’s what to know.",
-      "content": "<p>Still waiting for the free $1,000 to hit your child’s ‘Trump account’? Here’s what to know.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T15:55:43.989523+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-26T01:04:13.259348+00:00",
+  "lastUpdated": "2026-07-26T04:50:57.012238+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 1
 }
