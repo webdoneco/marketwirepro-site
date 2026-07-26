@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "58bfc072058b",
+      "slug": "week-ahead-for-traders-fomc-boe-boj-us-pce-and-gdp-create-major-cross-asset-risk-58bfc072058b",
+      "title": "Week ahead for traders: FOMC, BoE, BoJ, US PCE and GDP create major cross-asset risk",
+      "excerpt": "Week ahead for traders: FOMC, BoE, BoJ, US PCE and GDP create major cross-asset risk",
+      "content": "<p>Week ahead for traders: FOMC, BoE, BoJ, US PCE and GDP create major cross-asset risk</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T21:23:27.155123+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dc6a0f6875f3",
+      "slug": "iran-says-it-will-halt-strikes-so-long-as-us-pause-continues-dc6a0f6875f3",
+      "title": "Iran says it will halt strikes so long as US pause continues",
+      "excerpt": "Iran says it will halt strikes so long as US pause continues",
+      "content": "<p>Iran says it will halt strikes so long as US pause continues</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T21:23:28.686671+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "68c15d0073f8",
+      "slug": "newsquawk-week-in-focus-fomc-boe-boj-us-pce-us-gdp-and-ez-cpi-68c15d0073f8",
+      "title": "Newsquawk Week in Focus: FOMC, BoE, BoJ, US PCE, US GDP, and EZ CPI",
+      "excerpt": "Newsquawk Week in Focus: FOMC, BoE, BoJ, US PCE, US GDP, and EZ CPI",
+      "content": "<p>Newsquawk Week in Focus: FOMC, BoE, BoJ, US PCE, US GDP, and EZ CPI</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T21:23:30.219498+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "c1be8189bbb2",
       "slug": "stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything-c1be8189bbb2",
       "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
@@ -845,63 +899,9 @@
       "date": "2026-07-25T21:14:26.409681+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "beaa4a5dd9b0",
-      "slug": "dangos-perp-dex-taps-out-nearly-4-months-after-launch-beaa4a5dd9b0",
-      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
-      "excerpt": "Dango’s perp DEX taps out nearly 4 months after launch",
-      "content": "<p>Dango’s perp DEX taps out nearly 4 months after launch</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T20:04:37.190528+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d0f64042e5bb",
-      "slug": "robinhood-chains-real-world-assets-jump-fivefold-as-tokenized-stocks-start-tradi-d0f64042e5bb",
-      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "excerpt": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
-      "content": "<p>Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T20:04:39.079721+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c0f931d9c701",
-      "slug": "senate-dems-should-accept-the-victory-they-won-on-trumps-crypto-limits-white-hou-c0f931d9c701",
-      "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
-      "excerpt": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
-      "content": "<p>Senate Dems should accept the victory they won on Trump's crypto limits: White House</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T20:04:40.620578+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-26T20:03:46.006363+00:00",
+  "lastUpdated": "2026-07-26T21:23:32.383512+00:00",
   "totalCount": 50,
   "newCount": 3
 }
