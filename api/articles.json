@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T15:35:30.655885+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4b60530f4389",
+      "slug": "samsung-wallet-will-add-stablecoin-support-including-usdc-4b60530f4389",
+      "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+      "excerpt": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+      "content": "<p>Samsung Wallet Will Add Stablecoin Support, Including USDC</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T15:35:32.551355+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "20f58a8a38ca",
+      "slug": "next-weeks-earnings-calendar-heats-up-20f58a8a38ca",
+      "title": "Next week's earnings calendar heats up",
+      "excerpt": "Next week's earnings calendar heats up",
+      "content": "<p>Next week's earnings calendar heats up</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T15:35:34.301253+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8ab9c1c11606",
+      "slug": "we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-8ab9c1c11606",
+      "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+      "excerpt": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
+      "content": "<p>We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T15:35:36.263172+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "c60bffde21b7",
       "slug": "bitcoin-og-selling-eases-as-dormant-btc-movement-hits-4-year-low-galaxy-c60bffde21b7",
       "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
@@ -827,81 +899,9 @@
       "date": "2026-07-25T17:49:24.805593+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9ad3d159a691",
-      "slug": "singapore-dollar-mas-seen-on-hold-with-cautious-inflation-tone-ocbc-9ad3d159a691",
-      "title": "Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC",
-      "excerpt": "Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC",
-      "content": "<p>Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T17:49:27.184581+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "64005ee5ab71",
-      "slug": "eurjpy-price-forecast-cross-consolidates-under-18700-bulls-target-18800-64005ee5ab71",
-      "title": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
-      "excerpt": "EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00",
-      "content": "<p>EUR/JPY Price Forecast: Cross consolidates under 187.00, bulls target 188.00</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T17:49:28.762298+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e69be48b75c4",
-      "slug": "malaysia-solid-fundamentals-support-ringgit-and-bonds-dbs-e69be48b75c4",
-      "title": "Malaysia: Solid fundamentals support Ringgit and bonds – DBS",
-      "excerpt": "Malaysia: Solid fundamentals support Ringgit and bonds – DBS",
-      "content": "<p>Malaysia: Solid fundamentals support Ringgit and bonds – DBS</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T17:49:30.342580+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "18d116666560",
-      "slug": "nzdusd-price-forecast-kiwi-tests-05800-as-bullish-momentum-fades-18d116666560",
-      "title": "NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades",
-      "excerpt": "NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades",
-      "content": "<p>NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T17:49:31.921730+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-26T14:23:30.001925+00:00",
+  "lastUpdated": "2026-07-26T15:35:37.941902+00:00",
   "totalCount": 50,
-  "newCount": 8
+  "newCount": 4
 }
