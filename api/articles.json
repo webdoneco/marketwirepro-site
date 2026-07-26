@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "a694c70eb696",
+      "slug": "oil-prices-sink-stock-futures-rally-as-us-and-iran-pause-attacks-wall-street-awa-a694c70eb696",
+      "title": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "excerpt": "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+      "content": "<p>Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T22:26:37.311441+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "58bfc072058b",
       "slug": "week-ahead-for-traders-fomc-boe-boj-us-pce-and-gdp-create-major-cross-asset-risk-58bfc072058b",
       "title": "Week ahead for traders: FOMC, BoE, BoJ, US PCE and GDP create major cross-asset risk",
@@ -881,27 +899,9 @@
       "date": "2026-07-25T21:14:24.877590+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "50f8af94ef30",
-      "slug": "i-am-a-63-year-old-semiretired-physician-if-i-saved-2-million-for-retirement-sho-50f8af94ef30",
-      "title": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "excerpt": "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-      "content": "<p>I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T21:14:26.409681+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-26T21:23:32.383512+00:00",
+  "lastUpdated": "2026-07-26T22:26:38.996052+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 1
 }
