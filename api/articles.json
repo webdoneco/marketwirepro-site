@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "de2071964583",
+      "slug": "2-weeks-left-for-clarity-state-of-crypto-de2071964583",
+      "title": "2 weeks left for Clarity: State of Crypto",
+      "excerpt": "2 weeks left for Clarity: State of Crypto",
+      "content": "<p>2 weeks left for Clarity: State of Crypto</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T18:54:56.419783+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "939196539185",
+      "slug": "investinglive-americas-fx-news-wrap-24-jul-geopolitics-remain-the-focus-for-trad-939196539185",
+      "title": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
+      "excerpt": "investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.",
+      "content": "<p>investingLive Americas FX news wrap 24 Jul: Geopolitics remain the focus for traders.</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-26T18:54:58.202920+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "5cde8086e2ab",
       "slug": "cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifica-5cde8086e2ab",
       "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
@@ -863,45 +899,9 @@
       "date": "2026-07-25T20:04:46.117433+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c24ede49f0bd",
-      "slug": "bitcoin-advocacy-group-to-join-us-state-departments-digital-freedom-program-c24ede49f0bd",
-      "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-      "excerpt": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
-      "content": "<p>Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T18:50:15.587718+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c1be8189bbb2",
-      "slug": "stocks-just-topped-crypto-on-hyperliquid-ark-says-that-changes-everything-c1be8189bbb2",
-      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-      "excerpt": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-      "content": "<p>Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-25T18:50:17.500884+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-26T17:53:48.971484+00:00",
+  "lastUpdated": "2026-07-26T18:55:00.163420+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 2
 }
