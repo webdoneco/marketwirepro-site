@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "bc5e8cac77f1",
+      "slug": "imf-warns-brazils-stablecoin-activity-outpaces-traditional-capital-flows-bc5e8cac77f1",
+      "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
+      "excerpt": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
+      "content": "<p>IMF warns Brazil’s stablecoin activity outpaces traditional capital flows</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:22.988347+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fb8c3f944f5e",
+      "slug": "lido-upgrade-aims-to-slash-ethereums-validator-count-by-one-third-fb8c3f944f5e",
+      "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
+      "excerpt": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
+      "content": "<p>Lido upgrade aims to slash Ethereum’s validator count by one-third</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:24.521535+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c39ccc30ea4b",
+      "slug": "ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network-c39ccc30ea4b",
+      "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
+      "excerpt": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
+      "content": "<p>Ondo shifts from layer-1 blockchain plan to offchain execution network</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:26.058065+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "38ae2ca9b13b",
+      "slug": "apple-faces-lawsuit-over-alleged-18m-bitcoin-wallet-app-losses-38ae2ca9b13b",
+      "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+      "excerpt": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+      "content": "<p>Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:27.590387+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "47ce898c274d",
+      "slug": "perpetuals-tied-to-sk-hynix-hit-by-flash-crash-to-900-on-hyperliquid-47ce898c274d",
+      "title": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
+      "excerpt": "Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid",
+      "content": "<p>Perpetuals tied to SK Hynix hit by flash crash to $900 on Hyperliquid</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:29.397253+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0f69ab041b8d",
+      "slug": "bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump-0f69ab041b8d",
+      "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
+      "excerpt": "BitMEX and BitMart may be first casualties of crypto trading slump",
+      "content": "<p>BitMEX and BitMart may be first casualties of crypto trading slump</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:30.932101+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "428ecdc771df",
+      "slug": "inside-the-cme-and-cftcs-battle-over-onchain-perpetual-futures-428ecdc771df",
+      "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
+      "excerpt": "Inside the CME and CFTC’s battle over onchain perpetual futures",
+      "content": "<p>Inside the CME and CFTC’s battle over onchain perpetual futures</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:32.462460+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4fc15b45d319",
+      "slug": "hong-kongs-central-bank-puts-a-number-on-lenders-quantum-preparedness-its-very-l-4fc15b45d319",
+      "title": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
+      "excerpt": "Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.",
+      "content": "<p>Hong Kong’s central bank puts a number on lenders' quantum preparedness. It's very low.</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:33.992194+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4d54f405ec5a",
+      "slug": "live-updates-bitcoins-next-move-hinges-on-breakeven-wall-at-68500-nasdaq-futures-4d54f405ec5a",
+      "title": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
+      "excerpt": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
+      "content": "<p>Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:35.521440+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f4b797800937",
+      "slug": "running-away-balloon-artist-sues-ai-meme-generator-over-ad-templates-f4b797800937",
+      "title": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
+      "excerpt": "'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates",
+      "content": "<p>'Running Away Balloon' Artist Sues AI Meme Generator Over Ad Templates</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T10:22:37.094668+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "2212cc25e0d4",
       "slug": "binance-co-founder-cz-backs-crypto-license-passporting-across-asean-2212cc25e0d4",
       "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
@@ -719,189 +899,9 @@
       "date": "2026-07-27T22:50:18.536083+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8435beb2c39a",
-      "slug": "trump-urges-fed-rate-cuts-as-gulf-war-ends-seen-lowering-prices-8435beb2c39a",
-      "title": "Trump urges Fed rate cuts as Gulf War ends, seen lowering prices",
-      "excerpt": "Trump urges Fed rate cuts as Gulf War ends, seen lowering prices",
-      "content": "<p>Trump urges Fed rate cuts as Gulf War ends, seen lowering prices</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T22:50:20.064980+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "498c1263111f",
-      "slug": "us-president-trump-keeps-iran-diplomacy-alive-after-halting-strikes-498c1263111f",
-      "title": "US President Trump keeps Iran diplomacy alive after halting strikes",
-      "excerpt": "US President Trump keeps Iran diplomacy alive after halting strikes",
-      "content": "<p>US President Trump keeps Iran diplomacy alive after halting strikes</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T22:50:21.593698+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9f9acf989804",
-      "slug": "chinese-yuan-rangebound-trade-against-us-dollar-guided-by-pboc-fix-ocbc-9f9acf989804",
-      "title": "Chinese Yuan: Rangebound trade against US Dollar guided by PBoC fix – OCBC",
-      "excerpt": "Chinese Yuan: Rangebound trade against US Dollar guided by PBoC fix – OCBC",
-      "content": "<p>Chinese Yuan: Rangebound trade against US Dollar guided by PBoC fix – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T22:50:23.120905+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4cbda39988b7",
-      "slug": "new-zealand-dollar-holds-after-weak-us-durable-goods-data-4cbda39988b7",
-      "title": "New Zealand Dollar holds after weak US durable goods data",
-      "excerpt": "New Zealand Dollar holds after weak US durable goods data",
-      "content": "<p>New Zealand Dollar holds after weak US durable goods data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T22:50:24.650786+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a2fda2e180bc",
-      "slug": "time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-a-a2fda2e180bc",
-      "title": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "excerpt": "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
-      "content": "<p>‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T22:50:28.017645+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "645bec7403b0",
-      "slug": "its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-23--645bec7403b0",
-      "title": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
-      "excerpt": "‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?",
-      "content": "<p>‘It’s a high price to pay’: My adviser says I don’t need a withdrawal plan for my $2.3 million portfolio. Is he right?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T22:50:29.548639+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "71d20c3b07ba",
-      "slug": "i-feel-lucky-im-71-and-inherited-20000-what-should-i-do-with-this-money-71d20c3b07ba",
-      "title": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
-      "excerpt": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
-      "content": "<p>‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T22:50:31.076492+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "248be42063ae",
-      "slug": "nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-a-248be42063ae",
-      "title": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "excerpt": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "content": "<p>Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T22:50:32.603259+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e6333e453b50",
-      "slug": "cross-river-to-enable-p2p-payments-banking-services-for-x-money-e6333e453b50",
-      "title": "Cross River to enable P2P payments, banking services for X Money",
-      "excerpt": "Cross River to enable P2P payments, banking services for X Money",
-      "content": "<p>Cross River to enable P2P payments, banking services for X Money</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T21:34:45.584938+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "71988cd213c5",
-      "slug": "searchable-nyc-property-database-puts-wealthy-residents-at-risk-critics-warn-71988cd213c5",
-      "title": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
-      "excerpt": "Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn",
-      "content": "<p>Searchable NYC Property Database Puts Wealthy Residents at Risk, Critics Warn</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T21:34:47.468733+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-28T07:31:39.283023+00:00",
+  "lastUpdated": "2026-07-28T10:22:38.594836+00:00",
   "totalCount": 50,
   "newCount": 10
 }
