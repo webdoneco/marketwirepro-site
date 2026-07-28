@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:00.413076+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a360931f273c",
+      "slug": "the-real-reason-defi-projects-that-survived-2022-crash-are-shutting-down-now-a360931f273c",
+      "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+      "excerpt": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+      "content": "<p>The real reason DeFi projects that survived 2022 crash are shutting down now</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:01.946874+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "53c2b3d0bd40",
+      "slug": "markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-low-53c2b3d0bd40",
+      "title": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
+      "excerpt": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
+      "content": "<p>Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:03.477723+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b1c9db1e9c3b",
+      "slug": "ethereum-solana-led-crypto-hack-losses-in-h1-2026-blockaid-b1c9db1e9c3b",
+      "title": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
+      "excerpt": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
+      "content": "<p>Ethereum, Solana led crypto hack losses in H1 2026: Blockaid</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:05.008772+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a878a57be727",
+      "slug": "1inch-moves-to-unite-defi-liquidity-across-13-chains-with-aqua-a878a57be727",
+      "title": "1inch moves to unite DeFi liquidity across 13 chains with Aqua",
+      "excerpt": "1inch moves to unite DeFi liquidity across 13 chains with Aqua",
+      "content": "<p>1inch moves to unite DeFi liquidity across 13 chains with Aqua</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:06.539543+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f2b4c001498b",
+      "slug": "russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-f2b4c001498b",
+      "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
+      "excerpt": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
+      "content": "<p>Russia outlines new digital depository rules ahead of fall crypto framework roll-out</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:08.261104+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9d54934c08cb",
+      "slug": "hyperliquid-is-taking-crypto-perps-deep-into-defis-money-lego-land-9d54934c08cb",
+      "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
+      "excerpt": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
+      "content": "<p>Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:09.791636+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "90412c4b4619",
+      "slug": "zcash-seals-17-billion-shielded-pool-as-ironwood-upgrade-activates-90412c4b4619",
+      "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
+      "excerpt": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
+      "content": "<p>Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:11.325257+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cf230486aaf6",
+      "slug": "morgan-stanley-debuts-ether-solana-exchange-traded-products-after-bitcoin-fund-s-cf230486aaf6",
+      "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
+      "excerpt": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
+      "content": "<p>Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:12.856342+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "668122953da5",
+      "slug": "core-scientific-lands-amd-ai-deal-as-bitcoin-mining-operation-winds-down-668122953da5",
+      "title": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
+      "excerpt": "Core Scientific lands AMD AI deal as bitcoin mining operation winds down",
+      "content": "<p>Core Scientific lands AMD AI deal as bitcoin mining operation winds down</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-28T14:56:14.386544+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "ba5b835c23dd",
       "slug": "paypal-expands-stablecoin-push-as-crypto-assets-factor-into-q2-results-ba5b835c23dd",
       "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
@@ -719,189 +899,9 @@
       "date": "2026-07-28T04:39:42.543136+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1c9f566d102d",
-      "slug": "tethers-xaut-gold-token-receives-shariah-certification-to-expand-islamic-finance-1c9f566d102d",
-      "title": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
-      "excerpt": "Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access",
-      "content": "<p>Tether’s XAUt gold token receives Shariah certification to expand Islamic finance access</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-28T01:27:09.998002+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8fe91650abbd",
-      "slug": "us-senate-puts-off-crypto-clarity-act-for-now-as-it-focuses-limited-bandwidth-el-8fe91650abbd",
-      "title": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
-      "excerpt": "U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere",
-      "content": "<p>U.S. Senate puts off crypto Clarity Act for now as it focuses limited bandwidth elsewhere</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-28T01:27:11.707047+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9e72e4ecdcf0",
-      "slug": "digital-asset-trading-platform-uphold-cuts-17-of-global-headcount-as-crypto-wint-9e72e4ecdcf0",
-      "title": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
-      "excerpt": "Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites",
-      "content": "<p>Digital asset trading platform Uphold cuts 17% of global headcount as crypto winter bites</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-28T01:27:13.237792+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b21148777185",
-      "slug": "us-treasury-sells-70b-of-5-year-notes-at-a-high-yield-of-4408-b21148777185",
-      "title": "US Treasury sells $70B of 5 year notes at a high yield of 4.408%",
-      "excerpt": "US Treasury sells $70B of 5 year notes at a high yield of 4.408%",
-      "content": "<p>US Treasury sells $70B of 5 year notes at a high yield of 4.408%</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-28T01:27:15.032140+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ee7ad6033973",
-      "slug": "euro-hangs-near-monthly-low-holds-above-11350-as-usd-bulls-pause-ahead-of-fomc-m-ee7ad6033973",
-      "title": "Euro hangs near monthly low, holds above 1.1350 as USD bulls pause ahead of FOMC meeting",
-      "excerpt": "Euro hangs near monthly low, holds above 1.1350 as USD bulls pause ahead of FOMC meeting",
-      "content": "<p>Euro hangs near monthly low, holds above 1.1350 as USD bulls pause ahead of FOMC meeting</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-28T01:27:16.647477+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "788623da99cb",
-      "slug": "pboc-sets-usdcny-reference-rate-at-67928-vs-67911-previous-788623da99cb",
-      "title": "PBOC sets USD/CNY reference rate at 6.7928 vs. 6.7911 previous",
-      "excerpt": "PBOC sets USD/CNY reference rate at 6.7928 vs. 6.7911 previous",
-      "content": "<p>PBOC sets USD/CNY reference rate at 6.7928 vs. 6.7911 previous</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-28T01:27:18.178359+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "065edbcd4eea",
-      "slug": "gold-declines-despite-easing-concerns-over-inflation-interest-rate-hikes-065edbcd4eea",
-      "title": "Gold declines despite easing concerns over inflation, interest rate hikes",
-      "excerpt": "Gold declines despite easing concerns over inflation, interest rate hikes",
-      "content": "<p>Gold declines despite easing concerns over inflation, interest rate hikes</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-28T01:27:19.713804+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7db6b233a8a4",
-      "slug": "more-cracks-emerge-in-ai-related-bonds-as-meta-microsoft-earnings-loom-7db6b233a8a4",
-      "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
-      "excerpt": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
-      "content": "<p>More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-28T01:27:21.577885+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "696f7a398e05",
-      "slug": "new-york-ag-warns-clarity-act-could-weaken-state-crypto-enforcement-696f7a398e05",
-      "title": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-      "excerpt": "New York AG warns CLARITY Act could weaken state crypto enforcement",
-      "content": "<p>New York AG warns CLARITY Act could weaken state crypto enforcement</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T23:53:57.623793+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "902f117d376f",
-      "slug": "kalshi-polymarket-win-pause-against-minnesotas-prediction-market-ban-902f117d376f",
-      "title": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
-      "excerpt": "Kalshi, Polymarket win pause against Minnesota's prediction market ban",
-      "content": "<p>Kalshi, Polymarket win pause against Minnesota's prediction market ban</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-27T23:53:59.657714+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-28T12:18:58.397399+00:00",
+  "lastUpdated": "2026-07-28T14:56:15.886699+00:00",
   "totalCount": 50,
   "newCount": 10
 }
