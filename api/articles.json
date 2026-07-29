@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6fe54faa8132",
+      "slug": "the-traditional-9-to-5-banking-day-is-officially-dying-says-morgan-stanley-execs-6fe54faa8132",
+      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+      "excerpt": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+      "content": "<p>The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:23.643719+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "933dc5393871",
+      "slug": "stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-cus-933dc5393871",
+      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "excerpt": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "content": "<p>Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:25.206327+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f0506fdb7c0e",
+      "slug": "coinbase-hit-by-spot-trading-slump-wall-street-trims-expectations-ahead-of-earni-f0506fdb7c0e",
+      "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+      "excerpt": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+      "content": "<p>Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:26.759263+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0d49914179b2",
+      "slug": "crypto-long-short-what-this-years-972-million-crypto-hacks-actually-tell-us-abou-0d49914179b2",
+      "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
+      "excerpt": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
+      "content": "<p>Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:28.322239+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f439355d9687",
+      "slug": "sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins-f439355d9687",
+      "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+      "excerpt": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+      "content": "<p>SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:29.983447+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e8c93b872cdb",
+      "slug": "what-are-the-main-events-for-today-e8c93b872cdb",
+      "title": "What are the main events for today?",
+      "excerpt": "What are the main events for today?",
+      "content": "<p>What are the main events for today?</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:31.832890+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "90de1417a1f9",
+      "slug": "british-pound-policy-risk-with-range-bound-trade-against-us-dollar-scotiabank-90de1417a1f9",
+      "title": "British Pound: Policy risk with range-bound trade against US Dollar – Scotiabank",
+      "excerpt": "British Pound: Policy risk with range-bound trade against US Dollar – Scotiabank",
+      "content": "<p>British Pound: Policy risk with range-bound trade against US Dollar – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:33.660997+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a57b538d040e",
+      "slug": "federal-reserve-widely-expected-to-stand-pat-as-markets-increase-bets-of-imminen-a57b538d040e",
+      "title": "Federal Reserve widely expected to stand pat as markets increase bets of imminent interest-rate hike",
+      "excerpt": "Federal Reserve widely expected to stand pat as markets increase bets of imminent interest-rate hike",
+      "content": "<p>Federal Reserve widely expected to stand pat as markets increase bets of imminent interest-rate hike</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:35.226422+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "16f9a6e0e22b",
+      "slug": "bank-of-japan-gradual-tightening-path-and-neutral-rate-debate-ing-16f9a6e0e22b",
+      "title": "Bank of Japan: Gradual tightening path and neutral rate debate – ING",
+      "excerpt": "Bank of Japan: Gradual tightening path and neutral rate debate – ING",
+      "content": "<p>Bank of Japan: Gradual tightening path and neutral rate debate – ING</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:36.784508+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "096bad0eee1f",
+      "slug": "euro-options-signal-downside-risk-against-us-dollar-scotiabank-096bad0eee1f",
+      "title": "Euro: Options signal downside risk against US Dollar – Scotiabank",
+      "excerpt": "Euro: Options signal downside risk against US Dollar – Scotiabank",
+      "content": "<p>Euro: Options signal downside risk against US Dollar – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T16:15:38.351709+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -719,189 +899,9 @@
       "date": "2026-07-29T07:36:42.569879+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0ee7242ef2e7",
-      "slug": "south-korea-plans-stablecoin-rules-as-opposition-pushes-crypto-tax-repeal-0ee7242ef2e7",
-      "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
-      "excerpt": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
-      "content": "<p>South Korea plans stablecoin rules as opposition pushes crypto tax repeal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:09.975941+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "176c08a9e700",
-      "slug": "celsius-linked-bitcoin-miner-ionic-digital-gains-26-in-nasdaq-debut-176c08a9e700",
-      "title": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
-      "excerpt": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
-      "content": "<p>Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:11.521917+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8a07b279bdf2",
-      "slug": "tether-signs-tokenization-deal-with-nairobi-securities-exchange-8a07b279bdf2",
-      "title": "Tether signs tokenization deal with Nairobi Securities Exchange",
-      "excerpt": "Tether signs tokenization deal with Nairobi Securities Exchange",
-      "content": "<p>Tether signs tokenization deal with Nairobi Securities Exchange</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:13.066164+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2227c5bee921",
-      "slug": "australian-june-cpi-38-yy-vs-40-expected-2227c5bee921",
-      "title": "Australian June CPI 3.8% y/y vs +4.0% expected",
-      "excerpt": "Australian June CPI 3.8% y/y vs +4.0% expected",
-      "content": "<p>Australian June CPI 3.8% y/y vs +4.0% expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:15.619042+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a7b43479881d",
-      "slug": "netanyahu-confirmed-to-trump-that-additional-strikes-on-rehabilitated-iranian-nu-a7b43479881d",
-      "title": "Netanyahu: Confirmed to Trump that additional strikes on rehabilitated Iranian nuclear facilities are unavoidable",
-      "excerpt": "Netanyahu: Confirmed to Trump that additional strikes on rehabilitated Iranian nuclear facilities are unavoidable",
-      "content": "<p>Netanyahu: Confirmed to Trump that additional strikes on rehabilitated Iranian nuclear facilities are unavoidable</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:17.160259+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "62649b911deb",
-      "slug": "gold-consolidates-near-two-week-low-holds-above-4000-as-traders-await-fomc-decis-62649b911deb",
-      "title": "Gold consolidates near two-week low, holds above $4,000 as traders await FOMC decision",
-      "excerpt": "Gold consolidates near two-week low, holds above $4,000 as traders await FOMC decision",
-      "content": "<p>Gold consolidates near two-week low, holds above $4,000 as traders await FOMC decision</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:18.796971+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7eb16b71bac0",
-      "slug": "india-gold-price-today-gold-falls-according-to-fxstreet-data-7eb16b71bac0",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "excerpt": "India Gold price today: Gold falls, according to FXStreet data",
-      "content": "<p>India Gold price today: Gold falls, according to FXStreet data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:20.343861+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bb4cda1685fa",
-      "slug": "british-pound-gains-ground-as-us-dollar-struggles-ahead-of-fed-decision-bb4cda1685fa",
-      "title": "British Pound gains ground as US Dollar struggles ahead of Fed decision",
-      "excerpt": "British Pound gains ground as US Dollar struggles ahead of Fed decision",
-      "content": "<p>British Pound gains ground as US Dollar struggles ahead of Fed decision</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:21.888009+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cbad3c7e3264",
-      "slug": "eurjpy-price-forecast-eyes-rising-wedge-top-at-18700-cbad3c7e3264",
-      "title": "EUR/JPY Price Forecast: Eyes rising wedge top at 187.00",
-      "excerpt": "EUR/JPY Price Forecast: Eyes rising wedge top at 187.00",
-      "content": "<p>EUR/JPY Price Forecast: Eyes rising wedge top at 187.00</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:23.430434+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ec5232c43877",
-      "slug": "silver-price-forecast-xagusd-gains-even-as-oil-prices-rebound-fed-policy-awaited-ec5232c43877",
-      "title": "Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed policy awaited",
-      "excerpt": "Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed policy awaited",
-      "content": "<p>Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed policy awaited</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T04:43:24.971590+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-29T14:41:20.688836+00:00",
+  "lastUpdated": "2026-07-29T16:15:39.851885+00:00",
   "totalCount": 50,
   "newCount": 10
 }
