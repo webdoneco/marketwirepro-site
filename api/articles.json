@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "a6157e5bf60e",
+      "slug": "as-crypto-perpetual-futures-boom-ethereums-role-is-shifting-a6157e5bf60e",
+      "title": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+      "excerpt": "As crypto perpetual futures boom, Ethereum’s role is shifting",
+      "content": "<p>As crypto perpetual futures boom, Ethereum’s role is shifting</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:54:56.437442+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "94bea6a92f39",
+      "slug": "fed-holds-rates-steady-extending-pause-as-markets-await-kevin-warshs-policy-road-94bea6a92f39",
+      "title": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
+      "excerpt": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
+      "content": "<p>Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:54:57.971300+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f1541bd91cc4",
+      "slug": "bitcoin-ethereum-wobble-as-fed-holds-rates-steady-f1541bd91cc4",
+      "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+      "excerpt": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+      "content": "<p>Bitcoin, Ethereum Wobble as Fed Holds Rates Steady</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:54:59.556285+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f84767e3710d",
+      "slug": "feds-warsh-we-will-deliver-the-2-target-f84767e3710d",
+      "title": "Fed's Warsh: We will deliver the 2% target",
+      "excerpt": "Fed's Warsh: We will deliver the 2% target",
+      "content": "<p>Fed's Warsh: We will deliver the 2% target</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:55:01.524390+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b949236db58a",
+      "slug": "new-zealand-dollar-rebounds-after-fed-hold-b949236db58a",
+      "title": "New Zealand Dollar rebounds after Fed hold",
+      "excerpt": "New Zealand Dollar rebounds after Fed hold",
+      "content": "<p>New Zealand Dollar rebounds after Fed hold</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:55:03.057147+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "67fa50f458f7",
+      "slug": "japanese-yen-gains-after-hawkish-fed-hold-67fa50f458f7",
+      "title": "Japanese Yen gains after hawkish Fed hold",
+      "excerpt": "Japanese Yen gains after hawkish Fed hold",
+      "content": "<p>Japanese Yen gains after hawkish Fed hold</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:55:04.593770+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ed4967d11457",
+      "slug": "australian-dollar-trims-losses-after-fed-holds-ed4967d11457",
+      "title": "Australian Dollar trims losses after Fed holds",
+      "excerpt": "Australian Dollar trims losses after Fed holds",
+      "content": "<p>Australian Dollar trims losses after Fed holds</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:55:06.132404+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5925eb566c84",
+      "slug": "euro-rises-despite-fed-hawkish-hold-eyes-on-warshs-speech-5925eb566c84",
+      "title": "Euro rises despite Fed hawkish hold, eyes on Warsh’s speech",
+      "excerpt": "Euro rises despite Fed hawkish hold, eyes on Warsh’s speech",
+      "content": "<p>Euro rises despite Fed hawkish hold, eyes on Warsh’s speech</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:55:07.664480+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d813d34d9778",
+      "slug": "dow-jones-industrial-average-finds-a-bid-in-the-thing-the-fed-did-not-do-d813d34d9778",
+      "title": "Dow Jones Industrial Average finds a bid in the thing the Fed did not do",
+      "excerpt": "Dow Jones Industrial Average finds a bid in the thing the Fed did not do",
+      "content": "<p>Dow Jones Industrial Average finds a bid in the thing the Fed did not do</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:55:09.202222+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "610d39aa7e23",
+      "slug": "fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-610d39aa7e23",
+      "title": "Ford’s big-truck bet is paying off— and Wall Street is taking notice",
+      "excerpt": "Ford’s big-truck bet is paying off— and Wall Street is taking notice",
+      "content": "<p>Ford’s big-truck bet is paying off— and Wall Street is taking notice</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-29T18:55:10.924839+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "64ba21b984f3",
       "slug": "binance-launches-regulated-gold-silver-options-through-adgm-exchange-64ba21b984f3",
       "title": "Binance launches regulated gold, silver options through ADGM exchange",
@@ -719,189 +899,9 @@
       "date": "2026-07-29T12:28:52.679390+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "407cb1ee9083",
-      "slug": "crypto-tradfi-grows-fivefold-to-66b-as-exchanges-expand-into-stocks-commodities--407cb1ee9083",
-      "title": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
-      "excerpt": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
-      "content": "<p>Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:36.120136+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2647c3e74b9d",
-      "slug": "hungary-repeals-crypto-checks-as-first-mica-license-is-granted-2647c3e74b9d",
-      "title": "Hungary repeals crypto checks as first MiCA license is granted",
-      "excerpt": "Hungary repeals crypto checks as first MiCA license is granted",
-      "content": "<p>Hungary repeals crypto checks as first MiCA license is granted</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:37.665079+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "58c20871c4cf",
-      "slug": "trump-teleprompter-operator-accused-over-kalshi-bets-leaves-government-ap-58c20871c4cf",
-      "title": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
-      "excerpt": "Trump teleprompter operator accused over Kalshi bets leaves government: AP",
-      "content": "<p>Trump teleprompter operator accused over Kalshi bets leaves government: AP</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:39.211112+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5fbc78c26d00",
-      "slug": "binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions--5fbc78c26d00",
-      "title": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
-      "excerpt": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
-      "content": "<p>Binance offers gold and silver options after commodity futures pull in billions in daily volume</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:41.040916+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e199b48f1b87",
-      "slug": "ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-ex-e199b48f1b87",
-      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-      "excerpt": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-      "content": "<p>Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:42.582871+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b197b8fe0797",
-      "slug": "russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism-b197b8fe0797",
-      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-      "excerpt": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-      "content": "<p>Russia charges Telegram founder Pavel Durov with aiding terrorism</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:44.131262+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bccc7bd44f19",
-      "slug": "spacex-is-a-battleground-solana-must-win-bccc7bd44f19",
-      "title": "SpaceX is a battleground Solana must win",
-      "excerpt": "SpaceX is a battleground Solana must win",
-      "content": "<p>SpaceX is a battleground Solana must win</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:45.674597+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e32f6f50cb30",
-      "slug": "apple-sued-after-fake-iphone-wallet-app-drained-18m-in-bitcoin-e32f6f50cb30",
-      "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
-      "excerpt": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
-      "content": "<p>Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:47.287740+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "57d46aaf4e0c",
-      "slug": "russia-charges-telegrams-pavel-durov-with-aiding-terrorism-57d46aaf4e0c",
-      "title": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
-      "excerpt": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
-      "content": "<p>Russia Charges Telegram's Pavel Durov With Aiding Terrorism</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:48.828397+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "40999a126884",
-      "slug": "uk-mortgage-approvals-rebound-in-june-but-credit-data-continues-to-point-to-worr-40999a126884",
-      "title": "UK mortgage approvals rebound in June but credit data continues to point to worrying signals",
-      "excerpt": "UK mortgage approvals rebound in June but credit data continues to point to worrying signals",
-      "content": "<p>UK mortgage approvals rebound in June but credit data continues to point to worrying signals</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-29T10:28:50.629733+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-29T17:45:13.603026+00:00",
+  "lastUpdated": "2026-07-29T18:55:12.425027+00:00",
   "totalCount": 50,
   "newCount": 10
 }
