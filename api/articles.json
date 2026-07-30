@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "46b6099cc3c2",
+      "slug": "coinbase-q2-profit-misses-estimates-despite-record-crypto-market-share-46b6099cc3c2",
+      "title": "Coinbase Q2 profit misses estimates despite record crypto market share",
+      "excerpt": "Coinbase Q2 profit misses estimates despite record crypto market share",
+      "content": "<p>Coinbase Q2 profit misses estimates despite record crypto market share</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:21.311659+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2ff1ce90e715",
+      "slug": "strategy-books-82-billion-q2-loss-on-bitcoin-price-decline-2ff1ce90e715",
+      "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+      "excerpt": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+      "content": "<p>Strategy books $8.2 billion Q2 loss on bitcoin price decline</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:23.265293+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3f37a96f1929",
+      "slug": "coinbase-sinks-5-after-missing-second-quarter-revenue-estimates-3f37a96f1929",
+      "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
+      "excerpt": "Coinbase sinks 5% after missing second quarter revenue estimates",
+      "content": "<p>Coinbase sinks 5% after missing second quarter revenue estimates</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:24.798305+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d7ebc214f2c8",
+      "slug": "investinglive-americas-fx-news-wrap-30-jul-d7ebc214f2c8",
+      "title": "investingLive Americas FX news wrap 30 Jul",
+      "excerpt": "investingLive Americas FX news wrap 30 Jul",
+      "content": "<p>investingLive Americas FX news wrap 30 Jul</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:26.545356+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9c7daf4747bd",
+      "slug": "forex-today-us-dollar-extends-sell-off-after-weak-us-growth-yen-surges-on-suspec-9c7daf4747bd",
+      "title": "Forex Today: US Dollar extends sell-off after weak US growth, Yen surges on suspected intervention",
+      "excerpt": "Forex Today: US Dollar extends sell-off after weak US growth, Yen surges on suspected intervention",
+      "content": "<p>Forex Today: US Dollar extends sell-off after weak US growth, Yen surges on suspected intervention</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:28.324865+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ca03986a550d",
+      "slug": "china-incremental-support-and-trade-risks-td-securities-ca03986a550d",
+      "title": "China: Incremental support and trade risks – TD Securities",
+      "excerpt": "China: Incremental support and trade risks – TD Securities",
+      "content": "<p>China: Incremental support and trade risks – TD Securities</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:29.862291+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "48be9a586eb4",
+      "slug": "oil-key-driver-of-uk-inflation-scenarios-rabobank-48be9a586eb4",
+      "title": "Oil: Key driver of UK inflation scenarios – Rabobank",
+      "excerpt": "Oil: Key driver of UK inflation scenarios – Rabobank",
+      "content": "<p>Oil: Key driver of UK inflation scenarios – Rabobank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:31.393092+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "98b6b59a02a1",
+      "slug": "chinese-yuan-gradual-gains-versus-us-dollar-commerzbank-98b6b59a02a1",
+      "title": "Chinese Yuan: Gradual gains versus US Dollar – Commerzbank",
+      "excerpt": "Chinese Yuan: Gradual gains versus US Dollar – Commerzbank",
+      "content": "<p>Chinese Yuan: Gradual gains versus US Dollar – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:32.924179+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a2af6909b44f",
+      "slug": "silver-price-forecast-xag-eyes-6000-as-rebound-builds-a2af6909b44f",
+      "title": "Silver Price Forecast: XAG eyes $60.00 as rebound builds",
+      "excerpt": "Silver Price Forecast: XAG eyes $60.00 as rebound builds",
+      "content": "<p>Silver Price Forecast: XAG eyes $60.00 as rebound builds</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:34.454135+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "35453a3e2827",
+      "slug": "implosion-of-situational-awareness-hedge-fund-has-wall-street-betting-the-bottom-35453a3e2827",
+      "title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
+      "excerpt": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
+      "content": "<p>Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T21:10:36.118647+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "a2de6a6a6831",
       "slug": "telegrams-pavel-durov-responds-to-russias-terrorism-designation-a2de6a6a6831",
       "title": "Telegram’s Pavel Durov responds to Russia’s terrorism designation",
@@ -719,189 +899,9 @@
       "date": "2026-07-30T15:29:18.792298+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5c5feb3bb3cd",
-      "slug": "samsung-unit-explores-stablecoin-infrastructure-with-upbits-operator-5c5feb3bb3cd",
-      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
-      "excerpt": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
-      "content": "<p>Samsung unit explores stablecoin infrastructure with Upbit’s operator</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:02:48.355446+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "06b7476e18d5",
-      "slug": "hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft-06b7476e18d5",
-      "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
-      "excerpt": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
-      "content": "<p>Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:02:49.895365+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4347af40c478",
-      "slug": "telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-4347af40c478",
-      "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
-      "excerpt": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
-      "content": "<p>Telegram faces terror-related legal action in Australia one day after founder is charged by Russia</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:02:51.779966+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "48183955ff23",
-      "slug": "morning-minute-robinhood-posts-its-best-quarter-ever-48183955ff23",
-      "title": "Morning Minute: Robinhood Posts Its Best Quarter Ever",
-      "excerpt": "Morning Minute: Robinhood Posts Its Best Quarter Ever",
-      "content": "<p>Morning Minute: Robinhood Posts Its Best Quarter Ever</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:02:53.410084+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5b8c3dfbf776",
-      "slug": "crypto-exchange-luno-cuts-global-staff-by-a-fifth-citing-automation-5b8c3dfbf776",
-      "title": "Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation",
-      "excerpt": "Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation",
-      "content": "<p>Crypto Exchange Luno Cuts Global Staff By a Fifth, Citing Automation</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:02:54.951935+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "723c410a2de5",
-      "slug": "microsoft-quietly-adds-new-windows-app-that-wants-to-scan-your-face-723c410a2de5",
-      "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
-      "excerpt": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
-      "content": "<p>Microsoft Quietly Adds New Windows App That Wants to Scan Your Face</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:02:56.492924+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2bc88eceff57",
-      "slug": "us-june-pce-inflation-37-vs-37-expected-core-33-vs-33-expected-2bc88eceff57",
-      "title": "US June PCE inflation 3.7% vs 3.7%% expected. Core 3.3% vs 3.3% expected",
-      "excerpt": "US June PCE inflation 3.7% vs 3.7%% expected. Core 3.3% vs 3.3% expected",
-      "content": "<p>US June PCE inflation 3.7% vs 3.7%% expected. Core 3.3% vs 3.3% expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:02:58.291529+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a06e2ce98aa2",
-      "slug": "us-initial-jobless-claims-197k-versus-200k-expected-a06e2ce98aa2",
-      "title": "US initial jobless claims 197K versus 200K expected",
-      "excerpt": "US initial jobless claims 197K versus 200K expected",
-      "content": "<p>US initial jobless claims 197K versus 200K expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:02:59.832293+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1b6a1845002d",
-      "slug": "us-q2-advance-gdp-15-vs-21-expected-1b6a1845002d",
-      "title": "US Q2 advance GDP +1.5% vs +2.1% expected",
-      "excerpt": "US Q2 advance GDP +1.5% vs +2.1% expected",
-      "content": "<p>US Q2 advance GDP +1.5% vs +2.1% expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:03:01.374823+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "93da986c2a79",
-      "slug": "investinglive-european-markets-wrap-dollar-extends-post-fed-drop-boe-keeps-bank--93da986c2a79",
-      "title": "investingLive European markets wrap: Dollar extends post-Fed drop, BOE keeps bank rate unchanged",
-      "excerpt": "investingLive European markets wrap: Dollar extends post-Fed drop, BOE keeps bank rate unchanged",
-      "content": "<p>investingLive European markets wrap: Dollar extends post-Fed drop, BOE keeps bank rate unchanged</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T13:03:02.920216+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-30T19:59:30.130057+00:00",
+  "lastUpdated": "2026-07-30T21:10:37.618809+00:00",
   "totalCount": 50,
   "newCount": 10
 }
