@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:02.016928+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "846e6ccc030a",
+      "slug": "crypto-for-advisors-is-the-clarity-act-dead-846e6ccc030a",
+      "title": "Crypto for Advisors: Is the Clarity Act dead?",
+      "excerpt": "Crypto for Advisors: Is the Clarity Act dead?",
+      "content": "<p>Crypto for Advisors: Is the Clarity Act dead?</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:04.012248+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cf79989a54fa",
+      "slug": "cmes-duffy-warns-an-overlooked-tax-risk-looms-over-us-perpetual-futures-cf79989a54fa",
+      "title": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
+      "excerpt": "CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures",
+      "content": "<p>CME's Duffy warns an overlooked tax risk looms over U.S. perpetual futures</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:05.554963+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7eba4a39b549",
+      "slug": "japan-unemployment-rate-25-vs-25-expected-7eba4a39b549",
+      "title": "Japan unemployment rate 2.5% vs 2.5% expected",
+      "excerpt": "Japan unemployment rate 2.5% vs 2.5% expected",
+      "content": "<p>Japan unemployment rate 2.5% vs 2.5% expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:07.469655+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c964fd43a03f",
+      "slug": "nz-consumer-confidence-bounces-to-993-from-913-c964fd43a03f",
+      "title": "NZ consumer confidence bounces to 99.3 from 91.3",
+      "excerpt": "NZ consumer confidence bounces to 99.3 from 91.3",
+      "content": "<p>NZ consumer confidence bounces to 99.3 from 91.3</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:09.013697+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a429e832e82d",
+      "slug": "iran-says-us-to-pay-the-price-for-qeshm-civilians-killed-a429e832e82d",
+      "title": "Iran says US to ‘pay the price’ for Qeshm civilians killed",
+      "excerpt": "Iran says US to ‘pay the price’ for Qeshm civilians killed",
+      "content": "<p>Iran says US to ‘pay the price’ for Qeshm civilians killed</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:11.001038+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1477c5c2ee4e",
+      "slug": "saudi-arabia-announces-maritime-defence-alliance-to-protect-red-sea-1477c5c2ee4e",
+      "title": "Saudi Arabia announces maritime defence alliance to protect Red Sea",
+      "excerpt": "Saudi Arabia announces maritime defence alliance to protect Red Sea",
+      "content": "<p>Saudi Arabia announces maritime defence alliance to protect Red Sea</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:12.544168+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c4aa252d38d7",
+      "slug": "the-japanese-yen-gets-its-ambush-and-the-bank-of-japan-gets-overnight-to-justify-c4aa252d38d7",
+      "title": "The Japanese Yen gets its ambush, and the Bank of Japan gets overnight to justify it",
+      "excerpt": "The Japanese Yen gets its ambush, and the Bank of Japan gets overnight to justify it",
+      "content": "<p>The Japanese Yen gets its ambush, and the Bank of Japan gets overnight to justify it</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:14.084614+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cab1e753a4ce",
+      "slug": "japans-tokyo-cpi-inflation-rises-to-20-yoy-in-july-cab1e753a4ce",
+      "title": "Japan’s Tokyo CPI inflation rises to 2.0% YoY in July",
+      "excerpt": "Japan’s Tokyo CPI inflation rises to 2.0% YoY in July",
+      "content": "<p>Japan’s Tokyo CPI inflation rises to 2.0% YoY in July</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:15.631944+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d3466e64a931",
+      "slug": "bank-of-japan-set-to-keep-interest-rates-unchanged-as-markets-assess-timing-of-t-d3466e64a931",
+      "title": "Bank of Japan set to keep interest rates unchanged as markets assess timing of the next hike",
+      "excerpt": "Bank of Japan set to keep interest rates unchanged as markets assess timing of the next hike",
+      "content": "<p>Bank of Japan set to keep interest rates unchanged as markets assess timing of the next hike</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-30T23:53:17.176920+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "a1a510ab03be",
       "slug": "us-senators-sent-revised-ethics-rules-to-white-house-for-clarity-act-report-a1a510ab03be",
       "title": "US Senators sent revised ethics rules to White House for CLARITY Act: Report",
@@ -719,189 +899,9 @@
       "date": "2026-07-30T18:18:26.707121+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f9350c2cb53f",
-      "slug": "bitcoin-stable-as-fed-fave-pce-inflation-sees-first-monthly-drop-in-six-years-f9350c2cb53f",
-      "title": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
-      "excerpt": "Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years",
-      "content": "<p>Bitcoin stable as Fed fave PCE inflation sees first monthly drop in six years</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:05.675484+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "17f90220ba86",
-      "slug": "hyperscale-data-sells-100-btc-to-fund-michigan-ai-data-center-17f90220ba86",
-      "title": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
-      "excerpt": "Hyperscale Data sells 100 BTC to fund Michigan AI data center",
-      "content": "<p>Hyperscale Data sells 100 BTC to fund Michigan AI data center</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:07.208034+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5b430a81840d",
-      "slug": "tokenized-gold-passes-defi-stress-test-but-less-than-2-is-used-as-collateral-5b430a81840d",
-      "title": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
-      "excerpt": "Tokenized gold passes DeFi stress test, but less than 2% is used as collateral",
-      "content": "<p>Tokenized gold passes DeFi stress test, but less than 2% is used as collateral</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:08.743628+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "32846f9d43a2",
-      "slug": "ondo-finance-weighs-acquisition-worth-up-to-500-million-32846f9d43a2",
-      "title": "Ondo Finance weighs acquisition worth up to $500 million",
-      "excerpt": "Ondo Finance weighs acquisition worth up to $500 million",
-      "content": "<p>Ondo Finance weighs acquisition worth up to $500 million</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:10.632376+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f6b5ef9b9ee0",
-      "slug": "your-sexual-wellness-pills-order-info-from-hims-got-shared-with-meta-says-ftc-f6b5ef9b9ee0",
-      "title": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
-      "excerpt": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
-      "content": "<p>Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:12.223453+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e63d1a4ca5c8",
-      "slug": "cathie-woods-ark-invest-sells-bitmine-while-adding-to-coinbase-and-circle-holdin-e63d1a4ca5c8",
-      "title": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
-      "excerpt": "Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings",
-      "content": "<p>Cathie Wood's Ark Invest Sells Bitmine While Adding to Coinbase and Circle Holdings</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:13.753847+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6d295357437d",
-      "slug": "elon-musks-xai-sues-minnesota-to-kill-the-uss-first-ai-nudification-law-6d295357437d",
-      "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
-      "excerpt": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
-      "content": "<p>Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:15.285321+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "686783882e6f",
-      "slug": "completely-legal-grapheneos-pushes-back-as-duress-password-case-proceeds-686783882e6f",
-      "title": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
-      "excerpt": "'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds",
-      "content": "<p>'Completely Legal': GrapheneOS Pushes Back as Duress Password Case Proceeds</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:16.818365+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f9903eceda1b",
-      "slug": "dallas-fed-trimmed-mean-14-vs-27-in-may-f9903eceda1b",
-      "title": "Dallas Fed Trimmed Mean +1.4% vs +2.7% in May",
-      "excerpt": "Dallas Fed Trimmed Mean +1.4% vs +2.7% in May",
-      "content": "<p>Dallas Fed Trimmed Mean +1.4% vs +2.7% in May</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:18.656145+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f42ab30322d1",
-      "slug": "atlanta-fed-gdpnow-initial-estimate-for-q3-is-set-at-50-f42ab30322d1",
-      "title": "Atlanta Fed GDPNow initial estimate for Q3 is set at 5.0%.",
-      "excerpt": "Atlanta Fed GDPNow initial estimate for Q3 is set at 5.0%.",
-      "content": "<p>Atlanta Fed GDPNow initial estimate for Q3 is set at 5.0%.</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-30T17:00:20.187695+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-30T22:33:03.283152+00:00",
+  "lastUpdated": "2026-07-30T23:53:18.677085+00:00",
   "totalCount": 50,
   "newCount": 10
 }
