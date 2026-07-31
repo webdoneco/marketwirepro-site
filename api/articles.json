@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "177c0a84e27f",
+      "slug": "ex-ftx-users-report-funds-being-released-in-900m-distribution-round-177c0a84e27f",
+      "title": "Ex-FTX users report funds being released in $900M distribution round",
+      "excerpt": "Ex-FTX users report funds being released in $900M distribution round",
+      "content": "<p>Ex-FTX users report funds being released in $900M distribution round</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:27.932631+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e8e4dfab891b",
+      "slug": "tether-earns-15b-in-q2-as-us-treasury-holdings-fuel-profits-e8e4dfab891b",
+      "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+      "excerpt": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
+      "content": "<p>Tether earns $1.5B in Q2 as US Treasury holdings fuel profits</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:29.479335+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "51f5d1e4ec09",
+      "slug": "bybit-adds-tokenized-nvidia-apple-tesla-stocks-as-loan-collateral-51f5d1e4ec09",
+      "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+      "excerpt": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
+      "content": "<p>Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:31.020517+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "864ddbebebb1",
+      "slug": "us-treasury-yields-rise-as-tips-challenge-the-inflation-narrative-864ddbebebb1",
+      "title": "US Treasury yields rise as TIPS challenge the inflation narrative",
+      "excerpt": "US Treasury yields rise as TIPS challenge the inflation narrative",
+      "content": "<p>US Treasury yields rise as TIPS challenge the inflation narrative</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:32.570296+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fe56c966c706",
+      "slug": "bitcoin-price-sinks-to-2-week-lows-as-us-stocks-fail-to-copy-asia-rebound-fe56c966c706",
+      "title": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
+      "excerpt": "Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound",
+      "content": "<p>Bitcoin price sinks to 2-week lows as US stocks fail to copy Asia rebound</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:34.112381+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a776ad68ff73",
+      "slug": "coldcards-38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-invest-a776ad68ff73",
+      "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
+      "excerpt": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
+      "content": "<p>Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:36.244772+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "557096ffef06",
+      "slug": "quantum-computing-nears-commercial-breakthrough-ibm-ceo-says-557096ffef06",
+      "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
+      "excerpt": "Quantum computing nears commercial breakthrough, IBM CEO says",
+      "content": "<p>Quantum computing nears commercial breakthrough, IBM CEO says</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:37.786227+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bc4027789311",
+      "slug": "tether-reports-15b-q2-profit-as-usdt-supply-grows-gold-holdings-rise-bc4027789311",
+      "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
+      "excerpt": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
+      "content": "<p>Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:39.463499+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8aa1b7604b98",
+      "slug": "xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay-8aa1b7604b98",
+      "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
+      "excerpt": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
+      "content": "<p>XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:41.004391+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "065c4ab8374e",
+      "slug": "ai-company-sues-town-for-trying-to-block-data-center-near-national-park-065c4ab8374e",
+      "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
+      "excerpt": "AI Company Sues Town for Trying to Block Data Center Near National Park",
+      "content": "<p>AI Company Sues Town for Trying to Block Data Center Near National Park</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-07-31T17:17:42.546533+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "41e716ac9417",
       "slug": "ecb-says-digital-euro-app-will-exceed-eu-accessibility-standards-41e716ac9417",
       "title": "ECB says digital euro app will exceed EU accessibility standards",
@@ -719,189 +899,9 @@
       "date": "2026-07-31T08:13:44.050442+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "363e3c28e447",
-      "slug": "cryptos-next-altseason-may-have-fewer-winners-wintermute-363e3c28e447",
-      "title": "Crypto’s next altseason may have fewer winners: Wintermute",
-      "excerpt": "Crypto’s next altseason may have fewer winners: Wintermute",
-      "content": "<p>Crypto’s next altseason may have fewer winners: Wintermute</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:23:56.473714+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e1df97175540",
-      "slug": "coldcard-issues-mk3-warning-as-experts-examine-38m-bitcoin-wallet-drain-e1df97175540",
-      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
-      "excerpt": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
-      "content": "<p>Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:23:58.023620+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "626c8ca5a554",
-      "slug": "major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep-626c8ca5a554",
-      "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
-      "excerpt": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
-      "content": "<p>Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:24:00.176111+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d068d0835277",
-      "slug": "global-banks-test-tokenized-money-for-cross-border-payments-in-1-million-bis-pil-d068d0835277",
-      "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
-      "excerpt": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
-      "content": "<p>Global banks test tokenized money for cross-border payments in $1 million BIS pilot</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:24:01.720936+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2c583b25a7c2",
-      "slug": "bitcoin-quantum-threat-inches-closer-as-ibm-claims-trusted-quantum-advantage-2c583b25a7c2",
-      "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
-      "excerpt": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
-      "content": "<p>Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:24:03.376470+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0f7c4f03a878",
-      "slug": "investinglive-asia-pacific-fx-news-wrap-yen-intervention-fades-as-boj-holds-0f7c4f03a878",
-      "title": "investingLive Asia-pacific FX news wrap: Yen intervention fades as BOJ holds",
-      "excerpt": "investingLive Asia-pacific FX news wrap: Yen intervention fades as BOJ holds",
-      "content": "<p>investingLive Asia-pacific FX news wrap: Yen intervention fades as BOJ holds</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:24:05.154036+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d5cc0ea101fe",
-      "slug": "gold-sticks-to-intraday-losses-as-fed-hike-bets-and-iran-risks-revive-usd-demand-d5cc0ea101fe",
-      "title": "Gold sticks to intraday losses as Fed hike bets and Iran risks revive USD demand",
-      "excerpt": "Gold sticks to intraday losses as Fed hike bets and Iran risks revive USD demand",
-      "content": "<p>Gold sticks to intraday losses as Fed hike bets and Iran risks revive USD demand</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:24:06.910569+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "085215feb7d8",
-      "slug": "wti-falls-to-near-8050-on-profit-taking-increased-traffic-through-strait-of-horm-085215feb7d8",
-      "title": "WTI falls to near $80.50 on profit-taking, increased traffic through Strait of Hormuz",
-      "excerpt": "WTI falls to near $80.50 on profit-taking, increased traffic through Strait of Hormuz",
-      "content": "<p>WTI falls to near $80.50 on profit-taking, increased traffic through Strait of Hormuz</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:24:08.456631+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f52f77cf270f",
-      "slug": "asian-stocks-surge-led-by-kospi-on-ai-optimism-wall-street-gains-f52f77cf270f",
-      "title": "Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains",
-      "excerpt": "Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains",
-      "content": "<p>Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:24:10.019121+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e6754a012c3c",
-      "slug": "canadian-dollar-retreats-on-sliding-oil-prices-as-usd-recovers-on-fed-bets-midea-e6754a012c3c",
-      "title": "Canadian Dollar retreats on sliding oil prices as USD recovers on Fed bets, Mideast risks",
-      "excerpt": "Canadian Dollar retreats on sliding oil prices as USD recovers on Fed bets, Mideast risks",
-      "content": "<p>Canadian Dollar retreats on sliding oil prices as USD recovers on Fed bets, Mideast risks</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T05:24:11.565717+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-31T15:34:37.422014+00:00",
+  "lastUpdated": "2026-07-31T17:17:44.046689+00:00",
   "totalCount": 50,
   "newCount": 10
 }
