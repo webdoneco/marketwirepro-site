@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T01:48:16.080997+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "befa6ec648bf",
+      "slug": "my-ex-husbands-sister-died-so-why-is-fidelity-asking-me-for-her-death-certificat-befa6ec648bf",
+      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "excerpt": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "content": "<p>My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T01:48:18.632713+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "80f321c7963c",
       "slug": "crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says-80f321c7963c",
       "title": "Crypto faces 3 barriers to next bull run, STS Digital CEO says",
@@ -863,45 +899,9 @@
       "date": "2026-07-31T17:17:42.546533+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "41e716ac9417",
-      "slug": "ecb-says-digital-euro-app-will-exceed-eu-accessibility-standards-41e716ac9417",
-      "title": "ECB says digital euro app will exceed EU accessibility standards",
-      "excerpt": "ECB says digital euro app will exceed EU accessibility standards",
-      "content": "<p>ECB says digital euro app will exceed EU accessibility standards</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T15:34:21.369288+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "74e05f98fc20",
-      "slug": "amlbot-launches-ai-tracer-for-self-service-blockchain-investigations-74e05f98fc20",
-      "title": "AMLBot launches AI Tracer for self-service blockchain investigations",
-      "excerpt": "AMLBot launches AI Tracer for self-service blockchain investigations",
-      "content": "<p>AMLBot launches AI Tracer for self-service blockchain investigations</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T15:34:22.918840+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-07-31T23:52:40.213970+00:00",
+  "lastUpdated": "2026-08-01T01:48:20.249155+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 2
 }
