@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "ea362dd67690",
+      "slug": "bitcoin-cold-wallet-attack-spreads-to-4500-addresses-as-losses-near-89-million-ea362dd67690",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "excerpt": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "content": "<p>Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T21:14:27.814853+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2963ebea05d4",
+      "slug": "we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-2963ebea05d4",
+      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "excerpt": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
+      "content": "<p>‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T21:14:30.261420+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "bea3a00a8ff8",
       "slug": "coldcard-bitcoin-loss-estimate-rises-to-70m-after-galaxy-analysis-bea3a00a8ff8",
       "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
@@ -863,45 +899,9 @@
       "date": "2026-08-01T12:31:41.805653+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "32899ad56533",
-      "slug": "the-iran-war-sent-investors-into-fertilizer-stocks-but-heres-the-china-risk-ever-32899ad56533",
-      "title": "The Iran war sent investors into fertilizer stocks — but here’s the China risk everyone’s missing",
-      "excerpt": "The Iran war sent investors into fertilizer stocks — but here’s the China risk everyone’s missing",
-      "content": "<p>The Iran war sent investors into fertilizer stocks — but here’s the China risk everyone’s missing</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T12:31:43.336402+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e74c4a6bd336",
-      "slug": "russia-expands-crypto-mining-ban-to-moscow-through-2032-e74c4a6bd336",
-      "title": "Russia expands crypto mining ban to Moscow through 2032",
-      "excerpt": "Russia expands crypto mining ban to Moscow through 2032",
-      "content": "<p>Russia expands crypto mining ban to Moscow through 2032</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T11:09:30.750439+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-01T20:04:23.789948+00:00",
+  "lastUpdated": "2026-08-01T21:14:31.815089+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 2
 }
