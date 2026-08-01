@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "9a67c687df55",
+      "slug": "the-more-americans-know-about-ai-the-less-they-like-it-gallup-9a67c687df55",
+      "title": "The More Americans Know About AI, the Less They Like It: Gallup",
+      "excerpt": "The More Americans Know About AI, the Less They Like It: Gallup",
+      "content": "<p>The More Americans Know About AI, the Less They Like It: Gallup</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T15:33:38.848761+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "982746b12f1e",
+      "slug": "univ-of-michigan-consumer-confidence-final-for-july-552-vs-540-estimate-982746b12f1e",
+      "title": "Univ. of Michigan Consumer confidence final for July 55.2 vs 54.0 estimate",
+      "excerpt": "Univ. of Michigan Consumer confidence final for July 55.2 vs 54.0 estimate",
+      "content": "<p>Univ. of Michigan Consumer confidence final for July 55.2 vs 54.0 estimate</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T15:33:40.492333+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f4c4e4a2fe84",
+      "slug": "gold-slides-as-us-yields-surge-keeping-4100-out-of-reach-f4c4e4a2fe84",
+      "title": "Gold slides as US yields surge, keeping $4,100 out of reach",
+      "excerpt": "Gold slides as US yields surge, keeping $4,100 out of reach",
+      "content": "<p>Gold slides as US yields surge, keeping $4,100 out of reach</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T15:33:42.568638+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "45d8f3f154f1",
+      "slug": "the-japanese-yen-has-a-second-buyer-nobody-will-name-45d8f3f154f1",
+      "title": "The Japanese Yen has a second buyer nobody will name",
+      "excerpt": "The Japanese Yen has a second buyer nobody will name",
+      "content": "<p>The Japanese Yen has a second buyer nobody will name</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T15:33:44.096562+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a47c8e8430e1",
+      "slug": "medicare-is-about-to-change-a-drug-program-that-held-down-the-cost-of-premiums-h-a47c8e8430e1",
+      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
+      "excerpt": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
+      "content": "<p>Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T15:33:45.836324+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "53b2ecf9e753",
+      "slug": "caregivers-deplete-their-savings-and-many-have-stopped-trying-to-save-should-the-53b2ecf9e753",
+      "title": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
+      "excerpt": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
+      "content": "<p>Caregivers deplete their savings and many have stopped trying to save. Should they get paid?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-01T15:33:47.361037+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "1537806fdc0a",
       "slug": "solana-foundations-new-ciso-warns-ai-is-making-crypto-scams-more-convincing-1537806fdc0a",
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
@@ -791,117 +899,9 @@
       "date": "2026-07-31T21:34:45.884156+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e27fe7da5362",
-      "slug": "did-china-build-a-top-tier-ai-model-by-itself-a-new-report-suggests-nvidia-chips-e27fe7da5362",
-      "title": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
-      "excerpt": "Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.",
-      "content": "<p>Did China build a top-tier AI model by itself? A new report suggests Nvidia chips played a role.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T21:34:47.428493+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "75e4751879dd",
-      "slug": "job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it-75e4751879dd",
-      "title": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
-      "excerpt": "Job seekers can now spend thousands on AI certificates. Is it worth it?",
-      "content": "<p>Job seekers can now spend thousands on AI certificates. Is it worth it?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T21:34:48.978804+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "915759811b9e",
-      "slug": "pumpfun-laid-off-workers-before-they-received-millions-in-pump-tokens-report-915759811b9e",
-      "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-      "excerpt": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-      "content": "<p>Pump.fun laid off workers before they received millions in PUMP tokens: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T20:13:40.143272+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "262e18866981",
-      "slug": "ai-music-company-suno-loses-copyright-case-in-germany-262e18866981",
-      "title": "AI Music Company Suno Loses Copyright Case in Germany",
-      "excerpt": "AI Music Company Suno Loses Copyright Case in Germany",
-      "content": "<p>AI Music Company Suno Loses Copyright Case in Germany</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T20:13:42.010950+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b631f0a30f46",
-      "slug": "us-is-banning-foreign-robotseven-roombas-b631f0a30f46",
-      "title": "US Is Banning Foreign Robots—Even Roombas",
-      "excerpt": "US Is Banning Foreign Robots—Even Roombas",
-      "content": "<p>US Is Banning Foreign Robots—Even Roombas</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T20:13:43.545282+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9c3760a97d57",
-      "slug": "usdchf-price-forecast-bulls-defend-50-day-sma-as-rebound-builds-9c3760a97d57",
-      "title": "USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds",
-      "excerpt": "USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds",
-      "content": "<p>USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-07-31T20:13:45.579648+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-01T14:21:28.583287+00:00",
+  "lastUpdated": "2026-08-01T15:33:48.893185+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 6
 }
