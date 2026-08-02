@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "47aadd061d02",
+      "slug": "trump-media-sells-another-2628-btc-holdings-fall-to-4261-btc-47aadd061d02",
+      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+      "excerpt": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+      "content": "<p>Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-02T11:10:02.774063+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7a655f6d05aa",
+      "slug": "tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-7a655f6d05aa",
+      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
+      "excerpt": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
+      "content": "<p>Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-02T11:10:05.674164+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "99eacf1f513a",
       "slug": "coldcard-hack-sparks-biggest-sub-1-btc-move-since-ftx-cryptoquant-99eacf1f513a",
       "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
@@ -863,45 +899,9 @@
       "date": "2026-08-01T14:21:20.347307+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c00c09102b1e",
-      "slug": "college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-ren-c00c09102b1e",
-      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-      "excerpt": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-      "content": "<p>College kids are moving into retirement communities for reasons beyond ‘cheap rent’</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T14:21:22.453718+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8f3506d0bd5d",
-      "slug": "they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8f3506d0bd5d",
-      "title": "They spent tens of thousands of dollars on home remodels — only to regret it",
-      "excerpt": "They spent tens of thousands of dollars on home remodels — only to regret it",
-      "content": "<p>They spent tens of thousands of dollars on home remodels — only to regret it</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T14:21:23.998486+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-02T09:30:20.113655+00:00",
+  "lastUpdated": "2026-08-02T11:10:07.247606+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 2
 }
