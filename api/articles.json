@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "uid": "ad47df439caf",
+      "slug": "counting-down-the-days-state-of-crypto-ad47df439caf",
+      "title": "Counting down the days: State of Crypto",
+      "excerpt": "Counting down the days: State of Crypto",
+      "content": "<p>Counting down the days: State of Crypto</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-02T18:52:50.426080+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "aef4828ed223",
+      "slug": "google-yanks-google-earth-ai-image-tool-a-day-after-launch-over-deepfake-fears-aef4828ed223",
+      "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+      "excerpt": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+      "content": "<p>Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-02T18:52:52.139729+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d419e4762d62",
+      "slug": "nzdusd-price-forecast-bulls-eye-06000-after-sma-break-d419e4762d62",
+      "title": "NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break",
+      "excerpt": "NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break",
+      "content": "<p>NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-02T18:52:54.340998+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eab484ca5f86",
+      "slug": "forecasting-the-upcoming-week-us-labor-market-takes-center-stage-after-hawkish-f-eab484ca5f86",
+      "title": "Forecasting the upcoming week: US labor market takes center stage after hawkish Fed split",
+      "excerpt": "Forecasting the upcoming week: US labor market takes center stage after hawkish Fed split",
+      "content": "<p>Forecasting the upcoming week: US labor market takes center stage after hawkish Fed split</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-02T18:52:55.921208+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "550a0185bf45",
       "slug": "why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-te-550a0185bf45",
       "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
@@ -827,81 +899,9 @@
       "date": "2026-08-01T18:52:37.947442+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f6ad4ff062fa",
-      "slug": "dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get--f6ad4ff062fa",
-      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-      "excerpt": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
-      "content": "<p>‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T18:52:39.502184+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "22ffc229ad45",
-      "slug": "rising-medicare-part-d-premiums-could-drive-more-people-into-medicare-advantage--22ffc229ad45",
-      "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
-      "excerpt": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
-      "content": "<p>Rising Medicare Part D premiums could drive more people into Medicare Advantage plans</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T18:52:41.057655+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b069b61ce1c4",
-      "slug": "bank-of-italy-finds-no-consistent-cost-advantage-for-stablecoin-remittances-b069b61ce1c4",
-      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-      "excerpt": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-      "content": "<p>Bank of Italy finds no consistent cost advantage for stablecoin remittances</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T17:51:43.261950+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6e26df996d68",
-      "slug": "tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it-6e26df996d68",
-      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "excerpt": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "content": "<p>Tokenized stock trading surged 288% in July, but one QQQ token drove most of it</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T17:51:45.064795+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-02T17:52:40.328887+00:00",
+  "lastUpdated": "2026-08-02T18:52:58.301342+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 4
 }
