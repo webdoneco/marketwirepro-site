@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "09a2f144f784",
+      "slug": "coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief-09a2f144f784",
+      "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
+      "excerpt": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
+      "content": "<p>Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:18.163972+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7f1ab494b9b8",
+      "slug": "south-korean-stablecoin-outflows-top-367m-in-june-report-7f1ab494b9b8",
+      "title": "South Korean stablecoin outflows top $367M in June: Report",
+      "excerpt": "South Korean stablecoin outflows top $367M in June: Report",
+      "content": "<p>South Korean stablecoin outflows top $367M in June: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:19.697129+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a0c0681ca09b",
+      "slug": "suspected-4th-coldcard-attack-wave-sweeps-448-bitcoin-galaxys-thorn-a0c0681ca09b",
+      "title": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
+      "excerpt": "Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn",
+      "content": "<p>Suspected 4th Coldcard attack wave sweeps 448 Bitcoin: Galaxy’s Thorn</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:21.228819+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "374f6230f31f",
+      "slug": "strategy-holds-strc-dividend-at-12-374f6230f31f",
+      "title": "Strategy holds STRC dividend at 12%",
+      "excerpt": "Strategy holds STRC dividend at 12%",
+      "content": "<p>Strategy holds STRC dividend at 12%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:23.001827+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eeebddcb6f93",
+      "slug": "market-moving-news-for-asian-trading-on-3-august-oil-slumps-on-trumps-iran-claim-eeebddcb6f93",
+      "title": "Market moving news for Asian trading on 3 August: Oil slumps on Trump's Iran claims",
+      "excerpt": "Market moving news for Asian trading on 3 August: Oil slumps on Trump's Iran claims",
+      "content": "<p>Market moving news for Asian trading on 3 August: Oil slumps on Trump's Iran claims</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:24.868591+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "16dbc43fe93b",
+      "slug": "chinas-ratingdog-manufacturing-pmi-eases-to-509-eighth-month-of-growth-16dbc43fe93b",
+      "title": "China's RatingDog manufacturing PMI eases to 50.9, eighth month of growth",
+      "excerpt": "China's RatingDog manufacturing PMI eases to 50.9, eighth month of growth",
+      "content": "<p>China's RatingDog manufacturing PMI eases to 50.9, eighth month of growth</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:26.400803+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "72824f49679e",
+      "slug": "china-private-survey-july-manufacturing-pmi-509-expected-515-prior-517-72824f49679e",
+      "title": "China private survey July manufacturing PMI 50.9 (expected 51.5, prior 51.7)",
+      "excerpt": "China private survey July manufacturing PMI 50.9 (expected 51.5, prior 51.7)",
+      "content": "<p>China private survey July manufacturing PMI 50.9 (expected 51.5, prior 51.7)</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:27.932896+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bff805af4e22",
+      "slug": "eurusd-price-forecast-gains-traction-above-11500-while-remaining-constrained-bel-bff805af4e22",
+      "title": "EUR/USD Price Forecast: Gains traction above 1.1500, while remaining constrained below 100-day SMA",
+      "excerpt": "EUR/USD Price Forecast: Gains traction above 1.1500, while remaining constrained below 100-day SMA",
+      "content": "<p>EUR/USD Price Forecast: Gains traction above 1.1500, while remaining constrained below 100-day SMA</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:29.539073+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "31dfd1f214be",
+      "slug": "gold-holds-above-4050-as-easing-inflation-fears-curb-fed-hike-bets-usd-bounce-ca-31dfd1f214be",
+      "title": "Gold holds above $4,050 as easing inflation fears curb Fed hike bets; USD bounce caps gains",
+      "excerpt": "Gold holds above $4,050 as easing inflation fears curb Fed hike bets; USD bounce caps gains",
+      "content": "<p>Gold holds above $4,050 as easing inflation fears curb Fed hike bets; USD bounce caps gains</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:31.071358+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ba921cd33b09",
+      "slug": "india-gold-price-today-gold-rises-according-to-fxstreet-data-ba921cd33b09",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "excerpt": "India Gold price today: Gold rises, according to FXStreet data",
+      "content": "<p>India Gold price today: Gold rises, according to FXStreet data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-03T04:56:32.605536+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "8148b8997a68",
       "slug": "coldcard-exploit-sparks-bitcoin-flight-bullish-crypto-consolidation-hodlers-dige-8148b8997a68",
       "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
@@ -719,189 +899,9 @@
       "date": "2026-08-02T12:32:47.119960+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "13ff8901158b",
-      "slug": "unlike-the-ftx-collapse-the-89-million-coldcard-exploit-has-investors-sending-bi-13ff8901158b",
-      "title": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-      "excerpt": "Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges",
-      "content": "<p>Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-02T12:32:48.862039+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f530304e36b5",
-      "slug": "investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine--f530304e36b5",
-      "title": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
-      "excerpt": "Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.",
-      "content": "<p>Investors are rotating into financial stocks. The Fed’s next move could determine how far the rally runs.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-02T12:32:51.078772+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0f968cbb0793",
-      "slug": "financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-ha-0f968cbb0793",
-      "title": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
-      "excerpt": "Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.",
-      "content": "<p>Financial stocks are crushing it. These charts show why the ‘breakout’ rally may have just begun.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-02T12:32:52.608337+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5542cf586ee6",
-      "slug": "why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-5542cf586ee6",
-      "title": "Why every tech giant wants to look like a cybersecurity company in the AI era",
-      "excerpt": "Why every tech giant wants to look like a cybersecurity company in the AI era",
-      "content": "<p>Why every tech giant wants to look like a cybersecurity company in the AI era</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-02T12:32:54.139398+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "47aadd061d02",
-      "slug": "trump-media-sells-another-2628-btc-holdings-fall-to-4261-btc-47aadd061d02",
-      "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
-      "excerpt": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
-      "content": "<p>Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-02T11:10:02.774063+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7a655f6d05aa",
-      "slug": "tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-7a655f6d05aa",
-      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
-      "excerpt": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
-      "content": "<p>Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-02T11:10:05.674164+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "99eacf1f513a",
-      "slug": "coldcard-hack-sparks-biggest-sub-1-btc-move-since-ftx-cryptoquant-99eacf1f513a",
-      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-      "excerpt": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-      "content": "<p>Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-02T09:30:17.421188+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3af8d98d99dc",
-      "slug": "my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-3af8d98d99dc",
-      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-      "excerpt": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-      "content": "<p>My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T23:27:26.293180+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "37bdb9acc5f2",
-      "slug": "onchain-in-court-what-happened-in-crypto-legal-news-this-week-37bdb9acc5f2",
-      "title": "Onchain, in court: What happened in crypto legal news this week",
-      "excerpt": "Onchain, in court: What happened in crypto legal news this week",
-      "content": "<p>Onchain, in court: What happened in crypto legal news this week</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T22:23:44.632482+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e74c4a6bd336",
-      "slug": "russia-expands-crypto-mining-ban-to-moscow-through-2032-e74c4a6bd336",
-      "title": "Russia expands crypto mining ban to Moscow through 2032",
-      "excerpt": "Russia expands crypto mining ban to Moscow through 2032",
-      "content": "<p>Russia expands crypto mining ban to Moscow through 2032</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-01T22:23:46.180119+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-03T01:03:30.812471+00:00",
+  "lastUpdated": "2026-08-03T04:56:34.105676+00:00",
   "totalCount": 50,
-  "newCount": 9
+  "newCount": 10
 }
