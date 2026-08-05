@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "2b26c00f18df",
+      "slug": "clarity-or-not-crypto-isnt-going-back-in-the-bottle-bitwise-2b26c00f18df",
+      "title": "CLARITY or not, crypto isn’t going back in the bottle: Bitwise",
+      "excerpt": "CLARITY or not, crypto isn’t going back in the bottle: Bitwise",
+      "content": "<p>CLARITY or not, crypto isn’t going back in the bottle: Bitwise</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:18:50.817726+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "064de6ce7bbc",
+      "slug": "bybits-eu-payments-arm-secures-austrian-e-money-license-064de6ce7bbc",
+      "title": "Bybit’s EU payments arm secures Austrian e-money license",
+      "excerpt": "Bybit’s EU payments arm secures Austrian e-money license",
+      "content": "<p>Bybit’s EU payments arm secures Austrian e-money license</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:18:52.348327+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ed1340a40409",
+      "slug": "ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire-ed1340a40409",
+      "title": "Ethereum researchers want to rein in staking; critics say it could backfire",
+      "excerpt": "Ethereum researchers want to rein in staking; critics say it could backfire",
+      "content": "<p>Ethereum researchers want to rein in staking; critics say it could backfire</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:18:53.876961+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "38c435f1c876",
+      "slug": "new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-112-billi-38c435f1c876",
+      "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+      "excerpt": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
+      "content": "<p>New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:18:55.622968+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "82f63f200eaf",
+      "slug": "you-stole-please-return-some-coldcard-hackers-wallet-becomes-a-graffiti-wall-of--82f63f200eaf",
+      "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
+      "excerpt": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
+      "content": "<p>\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:18:57.153132+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f443f35dcc8b",
+      "slug": "bitcoin-flat-at-64000-as-stocks-print-records-and-hormuz-deal-nears-f443f35dcc8b",
+      "title": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
+      "excerpt": "Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears",
+      "content": "<p>Bitcoin flat at $64,000 as stocks print records and Hormuz deal nears</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:18:58.682660+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5b63a8e70ab6",
+      "slug": "open-usd-rattled-circles-stock-but-its-key-backers-still-support-usdc-5b63a8e70ab6",
+      "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "excerpt": "Open USD rattled Circle's stock, but its key backers still support USDC",
+      "content": "<p>Open USD rattled Circle's stock, but its key backers still support USDC</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:19:00.212441+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6c61a326ac24",
+      "slug": "iran-reportedly-says-that-strait-of-hormuz-agreement-with-oman-will-be-delayed-s-6c61a326ac24",
+      "title": "Iran reportedly says that Strait of Hormuz agreement with Oman will be delayed so long as US threats continue",
+      "excerpt": "Iran reportedly says that Strait of Hormuz agreement with Oman will be delayed so long as US threats continue",
+      "content": "<p>Iran reportedly says that Strait of Hormuz agreement with Oman will be delayed so long as US threats continue</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:19:01.914278+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "232ac4ccae7f",
+      "slug": "us-president-trump-on-iran-situation-things-are-moving-along-very-nicely-232ac4ccae7f",
+      "title": "US president Trump on Iran situation: Things are moving along very nicely",
+      "excerpt": "US president Trump on Iran situation: Things are moving along very nicely",
+      "content": "<p>US president Trump on Iran situation: Things are moving along very nicely</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:19:03.443262+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "206f655a8544",
+      "slug": "nz-commodity-prices-post-biggest-monthly-fall-since-2022-on-dairy-slide-206f655a8544",
+      "title": "NZ commodity prices post biggest monthly fall since 2022 on dairy slide",
+      "excerpt": "NZ commodity prices post biggest monthly fall since 2022 on dairy slide",
+      "content": "<p>NZ commodity prices post biggest monthly fall since 2022 on dairy slide</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-05T06:19:04.972053+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "deb4393b31eb",
       "slug": "ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire-deb4393b31eb",
       "title": "Ethereum researchers want to rein in staking, critics say it could backfire",
@@ -719,189 +899,9 @@
       "date": "2026-08-04T22:02:46.071713+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "69539c6d683b",
-      "slug": "us-uk-reaffirm-support-for-stablecoins-tokenization-in-joint-financial-regulatio-69539c6d683b",
-      "title": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
-      "excerpt": "US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks",
-      "content": "<p>US, UK reaffirm support for stablecoins, tokenization in joint financial regulation talks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:08.367890+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "51dde57035c9",
-      "slug": "spacex-tops-wall-street-revenue-forecast-posts-540-million-loss-on-bitcoin-holdi-51dde57035c9",
-      "title": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
-      "excerpt": "SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings",
-      "content": "<p>SpaceX tops Wall Street revenue forecast, posts $540 million loss on bitcoin holdings</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:10.241592+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1d432b1202b9",
-      "slug": "jim-cramer-is-selling-his-bitcoin-over-quantum-threatcrypto-twitter-is-thrilled-1d432b1202b9",
-      "title": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
-      "excerpt": "Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled",
-      "content": "<p>Jim Cramer Is Selling His Bitcoin Over Quantum Threat—Crypto Twitter Is Thrilled</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:11.819140+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "612f31fdb002",
-      "slug": "police-have-arrested-37-americans-over-ai-data-center-protests-this-year-612f31fdb002",
-      "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
-      "excerpt": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
-      "content": "<p>Police Have Arrested 37 Americans Over AI Data Center Protests This Year</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:13.351087+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "29376aaf05d5",
-      "slug": "coldcard-bitcoin-exploit-explained-entropy-how-keys-are-generated-and-why-bits-m-29376aaf05d5",
-      "title": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
-      "excerpt": "Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter",
-      "content": "<p>Coldcard Bitcoin Exploit Explained: Entropy, How Keys Are Generated, and Why Bits Matter</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:14.884304+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "747257d8a1c1",
-      "slug": "investinglive-americas-fx-news-wrap-everyone-back-in-the-ai-boat-747257d8a1c1",
-      "title": "investingLive Americas FX news wrap: Everyone back in the AI boat",
-      "excerpt": "investingLive Americas FX news wrap: Everyone back in the AI boat",
-      "content": "<p>investingLive Americas FX news wrap: Everyone back in the AI boat</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:16.519233+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a22449a795ab",
-      "slug": "vietnam-dong-stable-despite-widening-trade-deficit-commerzbank-a22449a795ab",
-      "title": "Vietnam Dong: Stable despite widening trade deficit – Commerzbank",
-      "excerpt": "Vietnam Dong: Stable despite widening trade deficit – Commerzbank",
-      "content": "<p>Vietnam Dong: Stable despite widening trade deficit – Commerzbank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:18.282913+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9b4b4ab7b625",
-      "slug": "nothing-britain-does-moves-the-pound-against-the-dollar-9b4b4ab7b625",
-      "title": "Nothing Britain does moves the Pound against the Dollar",
-      "excerpt": "Nothing Britain does moves the Pound against the Dollar",
-      "content": "<p>Nothing Britain does moves the Pound against the Dollar</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:19.819246+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4ef25649021b",
-      "slug": "forex-today-oil-extends-collapse-on-hormuz-reopening-reports-silver-surges-4ef25649021b",
-      "title": "Forex Today: Oil extends collapse on Hormuz reopening reports, Silver surges",
-      "excerpt": "Forex Today: Oil extends collapse on Hormuz reopening reports, Silver surges",
-      "content": "<p>Forex Today: Oil extends collapse on Hormuz reopening reports, Silver surges</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:21.350664+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b47ee5540df3",
-      "slug": "singapore-dollar-gains-risk-watched-below-12790-against-us-dollar-uob-b47ee5540df3",
-      "title": "Singapore Dollar: Gains risk watched below 1.2790 against US Dollar – UOB",
-      "excerpt": "Singapore Dollar: Gains risk watched below 1.2790 against US Dollar – UOB",
-      "content": "<p>Singapore Dollar: Gains risk watched below 1.2790 against US Dollar – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-04T20:48:22.882417+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-05T03:52:58.537230+00:00",
+  "lastUpdated": "2026-08-05T06:19:06.472255+00:00",
   "totalCount": 50,
   "newCount": 10
 }
