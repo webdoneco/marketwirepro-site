@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "603c4616a2fc",
+      "slug": "bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-busine-603c4616a2fc",
+      "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+      "excerpt": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+      "content": "<p>BitMEX sale collapsed as buyers balked at founder ownership and shrinking business</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T23:01:46.278848+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6671f16988bc",
+      "slug": "bybit-sues-north-korea-and-lazarus-group-over-15-billion-hack-secures-asset-free-6671f16988bc",
+      "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+      "excerpt": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+      "content": "<p>Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T23:01:47.813046+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8f54040ec679",
+      "slug": "xrp-at-a-crossroads-as-senate-punts-on-clarity-act-8f54040ec679",
+      "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
+      "excerpt": "XRP at a Crossroads as Senate Punts on Clarity Act",
+      "content": "<p>XRP at a Crossroads as Senate Punts on Clarity Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T23:01:49.397757+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "40e348fb933f",
+      "slug": "investinglive-european-markets-wrap-gold-advances-dollar-muted-ahead-of-nfp-40e348fb933f",
+      "title": "investingLive European markets wrap: Gold advances, dollar muted ahead of NFP",
+      "excerpt": "investingLive European markets wrap: Gold advances, dollar muted ahead of NFP",
+      "content": "<p>investingLive European markets wrap: Gold advances, dollar muted ahead of NFP</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T23:01:51.075361+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "35a0a449900d",
+      "slug": "trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-his-35a0a449900d",
+      "title": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+      "excerpt": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+      "content": "<p>Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T23:01:52.897770+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "805520fc3058",
+      "slug": "should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable--805520fc3058",
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "excerpt": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "content": "<p>Should wealthier Americans forgo their Social Security benefits as a charitable gesture?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T23:01:54.427838+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b490bbdb74e4",
       "slug": "donald-trumps-media-company-to-terminate-cryptocom-deal-b490bbdb74e4",
       "title": "Donald Trump’s media company to terminate Crypto.com deal",
@@ -791,117 +899,9 @@
       "date": "2026-08-07T18:38:17.536575+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6e156541cccc",
-      "slug": "south-korean-won-intervention-risks-support-krw-against-us-dollar-dbs-6e156541cccc",
-      "title": "South Korean Won: Intervention risks support KRW against US Dollar – DBS",
-      "excerpt": "South Korean Won: Intervention risks support KRW against US Dollar – DBS",
-      "content": "<p>South Korean Won: Intervention risks support KRW against US Dollar – DBS</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T18:38:19.066529+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2103661d6d55",
-      "slug": "heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-2103661d6d55",
-      "title": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
-      "excerpt": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
-      "content": "<p>Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T18:38:20.778381+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "77cd581d9c66",
-      "slug": "im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-jo-77cd581d9c66",
-      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "excerpt": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "content": "<p>I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T18:38:22.306900+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2701932705ca",
-      "slug": "if-target-date-funds-arent-risky-enough-americans-could-miss-out-on-retirement-s-2701932705ca",
-      "title": "If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer",
-      "excerpt": "If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer",
-      "content": "<p>If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T18:38:23.836488+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "14fe746d470a",
-      "slug": "i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himsel-14fe746d470a",
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "excerpt": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "content": "<p>‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T18:38:25.365591+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b1035b48a9c1",
-      "slug": "reform-uk-chair-calls-for-probe-into-sbf-linked-donation-report-b1035b48a9c1",
-      "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
-      "excerpt": "Reform UK chair calls for probe into SBF-linked donation: Report",
-      "content": "<p>Reform UK chair calls for probe into SBF-linked donation: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T17:39:04.974175+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-07T22:02:56.845438+00:00",
+  "lastUpdated": "2026-08-07T23:01:55.960772+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 6
 }
