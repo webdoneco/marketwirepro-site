@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "uid": "79b8b56a95c7",
+      "slug": "circle-expands-usdc-to-okx-ecosystem-with-x-layer-launch-79b8b56a95c7",
+      "title": "Circle expands USDC to OKX ecosystem with X Layer launch",
+      "excerpt": "Circle expands USDC to OKX ecosystem with X Layer launch",
+      "content": "<p>Circle expands USDC to OKX ecosystem with X Layer launch</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:12.500864+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8b16c74d8eca",
+      "slug": "gbpusd-price-forecast-bulls-need-13560-to-unlock-13600-8b16c74d8eca",
+      "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
+      "excerpt": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
+      "content": "<p>GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:14.477829+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cac4fd4bf894",
+      "slug": "singapore-dollar-upside-risk-capped-by-12790-against-us-dollar-uob-cac4fd4bf894",
+      "title": "Singapore Dollar: Upside risk capped by 1.2790 against US Dollar – UOB",
+      "excerpt": "Singapore Dollar: Upside risk capped by 1.2790 against US Dollar – UOB",
+      "content": "<p>Singapore Dollar: Upside risk capped by 1.2790 against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:16.007268+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ae48d2752259",
+      "slug": "mexican-peso-hits-five-month-high-on-weak-us-jobs-data-ae48d2752259",
+      "title": "Mexican Peso hits five-month high on weak US jobs data",
+      "excerpt": "Mexican Peso hits five-month high on weak US jobs data",
+      "content": "<p>Mexican Peso hits five-month high on weak US jobs data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:17.536575+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6e156541cccc",
+      "slug": "south-korean-won-intervention-risks-support-krw-against-us-dollar-dbs-6e156541cccc",
+      "title": "South Korean Won: Intervention risks support KRW against US Dollar – DBS",
+      "excerpt": "South Korean Won: Intervention risks support KRW against US Dollar – DBS",
+      "content": "<p>South Korean Won: Intervention risks support KRW against US Dollar – DBS</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:19.066529+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2103661d6d55",
+      "slug": "heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-2103661d6d55",
+      "title": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
+      "excerpt": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
+      "content": "<p>Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:20.778381+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "77cd581d9c66",
+      "slug": "im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-jo-77cd581d9c66",
+      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+      "excerpt": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
+      "content": "<p>I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:22.306900+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2701932705ca",
+      "slug": "if-target-date-funds-arent-risky-enough-americans-could-miss-out-on-retirement-s-2701932705ca",
+      "title": "If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer",
+      "excerpt": "If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer",
+      "content": "<p>If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:23.836488+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "14fe746d470a",
+      "slug": "i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himsel-14fe746d470a",
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "excerpt": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "content": "<p>‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T18:38:25.365591+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b1035b48a9c1",
       "slug": "reform-uk-chair-calls-for-probe-into-sbf-linked-donation-report-b1035b48a9c1",
       "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
@@ -737,171 +899,9 @@
       "date": "2026-08-07T13:45:37.640055+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "64afd7553cbd",
-      "slug": "bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated-64afd7553cbd",
-      "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
-      "excerpt": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
-      "content": "<p>Bitcoiners turn to dice throws as self-custody setups are re-evaluated</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:39.208658+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4b24a0e0e5cc",
-      "slug": "russia-cracks-down-on-9-crypto-exchanges-in-moscow-city-4b24a0e0e5cc",
-      "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
-      "excerpt": "Russia cracks down on 9 crypto exchanges in Moscow City",
-      "content": "<p>Russia cracks down on 9 crypto exchanges in Moscow City</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:40.783862+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ea264a8fb546",
-      "slug": "cex-perpetual-futures-volume-falls-to-4t-lowest-since-late-2023-ea264a8fb546",
-      "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
-      "excerpt": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
-      "content": "<p>CEX perpetual futures volume falls to $4T, lowest since late 2023</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:42.360962+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c0e6ac3b82f2",
-      "slug": "us-unexpectedly-shed-23000-jobs-in-july-putting-fed-rate-hikes-in-question-c0e6ac3b82f2",
-      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
-      "excerpt": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
-      "content": "<p>U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:44.531707+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "43f7bc7610e9",
-      "slug": "tokenized-asset-deposits-tripled-to-74b-as-defi-shrank-coinshares-43f7bc7610e9",
-      "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-      "excerpt": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
-      "content": "<p>Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:46.239789+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f2013fc4aba2",
-      "slug": "chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers-f2013fc4aba2",
-      "title": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-      "excerpt": "China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
-      "content": "<p>China’s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:47.807528+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dcec7964a9e5",
-      "slug": "us-july-non-farm-payrolls--23k-vs-80k-expected-dcec7964a9e5",
-      "title": "US July non-farm payrolls -23K vs +80K expected",
-      "excerpt": "US July non-farm payrolls -23K vs +80K expected",
-      "content": "<p>US July non-farm payrolls -23K vs +80K expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:49.715668+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e1f9d69c71ab",
-      "slug": "canada-july-employment-change-751k-vs-15k-expected-e1f9d69c71ab",
-      "title": "Canada July employment change +75.1K vs +15K expected",
-      "excerpt": "Canada July employment change +75.1K vs +15K expected",
-      "content": "<p>Canada July employment change +75.1K vs +15K expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:51.287383+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4bf446ea8371",
-      "slug": "japanese-yen-surges-as-weak-us-jobs-data-questions-fed-rate-hike-expectations-4bf446ea8371",
-      "title": "Japanese Yen surges as weak US jobs data questions Fed rate hike expectations",
-      "excerpt": "Japanese Yen surges as weak US jobs data questions Fed rate hike expectations",
-      "content": "<p>Japanese Yen surges as weak US jobs data questions Fed rate hike expectations</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T13:45:52.983117+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-07T17:39:21.813922+00:00",
+  "lastUpdated": "2026-08-07T18:38:26.915564+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 9
 }
