@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "b1035b48a9c1",
+      "slug": "reform-uk-chair-calls-for-probe-into-sbf-linked-donation-report-b1035b48a9c1",
+      "title": "Reform UK chair calls for probe into SBF-linked donation: Report",
+      "excerpt": "Reform UK chair calls for probe into SBF-linked donation: Report",
+      "content": "<p>Reform UK chair calls for probe into SBF-linked donation: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-07T23:54:40.858863+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "603c4616a2fc",
       "slug": "bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-busine-603c4616a2fc",
       "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
@@ -881,27 +899,9 @@
       "date": "2026-08-07T18:38:16.007268+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ae48d2752259",
-      "slug": "mexican-peso-hits-five-month-high-on-weak-us-jobs-data-ae48d2752259",
-      "title": "Mexican Peso hits five-month high on weak US jobs data",
-      "excerpt": "Mexican Peso hits five-month high on weak US jobs data",
-      "content": "<p>Mexican Peso hits five-month high on weak US jobs data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T18:38:17.536575+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-07T23:01:55.960772+00:00",
+  "lastUpdated": "2026-08-07T23:54:43.584639+00:00",
   "totalCount": 50,
-  "newCount": 6
+  "newCount": 1
 }
