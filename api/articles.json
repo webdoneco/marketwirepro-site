@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "def38e256e41",
+      "slug": "bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d-def38e256e41",
+      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+      "excerpt": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+      "content": "<p>Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T02:48:53.961428+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "10c3ee46b2a2",
       "slug": "palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-10c3ee46b2a2",
       "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
@@ -881,27 +899,9 @@
       "date": "2026-08-07T18:38:12.500864+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8b16c74d8eca",
-      "slug": "gbpusd-price-forecast-bulls-need-13560-to-unlock-13600-8b16c74d8eca",
-      "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
-      "excerpt": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
-      "content": "<p>GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T18:38:14.477829+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-08T00:48:12.873178+00:00",
+  "lastUpdated": "2026-08-08T02:48:56.485090+00:00",
   "totalCount": 50,
   "newCount": 1
 }
