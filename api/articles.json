@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "4931d6012a10",
+      "slug": "hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near-4931d6012a10",
+      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "excerpt": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "content": "<p>Hardware wallet sales in Russia more than double as new crypto rules near</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T17:58:22.006817+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "37d9fa40b12c",
+      "slug": "bitcoin-red-team-says-ai-is-finding-critical-exploits-across-core-projects-37d9fa40b12c",
+      "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+      "excerpt": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+      "content": "<p>Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T17:58:23.580850+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -863,45 +899,9 @@
       "date": "2026-08-08T04:03:33.792407+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "def38e256e41",
-      "slug": "bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-d-def38e256e41",
-      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "excerpt": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "content": "<p>Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T02:48:53.961428+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "10c3ee46b2a2",
-      "slug": "palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-10c3ee46b2a2",
-      "title": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
-      "excerpt": "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
-      "content": "<p>Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T00:48:11.277522+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-08T17:29:58.257838+00:00",
+  "lastUpdated": "2026-08-08T17:58:25.803644+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 2
 }
