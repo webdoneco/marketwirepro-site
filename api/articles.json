@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "106476d0aad8",
+      "slug": "us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur-106476d0aad8",
+      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "excerpt": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "content": "<p>US Senate to vote on advancing CLARITY Act in September after Thune files cloture</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T15:53:05.051813+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6b58729fae44",
+      "slug": "brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad-6b58729fae44",
+      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "excerpt": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "content": "<p>Brazil's central bank orders exchanges to delay large crypto transfers abroad</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T15:53:07.161863+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "43cc6eb9b9a0",
+      "slug": "the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-pa-43cc6eb9b9a0",
+      "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on.",
+      "excerpt": "The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on.",
+      "content": "<p>The size of the American workforce has fallen by over 1 million people in the past year. Here’s what’s going on.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T15:53:10.065285+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "e4656fa339a0",
       "slug": "trump-media-abandons-crypto-treasury-prediction-market-ventures-e4656fa339a0",
       "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
@@ -845,63 +899,9 @@
       "date": "2026-08-07T22:02:46.389224+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c0d64da8d336",
-      "slug": "all-eyes-on-the-us-jobs-report-now-c0d64da8d336",
-      "title": "All eyes on the US jobs report now",
-      "excerpt": "All eyes on the US jobs report now",
-      "content": "<p>All eyes on the US jobs report now</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T22:02:48.306184+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98fa9a68e65e",
-      "slug": "china-credit-demand-and-liquidity-trends-dbs-98fa9a68e65e",
-      "title": "China: Credit demand and liquidity trends – DBS",
-      "excerpt": "China: Credit demand and liquidity trends – DBS",
-      "content": "<p>China: Credit demand and liquidity trends – DBS</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T22:02:50.091361+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f107d2f4b786",
-      "slug": "chinese-yuan-range-trade-holds-with-bullish-tone-against-us-dollar-uob-f107d2f4b786",
-      "title": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
-      "excerpt": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
-      "content": "<p>Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T22:02:51.670369+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-08T15:19:19.223743+00:00",
+  "lastUpdated": "2026-08-08T15:53:11.687071+00:00",
   "totalCount": 50,
-  "newCount": 5
+  "newCount": 3
 }
