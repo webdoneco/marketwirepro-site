@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "d518fabc96bf",
+      "slug": "why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf-d518fabc96bf",
+      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "excerpt": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "content": "<p>Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T23:17:24.935369+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d0e98a665fa7",
       "slug": "this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father--d0e98a665fa7",
       "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
@@ -881,27 +899,9 @@
       "date": "2026-08-08T14:03:56.522319+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8126e97156f5",
-      "slug": "berkshire-hathaway-profit-doubles-fueled-by-a-near-13-billion-investment-gain-8126e97156f5",
-      "title": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain",
-      "excerpt": "Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain",
-      "content": "<p>Berkshire Hathaway profit doubles, fueled by a near $13 billion investment gain</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T14:03:58.229121+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-08T22:53:25.968444+00:00",
+  "lastUpdated": "2026-08-08T23:17:28.470715+00:00",
   "totalCount": 50,
   "newCount": 1
 }
