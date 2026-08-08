@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "aa74fac7386b",
+      "slug": "another-bitcoin-infrastructure-exploit-hits-this-time-draining-lightning-payment-aa74fac7386b",
+      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "excerpt": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "content": "<p>Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T08:05:21.675918+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "f30d7d6de2af",
       "slug": "domestic-stablecoins-could-boost-demand-for-dollar-backed-tokens-imf-f30d7d6de2af",
       "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
@@ -881,27 +899,9 @@
       "date": "2026-08-07T19:43:18.287668+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "28a5620dd0c9",
-      "slug": "us-treasury-yields-drop-on-soft-nfp-hormuz-hopes-ease-fed-risks-28a5620dd0c9",
-      "title": "US Treasury yields drop on soft NFP, Hormuz hopes ease Fed risks",
-      "excerpt": "US Treasury yields drop on soft NFP, Hormuz hopes ease Fed risks",
-      "content": "<p>US Treasury yields drop on soft NFP, Hormuz hopes ease Fed risks</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T19:43:19.841753+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-08T07:26:33.094091+00:00",
+  "lastUpdated": "2026-08-08T08:05:23.695611+00:00",
   "totalCount": 50,
   "newCount": 1
 }
