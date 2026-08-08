@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "d0e98a665fa7",
+      "slug": "this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father--d0e98a665fa7",
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "excerpt": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "content": "<p>‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T22:53:24.339861+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "dcec7964a9e5",
       "slug": "us-july-non-farm-payrolls--23k-vs-80k-expected-dcec7964a9e5",
       "title": "US July non-farm payrolls -23K vs +80K expected",
@@ -881,27 +899,9 @@
       "date": "2026-08-08T14:03:58.229121+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d518fabc96bf",
-      "slug": "why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf-d518fabc96bf",
-      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
-      "excerpt": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
-      "content": "<p>Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T13:24:24.359986+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-08T22:16:53.628472+00:00",
+  "lastUpdated": "2026-08-08T22:53:25.968444+00:00",
   "totalCount": 50,
   "newCount": 1
 }
