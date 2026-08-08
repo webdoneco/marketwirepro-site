@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "123bcb031c23",
+      "slug": "philippines-bsp-policy-outlook-shifts-standard-chartered-123bcb031c23",
+      "title": "Philippines: BSP policy outlook shifts – Standard Chartered",
+      "excerpt": "Philippines: BSP policy outlook shifts – Standard Chartered",
+      "content": "<p>Philippines: BSP policy outlook shifts – Standard Chartered</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T20:54:44.345477+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "a65e1c79c7a5",
       "slug": "bitcoin-hits-block-961632-as-the-controversial-bip-110-soft-fork-attempt-begins-a65e1c79c7a5",
       "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
@@ -881,27 +899,9 @@
       "date": "2026-08-08T12:23:35.987692+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e1f9d69c71ab",
-      "slug": "canada-july-employment-change-751k-vs-15k-expected-e1f9d69c71ab",
-      "title": "Canada July employment change +75.1K vs +15K expected",
-      "excerpt": "Canada July employment change +75.1K vs +15K expected",
-      "content": "<p>Canada July employment change +75.1K vs +15K expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T11:50:34.898450+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-08T20:16:24.465104+00:00",
+  "lastUpdated": "2026-08-08T20:54:46.549026+00:00",
   "totalCount": 50,
   "newCount": 1
 }
