@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "c0d64da8d336",
+      "slug": "all-eyes-on-the-us-jobs-report-now-c0d64da8d336",
+      "title": "All eyes on the US jobs report now",
+      "excerpt": "All eyes on the US jobs report now",
+      "content": "<p>All eyes on the US jobs report now</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T16:19:28.818984+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "98fa9a68e65e",
+      "slug": "china-credit-demand-and-liquidity-trends-dbs-98fa9a68e65e",
+      "title": "China: Credit demand and liquidity trends – DBS",
+      "excerpt": "China: Credit demand and liquidity trends – DBS",
+      "content": "<p>China: Credit demand and liquidity trends – DBS</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T16:19:30.805654+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f107d2f4b786",
+      "slug": "chinese-yuan-range-trade-holds-with-bullish-tone-against-us-dollar-uob-f107d2f4b786",
+      "title": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
+      "excerpt": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
+      "content": "<p>Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-08T16:19:32.376712+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "106476d0aad8",
       "slug": "us-senate-to-vote-on-advancing-clarity-act-in-september-after-thune-files-clotur-106476d0aad8",
       "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
@@ -845,63 +899,9 @@
       "date": "2026-08-07T22:02:40.857313+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2d2a42b22c8f",
-      "slug": "trump-media-pulls-back-from-crypto-scraps-cryptocoms-cro-token-treasury-deal-2d2a42b22c8f",
-      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-      "excerpt": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-      "content": "<p>Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T22:02:43.057217+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1b34ad1c8529",
-      "slug": "trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-2-million-of-ab-1b34ad1c8529",
-      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "excerpt": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "content": "<p>Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T22:02:44.641207+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e752a7bf3bb3",
-      "slug": "hackers-use-bnb-chain-to-spread-malware-through-fake-captchas-e752a7bf3bb3",
-      "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-      "excerpt": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-      "content": "<p>Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-07T22:02:46.389224+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-08T15:53:11.687071+00:00",
+  "lastUpdated": "2026-08-08T16:19:34.515669+00:00",
   "totalCount": 50,
   "newCount": 3
 }
