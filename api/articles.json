@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "27bc3111615e",
+      "slug": "bitcoin-payment-service-btcpay-warns-critical-flaw-is-under-active-attack-27bc3111615e",
+      "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
+      "excerpt": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
+      "content": "<p>Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T11:54:48.945104+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "65cd8226c0c7",
+      "slug": "my-wife-and-i-are-both-retired-do-we-dip-into-our-23-million-fund-to-pay-off-our-65cd8226c0c7",
+      "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "excerpt": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "content": "<p>‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T11:54:51.474528+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "66b9d5b77371",
       "slug": "bip-110-bitcoin-branch-stalls-after-two-blocks-as-gap-widens-66b9d5b77371",
       "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
@@ -863,45 +899,9 @@
       "date": "2026-08-08T15:19:13.035408+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "92f02b50c541",
-      "slug": "hormuz-deal-hopes-rise-as-talks-progress-reuters-92f02b50c541",
-      "title": "Hormuz deal hopes rise as talks progress  – Reuters",
-      "excerpt": "Hormuz deal hopes rise as talks progress  – Reuters",
-      "content": "<p>Hormuz deal hopes rise as talks progress  – Reuters</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T15:19:15.365679+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5beb0e6ef0fd",
-      "slug": "my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-h-5beb0e6ef0fd",
-      "title": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
-      "excerpt": "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
-      "content": "<p>‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T15:19:17.574217+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T11:28:24.112208+00:00",
+  "lastUpdated": "2026-08-09T11:54:53.292233+00:00",
   "totalCount": 50,
   "newCount": 2
 }
