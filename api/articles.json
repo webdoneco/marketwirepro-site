@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "86b6b4980244",
+      "slug": "us-stock-futures-dip-as-investors-await-inflation-data-grapple-with-more-iran-un-86b6b4980244",
+      "title": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
+      "excerpt": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
+      "content": "<p>U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T22:56:19.063010+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "37d9fa40b12c",
       "slug": "bitcoin-red-team-says-ai-is-finding-critical-exploits-across-core-projects-37d9fa40b12c",
       "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
@@ -881,27 +899,9 @@
       "date": "2026-08-08T18:33:52.165962+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "77cd581d9c66",
-      "slug": "im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-jo-77cd581d9c66",
-      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "excerpt": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "content": "<p>I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T18:33:53.705449+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T22:18:43.695522+00:00",
+  "lastUpdated": "2026-08-09T22:56:20.664156+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 1
 }
