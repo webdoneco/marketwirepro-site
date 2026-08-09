@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "75ca8f2b6118",
+      "slug": "bitcoin-investors-pour-853-million-into-spot-etfs-blackrocks-ibit-claims-the-bul-75ca8f2b6118",
+      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "excerpt": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "content": "<p>Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T14:58:45.997225+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "98fa9a68e65e",
+      "slug": "china-credit-demand-and-liquidity-trends-dbs-98fa9a68e65e",
+      "title": "China: Credit demand and liquidity trends – DBS",
+      "excerpt": "China: Credit demand and liquidity trends – DBS",
+      "content": "<p>China: Credit demand and liquidity trends – DBS</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T14:58:48.003502+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f107d2f4b786",
+      "slug": "chinese-yuan-range-trade-holds-with-bullish-tone-against-us-dollar-uob-f107d2f4b786",
+      "title": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
+      "excerpt": "Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB",
+      "content": "<p>Chinese Yuan: Range trade holds with bullish tone against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T14:58:49.553792+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6b58729fae44",
       "slug": "brazils-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad-6b58729fae44",
       "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
@@ -845,63 +899,9 @@
       "date": "2026-08-08T17:29:56.620019+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a19455a5d39e",
-      "slug": "us-spot-bitcoin-etfs-post-best-week-since-april-with-1b-inflows-a19455a5d39e",
-      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-      "excerpt": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-      "content": "<p>US spot Bitcoin ETFs post best week since April with $1B inflows</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T16:59:05.667009+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1d633dc64fe2",
-      "slug": "senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september-1d633dc64fe2",
-      "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
-      "excerpt": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
-      "content": "<p>Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T16:59:07.612799+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2103661d6d55",
-      "slug": "heres-when-elon-musks-starlink-internet-is-worth-the-steep-monthly-price-and-350-2103661d6d55",
-      "title": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
-      "excerpt": "Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost",
-      "content": "<p>Here’s when Elon Musk’s Starlink internet is worth the steep monthly price — and $350 startup cost</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T16:59:09.980333+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T14:06:36.352136+00:00",
+  "lastUpdated": "2026-08-09T14:58:51.508157+00:00",
   "totalCount": 50,
-  "newCount": 5
+  "newCount": 3
 }
