@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "ad7a8539e8a8",
+      "slug": "singapore-gdp-revision-and-forecast-upgrade-dbs-ad7a8539e8a8",
+      "title": "Singapore: GDP revision and forecast upgrade – DBS",
+      "excerpt": "Singapore: GDP revision and forecast upgrade – DBS",
+      "content": "<p>Singapore: GDP revision and forecast upgrade – DBS</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T10:58:59.794494+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "2104697ecfb4",
       "slug": "brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold-2104697ecfb4",
       "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
@@ -881,27 +899,9 @@
       "date": "2026-08-08T14:55:17.407577+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6fbc7b16ce5b",
-      "slug": "investinglive-americas-market-news-wrap-non-farm-payrolls-turn-negative-dollar-d-6fbc7b16ce5b",
-      "title": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
-      "excerpt": "investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops",
-      "content": "<p>investingLive Americas market news wrap: Non-farm payrolls turn negative, dollar drops</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T14:55:19.255686+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T10:02:28.496466+00:00",
+  "lastUpdated": "2026-08-09T10:59:01.656644+00:00",
   "totalCount": 50,
   "newCount": 1
 }
