@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "2104697ecfb4",
+      "slug": "brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold-2104697ecfb4",
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "excerpt": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "content": "<p>Brazil targets crypto fraud with up to 24-hour transfer hold</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T10:02:25.765032+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "e3fb15932ce1",
       "slug": "bitcoin-will-never-fall-below-60k-again-nansen-founder-e3fb15932ce1",
       "title": "Bitcoin will never fall below $60K again: Nansen founder",
@@ -881,27 +899,9 @@
       "date": "2026-08-08T14:55:19.255686+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ad7a8539e8a8",
-      "slug": "singapore-gdp-revision-and-forecast-upgrade-dbs-ad7a8539e8a8",
-      "title": "Singapore: GDP revision and forecast upgrade – DBS",
-      "excerpt": "Singapore: GDP revision and forecast upgrade – DBS",
-      "content": "<p>Singapore: GDP revision and forecast upgrade – DBS</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T14:55:21.040472+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T09:08:26.487655+00:00",
+  "lastUpdated": "2026-08-09T10:02:28.496466+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 1
 }
