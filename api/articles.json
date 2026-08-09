@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "5da7f7a45705",
+      "slug": "controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops-5da7f7a45705",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "excerpt": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "content": "<p>Controversial Bitcoin fork BIP-110 mines two blocks, then stops</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T05:27:35.649910+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "20a985ce0f0f",
+      "slug": "chinas-july-cpi-cools-to-six-month-low-as-producer-prices-also-ease-20a985ce0f0f",
+      "title": "China's July CPI cools to six-month low as producer prices also ease",
+      "excerpt": "China's July CPI cools to six-month low as producer prices also ease",
+      "content": "<p>China's July CPI cools to six-month low as producer prices also ease</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T05:27:37.668003+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d518fabc96bf",
       "slug": "why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf-d518fabc96bf",
       "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
@@ -863,45 +899,9 @@
       "date": "2026-08-08T14:03:53.045068+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "45f0144296ac",
-      "slug": "robinhood-crypto-chief-explains-why-there-are-two-wolves-inside-robinhood-chain-45f0144296ac",
-      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
-      "excerpt": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
-      "content": "<p>Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T14:03:54.624902+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "42a0e18dfe76",
-      "slug": "gbpjpy-price-forecast-rebound-holds-above-200-day-sma-42a0e18dfe76",
-      "title": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-      "excerpt": "GBP/JPY Price Forecast: Rebound holds above 200-day SMA",
-      "content": "<p>GBP/JPY Price Forecast: Rebound holds above 200-day SMA</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T14:03:56.522319+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T04:13:08.836597+00:00",
+  "lastUpdated": "2026-08-09T05:27:39.932526+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 2
 }
