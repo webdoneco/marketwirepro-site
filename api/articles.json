@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "ff0a2ebcf00c",
+      "slug": "if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-d-ff0a2ebcf00c",
+      "title": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "excerpt": "If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?",
+      "content": "<p>If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T23:54:54.610201+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "86b6b4980244",
       "slug": "us-stock-futures-dip-as-investors-await-inflation-data-grapple-with-more-iran-un-86b6b4980244",
       "title": "U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty",
@@ -881,27 +899,9 @@
       "date": "2026-08-08T19:21:01.758927+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "14fe746d470a",
-      "slug": "i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himsel-14fe746d470a",
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "excerpt": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "content": "<p>‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T18:33:52.165962+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T23:22:50.701611+00:00",
+  "lastUpdated": "2026-08-09T23:54:56.172847+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 1
 }
