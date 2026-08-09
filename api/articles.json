@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T19:53:21.881284+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1f6e6a831a59",
+      "slug": "bitcoin-anti-spam-fork-sputters-to-a-halt-after-mining-just-two-blocks-1f6e6a831a59",
+      "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+      "excerpt": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
+      "content": "<p>Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T19:53:23.660498+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "558d248ae81d",
       "slug": "is-claritys-delay-a-blessing-in-disguise-state-of-crypto-558d248ae81d",
       "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
@@ -863,45 +899,9 @@
       "date": "2026-08-08T18:33:55.250076+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4931d6012a10",
-      "slug": "hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near-4931d6012a10",
-      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
-      "excerpt": "Hardware wallet sales in Russia more than double as new crypto rules near",
-      "content": "<p>Hardware wallet sales in Russia more than double as new crypto rules near</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T17:58:22.006817+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "37d9fa40b12c",
-      "slug": "bitcoin-red-team-says-ai-is-finding-critical-exploits-across-core-projects-37d9fa40b12c",
-      "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-      "excerpt": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-      "content": "<p>Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T17:58:23.580850+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T19:09:14.811465+00:00",
+  "lastUpdated": "2026-08-09T19:53:25.676670+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 2
 }
