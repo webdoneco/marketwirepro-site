@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "92f02b50c541",
+      "slug": "hormuz-deal-hopes-rise-as-talks-progress-reuters-92f02b50c541",
+      "title": "Hormuz deal hopes rise as talks progress  – Reuters",
+      "excerpt": "Hormuz deal hopes rise as talks progress  – Reuters",
+      "content": "<p>Hormuz deal hopes rise as talks progress  – Reuters</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-09T12:26:17.868538+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "27bc3111615e",
       "slug": "bitcoin-payment-service-btcpay-warns-critical-flaw-is-under-active-attack-27bc3111615e",
       "title": "Bitcoin Payment Service BTCPay Warns Critical Flaw Is Under Active Attack",
@@ -881,27 +899,9 @@
       "date": "2026-08-08T15:19:11.210522+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "53320782e466",
-      "slug": "new-york-fed-survey-one-year-inflation-expectations-dip-to-36-from-37-53320782e466",
-      "title": "New York Fed survey: One year inflation expectations dip to 3.6% from 3.7%",
-      "excerpt": "New York Fed survey: One year inflation expectations dip to 3.6% from 3.7%",
-      "content": "<p>New York Fed survey: One year inflation expectations dip to 3.6% from 3.7%</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-08T15:19:13.035408+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-09T11:54:53.292233+00:00",
+  "lastUpdated": "2026-08-09T12:26:19.655420+00:00",
   "totalCount": 50,
-  "newCount": 2
+  "newCount": 1
 }
