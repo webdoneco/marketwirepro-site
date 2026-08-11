@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "c8b9b2b7ac1e",
+      "slug": "flightaware-sues-kalshi-over-flight-cancellation-data-c8b9b2b7ac1e",
+      "title": "FlightAware sues Kalshi over flight cancellation data",
+      "excerpt": "FlightAware sues Kalshi over flight cancellation data",
+      "content": "<p>FlightAware sues Kalshi over flight cancellation data</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:11.190805+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0498fd00d48f",
+      "slug": "coinbase-backed-flowdesk-secures-full-broker-dealer-license-in-dubai-0498fd00d48f",
+      "title": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
+      "excerpt": "Coinbase-backed Flowdesk secures full broker-dealer license in Dubai",
+      "content": "<p>Coinbase-backed Flowdesk secures full broker-dealer license in Dubai</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:12.723466+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b292bda07c7a",
+      "slug": "etoro-reports-second-quarter-crypto-loss-even-as-total-profit-beats-estimates-b292bda07c7a",
+      "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
+      "excerpt": "EToro reports second quarter crypto loss even as total profit beats estimates",
+      "content": "<p>EToro reports second quarter crypto loss even as total profit beats estimates</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:14.576443+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "414bd24c01f2",
+      "slug": "russia-approves-trading-of-bitcoin-ethereum-and-usdtbut-no-xrp-414bd24c01f2",
+      "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+      "excerpt": "Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP",
+      "content": "<p>Russia Approves Trading of Bitcoin, Ethereum and USDT—But No XRP</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:16.160844+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6ddd91784574",
+      "slug": "ravencoin-crashes-20-as-critical-exploit-threatens-to-rollback-network-6ddd91784574",
+      "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
+      "excerpt": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
+      "content": "<p>Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:17.691085+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "052adb0f31e3",
+      "slug": "etoro-agrees-to-acquire-tradezero-in-231m-us-expansion-stock-tanks-10-052adb0f31e3",
+      "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+      "excerpt": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+      "content": "<p>eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:19.225203+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "088fa4bc5dc8",
+      "slug": "eia-raises-crude-oil-price-forecasts-as-middle-east-supply-risks-tighten-outlook-088fa4bc5dc8",
+      "title": "EIA raises crude oil price forecasts as Middle East supply risks tighten outlook",
+      "excerpt": "EIA raises crude oil price forecasts as Middle East supply risks tighten outlook",
+      "content": "<p>EIA raises crude oil price forecasts as Middle East supply risks tighten outlook</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:20.989016+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e9daa4d89b44",
+      "slug": "us-treasury-sells-75-billion-3-year-notes-at-a-high-yield-of-4291-e9daa4d89b44",
+      "title": "US treasury sells $75 billion 3 year notes at a high yield of 4.291%",
+      "excerpt": "US treasury sells $75 billion 3 year notes at a high yield of 4.291%",
+      "content": "<p>US treasury sells $75 billion 3 year notes at a high yield of 4.291%</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:22.519403+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "75d6d638442e",
+      "slug": "gold-eases-amid-firm-us-dollar-as-cpi-and-hormuz-risks-loom-75d6d638442e",
+      "title": "Gold eases amid firm US Dollar as CPI and Hormuz risks loom",
+      "excerpt": "Gold eases amid firm US Dollar as CPI and Hormuz risks loom",
+      "content": "<p>Gold eases amid firm US Dollar as CPI and Hormuz risks loom</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:24.137590+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0812b4728acb",
+      "slug": "feds-goolsbee-inflation-is-the-biggest-problem-of-the-economy-0812b4728acb",
+      "title": "Fed’s Goolsbee: Inflation is the “biggest problem” of the economy",
+      "excerpt": "Fed’s Goolsbee: Inflation is the “biggest problem” of the economy",
+      "content": "<p>Fed’s Goolsbee: Inflation is the “biggest problem” of the economy</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T17:48:25.670465+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "2883b3b914c0",
       "slug": "nasdaq-to-acquire-level-markets-in-push-toward-always-on-markets-2883b3b914c0",
       "title": "Nasdaq to acquire LeveL Markets in push toward ‘always-on’ markets",
@@ -719,189 +899,9 @@
       "date": "2026-08-11T13:49:49.578552+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "466c495124d0",
-      "slug": "australian-watchdog-suspends-cryptolink-forcing-96-atms-offline-466c495124d0",
-      "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
-      "excerpt": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
-      "content": "<p>Australian watchdog suspends Cryptolink, forcing 96 ATMs offline</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:19.990776+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "285b8f89a2e8",
-      "slug": "ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw-285b8f89a2e8",
-      "title": "Ravencoin could roll back four days of transactions after critical block flaw",
-      "excerpt": "Ravencoin could roll back four days of transactions after critical block flaw",
-      "content": "<p>Ravencoin could roll back four days of transactions after critical block flaw</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:21.547358+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e63304918b73",
-      "slug": "coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push-e63304918b73",
-      "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
-      "excerpt": "Coinbase picks Abu Dhabi for its global tokenized asset push",
-      "content": "<p>Coinbase picks Abu Dhabi for its global tokenized asset push</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:23.094905+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c2438d491517",
-      "slug": "when-safe-assets-compete-with-risk-lessons-from-the-1960s90s-for-bitcoin-and-sto-c2438d491517",
-      "title": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
-      "excerpt": "When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.",
-      "content": "<p>When safe assets compete with risk. Lessons from the 1960s–90s for bitcoin and stocks.</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:24.646170+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7972d034fea2",
-      "slug": "north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi-7972d034fea2",
-      "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
-      "excerpt": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
-      "content": "<p>North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:26.242719+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "95aa9cdce0d2",
-      "slug": "bitcoin-atms-pulled-in-australia-as-regulators-signal-wider-crackdown-95aa9cdce0d2",
-      "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
-      "excerpt": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
-      "content": "<p>Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:27.793374+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fea7d65aa52c",
-      "slug": "investinglive-european-fx-news-wrap-rba-holds-steady-iran-oman-close-to-hormuz-d-fea7d65aa52c",
-      "title": "investingLive European FX news wrap: RBA holds steady, Iran-Oman close to Hormuz deal",
-      "excerpt": "investingLive European FX news wrap: RBA holds steady, Iran-Oman close to Hormuz deal",
-      "content": "<p>investingLive European FX news wrap: RBA holds steady, Iran-Oman close to Hormuz deal</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:29.580903+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cbd1d06055b1",
-      "slug": "us-dollar-cpi-keeps-usd-in-tight-ranges-ocbc-cbd1d06055b1",
-      "title": "US Dollar: CPI keeps USD in tight ranges – OCBC",
-      "excerpt": "US Dollar: CPI keeps USD in tight ranges – OCBC",
-      "content": "<p>US Dollar: CPI keeps USD in tight ranges – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:31.237955+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f96be75341c9",
-      "slug": "swiss-franc-holds-below-08100-us-dollar-with-us-iran-negotiations-deadlocked-f96be75341c9",
-      "title": "Swiss Franc holds below 0.8100 US Dollar with US-Iran negotiations deadlocked",
-      "excerpt": "Swiss Franc holds below 0.8100 US Dollar with US-Iran negotiations deadlocked",
-      "content": "<p>Swiss Franc holds below 0.8100 US Dollar with US-Iran negotiations deadlocked</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:32.785950+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9bc7c78e2b4d",
-      "slug": "gbpusd-price-forecast-holds-descending-triangle-breakout-9bc7c78e2b4d",
-      "title": "GBP/USD Price Forecast: Holds Descending Triangle breakout",
-      "excerpt": "GBP/USD Price Forecast: Holds Descending Triangle breakout",
-      "content": "<p>GBP/USD Price Forecast: Holds Descending Triangle breakout</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T12:04:34.339745+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-11T16:45:35.868555+00:00",
+  "lastUpdated": "2026-08-11T17:48:27.170660+00:00",
   "totalCount": 50,
   "newCount": 10
 }
