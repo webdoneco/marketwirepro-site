@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "d4ddc8acb8e3",
+      "slug": "a-2-trillion-asset-class-is-getting-a-new-blockchain-rail-d4ddc8acb8e3",
+      "title": "A $2 trillion asset class is getting a new blockchain rail",
+      "excerpt": "A $2 trillion asset class is getting a new blockchain rail",
+      "content": "<p>A $2 trillion asset class is getting a new blockchain rail</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:19.187455+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "62a19cb4eb92",
+      "slug": "gold-retreats-further-from-two-month-high-eyes-4350-as-fed-rate-hike-bets-suppor-62a19cb4eb92",
+      "title": "Gold retreats further from two-month high, eyes $4,350 as Fed rate hike bets support USD",
+      "excerpt": "Gold retreats further from two-month high, eyes $4,350 as Fed rate hike bets support USD",
+      "content": "<p>Gold retreats further from two-month high, eyes $4,350 as Fed rate hike bets support USD</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:21.233517+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f6ab94977069",
+      "slug": "new-zealand-dollar-declines-as-us-dollar-rebounds-on-safe-haven-demand-f6ab94977069",
+      "title": "New Zealand Dollar declines as US Dollar rebounds on safe-haven demand",
+      "excerpt": "New Zealand Dollar declines as US Dollar rebounds on safe-haven demand",
+      "content": "<p>New Zealand Dollar declines as US Dollar rebounds on safe-haven demand</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:22.783452+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c3c275d8b6d4",
+      "slug": "japanese-yen-struggles-below-15900-vs-usd-amid-fiscal-woes-us-japan-rate-gap-c3c275d8b6d4",
+      "title": "Japanese Yen struggles below 159.00 vs USD amid fiscal woes, US-Japan rate gap",
+      "excerpt": "Japanese Yen struggles below 159.00 vs USD amid fiscal woes, US-Japan rate gap",
+      "content": "<p>Japanese Yen struggles below 159.00 vs USD amid fiscal woes, US-Japan rate gap</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:24.327814+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2e49d109a214",
+      "slug": "equities-risk-sentiment-holds-despite-oil-and-rates-deutsche-bank-2e49d109a214",
+      "title": "Equities: Risk sentiment holds despite oil and rates – Deutsche Bank",
+      "excerpt": "Equities: Risk sentiment holds despite oil and rates – Deutsche Bank",
+      "content": "<p>Equities: Risk sentiment holds despite oil and rates – Deutsche Bank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:25.871246+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b1be0bd7133d",
+      "slug": "silver-price-forecasts-xagusd-corrects-lower-from-6700-resistance-area-b1be0bd7133d",
+      "title": "Silver Price Forecasts: XAG/USD corrects lower from $67.00 resistance area",
+      "excerpt": "Silver Price Forecasts: XAG/USD corrects lower from $67.00 resistance area",
+      "content": "<p>Silver Price Forecasts: XAG/USD corrects lower from $67.00 resistance area</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:27.415169+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7157b076d22c",
+      "slug": "british-pound-upside-tests-but-capped-near-13555-against-us-dollar-uob-7157b076d22c",
+      "title": "British Pound: Upside tests but capped near 1.3555 against US Dollar – UOB",
+      "excerpt": "British Pound: Upside tests but capped near 1.3555 against US Dollar – UOB",
+      "content": "<p>British Pound: Upside tests but capped near 1.3555 against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:28.961015+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fcadf3078bb8",
+      "slug": "the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-fcadf3078bb8",
+      "title": "The Bessent bond-market scorecard doesn’t look as strong as it once did",
+      "excerpt": "The Bessent bond-market scorecard doesn’t look as strong as it once did",
+      "content": "<p>The Bessent bond-market scorecard doesn’t look as strong as it once did</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:30.853568+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "933550128506",
+      "slug": "the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1000-from-my-brokerage-a-933550128506",
+      "title": "‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?",
+      "excerpt": "‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?",
+      "content": "<p>‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:32.396870+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "df93f7c9564a",
+      "slug": "nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastru-df93f7c9564a",
+      "title": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
+      "excerpt": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
+      "content": "<p>Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T08:02:33.943453+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "db40a918a52e",
       "slug": "south-korea-drops-travel-rule-threshold-for-crypto-transfers-db40a918a52e",
       "title": "South Korea drops Travel Rule threshold for crypto transfers",
@@ -719,189 +899,9 @@
       "date": "2026-08-11T03:14:36.620895+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "76ecbe364d9d",
-      "slug": "disappointing-crypto-advocates-react-to-delay-in-clarity-vote-76ecbe364d9d",
-      "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
-      "excerpt": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
-      "content": "<p>‘Disappointing’ — crypto advocates react to delay in CLARITY vote</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T01:14:38.878166+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5dc51c7ef0b5",
-      "slug": "singapore-doubles-2026-growth-outlook-to-45-55-on-tech-cycle-upgrade-5dc51c7ef0b5",
-      "title": "Singapore doubles 2026 growth outlook to 4.5-5.5% on tech cycle upgrade",
-      "excerpt": "Singapore doubles 2026 growth outlook to 4.5-5.5% on tech cycle upgrade",
-      "content": "<p>Singapore doubles 2026 growth outlook to 4.5-5.5% on tech cycle upgrade</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T01:14:41.252514+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "098e488a5497",
-      "slug": "uk-data-barclaycard-spending-rises-20-in-july-as-consumer-confidence-hits-21-mon-098e488a5497",
-      "title": "UK data: Barclaycard spending rises 2.0% in July as consumer confidence hits 21-month high",
-      "excerpt": "UK data: Barclaycard spending rises 2.0% in July as consumer confidence hits 21-month high",
-      "content": "<p>UK data: Barclaycard spending rises 2.0% in July as consumer confidence hits 21-month high</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T01:14:42.819421+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0e993b959072",
-      "slug": "wti-hovers-around-8150-as-us-iran-peace-talks-stall-0e993b959072",
-      "title": "WTI hovers around $81.50 as US-Iran peace talks stall",
-      "excerpt": "WTI hovers around $81.50 as US-Iran peace talks stall",
-      "content": "<p>WTI hovers around $81.50 as US-Iran peace talks stall</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T01:14:44.644744+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cc372710c70c",
-      "slug": "rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-cc372710c70c",
-      "title": "RBA set to hold interest rate at 4.35% as softer inflation cools hike bets",
-      "excerpt": "RBA set to hold interest rate at 4.35% as softer inflation cools hike bets",
-      "content": "<p>RBA set to hold interest rate at 4.35% as softer inflation cools hike bets</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T01:14:46.195133+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8dfdd86662a3",
-      "slug": "this-is-the-zip-code-with-the-hottest-housing-market-in-the-country-right-now-8dfdd86662a3",
-      "title": "This is the ZIP code with the hottest housing market in the country right now",
-      "excerpt": "This is the ZIP code with the hottest housing market in the country right now",
-      "content": "<p>This is the ZIP code with the hottest housing market in the country right now</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T01:14:48.135630+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "358ce441c42a",
-      "slug": "brazils-319b-crypto-market-faces-october-licensing-deadline-certik-358ce441c42a",
-      "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
-      "excerpt": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
-      "content": "<p>Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T23:57:06.020278+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bf634b4d1145",
-      "slug": "intervention-bought-the-japanese-yen-a-price-not-a-buyer-bf634b4d1145",
-      "title": "Intervention bought the Japanese Yen a price, not a buyer",
-      "excerpt": "Intervention bought the Japanese Yen a price, not a buyer",
-      "content": "<p>Intervention bought the Japanese Yen a price, not a buyer</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T23:57:07.924474+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3905664787ee",
-      "slug": "the-australian-dollar-rallies-without-an-australian-reason-3905664787ee",
-      "title": "The Australian Dollar rallies without an Australian reason",
-      "excerpt": "The Australian Dollar rallies without an Australian reason",
-      "content": "<p>The Australian Dollar rallies without an Australian reason</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T23:57:09.450058+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "edc772ea8542",
-      "slug": "british-pound-sterling-borrows-its-rally-from-american-payrolls-edc772ea8542",
-      "title": "British Pound Sterling borrows its rally from American payrolls",
-      "excerpt": "British Pound Sterling borrows its rally from American payrolls",
-      "content": "<p>British Pound Sterling borrows its rally from American payrolls</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T23:57:10.978180+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-11T06:45:16.897470+00:00",
+  "lastUpdated": "2026-08-11T08:02:35.443612+00:00",
   "totalCount": 50,
   "newCount": 10
 }
