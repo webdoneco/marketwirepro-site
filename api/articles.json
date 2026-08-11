@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "76ecbe364d9d",
+      "slug": "disappointing-crypto-advocates-react-to-delay-in-clarity-vote-76ecbe364d9d",
+      "title": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
+      "excerpt": "‘Disappointing’ — crypto advocates react to delay in CLARITY vote",
+      "content": "<p>‘Disappointing’ — crypto advocates react to delay in CLARITY vote</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T01:14:38.878166+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5dc51c7ef0b5",
+      "slug": "singapore-doubles-2026-growth-outlook-to-45-55-on-tech-cycle-upgrade-5dc51c7ef0b5",
+      "title": "Singapore doubles 2026 growth outlook to 4.5-5.5% on tech cycle upgrade",
+      "excerpt": "Singapore doubles 2026 growth outlook to 4.5-5.5% on tech cycle upgrade",
+      "content": "<p>Singapore doubles 2026 growth outlook to 4.5-5.5% on tech cycle upgrade</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T01:14:41.252514+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "098e488a5497",
+      "slug": "uk-data-barclaycard-spending-rises-20-in-july-as-consumer-confidence-hits-21-mon-098e488a5497",
+      "title": "UK data: Barclaycard spending rises 2.0% in July as consumer confidence hits 21-month high",
+      "excerpt": "UK data: Barclaycard spending rises 2.0% in July as consumer confidence hits 21-month high",
+      "content": "<p>UK data: Barclaycard spending rises 2.0% in July as consumer confidence hits 21-month high</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T01:14:42.819421+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0e993b959072",
+      "slug": "wti-hovers-around-8150-as-us-iran-peace-talks-stall-0e993b959072",
+      "title": "WTI hovers around $81.50 as US-Iran peace talks stall",
+      "excerpt": "WTI hovers around $81.50 as US-Iran peace talks stall",
+      "content": "<p>WTI hovers around $81.50 as US-Iran peace talks stall</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T01:14:44.644744+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cc372710c70c",
+      "slug": "rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-cc372710c70c",
+      "title": "RBA set to hold interest rate at 4.35% as softer inflation cools hike bets",
+      "excerpt": "RBA set to hold interest rate at 4.35% as softer inflation cools hike bets",
+      "content": "<p>RBA set to hold interest rate at 4.35% as softer inflation cools hike bets</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T01:14:46.195133+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8dfdd86662a3",
+      "slug": "this-is-the-zip-code-with-the-hottest-housing-market-in-the-country-right-now-8dfdd86662a3",
+      "title": "This is the ZIP code with the hottest housing market in the country right now",
+      "excerpt": "This is the ZIP code with the hottest housing market in the country right now",
+      "content": "<p>This is the ZIP code with the hottest housing market in the country right now</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-11T01:14:48.135630+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "358ce441c42a",
       "slug": "brazils-319b-crypto-market-faces-october-licensing-deadline-certik-358ce441c42a",
       "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
@@ -791,117 +899,9 @@
       "date": "2026-08-10T19:27:10.497980+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1c0eeb483c85",
-      "slug": "strategy-sells-1690-bitcoin-raises-653-million-from-mstr-shares-1c0eeb483c85",
-      "title": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-      "excerpt": "Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares",
-      "content": "<p>Strategy sells 1,690 bitcoin, raises $653 million from MSTR shares</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T19:27:12.242668+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a0996a290b55",
-      "slug": "another-dormant-bitcoin-wallet-holding-millions-wakes-up-after-12-years-a0996a290b55",
-      "title": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
-      "excerpt": "Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years",
-      "content": "<p>Another Dormant Bitcoin Wallet Holding Millions Wakes Up After 12 Years</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T19:27:13.835266+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb588aee787c",
-      "slug": "wall-street-is-starting-to-treat-data-center-backlash-as-a-credit-risk-eb588aee787c",
-      "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
-      "excerpt": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
-      "content": "<p>Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T19:27:15.364946+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "73758b855021",
-      "slug": "investinglive-european-session-wrap-yen-drops-markets-tentative-to-start-the-wee-73758b855021",
-      "title": "investingLive European session wrap: Yen drops, markets tentative to start the week",
-      "excerpt": "investingLive European session wrap: Yen drops, markets tentative to start the week",
-      "content": "<p>investingLive European session wrap: Yen drops, markets tentative to start the week</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T19:27:17.175176+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ccaa13913f8a",
-      "slug": "investinglive-asia-pacific-financial-market-news-no-hormuz-deal-in-sight-ccaa13913f8a",
-      "title": "investingLive Asia-Pacific Financial Market news: No Hormuz deal in sight",
-      "excerpt": "investingLive Asia-Pacific Financial Market news: No Hormuz deal in sight",
-      "content": "<p>investingLive Asia-Pacific Financial Market news: No Hormuz deal in sight</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T19:27:18.725039+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9c2999d574b3",
-      "slug": "china-cost-driven-reflation-and-narrow-profit-gains-standard-chartered-9c2999d574b3",
-      "title": "China: Cost-driven reflation and narrow profit gains – Standard Chartered",
-      "excerpt": "China: Cost-driven reflation and narrow profit gains – Standard Chartered",
-      "content": "<p>China: Cost-driven reflation and narrow profit gains – Standard Chartered</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-10T19:27:20.420820+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-10T23:57:14.357322+00:00",
+  "lastUpdated": "2026-08-11T01:14:49.724249+00:00",
   "totalCount": 50,
-  "newCount": 5
+  "newCount": 6
 }
