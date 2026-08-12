@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "960bccf08b77",
+      "slug": "arp-digital-secures-dubai-vara-broker-dealer-license-960bccf08b77",
+      "title": "ARP Digital secures Dubai VARA broker-dealer license",
+      "excerpt": "ARP Digital secures Dubai VARA broker-dealer license",
+      "content": "<p>ARP Digital secures Dubai VARA broker-dealer license</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T00:06:42.307313+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6c8f6338f125",
+      "slug": "trump-medias-crypto-bet-fuels-massive-238m-quarterly-loss-6c8f6338f125",
+      "title": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
+      "excerpt": "Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss",
+      "content": "<p>Trump Media’s Crypto Bet Fuels Massive $238M Quarterly Loss</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T00:06:44.284623+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b292bda07c7a",
       "slug": "etoro-reports-second-quarter-crypto-loss-even-as-total-profit-beats-estimates-b292bda07c7a",
       "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
@@ -863,45 +899,9 @@
       "date": "2026-08-11T19:53:47.962749+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bdcdaeedb942",
-      "slug": "australian-dollar-policy-risks-balanced-as-inflation-lingers-standard-chartered-bdcdaeedb942",
-      "title": "Australian Dollar: Policy risks balanced as inflation lingers – Standard Chartered",
-      "excerpt": "Australian Dollar: Policy risks balanced as inflation lingers – Standard Chartered",
-      "content": "<p>Australian Dollar: Policy risks balanced as inflation lingers – Standard Chartered</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T19:53:49.509896+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "33769a355915",
-      "slug": "strategy-ceo-says-company-will-resume-bitcoin-accumulation-this-year-33769a355915",
-      "title": "Strategy CEO says company will resume Bitcoin accumulation this year",
-      "excerpt": "Strategy CEO says company will resume Bitcoin accumulation this year",
-      "content": "<p>Strategy CEO says company will resume Bitcoin accumulation this year</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-11T18:44:48.161361+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-11T23:28:56.698781+00:00",
+  "lastUpdated": "2026-08-12T00:06:46.601850+00:00",
   "totalCount": 50,
-  "newCount": 9
+  "newCount": 2
 }
