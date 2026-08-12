@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "e591d96591fa",
+      "slug": "nyc-council-announces-probe-into-predatory-marketing-practices-on-prediction-mar-e591d96591fa",
+      "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+      "excerpt": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+      "content": "<p>NYC council announces probe into ‘predatory marketing practices’ on prediction markets</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:24.579152+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "507c28ae9193",
+      "slug": "smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says-507c28ae9193",
+      "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+      "excerpt": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+      "content": "<p>Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:26.528513+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "902a5f822d5e",
+      "slug": "chinas-deepseek-upgrades-v4-pro-claude-fable-is-only-5-better-at-4500-the-price-902a5f822d5e",
+      "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+      "excerpt": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+      "content": "<p>China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:28.180511+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a7aa6a257380",
+      "slug": "economic-and-event-calendar-in-asia-thursday-august-13-2026---rbnz-inflation-exp-a7aa6a257380",
+      "title": "Economic and event calendar in Asia Thursday, August 13, 2026 - RBNZ inflation expectations",
+      "excerpt": "Economic and event calendar in Asia Thursday, August 13, 2026 - RBNZ inflation expectations",
+      "content": "<p>Economic and event calendar in Asia Thursday, August 13, 2026 - RBNZ inflation expectations</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:29.913668+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2918188402e9",
+      "slug": "white-house-press-secretary-leavitt-will-be-departing-her-role-at-the-end-of-the-2918188402e9",
+      "title": "White House Press Secretary Leavitt will be departing her role at the end of the month.",
+      "excerpt": "White House Press Secretary Leavitt will be departing her role at the end of the month.",
+      "content": "<p>White House Press Secretary Leavitt will be departing her role at the end of the month.</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:31.467484+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7ecd3c8f7a1f",
+      "slug": "commodity-fx-growth-constraints-cap-carry-bny-7ecd3c8f7a1f",
+      "title": "Commodity FX: Growth constraints cap carry – BNY",
+      "excerpt": "Commodity FX: Growth constraints cap carry – BNY",
+      "content": "<p>Commodity FX: Growth constraints cap carry – BNY</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:33.262159+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2a3e6c150243",
+      "slug": "usdchf-price-forecast-bearish-flag-forms-as-bulls-eye-08200-2a3e6c150243",
+      "title": "USD/CHF Price Forecast: Bearish flag forms as bulls eye 0.8200",
+      "excerpt": "USD/CHF Price Forecast: Bearish flag forms as bulls eye 0.8200",
+      "content": "<p>USD/CHF Price Forecast: Bearish flag forms as bulls eye 0.8200</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:34.818383+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3da97caec083",
+      "slug": "chinese-yuan-range-trade-and-upside-risk-against-us-dollar-uob-3da97caec083",
+      "title": "Chinese Yuan: Range trade and upside risk against US Dollar – UOB",
+      "excerpt": "Chinese Yuan: Range trade and upside risk against US Dollar – UOB",
+      "content": "<p>Chinese Yuan: Range trade and upside risk against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:36.383593+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "87737c83e193",
+      "slug": "silver-price-forecast-xag-turns-bullish-eyes-200-day-sma-87737c83e193",
+      "title": "Silver Price Forecast: XAG turns bullish, eyes 200-day SMA",
+      "excerpt": "Silver Price Forecast: XAG turns bullish, eyes 200-day SMA",
+      "content": "<p>Silver Price Forecast: XAG turns bullish, eyes 200-day SMA</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:37.942845+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6828c9198a4c",
+      "slug": "now-china-wants-to-become-the-shop-floor-for-the-muslim-world-6828c9198a4c",
+      "title": "Now China wants to become the shop floor for the Muslim world",
+      "excerpt": "Now China wants to become the shop floor for the Muslim world",
+      "content": "<p>Now China wants to become the shop floor for the Muslim world</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-12T20:31:39.844741+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "4f8a4f22b9a1",
       "slug": "kraken-adds-sp-500-to-funded-trading-program-commodities-to-follow-4f8a4f22b9a1",
       "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
@@ -719,189 +899,9 @@
       "date": "2026-08-12T16:23:43.966931+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7ed7a7b8c50c",
-      "slug": "bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60-7ed7a7b8c50c",
-      "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
-      "excerpt": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
-      "content": "<p>Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:07.337201+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e2af6181d2f5",
-      "slug": "miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx-e2af6181d2f5",
-      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-      "excerpt": "Miden bets on privacy stablecoins with introduction of USDCx",
-      "content": "<p>Miden bets on privacy stablecoins with introduction of USDCx</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:09.080462+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "29011cc37561",
-      "slug": "crypto-long-short-29011cc37561",
-      "title": "Crypto Long & Short:",
-      "excerpt": "Crypto Long & Short:",
-      "content": "<p>Crypto Long & Short:</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:10.624645+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "be8910b7abde",
-      "slug": "why-bitcoin-barely-moved-even-as-us-inflation-cools-to-34-be8910b7abde",
-      "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
-      "excerpt": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
-      "content": "<p>Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:12.234886+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "88f98a170369",
-      "slug": "a-routing-bug-took-solana-86-of-the-way-to-losing-finality-88f98a170369",
-      "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-      "excerpt": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-      "content": "<p>A Routing Bug Took Solana 86% of the Way to Losing Finality</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:13.777922+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d136cb28d152",
-      "slug": "cleveland-fed-median-cpi-03-vs-02-prior-d136cb28d152",
-      "title": "Cleveland Fed median CPI +0.3% vs +0.2% prior",
-      "excerpt": "Cleveland Fed median CPI +0.3% vs +0.2% prior",
-      "content": "<p>Cleveland Fed median CPI +0.3% vs +0.2% prior</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:15.494172+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "105d3b07c542",
-      "slug": "canada-building-permits-for-june-185-vs-08-estimate-105d3b07c542",
-      "title": "Canada Building Permits for June 18.5% vs 0.8% estimate",
-      "excerpt": "Canada Building Permits for June 18.5% vs 0.8% estimate",
-      "content": "<p>Canada Building Permits for June 18.5% vs 0.8% estimate</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:17.036619+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "872d6992eb80",
-      "slug": "japanese-yen-pares-gains-against-us-dollar-as-markets-digest-us-cpi-872d6992eb80",
-      "title": "Japanese Yen pares gains against US Dollar as markets digest US CPI",
-      "excerpt": "Japanese Yen pares gains against US Dollar as markets digest US CPI",
-      "content": "<p>Japanese Yen pares gains against US Dollar as markets digest US CPI</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:18.698930+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2210b6604949",
-      "slug": "oil-tightening-supply-supports-elevated-prices-bny-2210b6604949",
-      "title": "Oil: Tightening supply supports elevated prices – BNY",
-      "excerpt": "Oil: Tightening supply supports elevated prices – BNY",
-      "content": "<p>Oil: Tightening supply supports elevated prices – BNY</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:20.239253+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c9969eea65a1",
-      "slug": "silver-jumps-more-than-2-after-us-inflation-meets-expectations-c9969eea65a1",
-      "title": "Silver jumps more than 2% after US inflation meets expectations",
-      "excerpt": "Silver jumps more than 2% after US inflation meets expectations",
-      "content": "<p>Silver jumps more than 2% after US inflation meets expectations</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T15:26:21.781789+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-12T19:33:27.324145+00:00",
+  "lastUpdated": "2026-08-12T20:31:41.344860+00:00",
   "totalCount": 50,
   "newCount": 10
 }
