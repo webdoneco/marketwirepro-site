@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "4a51f4fbb0f2",
+      "slug": "bitcoin-keeps-traders-guessing-near-64k-as-stocks-gain-on-cool-us-ppi-data-4a51f4fbb0f2",
+      "title": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
+      "excerpt": "Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data",
+      "content": "<p>Bitcoin keeps traders guessing near $64K as stocks gain on cool US PPI data</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:19.268985+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9168f7b93bc3",
+      "slug": "crypto-for-advisors-the-crypto-advice-gap-9168f7b93bc3",
+      "title": "Crypto for Advisors: The crypto advice gap",
+      "excerpt": "Crypto for Advisors: The crypto advice gap",
+      "content": "<p>Crypto for Advisors: The crypto advice gap</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:21.214765+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c7e71fa47cb6",
+      "slug": "b2c2-taps-schroders-veteran-to-chase-asias-growing-crypto-wealth-c7e71fa47cb6",
+      "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
+      "excerpt": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
+      "content": "<p>B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:22.749121+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "15435eb5fab8",
+      "slug": "kalshi-in-talks-with-sequoia-wellington-for-750-million-fund-raise-at-40-billion-15435eb5fab8",
+      "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
+      "excerpt": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
+      "content": "<p>Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:24.284846+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "134e75f0e52c",
+      "slug": "fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report-134e75f0e52c",
+      "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
+      "excerpt": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
+      "content": "<p>FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:25.895742+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7f706b224c95",
+      "slug": "spain-inflation-nudges-higher-in-july-as-both-headline-and-core-prices-push-up-7f706b224c95",
+      "title": "Spain inflation nudges higher in July as both headline and core prices push up",
+      "excerpt": "Spain inflation nudges higher in July as both headline and core prices push up",
+      "content": "<p>Spain inflation nudges higher in July as both headline and core prices push up</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:27.700917+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d0a35961df97",
+      "slug": "united-kingdom-upside-gdp-surprise-limited-boe-impact-td-securities-d0a35961df97",
+      "title": "United Kingdom: Upside GDP surprise, limited BoE impact – TD Securities",
+      "excerpt": "United Kingdom: Upside GDP surprise, limited BoE impact – TD Securities",
+      "content": "<p>United Kingdom: Upside GDP surprise, limited BoE impact – TD Securities</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:29.430704+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dfcd8f710003",
+      "slug": "gold-struggles-below-two-month-high-despite-softer-us-ppi-dfcd8f710003",
+      "title": "Gold struggles below two-month high despite softer US PPI",
+      "excerpt": "Gold struggles below two-month high despite softer US PPI",
+      "content": "<p>Gold struggles below two-month high despite softer US PPI</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:30.964951+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b4ef4aef9877",
+      "slug": "poland-fuel-driven-inflation-rise-contained-ing-b4ef4aef9877",
+      "title": "Poland: Fuel-driven inflation rise contained – ING",
+      "excerpt": "Poland: Fuel-driven inflation rise contained – ING",
+      "content": "<p>Poland: Fuel-driven inflation rise contained – ING</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:32.500999+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "96912c2b3e70",
+      "slug": "india-inflation-path-higher-into-fy27-standard-chartered-96912c2b3e70",
+      "title": "India: Inflation path higher into FY27 – Standard Chartered",
+      "excerpt": "India: Inflation path higher into FY27 – Standard Chartered",
+      "content": "<p>India: Inflation path higher into FY27 – Standard Chartered</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T15:28:34.042960+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d77a004dd4e6",
       "slug": "bitmines-257m-annualized-staking-income-fills-operational-gaps-share-buybacks-an-d77a004dd4e6",
       "title": "Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts",
@@ -719,189 +899,9 @@
       "date": "2026-08-13T10:51:38.947399+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1251afd761c5",
-      "slug": "securitize-falls-16-after-earnings-miss-tokenization-revenue-drops-1251afd761c5",
-      "title": "Securitize falls 16% after earnings miss, tokenization revenue drops",
-      "excerpt": "Securitize falls 16% after earnings miss, tokenization revenue drops",
-      "content": "<p>Securitize falls 16% after earnings miss, tokenization revenue drops</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:09.988579+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "61959a9adda8",
-      "slug": "live-markets-us-inflation-is-stickier-than-julys-mild-cpi-reading-suggests-61959a9adda8",
-      "title": "Live Markets: U.S. inflation is stickier than July’s mild CPI reading suggests",
-      "excerpt": "Live Markets: U.S. inflation is stickier than July’s mild CPI reading suggests",
-      "content": "<p>Live Markets: U.S. inflation is stickier than July’s mild CPI reading suggests</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:11.997310+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6be8f2836630",
-      "slug": "bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-13-million-private-deb-6be8f2836630",
-      "title": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale",
-      "excerpt": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale",
-      "content": "<p>Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:13.578193+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "90dec918027d",
-      "slug": "stock-market-today-ai-lead-so-far-this-week-but-cisco-may-cool-things-down-90dec918027d",
-      "title": "Stock Market Today: AI lead so far this week but Cisco may cool things down",
-      "excerpt": "Stock Market Today: AI lead so far this week but Cisco may cool things down",
-      "content": "<p>Stock Market Today: AI lead so far this week but Cisco may cool things down</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:15.595131+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9f3f12824cc3",
-      "slug": "euro-area-industrial-output-holds-flat-in-june-9f3f12824cc3",
-      "title": "Euro area industrial output holds flat in June",
-      "excerpt": "Euro area industrial output holds flat in June",
-      "content": "<p>Euro area industrial output holds flat in June</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:17.174591+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "25ad25960c16",
-      "slug": "silver-price-today-silver-falls-according-to-fxstreet-data-25ad25960c16",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "excerpt": "Silver price today: Silver falls, according to FXStreet data",
-      "content": "<p>Silver price today: Silver falls, according to FXStreet data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:18.903891+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7b09d70a9a97",
-      "slug": "euro-range-tests-with-upside-bias-against-us-dollar-ing-7b09d70a9a97",
-      "title": "Euro: Range tests with upside bias against US Dollar – ING",
-      "excerpt": "Euro: Range tests with upside bias against US Dollar – ING",
-      "content": "<p>Euro: Range tests with upside bias against US Dollar – ING</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:20.483476+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "364ddda89b18",
-      "slug": "us-dollar-inflation-outlook-and-fed-path-uob-364ddda89b18",
-      "title": "US Dollar: Inflation outlook and Fed path – UOB",
-      "excerpt": "US Dollar: Inflation outlook and Fed path – UOB",
-      "content": "<p>US Dollar: Inflation outlook and Fed path – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:22.060612+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "27dcf8c19cf4",
-      "slug": "swiss-franc-holds-ground-following-domestic-producer-and-import-prices-data-27dcf8c19cf4",
-      "title": "Swiss Franc holds ground following domestic Producer and Import Prices data",
-      "excerpt": "Swiss Franc holds ground following domestic Producer and Import Prices data",
-      "content": "<p>Swiss Franc holds ground following domestic Producer and Import Prices data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:23.639651+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8a92c219a4ef",
-      "slug": "japanese-yen-boj-hike-expectations-support-jpy-against-us-dollar---mufg-8a92c219a4ef",
-      "title": "Japanese Yen: BoJ hike expectations support JPY against US Dollar - MUFG",
-      "excerpt": "Japanese Yen: BoJ hike expectations support JPY against US Dollar - MUFG",
-      "content": "<p>Japanese Yen: BoJ hike expectations support JPY against US Dollar - MUFG</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T09:37:25.218754+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-13T14:14:52.157547+00:00",
+  "lastUpdated": "2026-08-13T15:28:35.543122+00:00",
   "totalCount": 50,
   "newCount": 10
 }
