@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "4a2300d355e1",
+      "slug": "us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi-4a2300d355e1",
+      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "excerpt": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "content": "<p>U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:36.798855+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f71660e2d260",
+      "slug": "sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d-f71660e2d260",
+      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "excerpt": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "content": "<p>SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:38.328764+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "17dc3a7f1673",
+      "slug": "bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws-17dc3a7f1673",
+      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
+      "excerpt": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
+      "content": "<p>'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:39.900642+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "88e3d994d38a",
+      "slug": "nz-manufacturing-growth-cools-to-543-in-july-after-junes-surge-88e3d994d38a",
+      "title": "NZ manufacturing growth cools to 54.3 in July after June's surge",
+      "excerpt": "NZ manufacturing growth cools to 54.3 in July after June's surge",
+      "content": "<p>NZ manufacturing growth cools to 54.3 in July after June's surge</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:41.552408+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5b3db89e64dd",
+      "slug": "us-treasury-sells-30-year-bonds-at-a-high-yield-of-5216-5b3db89e64dd",
+      "title": "US treasury sells 30 year bonds at a high yield of 5.216%",
+      "excerpt": "US treasury sells 30 year bonds at a high yield of 5.216%",
+      "content": "<p>US treasury sells 30 year bonds at a high yield of 5.216%</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:43.082161+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6b28402a6824",
+      "slug": "us-30-year-average-mortgage-rate-averages-667-vs-669-last-week-6b28402a6824",
+      "title": "US 30 year average mortgage rate averages 6.67% vs 6.69% last week.",
+      "excerpt": "US 30 year average mortgage rate averages 6.67% vs 6.69% last week.",
+      "content": "<p>US 30 year average mortgage rate averages 6.67% vs 6.69% last week.</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:44.615968+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "27da9985f7ef",
+      "slug": "australian-dollar-holds-near-07060-as-eyes-shift-to-rbas-bullock-27da9985f7ef",
+      "title": "Australian Dollar holds near 0.7060 as eyes shift to RBA’s Bullock",
+      "excerpt": "Australian Dollar holds near 0.7060 as eyes shift to RBA’s Bullock",
+      "content": "<p>Australian Dollar holds near 0.7060 as eyes shift to RBA’s Bullock</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:46.215192+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5b23c1cf920a",
+      "slug": "half-of-the-record-japanese-yen-intervention-is-already-gone-5b23c1cf920a",
+      "title": "Half of the record Japanese Yen intervention is already gone",
+      "excerpt": "Half of the record Japanese Yen intervention is already gone",
+      "content": "<p>Half of the record Japanese Yen intervention is already gone</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:47.744316+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c45244ed0d55",
+      "slug": "the-british-pounds-growth-beat-came-from-a-dead-ceasefire-c45244ed0d55",
+      "title": "The British Pound's growth beat came from a dead ceasefire",
+      "excerpt": "The British Pound's growth beat came from a dead ceasefire",
+      "content": "<p>The British Pound's growth beat came from a dead ceasefire</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:49.272686+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e6e334407111",
+      "slug": "feds-goolsbee-sees-inflation-improving-as-shocks-fade-e6e334407111",
+      "title": "Fed’s Goolsbee sees inflation improving as shocks fade",
+      "excerpt": "Fed’s Goolsbee sees inflation improving as shocks fade",
+      "content": "<p>Fed’s Goolsbee sees inflation improving as shocks fade</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T23:09:50.805087+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "4c444ebc8110",
       "slug": "anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged-4c444ebc8110",
       "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
@@ -719,189 +899,9 @@
       "date": "2026-08-13T18:14:05.216243+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ce3ae467589a",
-      "slug": "forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges-ce3ae467589a",
-      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-      "excerpt": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
-      "content": "<p>Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:07.299190+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0c4d1feabea6",
-      "slug": "crypto-group-warns-fed-could-use-banking-access-to-squeeze-digital-asset-firms-0c4d1feabea6",
-      "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
-      "excerpt": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
-      "content": "<p>Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:08.987943+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d08155cacc93",
-      "slug": "gold-slips-as-us-dollar-recovers-despite-softer-us-factory-inflation-d08155cacc93",
-      "title": "Gold slips as US Dollar recovers despite softer US factory inflation",
-      "excerpt": "Gold slips as US Dollar recovers despite softer US factory inflation",
-      "content": "<p>Gold slips as US Dollar recovers despite softer US factory inflation</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:10.958853+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "683257aad4e0",
-      "slug": "silver-price-forecast-momentum-cools-as-xagusd-consolidates-above-50-day-sma-683257aad4e0",
-      "title": "Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA",
-      "excerpt": "Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA",
-      "content": "<p>Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:12.510613+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d0b3e1a67dbb",
-      "slug": "united-kingdom-growth-resilient-as-boe-stays-on-hold-standard-chartered-d0b3e1a67dbb",
-      "title": "United Kingdom: Growth resilient as BoE stays on hold – Standard Chartered",
-      "excerpt": "United Kingdom: Growth resilient as BoE stays on hold – Standard Chartered",
-      "content": "<p>United Kingdom: Growth resilient as BoE stays on hold – Standard Chartered</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:14.055753+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8f5f436c313d",
-      "slug": "these-nontech-stocks-can-ride-the-ai-build-out-for-years-8f5f436c313d",
-      "title": "These nontech stocks can ride the AI build-out for years",
-      "excerpt": "These nontech stocks can ride the AI build-out for years",
-      "content": "<p>These nontech stocks can ride the AI build-out for years</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:16.094233+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4068eaf18733",
-      "slug": "rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-tha-4068eaf18733",
-      "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-      "excerpt": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-      "content": "<p>Rich Americans are propping up the travel economy as airfares soar 25% higher than last year</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:17.646244+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d30ac005b571",
-      "slug": "your-prescription-drugs-shouldnt-cost-more-than-your-mortgage-inside-the-broken--d30ac005b571",
-      "title": "Your prescription drugs shouldn’t cost more than your mortgage. Inside the broken math that got us here.",
-      "excerpt": "Your prescription drugs shouldn’t cost more than your mortgage. Inside the broken math that got us here.",
-      "content": "<p>Your prescription drugs shouldn’t cost more than your mortgage. Inside the broken math that got us here.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:19.191231+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b45e296fc532",
-      "slug": "trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach-b45e296fc532",
-      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
-      "excerpt": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
-      "content": "<p>Trezor warns 14,000 customers after fulfilment partner suffers data breach</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:34.570949+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "74e5533f308a",
-      "slug": "bitcoin-companies-want-help-from-ai-labs-to-guard-against-hackers-74e5533f308a",
-      "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
-      "excerpt": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
-      "content": "<p>Bitcoin Companies Want Help From AI Labs to Guard Against Hackers</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:36.303021+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-13T22:08:36.731074+00:00",
+  "lastUpdated": "2026-08-13T23:09:52.305246+00:00",
   "totalCount": 50,
-  "newCount": 8
+  "newCount": 10
 }
