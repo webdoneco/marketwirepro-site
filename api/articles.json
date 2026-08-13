@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:11.859989+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "01bcb457a99c",
+      "slug": "metaplanet-denies-selling-bitcoin-worth-320-million-01bcb457a99c",
+      "title": "Metaplanet denies selling bitcoin worth $320 million",
+      "excerpt": "Metaplanet denies selling bitcoin worth $320 million",
+      "content": "<p>Metaplanet denies selling bitcoin worth $320 million</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:13.819292+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f2f022eeda7f",
+      "slug": "bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have-f2f022eeda7f",
+      "title": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "excerpt": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "content": "<p>Bitcoin firms ask AI labs for same tools attackers already have</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:15.360761+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "df514257d785",
+      "slug": "inner-thoughts-of-every-major-ai-model-exposed-in-massive-exploit-df514257d785",
+      "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+      "excerpt": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+      "content": "<p>'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:17.001279+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "902a5f822d5e",
+      "slug": "chinas-deepseek-upgrades-v4-pro-claude-fable-is-only-5-better-at-4500-the-price-902a5f822d5e",
+      "title": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+      "excerpt": "China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+      "content": "<p>China’s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:18.545708+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ffab8b38b538",
+      "slug": "what-are-the-main-events-for-today-ffab8b38b538",
+      "title": "What are the main events for today?",
+      "excerpt": "What are the main events for today?",
+      "content": "<p>What are the main events for today?</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:20.358364+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d4ce998342a3",
+      "slug": "uk-q2-preliminary-gdp-04-vs-04-qq-expected-d4ce998342a3",
+      "title": "UK Q2 preliminary GDP +0.4% vs +0.4% q/q expected",
+      "excerpt": "UK Q2 preliminary GDP +0.4% vs +0.4% q/q expected",
+      "content": "<p>UK Q2 preliminary GDP +0.4% vs +0.4% q/q expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:21.899020+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c85d00be71fe",
+      "slug": "uk-economy-posts-unexpected-growth-in-june-on-stronger-services-sector-showing-c85d00be71fe",
+      "title": "UK economy posts unexpected growth in June on stronger services sector showing",
+      "excerpt": "UK economy posts unexpected growth in June on stronger services sector showing",
+      "content": "<p>UK economy posts unexpected growth in June on stronger services sector showing</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:23.439512+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a05c23ce59da",
+      "slug": "its-on-to-jackson-hole-next-a05c23ce59da",
+      "title": "It's on to Jackson Hole next..",
+      "excerpt": "It's on to Jackson Hole next..",
+      "content": "<p>It's on to Jackson Hole next..</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:24.992397+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "455d630a206d",
+      "slug": "indian-rupee-contained-inflation-supports-rbi-pause-commerzbank-455d630a206d",
+      "title": "Indian Rupee: Contained inflation supports RBI pause – Commerzbank",
+      "excerpt": "Indian Rupee: Contained inflation supports RBI pause – Commerzbank",
+      "content": "<p>Indian Rupee: Contained inflation supports RBI pause – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T06:53:26.853860+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "dd66dac9b9c3",
       "slug": "crypto-valuations-could-double-as-protocols-link-revenue-to-tokens-bitwise-cio-dd66dac9b9c3",
       "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
@@ -719,189 +899,9 @@
       "date": "2026-08-12T22:29:07.358842+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "53033165d58a",
-      "slug": "morgan-stanleys-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-us-trust-53033165d58a",
-      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-      "excerpt": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
-      "content": "<p>Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T22:29:08.905142+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d5f3e7e334e5",
-      "slug": "euro-reverses-from-two-day-high-fade-us-soft-cpi-move-d5f3e7e334e5",
-      "title": "Euro reverses from two-day high, fade US soft CPI move",
-      "excerpt": "Euro reverses from two-day high, fade US soft CPI move",
-      "content": "<p>Euro reverses from two-day high, fade US soft CPI move</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T22:29:11.134536+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "80338940d407",
-      "slug": "chinese-yuan-credit-softness-may-spur-pboc-easing-commerzbank-80338940d407",
-      "title": "Chinese Yuan: Credit softness may spur PBoC easing – Commerzbank",
-      "excerpt": "Chinese Yuan: Credit softness may spur PBoC easing – Commerzbank",
-      "content": "<p>Chinese Yuan: Credit softness may spur PBoC easing – Commerzbank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T22:29:12.684254+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e69e8936deec",
-      "slug": "mexican-peso-rallies-to-two-year-high-as-soft-cpi-hits-fed-bets-e69e8936deec",
-      "title": "Mexican Peso rallies to two-year high as soft CPI hits Fed bets",
-      "excerpt": "Mexican Peso rallies to two-year high as soft CPI hits Fed bets",
-      "content": "<p>Mexican Peso rallies to two-year high as soft CPI hits Fed bets</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T22:29:14.231327+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "980e5cd1ab71",
-      "slug": "can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefi-980e5cd1ab71",
-      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-      "excerpt": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-      "content": "<p>Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T22:29:16.160946+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e6f6e19a0cf8",
-      "slug": "alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chi-e6f6e19a0cf8",
-      "title": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
-      "excerpt": "Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips",
-      "content": "<p>Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T22:29:17.708287+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5127ddeed9cd",
-      "slug": "hawaii-crypto-atm-ban-to-take-effect-on-oct-1-5127ddeed9cd",
-      "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
-      "excerpt": "Hawaii crypto ATM ban to take effect on Oct. 1",
-      "content": "<p>Hawaii crypto ATM ban to take effect on Oct. 1</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T21:33:25.147837+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cfd6e18bad4b",
-      "slug": "goldman-sachs-to-acquire-etf-manager-neos-in-225b-deal-cfd6e18bad4b",
-      "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
-      "excerpt": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
-      "content": "<p>Goldman Sachs to acquire ETF manager NEOS in $2.25B deal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T21:33:26.693761+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e2af6181d2f5",
-      "slug": "miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx-e2af6181d2f5",
-      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-      "excerpt": "Miden bets on privacy stablecoins with introduction of USDCx",
-      "content": "<p>Miden bets on privacy stablecoins with introduction of USDCx</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T21:33:28.696683+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5db402bec525",
-      "slug": "the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock-5db402bec525",
-      "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
-      "excerpt": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
-      "content": "<p>The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T21:33:30.338800+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-13T05:15:22.831812+00:00",
+  "lastUpdated": "2026-08-13T06:53:28.354088+00:00",
   "totalCount": 50,
   "newCount": 10
 }
