@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "3af98dc66e6c",
+      "slug": "bitgo-posts-19m-q2-loss-despite-80-revenue-surge-to-43b-3af98dc66e6c",
+      "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+      "excerpt": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+      "content": "<p>BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:18.615755+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3f2d5c001a53",
+      "slug": "copper-us-arm-becomes-finra-member-sec-registered-broker-dealer-3f2d5c001a53",
+      "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+      "excerpt": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+      "content": "<p>Copper US arm becomes FINRA member, SEC-registered broker-dealer</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:20.157873+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5db402bec525",
+      "slug": "the-ai-generated-pattern-hides-you-from-surveillance-camerasincluding-flock-5db402bec525",
+      "title": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
+      "excerpt": "The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock",
+      "content": "<p>The AI-Generated Pattern Hides You From Surveillance Cameras—Including Flock</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:22.090810+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7f706b224c95",
+      "slug": "spain-inflation-nudges-higher-in-july-as-both-headline-and-core-prices-push-up-7f706b224c95",
+      "title": "Spain inflation nudges higher in July as both headline and core prices push up",
+      "excerpt": "Spain inflation nudges higher in July as both headline and core prices push up",
+      "content": "<p>Spain inflation nudges higher in July as both headline and core prices push up</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:23.930418+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3ac1848ce940",
+      "slug": "dow-jones-futures-rise-as-cooling-inflation-reduces-fed-rate-hike-bets-3ac1848ce940",
+      "title": "Dow Jones futures rise as cooling inflation reduces Fed rate hike bets",
+      "excerpt": "Dow Jones futures rise as cooling inflation reduces Fed rate hike bets",
+      "content": "<p>Dow Jones futures rise as cooling inflation reduces Fed rate hike bets</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:25.613390+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7ac0eb35d686",
+      "slug": "gold-languishes-near-daily-low-eyes-4350-amid-fed-hike-bets-usd-strength-7ac0eb35d686",
+      "title": "Gold languishes near daily low; eyes $4,350 amid Fed hike bets, USD strength",
+      "excerpt": "Gold languishes near daily low; eyes $4,350 amid Fed hike bets, USD strength",
+      "content": "<p>Gold languishes near daily low; eyes $4,350 amid Fed hike bets, USD strength</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:27.152646+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0ce2c0406d72",
+      "slug": "swiss-franc-soft-profile-sustained-on-snb-stance-ocbc-0ce2c0406d72",
+      "title": "Swiss Franc: Soft profile sustained on SNB stance – OCBC",
+      "excerpt": "Swiss Franc: Soft profile sustained on SNB stance – OCBC",
+      "content": "<p>Swiss Franc: Soft profile sustained on SNB stance – OCBC</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:28.692494+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "81c99f11c5eb",
+      "slug": "norwegian-krone-dovish-risks-but-bullish-view-against-euro-ing-81c99f11c5eb",
+      "title": "Norwegian Krone: Dovish risks but bullish view against Euro – ING",
+      "excerpt": "Norwegian Krone: Dovish risks but bullish view against Euro – ING",
+      "content": "<p>Norwegian Krone: Dovish risks but bullish view against Euro – ING</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:30.235699+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ff1c9e4688bc",
+      "slug": "japanese-yen-holds-ground-due-to-potential-intervention-from-japanese-authoritie-ff1c9e4688bc",
+      "title": "Japanese Yen holds ground due to potential intervention from Japanese authorities",
+      "excerpt": "Japanese Yen holds ground due to potential intervention from Japanese authorities",
+      "content": "<p>Japanese Yen holds ground due to potential intervention from Japanese authorities</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:31.776656+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0e8634865a8e",
+      "slug": "russian-ruble-trade-boost-from-oil-seen-fading-commerzbank-0e8634865a8e",
+      "title": "Russian Ruble: Trade boost from Oil seen fading – Commerzbank",
+      "excerpt": "Russian Ruble: Trade boost from Oil seen fading – Commerzbank",
+      "content": "<p>Russian Ruble: Trade boost from Oil seen fading – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T08:10:33.317428+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -719,189 +899,9 @@
       "date": "2026-08-12T23:10:06.081160+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fe72fdcdf1f8",
-      "slug": "warning-there-is-a-long-way-to-go-until-the-next-fed-meeting-fe72fdcdf1f8",
-      "title": "WARNING: There is a long way to go until the next Fed Meeting",
-      "excerpt": "WARNING: There is a long way to go until the next Fed Meeting",
-      "content": "<p>WARNING: There is a long way to go until the next Fed Meeting</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:07.625153+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6fce0da48437",
-      "slug": "the-japanese-yen-gives-back-half-of-what-tokyo-bought-6fce0da48437",
-      "title": "The Japanese Yen gives back half of what Tokyo bought",
-      "excerpt": "The Japanese Yen gives back half of what Tokyo bought",
-      "content": "<p>The Japanese Yen gives back half of what Tokyo bought</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:09.433451+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "819f4a7355df",
-      "slug": "pound-sterling-runs-out-of-room-at-the-july-high-819f4a7355df",
-      "title": "Pound Sterling runs out of room at the July high",
-      "excerpt": "Pound Sterling runs out of room at the July high",
-      "content": "<p>Pound Sterling runs out of room at the July high</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:10.975276+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ecf9afec97c5",
-      "slug": "gbpjpy-price-forecast-50-day-sma-caps-sideways-trading-ecf9afec97c5",
-      "title": "GBP/JPY Price Forecast: 50-day SMA caps sideways trading",
-      "excerpt": "GBP/JPY Price Forecast: 50-day SMA caps sideways trading",
-      "content": "<p>GBP/JPY Price Forecast: 50-day SMA caps sideways trading</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:12.523376+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8a92d298817b",
-      "slug": "indonesia-bi-succession-supports-rupiah-stability-dbs-8a92d298817b",
-      "title": "Indonesia: BI succession supports Rupiah stability – DBS",
-      "excerpt": "Indonesia: BI succession supports Rupiah stability – DBS",
-      "content": "<p>Indonesia: BI succession supports Rupiah stability – DBS</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:14.066133+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a7cccc200e61",
-      "slug": "australian-dollar-pulls-back-as-inflation-expectations-loom-a7cccc200e61",
-      "title": "Australian Dollar pulls back as inflation expectations loom",
-      "excerpt": "Australian Dollar pulls back as inflation expectations loom",
-      "content": "<p>Australian Dollar pulls back as inflation expectations loom</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:15.613351+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0401de8967aa",
-      "slug": "chinas-next-economic-ambition-workshop-for-the-muslim-world-0401de8967aa",
-      "title": "China’s next economic ambition: workshop for the Muslim world",
-      "excerpt": "China’s next economic ambition: workshop for the Muslim world",
-      "content": "<p>China’s next economic ambition: workshop for the Muslim world</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:17.473619+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ab660e415fac",
-      "slug": "nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-ab660e415fac",
-      "title": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
-      "excerpt": "Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own",
-      "content": "<p>Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:19.020786+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f0d63e373034",
-      "slug": "lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-f0d63e373034",
-      "title": "Lumentum’s stock surges, giving a further boost to the optical-networking trade",
-      "excerpt": "Lumentum’s stock surges, giving a further boost to the optical-networking trade",
-      "content": "<p>Lumentum’s stock surges, giving a further boost to the optical-networking trade</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T23:10:20.561873+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "938177f04666",
-      "slug": "securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short-938177f04666",
-      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
-      "excerpt": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
-      "content": "<p>Securitize falls 20% after earnings miss as tokenization revenue falls short</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-12T22:29:07.358842+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-13T06:53:28.354088+00:00",
+  "lastUpdated": "2026-08-13T08:10:34.817590+00:00",
   "totalCount": 50,
   "newCount": 10
 }
