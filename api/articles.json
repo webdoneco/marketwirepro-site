@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "uid": "4c444ebc8110",
+      "slug": "anthropics-ai-agents-started-a-virtual-war-the-chat-logs-are-unhinged-4c444ebc8110",
+      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+      "excerpt": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+      "content": "<p>Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T22:08:23.630702+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "754a7204d12a",
+      "slug": "european-shares-close-lower-despite-the-us-tech-push-higher-754a7204d12a",
+      "title": "European shares close lower despite the US tech push higher",
+      "excerpt": "European shares close lower despite the US tech push higher",
+      "content": "<p>European shares close lower despite the US tech push higher</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T22:08:25.441424+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7b21d14396dd",
+      "slug": "euro-holds-above-11500-as-us-inflation-curbs-fed-bets-7b21d14396dd",
+      "title": "Euro holds above 1.1500 as US inflation curbs Fed bets",
+      "excerpt": "Euro holds above 1.1500 as US inflation curbs Fed bets",
+      "content": "<p>Euro holds above 1.1500 as US inflation curbs Fed bets</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T22:08:27.058514+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8f0328c47577",
+      "slug": "salesforces-stock-gets-a-boost-as-jp-morgan-says-ai-fears-are-overblown-8f0328c47577",
+      "title": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
+      "excerpt": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
+      "content": "<p>Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T22:08:28.836219+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dc1c33e71100",
+      "slug": "markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-dc1c33e71100",
+      "title": "Markets are looking eerily calm as investors chase FOMO rally",
+      "excerpt": "Markets are looking eerily calm as investors chase FOMO rally",
+      "content": "<p>Markets are looking eerily calm as investors chase FOMO rally</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T22:08:30.365369+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "12c8715743ad",
+      "slug": "it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgr-12c8715743ad",
+      "title": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+      "excerpt": "‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?",
+      "content": "<p>‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T22:08:31.903870+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9fd76c394f56",
+      "slug": "i-found-a-100-bill-in-the-communal-washer-at-my-airbnb-what-should-i-do-9fd76c394f56",
+      "title": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "excerpt": "I found a $100 bill in the communal washer at my Airbnb. What should I do?",
+      "content": "<p>I found a $100 bill in the communal washer at my Airbnb. What should I do?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T22:08:33.433589+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "021000c86ad0",
+      "slug": "workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-021000c86ad0",
+      "title": "Workday’s stock sees a record surge. Could a buyout spark a software revival?",
+      "excerpt": "Workday’s stock sees a record surge. Could a buyout spark a software revival?",
+      "content": "<p>Workday’s stock sees a record surge. Could a buyout spark a software revival?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-13T22:08:34.964002+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "7e66f80cf872",
       "slug": "city-of-baltimore-goes-after-prediction-markets-for-sports-betting-7e66f80cf872",
       "title": "City of Baltimore goes after prediction markets for sports betting",
@@ -755,153 +899,9 @@
       "date": "2026-08-13T17:25:36.303021+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "36065c6a7529",
-      "slug": "metaplanet-denies-selling-320m-in-bitcoin-as-firm-launches-bitbonds-36065c6a7529",
-      "title": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
-      "excerpt": "Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds",
-      "content": "<p>Metaplanet Denies Selling $320M in Bitcoin as Firm Launches BitBonds</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:37.890302+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5b3db89e64dd",
-      "slug": "us-treasury-sells-30-year-bonds-at-a-high-yield-of-5216-5b3db89e64dd",
-      "title": "US treasury sells 30 year bonds at a high yield of 5.216%",
-      "excerpt": "US treasury sells 30 year bonds at a high yield of 5.216%",
-      "content": "<p>US treasury sells 30 year bonds at a high yield of 5.216%</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:39.874490+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6b28402a6824",
-      "slug": "us-30-year-average-mortgage-rate-averages-667-vs-669-last-week-6b28402a6824",
-      "title": "US 30 year average mortgage rate averages 6.67% vs 6.69% last week.",
-      "excerpt": "US 30 year average mortgage rate averages 6.67% vs 6.69% last week.",
-      "content": "<p>US 30 year average mortgage rate averages 6.67% vs 6.69% last week.</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:41.455699+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3cacbf8b39e1",
-      "slug": "australian-dollar-stumbles-near-recent-highs-3cacbf8b39e1",
-      "title": "Australian Dollar stumbles near recent highs",
-      "excerpt": "Australian Dollar stumbles near recent highs",
-      "content": "<p>Australian Dollar stumbles near recent highs</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:43.218676+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1adefc8afc0b",
-      "slug": "natural-gas-storage-worries-with-ttf-higher-ing-1adefc8afc0b",
-      "title": "Natural gas: Storage worries with TTF higher – ING",
-      "excerpt": "Natural gas: Storage worries with TTF higher – ING",
-      "content": "<p>Natural gas: Storage worries with TTF higher – ING</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:44.802222+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "79c8e8e4bd8f",
-      "slug": "british-pound-climbs-as-soft-us-inflation-data-hurt-fed-hawkish-bets-79c8e8e4bd8f",
-      "title": "British Pound climbs as soft US inflation data hurt Fed hawkish bets",
-      "excerpt": "British Pound climbs as soft US inflation data hurt Fed hawkish bets",
-      "content": "<p>British Pound climbs as soft US inflation data hurt Fed hawkish bets</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:46.383999+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9ba9aa4284e6",
-      "slug": "why-september-is-the-worst-month-of-the-year-for-the-stock-market-9ba9aa4284e6",
-      "title": "Why September is the worst month of the year for the stock market",
-      "excerpt": "Why September is the worst month of the year for the stock market",
-      "content": "<p>Why September is the worst month of the year for the stock market</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:48.446885+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3fb1214aeff3",
-      "slug": "sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall--3fb1214aeff3",
-      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "excerpt": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "content": "<p>Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T17:25:50.027702+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-13T21:21:17.845680+00:00",
+  "lastUpdated": "2026-08-13T22:08:36.731074+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 8
 }
