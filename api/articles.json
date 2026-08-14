@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "5763e2a2b5fd",
+      "slug": "israels-largest-bank-will-give-bitcoin-trading-another-try-5763e2a2b5fd",
+      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+      "excerpt": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+      "content": "<p>Israel’s Largest Bank Will Give Bitcoin Trading Another Try</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T22:11:28.047570+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "31dbd4a487aa",
+      "slug": "us-treasury-yields-rise-as-oil-strength-offsets-weak-retail-sales-31dbd4a487aa",
+      "title": "US Treasury yields rise as Oil strength offsets weak Retail Sales",
+      "excerpt": "US Treasury yields rise as Oil strength offsets weak Retail Sales",
+      "content": "<p>US Treasury yields rise as Oil strength offsets weak Retail Sales</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T22:11:30.011483+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "7cf7499b8b9c",
       "slug": "gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance-7cf7499b8b9c",
       "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
@@ -863,45 +899,9 @@
       "date": "2026-08-14T18:12:07.175637+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1c7fa4d19907",
-      "slug": "uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election--1c7fa4d19907",
-      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
-      "excerpt": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
-      "content": "<p>UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T17:23:02.836435+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "891aa054ea94",
-      "slug": "redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg-891aa054ea94",
-      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "excerpt": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "content": "<p>RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T17:23:04.813243+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-14T21:46:29.105332+00:00",
+  "lastUpdated": "2026-08-14T22:11:32.113020+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 2
 }
