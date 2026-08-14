@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "7cf7499b8b9c",
+      "slug": "gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance-7cf7499b8b9c",
+      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+      "excerpt": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+      "content": "<p>Gen Z favors ETFs and trades less than older cohorts: Binance</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T21:46:23.659811+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "35bf2ddd5832",
+      "slug": "investinglive-americas-fx-news-wrap-14-aug-stocks-finish-mixed-as-yields-rise-an-35bf2ddd5832",
+      "title": "investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls",
+      "excerpt": "investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls",
+      "content": "<p>investingLive Americas FX news wrap 14 Aug: Stocks finish mixed as yields rise and the dollar falls</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T21:46:25.571217+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a9c570cfa43b",
+      "slug": "berkshire-hathaway-doubles-down-on-the-us-housing-market-with-a-fresh-bet-on-thi-a9c570cfa43b",
+      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+      "excerpt": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+      "content": "<p>Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T21:46:27.583258+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b65de43c6ba4",
       "slug": "ireland-plans-industry-standards-for-illicit-crypto-use-b65de43c6ba4",
       "title": "Ireland plans industry standards for illicit crypto use",
@@ -845,63 +899,9 @@
       "date": "2026-08-14T17:23:04.813243+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5763e2a2b5fd",
-      "slug": "israels-largest-bank-will-give-bitcoin-trading-another-try-5763e2a2b5fd",
-      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
-      "excerpt": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
-      "content": "<p>Israel’s Largest Bank Will Give Bitcoin Trading Another Try</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T17:23:06.398239+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a2301725ced1",
-      "slug": "another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot-a2301725ced1",
-      "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-      "excerpt": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
-      "content": "<p>Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T17:23:07.933514+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "93a1a17da921",
-      "slug": "sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act-93a1a17da921",
-      "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
-      "excerpt": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
-      "content": "<p>SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T17:23:09.468075+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-14T21:14:55.243855+00:00",
+  "lastUpdated": "2026-08-14T21:46:29.105332+00:00",
   "totalCount": 50,
-  "newCount": 5
+  "newCount": 3
 }
