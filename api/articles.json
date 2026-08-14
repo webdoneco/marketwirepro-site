@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "1c7fa4d19907",
+      "slug": "uk-authorities-continue-probe-into-nigel-farages-crypto-gifts-after-by-election--1c7fa4d19907",
+      "title": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+      "excerpt": "UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win",
+      "content": "<p>UK authorities continue probe into Nigel Farage’s crypto ‘gifts’ after by-election win</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:02.836435+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "891aa054ea94",
+      "slug": "redotpay-said-to-put-1-billion-us-ipo-plan-on-hold-bloomberg-891aa054ea94",
+      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
+      "excerpt": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
+      "content": "<p>RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:04.813243+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5763e2a2b5fd",
+      "slug": "israels-largest-bank-will-give-bitcoin-trading-another-try-5763e2a2b5fd",
+      "title": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+      "excerpt": "Israel’s Largest Bank Will Give Bitcoin Trading Another Try",
+      "content": "<p>Israel’s Largest Bank Will Give Bitcoin Trading Another Try</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:06.398239+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a2301725ced1",
+      "slug": "another-bitcoin-miner-sells-off-btc-to-fund-ai-data-center-pivot-a2301725ced1",
+      "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+      "excerpt": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+      "content": "<p>Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:07.933514+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "93a1a17da921",
+      "slug": "sec-shelves-crypto-rule-meeting-days-after-senate-punted-clarity-act-93a1a17da921",
+      "title": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
+      "excerpt": "SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act",
+      "content": "<p>SEC Shelves Crypto Rule Meeting Days After Senate Punted Clarity Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:09.468075+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c8f009fc1b8c",
+      "slug": "chinese-yuan-range-trade-persists-near-67450-against-us-dollar-uob-c8f009fc1b8c",
+      "title": "Chinese Yuan: Range trade persists near 6.7450 against US Dollar – UOB",
+      "excerpt": "Chinese Yuan: Range trade persists near 6.7450 against US Dollar – UOB",
+      "content": "<p>Chinese Yuan: Range trade persists near 6.7450 against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:11.334723+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6f3368370795",
+      "slug": "the-dow-jones-industrial-average-learns-who-paid-for-disinflation-6f3368370795",
+      "title": "The Dow Jones Industrial Average learns who paid for disinflation",
+      "excerpt": "The Dow Jones Industrial Average learns who paid for disinflation",
+      "content": "<p>The Dow Jones Industrial Average learns who paid for disinflation</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:12.868152+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fb0bc506ab13",
+      "slug": "new-zealand-dollar-charges-toward-05900-as-us-dollar-loses-ground-fb0bc506ab13",
+      "title": "New Zealand Dollar charges toward 0.5900 as US Dollar loses ground",
+      "excerpt": "New Zealand Dollar charges toward 0.5900 as US Dollar loses ground",
+      "content": "<p>New Zealand Dollar charges toward 0.5900 as US Dollar loses ground</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:14.400290+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "592d26f4e374",
+      "slug": "natural-gas-tight-european-balance-and-storage-risks-commerzbank-592d26f4e374",
+      "title": "Natural gas: Tight European balance and storage risks – Commerzbank",
+      "excerpt": "Natural gas: Tight European balance and storage risks – Commerzbank",
+      "content": "<p>Natural gas: Tight European balance and storage risks – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:15.932386+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c9c2ca1084ac",
+      "slug": "silver-price-forecast-xagusd-holds-gains-but-struggles-for-fresh-momentum-c9c2ca1084ac",
+      "title": "Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum",
+      "excerpt": "Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum",
+      "content": "<p>Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T17:23:17.471375+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "452faea93606",
       "slug": "israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading-452faea93606",
       "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
@@ -719,189 +899,9 @@
       "date": "2026-08-14T12:39:19.717871+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9be6e5d5ef7b",
-      "slug": "shinhan-asset-management-partners-with-plume-on-tokenized-fund-pilot-9be6e5d5ef7b",
-      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
-      "excerpt": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
-      "content": "<p>Shinhan Asset Management partners with Plume on tokenized fund pilot</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:40.859316+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "faa3598a0228",
-      "slug": "bitcoin-eyes-new-august-lows-as-binance-longs-face-a-cleanout-faa3598a0228",
-      "title": "Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’",
-      "excerpt": "Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’",
-      "content": "<p>Bitcoin Eyes New August Lows as Binance Longs Face a ‘Cleanout’</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:42.395393+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8c908799d01b",
-      "slug": "volatility-exits-crypto-tradfi-markets-even-as-us-iran-risks-linger-sovereign-de-8c908799d01b",
-      "title": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
-      "excerpt": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
-      "content": "<p>Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:44.134833+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7549053567e9",
-      "slug": "trump-familys-world-liberty-financial-delay-plans-to-sell-maldives-resort-token-7549053567e9",
-      "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-      "excerpt": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
-      "content": "<p>Trump family's World Liberty Financial delay plans to sell Maldives resort token</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:45.667529+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "33900e1778d7",
-      "slug": "bitcoin-slips-as-us-inflation-fails-to-spark-gains-etfs-see-augusts-first-two-da-33900e1778d7",
-      "title": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-      "excerpt": "Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown",
-      "content": "<p>Bitcoin slips as U.S. inflation fails to spark gains, ETFs see August's first two-day drawdown</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:47.198225+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "41025a0a594f",
-      "slug": "canadian-dollar-manufacturing-sales-drag-from-energy-td-securities-41025a0a594f",
-      "title": "Canadian Dollar: Manufacturing sales drag from energy – TD Securities",
-      "excerpt": "Canadian Dollar: Manufacturing sales drag from energy – TD Securities",
-      "content": "<p>Canadian Dollar: Manufacturing sales drag from energy – TD Securities</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:49.449277+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b1235f798d5e",
-      "slug": "gold-bounces-from-weekly-low-on-softer-us-dollar-fading-september-fed-hike-bets-b1235f798d5e",
-      "title": "Gold bounces from weekly low on softer US Dollar, fading September Fed hike bets",
-      "excerpt": "Gold bounces from weekly low on softer US Dollar, fading September Fed hike bets",
-      "content": "<p>Gold bounces from weekly low on softer US Dollar, fading September Fed hike bets</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:50.979325+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bcd32b431108",
-      "slug": "us-dollar-index-range-bound-dollar-as-fed-odds-ease-bbh-bcd32b431108",
-      "title": "US Dollar Index: Range-bound Dollar as Fed odds ease – BBH",
-      "excerpt": "US Dollar Index: Range-bound Dollar as Fed odds ease – BBH",
-      "content": "<p>US Dollar Index: Range-bound Dollar as Fed odds ease – BBH</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:52.514159+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "92f2e5197716",
-      "slug": "indian-rupee-flattens-awaiting-fresh-remarks-on-hormuz-future-92f2e5197716",
-      "title": "Indian Rupee flattens, awaiting fresh remarks on Hormuz future",
-      "excerpt": "Indian Rupee flattens, awaiting fresh remarks on Hormuz future",
-      "content": "<p>Indian Rupee flattens, awaiting fresh remarks on Hormuz future</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:54.046519+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e6a56572203e",
-      "slug": "usdcad-price-forecast-posts-fresh-two-month-low-below-13900-e6a56572203e",
-      "title": "USD/CAD Price Forecast: Posts fresh two-month low below 1.3900",
-      "excerpt": "USD/CAD Price Forecast: Posts fresh two-month low below 1.3900",
-      "content": "<p>USD/CAD Price Forecast: Posts fresh two-month low below 1.3900</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T11:35:55.575849+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-14T16:11:26.077029+00:00",
+  "lastUpdated": "2026-08-14T17:23:18.971550+00:00",
   "totalCount": 50,
   "newCount": 10
 }
