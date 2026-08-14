@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "e2c7c8aca7e6",
+      "slug": "neutrl-pauses-nusd-redemptions-over-undisclosed-reserve-issue-e2c7c8aca7e6",
+      "title": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
+      "excerpt": "Neutrl pauses NUSD redemptions over undisclosed reserve issue",
+      "content": "<p>Neutrl pauses NUSD redemptions over undisclosed reserve issue</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:12:51.252753+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "350b0024a15c",
+      "slug": "delio-ceo-sentenced-to-15-years-in-prison-on-crypto-fraud-in-south-korea-350b0024a15c",
+      "title": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+      "excerpt": "Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea",
+      "content": "<p>Delio CEO sentenced to 15 years in prison on crypto fraud in South Korea</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:12:52.785029+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "335ea712f0c1",
+      "slug": "jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-335ea712f0c1",
+      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "excerpt": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "content": "<p>JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:12:54.644882+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "32a00abbc2a0",
+      "slug": "investinglive-asia-pacific-market-news-oil-edges-up-small-move-32a00abbc2a0",
+      "title": "investingLive Asia-Pacific Market news: Oil edges up, small move",
+      "excerpt": "investingLive Asia-Pacific Market news: Oil edges up, small move",
+      "content": "<p>investingLive Asia-Pacific Market news: Oil edges up, small move</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:12:56.473838+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dfa9a68db305",
+      "slug": "trump-orders-more-tariffs-this-time-up-to-100-on-drone-imports-cites-security-dfa9a68db305",
+      "title": "Trump orders more tariffs, this time up to 100% on drone imports. Cites security.",
+      "excerpt": "Trump orders more tariffs, this time up to 100% on drone imports. Cites security.",
+      "content": "<p>Trump orders more tariffs, this time up to 100% on drone imports. Cites security.</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:12:58.005415+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dcbe6315d535",
+      "slug": "british-pound-strengthens-to-near-13500-as-fed-rate-hike-bets-ease-dcbe6315d535",
+      "title": "British Pound strengthens to near 1.3500 as Fed rate hike bets ease",
+      "excerpt": "British Pound strengthens to near 1.3500 as Fed rate hike bets ease",
+      "content": "<p>British Pound strengthens to near 1.3500 as Fed rate hike bets ease</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:13:00.052956+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e3ec13bd28bb",
+      "slug": "usdjpy-price-forecast-bulls-cautious-below-15950-50-fibo-caps-upside-on-soft-usd-e3ec13bd28bb",
+      "title": "USD/JPY Price Forecast: Bulls cautious below 159.50, 50% Fibo. caps upside on soft USD",
+      "excerpt": "USD/JPY Price Forecast: Bulls cautious below 159.50, 50% Fibo. caps upside on soft USD",
+      "content": "<p>USD/JPY Price Forecast: Bulls cautious below 159.50, 50% Fibo. caps upside on soft USD</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:13:01.585953+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "28029b9ba69e",
+      "slug": "india-gold-price-today-gold-falls-according-to-fxstreet-data-28029b9ba69e",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "excerpt": "India Gold price today: Gold falls, according to FXStreet data",
+      "content": "<p>India Gold price today: Gold falls, according to FXStreet data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:13:03.119075+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "06df98c9ab92",
+      "slug": "eurjpy-price-forecast-holds-ground-near-18400-50-day-ema-06df98c9ab92",
+      "title": "EUR/JPY Price Forecast: Holds ground near 184.00, 50-day EMA",
+      "excerpt": "EUR/JPY Price Forecast: Holds ground near 184.00, 50-day EMA",
+      "content": "<p>EUR/JPY Price Forecast: Holds ground near 184.00, 50-day EMA</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:13:04.651833+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "511f5c569285",
+      "slug": "euro-gains-as-receding-fed-hike-bets-weigh-on-usd-geopolitical-risks-cap-upside-511f5c569285",
+      "title": "Euro gains as receding Fed hike bets weigh on USD; geopolitical risks cap upside",
+      "excerpt": "Euro gains as receding Fed hike bets weigh on USD; geopolitical risks cap upside",
+      "content": "<p>Euro gains as receding Fed hike bets weigh on USD; geopolitical risks cap upside</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T05:13:06.186031+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "4e14828f4e01",
       "slug": "figure-reports-43b-in-loan-marketplace-volume-as-profit-nearly-triples-4e14828f4e01",
       "title": "Figure reports $4.3B in loan marketplace volume as profit nearly triples",
@@ -719,189 +899,9 @@
       "date": "2026-08-13T21:21:02.714694+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9168f7b93bc3",
-      "slug": "crypto-for-advisors-the-crypto-advice-gap-9168f7b93bc3",
-      "title": "Crypto for Advisors: The crypto advice gap",
-      "excerpt": "Crypto for Advisors: The crypto advice gap",
-      "content": "<p>Crypto for Advisors: The crypto advice gap</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T21:21:04.668311+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c7e71fa47cb6",
-      "slug": "b2c2-taps-schroders-veteran-to-chase-asias-growing-crypto-wealth-c7e71fa47cb6",
-      "title": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
-      "excerpt": "B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth",
-      "content": "<p>B2C2 taps Schroders veteran to chase Asia’s growing crypto wealth</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T21:21:06.237834+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "15435eb5fab8",
-      "slug": "kalshi-in-talks-with-sequoia-wellington-for-750-million-fund-raise-at-40-billion-15435eb5fab8",
-      "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
-      "excerpt": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
-      "content": "<p>Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T21:21:07.791555+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "758546c6d3f6",
-      "slug": "solana-can-be-the-everything-chain-as-crypto-apps-go-mainstream-6th-man-ventures-758546c6d3f6",
-      "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-      "excerpt": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-      "content": "<p>Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T21:21:09.461383+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1578edb8b9a7",
-      "slug": "anthropic-is-quietly-watermarking-every-claude-ai-output-builders-are-already-tr-1578edb8b9a7",
-      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-      "excerpt": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-      "content": "<p>Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T21:21:11.023915+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d14d2d6dea5b",
-      "slug": "fitch-affirms-us-at-aa-keeps-outlook-stable-amid-growth-slowdown-d14d2d6dea5b",
-      "title": "Fitch affirms US at AA+, keeps outlook stable amid growth slowdown",
-      "excerpt": "Fitch affirms US at AA+, keeps outlook stable amid growth slowdown",
-      "content": "<p>Fitch affirms US at AA+, keeps outlook stable amid growth slowdown</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T21:21:12.731389+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "23a7dd52210f",
-      "slug": "new-zealand-dollar-steadies-off-two-week-lows-following-dovish-rbnz-survey-23a7dd52210f",
-      "title": "New Zealand Dollar steadies off two-week lows following dovish RBNZ survey",
-      "excerpt": "New Zealand Dollar steadies off two-week lows following dovish RBNZ survey",
-      "content": "<p>New Zealand Dollar steadies off two-week lows following dovish RBNZ survey</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T21:21:14.426902+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ca28be40e036",
-      "slug": "i-didnt-know-what-else-to-do-patients-take-their-health-insurance-battles-to-fac-ca28be40e036",
-      "title": "‘I didn’t know what else to do:’ Patients take their health-insurance battles to Facebook and LinkedIn",
-      "excerpt": "‘I didn’t know what else to do:’ Patients take their health-insurance battles to Facebook and LinkedIn",
-      "content": "<p>‘I didn’t know what else to do:’ Patients take their health-insurance battles to Facebook and LinkedIn</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T21:21:16.345533+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "31edb6c44ca3",
-      "slug": "investinglive-americas-market-news-wrap-sp-500-hits-a-fresh-record-31edb6c44ca3",
-      "title": "investingLive Americas market news wrap: S&P 500 hits a fresh record",
-      "excerpt": "investingLive Americas market news wrap: S&P 500 hits a fresh record",
-      "content": "<p>investingLive Americas market news wrap: S&P 500 hits a fresh record</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T20:29:27.954091+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2cd6ab161f43",
-      "slug": "economic-and-event-calendar-in-asia-friday-august-14-2026-2cd6ab161f43",
-      "title": "Economic and event calendar in Asia Friday, August 14, 2026",
-      "excerpt": "Economic and event calendar in Asia Friday, August 14, 2026",
-      "content": "<p>Economic and event calendar in Asia Friday, August 14, 2026</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T20:29:29.485089+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-14T03:04:31.464373+00:00",
+  "lastUpdated": "2026-08-14T05:13:07.686200+00:00",
   "totalCount": 50,
   "newCount": 10
 }
