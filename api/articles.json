@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:20.323161+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "820b8e61c644",
+      "slug": "bitcoin-price-drops-to-625k-as-trader-warns-weekly-close-may-spark-more-losses-820b8e61c644",
+      "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+      "excerpt": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+      "content": "<p>Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:21.863614+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "16f613721898",
+      "slug": "morgan-stanleys-blackrock-bitcoin-etf-holdings-rise-23-in-q2-16f613721898",
+      "title": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
+      "excerpt": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
+      "content": "<p>Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:23.402060+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c2972ea78d84",
+      "slug": "jpmorgan-boosts-bitcoin-ether-etf-positions-in-q2-filing-c2972ea78d84",
+      "title": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
+      "excerpt": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
+      "content": "<p>JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:24.939422+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "04585c0e1b98",
+      "slug": "strategy-says-msci-should-measure-markets-not-dictate-corporate-assets-04585c0e1b98",
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "excerpt": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "content": "<p>Strategy says MSCI should measure markets, not dictate corporate assets</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:26.721476+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2a490d8039c8",
+      "slug": "fake-linkedin-crypto-job-scams-have-cost-118m-singapore-2a490d8039c8",
+      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
+      "excerpt": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
+      "content": "<p>Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:28.350464+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "448c0381a5f2",
+      "slug": "us-dollar-data-driven-outlook-in-focus-mufg-448c0381a5f2",
+      "title": "US Dollar: Data-driven outlook in focus – MUFG",
+      "excerpt": "US Dollar: Data-driven outlook in focus – MUFG",
+      "content": "<p>US Dollar: Data-driven outlook in focus – MUFG</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:30.293907+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "df4939b60977",
+      "slug": "euro-gains-against-japanese-yen-as-ecb-boj-rate-hike-bets-intensify-df4939b60977",
+      "title": "Euro gains against Japanese Yen as ECB, BoJ rate hike bets intensify",
+      "excerpt": "Euro gains against Japanese Yen as ECB, BoJ rate hike bets intensify",
+      "content": "<p>Euro gains against Japanese Yen as ECB, BoJ rate hike bets intensify</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:31.838367+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "275079098d37",
+      "slug": "canadian-dollar-bullish-momentum-points-to-gains-against-us-dollar-scotiabank-275079098d37",
+      "title": "Canadian Dollar: Bullish momentum points to gains against US Dollar – Scotiabank",
+      "excerpt": "Canadian Dollar: Bullish momentum points to gains against US Dollar – Scotiabank",
+      "content": "<p>Canadian Dollar: Bullish momentum points to gains against US Dollar – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:33.379755+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6018d59aecd7",
+      "slug": "gold-gains-ground-as-us-dollar-selling-picks-up-fed-rate-hike-bets-fade-6018d59aecd7",
+      "title": "Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade",
+      "excerpt": "Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade",
+      "content": "<p>Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T15:12:34.916556+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "42a913934827",
       "slug": "binance-to-restrict-transactions-involving-htx-10-other-crypto-platforms-42a913934827",
       "title": "Binance to restrict transactions involving HTX, 10 other crypto platforms",
@@ -719,189 +899,9 @@
       "date": "2026-08-14T10:47:39.238048+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f3b005c89191",
-      "slug": "jpmorgan-cut-polymarket-banking-ties-over-regulatory-concerns-report-f3b005c89191",
-      "title": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report",
-      "excerpt": "JPMorgan cut Polymarket banking ties over regulatory concerns: Report",
-      "content": "<p>JPMorgan cut Polymarket banking ties over regulatory concerns: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:11.362627+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9a75a68318fa",
-      "slug": "crypto-payments-barely-register-among-euro-area-merchants-ecb-finds-9a75a68318fa",
-      "title": "Crypto payments barely register among euro area merchants, ECB finds",
-      "excerpt": "Crypto payments barely register among euro area merchants, ECB finds",
-      "content": "<p>Crypto payments barely register among euro area merchants, ECB finds</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:12.897237+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8f709ad6e36b",
-      "slug": "sec-cancels-key-crypto-regulatory-meeting-8f709ad6e36b",
-      "title": "SEC cancels key crypto regulatory meeting",
-      "excerpt": "SEC cancels key crypto regulatory meeting",
-      "content": "<p>SEC cancels key crypto regulatory meeting</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:14.427408+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4b96a1472a69",
-      "slug": "live-updates-bitcoin-slips-below-63000-as-oil-yields-climb-4b96a1472a69",
-      "title": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
-      "excerpt": "Live updates: Bitcoin slips below $63,000 as oil, yields climb",
-      "content": "<p>Live updates: Bitcoin slips below $63,000 as oil, yields climb</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:16.370740+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4a2300d355e1",
-      "slug": "us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi-4a2300d355e1",
-      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "excerpt": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
-      "content": "<p>U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:17.901813+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f71660e2d260",
-      "slug": "sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-d-f71660e2d260",
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "excerpt": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "content": "<p>SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:19.437262+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "17dc3a7f1673",
-      "slug": "bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws-17dc3a7f1673",
-      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-      "excerpt": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-      "content": "<p>'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:21.030905+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e62d5abadcf7",
-      "slug": "china-new-bank-loans-contract-again-in-july-the-second-time-this-year-e62d5abadcf7",
-      "title": "China new bank loans contract again in July, the second time this year",
-      "excerpt": "China new bank loans contract again in July, the second time this year",
-      "content": "<p>China new bank loans contract again in July, the second time this year</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:22.779331+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "052c2765911f",
-      "slug": "eurozone-q2-gdp-second-estimate-04-vs-04-qq-prelim-052c2765911f",
-      "title": "Eurozone Q2 GDP second estimate +0.4% vs +0.4% q/q prelim",
-      "excerpt": "Eurozone Q2 GDP second estimate +0.4% vs +0.4% q/q prelim",
-      "content": "<p>Eurozone Q2 GDP second estimate +0.4% vs +0.4% q/q prelim</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:24.309457+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d1963014dd02",
-      "slug": "silver-price-today-silver-rises-according-to-fxstreet-data-d1963014dd02",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "excerpt": "Silver price today: Silver rises, according to FXStreet data",
-      "content": "<p>Silver price today: Silver rises, according to FXStreet data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T09:32:25.906920+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-14T14:08:10.676533+00:00",
+  "lastUpdated": "2026-08-14T15:12:36.416719+00:00",
   "totalCount": 50,
   "newCount": 10
 }
