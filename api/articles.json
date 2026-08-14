@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:29.143428+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "04585c0e1b98",
+      "slug": "strategy-says-msci-should-measure-markets-not-dictate-corporate-assets-04585c0e1b98",
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "excerpt": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "content": "<p>Strategy says MSCI should measure markets, not dictate corporate assets</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:31.113162+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0d593c65ad1b",
+      "slug": "chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model-0d593c65ad1b",
+      "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+      "excerpt": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+      "content": "<p>China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:32.692403+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9f4c7309cec1",
+      "slug": "trump-pretty-soon-will-be-declaring-strait-of-hormuz-territory-of-the-us-9f4c7309cec1",
+      "title": "Trump: Pretty soon will be declaring Strait of Hormuz territory of the US",
+      "excerpt": "Trump: Pretty soon will be declaring Strait of Hormuz territory of the US",
+      "content": "<p>Trump: Pretty soon will be declaring Strait of Hormuz territory of the US</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:34.494991+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5004532cca05",
+      "slug": "mexican-peso-refreshes-multi-month-highs-banxico-minutes-eyed-5004532cca05",
+      "title": "Mexican Peso refreshes multi-month highs, Banxico minutes eyed",
+      "excerpt": "Mexican Peso refreshes multi-month highs, Banxico minutes eyed",
+      "content": "<p>Mexican Peso refreshes multi-month highs, Banxico minutes eyed</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:36.203788+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8d65dc453891",
+      "slug": "chinese-yuan-steady-appreciation-backed-by-pboc-stance-societe-generale-8d65dc453891",
+      "title": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
+      "excerpt": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
+      "content": "<p>Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:37.733691+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "010fedd16adb",
+      "slug": "a-plan-to-save-social-security-involves-high-earners-paying-more-in-taxes-withou-010fedd16adb",
+      "title": "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
+      "excerpt": "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
+      "content": "<p>A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:39.552954+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "551378aa8992",
+      "slug": "congress-changed-the-rules-around-charitable-giving-youll-now-save-more-money-if-551378aa8992",
+      "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+      "excerpt": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+      "content": "<p>Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:41.082498+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c8b1ac1e4433",
+      "slug": "the-market-is-obviously-on-fire-should-i-take-1000-from-my-brokerage-account-to--c8b1ac1e4433",
+      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "excerpt": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "content": "<p>‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:42.613524+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4123efd6ed93",
+      "slug": "sandisks-stock-has-rebounded-nearly-35-this-week-this-is-the-latest-catalyst-4123efd6ed93",
+      "title": "Sandisk’s stock has rebounded nearly 35% this week. This is the latest catalyst.",
+      "excerpt": "Sandisk’s stock has rebounded nearly 35% this week. This is the latest catalyst.",
+      "content": "<p>Sandisk’s stock has rebounded nearly 35% this week. This is the latest catalyst.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T20:52:44.144848+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "30871deab864",
       "slug": "israels-largest-bank-to-offer-crypto-trading-with-galaxy-30871deab864",
       "title": "Israel’s largest bank to offer crypto trading with Galaxy",
@@ -719,189 +899,9 @@
       "date": "2026-08-14T17:23:17.471375+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "452faea93606",
-      "slug": "israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-solana-trading-452faea93606",
-      "title": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-      "excerpt": "Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-      "content": "<p>Israel’s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:09.793293+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bdad794a1c76",
-      "slug": "crypto-biz-bitcoins-116m-self-custody-wake-up-call-bdad794a1c76",
-      "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
-      "excerpt": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
-      "content": "<p>Crypto Biz: Bitcoin’s $116M self-custody wake-up call</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:11.329094+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "17dc3a7f1673",
-      "slug": "bitcoin-is-burning-red-team-turns-to-chinese-ai-to-find-flaws-17dc3a7f1673",
-      "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-      "excerpt": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
-      "content": "<p>'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:13.237504+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2ee14eee47c9",
-      "slug": "euro-spreads-support-upside-bias-against-us-dollar-scotiabank-2ee14eee47c9",
-      "title": "Euro: Spreads support upside bias against US Dollar – Scotiabank",
-      "excerpt": "Euro: Spreads support upside bias against US Dollar – Scotiabank",
-      "content": "<p>Euro: Spreads support upside bias against US Dollar – Scotiabank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:15.083377+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "792445680b75",
-      "slug": "eurgbp-stuck-in-a-tight-range-as-traders-observe-the-war-792445680b75",
-      "title": "EUR/GBP stuck in a tight range as traders observe the war",
-      "excerpt": "EUR/GBP stuck in a tight range as traders observe the war",
-      "content": "<p>EUR/GBP stuck in a tight range as traders observe the war</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:16.614837+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e58bc304b865",
-      "slug": "asean-fx-regional-data-and-growth-concerns-mufg-e58bc304b865",
-      "title": "ASEAN FX: Regional data and growth concerns – MUFG",
-      "excerpt": "ASEAN FX: Regional data and growth concerns – MUFG",
-      "content": "<p>ASEAN FX: Regional data and growth concerns – MUFG</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:18.147856+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "15fd27b651ad",
-      "slug": "canada-core-softness-guides-boc-path-td-securities-15fd27b651ad",
-      "title": "Canada: Core softness guides BoC path – TD Securities",
-      "excerpt": "Canada: Core softness guides BoC path – TD Securities",
-      "content": "<p>Canada: Core softness guides BoC path – TD Securities</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:19.679391+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c0f2a95b2b6c",
-      "slug": "indonesia-policy-continuity-supports-rupiah-ing-c0f2a95b2b6c",
-      "title": "Indonesia: Policy continuity supports Rupiah – ING",
-      "excerpt": "Indonesia: Policy continuity supports Rupiah – ING",
-      "content": "<p>Indonesia: Policy continuity supports Rupiah – ING</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:21.215980+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "56381ff0d90e",
-      "slug": "british-pound-hits-three-month-high-as-weak-us-sales-deepen-usd-slide-56381ff0d90e",
-      "title": "British Pound hits three-month high as weak US sales deepen USD slide",
-      "excerpt": "British Pound hits three-month high as weak US sales deepen USD slide",
-      "content": "<p>British Pound hits three-month high as weak US sales deepen USD slide</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:22.752152+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "92a416426bbe",
-      "slug": "its-a-double-edged-sword-my-husband-got-a-42000-bonus-will-it-wipe-out-our-affor-92a416426bbe",
-      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "excerpt": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "content": "<p>‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T16:11:24.576888+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-14T20:01:18.659350+00:00",
+  "lastUpdated": "2026-08-14T20:52:45.645004+00:00",
   "totalCount": 50,
   "newCount": 10
 }
