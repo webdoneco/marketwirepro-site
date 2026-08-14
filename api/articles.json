@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "9ee45183919e",
+      "slug": "ethereum-foundation-pivots-away-from-poseidon-in-post-quantum-plan-9ee45183919e",
+      "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
+      "excerpt": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
+      "content": "<p>Ethereum Foundation pivots away from Poseidon in post-quantum plan</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:38.866135+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ce3ae467589a",
+      "slug": "forecasts-for-1-million-bitcoin-price-likely-look-too-ambitious-key-ratio-sugges-ce3ae467589a",
+      "title": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
+      "excerpt": "Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests",
+      "content": "<p>Forecasts for $1 million bitcoin price likely look too ambitious, key ratio suggests</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:40.972431+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b45e296fc532",
+      "slug": "trezor-warns-14000-customers-after-fulfilment-partner-suffers-data-breach-b45e296fc532",
+      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
+      "excerpt": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
+      "content": "<p>Trezor warns 14,000 customers after fulfilment partner suffers data breach</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:42.557436+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e9c3f14fb008",
+      "slug": "us-treasury-secretary-bessent-we-will-implement-unprecedented-measures-on-iran-e9c3f14fb008",
+      "title": "US Treasury Secretary Bessent: We will implement unprecedented measures on Iran",
+      "excerpt": "US Treasury Secretary Bessent: We will implement unprecedented measures on Iran",
+      "content": "<p>US Treasury Secretary Bessent: We will implement unprecedented measures on Iran</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:44.789831+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eb612f5010db",
+      "slug": "gold-drifts-higher-above-4350-as-softer-us-ppi-data-reduces-september-fed-hike-b-eb612f5010db",
+      "title": "Gold drifts higher above $4,350 as softer US PPI data reduces September Fed hike bets",
+      "excerpt": "Gold drifts higher above $4,350 as softer US PPI data reduces September Fed hike bets",
+      "content": "<p>Gold drifts higher above $4,350 as softer US PPI data reduces September Fed hike bets</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:46.385738+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3844b08ddd46",
+      "slug": "gbpjpy-price-forecast-steadies-above-21500-capped-by-50-day-sma-3844b08ddd46",
+      "title": "GBP/JPY Price Forecast: Steadies above 215.00 capped by 50-day SMA",
+      "excerpt": "GBP/JPY Price Forecast: Steadies above 215.00 capped by 50-day SMA",
+      "content": "<p>GBP/JPY Price Forecast: Steadies above 215.00 capped by 50-day SMA</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:47.966058+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c195341d15e7",
+      "slug": "reddit-is-joining-the-sp-500-after-months-of-speculation-analysts-have-these-con-c195341d15e7",
+      "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
+      "excerpt": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
+      "content": "<p>Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:50.048855+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "91dea3dbbec6",
+      "slug": "my-wife-and-i-are-both-retired-should-we-dip-into-our-23-million-investments-to--91dea3dbbec6",
+      "title": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
+      "excerpt": "‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?",
+      "content": "<p>‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:51.627970+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "665baebb0f9d",
+      "slug": "dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-665baebb0f9d",
+      "title": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
+      "excerpt": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
+      "content": "<p>Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:53.206379+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3fb1214aeff3",
+      "slug": "sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall--3fb1214aeff3",
+      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "excerpt": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "content": "<p>Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-14T00:04:54.796437+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "4a2300d355e1",
       "slug": "us-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-whi-4a2300d355e1",
       "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
@@ -719,189 +899,9 @@
       "date": "2026-08-13T19:31:35.005572+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bbb104379b37",
-      "slug": "tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-180-bil-bbb104379b37",
-      "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-      "excerpt": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-      "content": "<p>Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T19:31:36.785837+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9f0bcbd26173",
-      "slug": "google-and-openai-debut-super-fast-ai-modelsgemini-37-flash-is-out-but-gpt-56-so-9f0bcbd26173",
-      "title": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-      "excerpt": "Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-      "content": "<p>Google and OpenAI Debut Super Fast AI Models—Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T19:31:38.364691+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "73d04608b062",
-      "slug": "tether-claims-largest-inaugural-financial-audit-as-kpmg-signs-off-on-2025-statem-73d04608b062",
-      "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
-      "excerpt": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
-      "content": "<p>Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T19:31:39.896244+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "46dd57e100fe",
-      "slug": "white-house-lets-private-firms-hack-cybercriminalsat-their-own-legal-risk-46dd57e100fe",
-      "title": "White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk",
-      "excerpt": "White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk",
-      "content": "<p>White House Lets Private Firms Hack Cybercriminals—At Their Own Legal Risk</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T19:31:41.426332+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6819507c26a0",
-      "slug": "us-initial-claims-for-the-current-week-209k-vs-202k-estimate-6819507c26a0",
-      "title": "US initial claims for the current week 209K vs 202K estimate",
-      "excerpt": "US initial claims for the current week 209K vs 202K estimate",
-      "content": "<p>US initial claims for the current week 209K vs 202K estimate</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T19:31:43.042272+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "491c2f941eef",
-      "slug": "investinglive-european-markets-wrap-dollar-remains-tentative-gold-off-the-highs--491c2f941eef",
-      "title": "investingLive European markets wrap: Dollar remains tentative, gold off the highs in post-CPI trading",
-      "excerpt": "investingLive European markets wrap: Dollar remains tentative, gold off the highs in post-CPI trading",
-      "content": "<p>investingLive European markets wrap: Dollar remains tentative, gold off the highs in post-CPI trading</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T19:31:44.572452+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "20fea0defccf",
-      "slug": "indonesian-rupiah-two-way-trade-with-key-levels-watched-against-us-dollar-ocbc-20fea0defccf",
-      "title": "Indonesian Rupiah: Two-way trade with key levels watched against US Dollar – OCBC",
-      "excerpt": "Indonesian Rupiah: Two-way trade with key levels watched against US Dollar – OCBC",
-      "content": "<p>Indonesian Rupiah: Two-way trade with key levels watched against US Dollar – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T19:31:46.186529+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "151068ae91b4",
-      "slug": "crude-oil-sells-a-glut-that-never-left-the-dock-151068ae91b4",
-      "title": "Crude Oil sells a glut that never left the dock",
-      "excerpt": "Crude Oil sells a glut that never left the dock",
-      "content": "<p>Crude Oil sells a glut that never left the dock</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T19:31:47.719076+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "51eef3610726",
-      "slug": "crypto-group-backs-custodia-in-supreme-court-battle-over-fed-access-51eef3610726",
-      "title": "Crypto group backs Custodia in Supreme Court battle over Fed access",
-      "excerpt": "Crypto group backs Custodia in Supreme Court battle over Fed access",
-      "content": "<p>Crypto group backs Custodia in Supreme Court battle over Fed access</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:03.670689+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7cc74b22273b",
-      "slug": "robinhood-chain-nears-1b-tvl-as-uniswap-drives-liquidity-standard-chartered-7cc74b22273b",
-      "title": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
-      "excerpt": "Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered",
-      "content": "<p>Robinhood Chain nears $1B TVL as Uniswap drives liquidity: Standard Chartered</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-13T18:14:05.216243+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-13T23:09:52.305246+00:00",
+  "lastUpdated": "2026-08-14T00:04:56.296609+00:00",
   "totalCount": 50,
   "newCount": 10
 }
