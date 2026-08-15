@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "efa36f4c2940",
+      "slug": "kalshi-ordered-to-stop-broad-range-of-prediction-markets-in-washington-efa36f4c2940",
+      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "excerpt": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "content": "<p>Kalshi ordered to stop broad range of prediction markets in Washington</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-15T11:09:47.921869+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "46eb6fe276bb",
+      "slug": "the-hindenburg-omen-keeps-flashing-should-investors-worry-about-a-stock-market-c-46eb6fe276bb",
+      "title": "The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?",
+      "excerpt": "The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?",
+      "content": "<p>The ‘Hindenburg Omen’ keeps flashing. Should investors worry about a stock-market crash?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-15T11:09:50.465256+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "da53d8f41414",
       "slug": "galaxy-lowers-clarity-act-odds-to-10-da53d8f41414",
       "title": "Galaxy lowers CLARITY Act odds to 10%",
@@ -863,45 +899,9 @@
       "date": "2026-08-14T18:11:55.260424+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "378b65715f3e",
-      "slug": "coldcard-bitcoin-thefts-slow-but-losses-could-top-150-million-galaxy-378b65715f3e",
-      "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
-      "excerpt": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
-      "content": "<p>Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T18:11:56.936132+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f639059e2412",
-      "slug": "usdchf-price-forecast-bearish-flag-holds-as-bulls-eye-08150-f639059e2412",
-      "title": "USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150",
-      "excerpt": "USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150",
-      "content": "<p>USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-14T18:11:59.081290+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-15T10:44:20.400747+00:00",
+  "lastUpdated": "2026-08-15T11:09:52.240406+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 2
 }
