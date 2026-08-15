@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "b2264bfd12df",
+      "slug": "trump-linked-world-liberty-gets-conditional-bank-charter-for-usd1-stablecoin-b2264bfd12df",
+      "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "excerpt": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "content": "<p>Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-15T18:52:36.651775+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7271bbeca4f8",
+      "slug": "owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-7271bbeca4f8",
+      "title": "Owning a home is overrated. Renting is now often a much better money move.",
+      "excerpt": "Owning a home is overrated. Renting is now often a much better money move.",
+      "content": "<p>Owning a home is overrated. Renting is now often a much better money move.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-15T18:52:40.622728+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "63e1c44b9e47",
       "slug": "an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-63e1c44b9e47",
       "title": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
@@ -863,45 +899,9 @@
       "date": "2026-08-15T13:04:39.536872+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c3dce3c56295",
-      "slug": "clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercards-18-bi-c3dce3c56295",
-      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "excerpt": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "content": "<p>Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T13:04:41.416713+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "693e77d29115",
-      "slug": "tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-cryptos-wall-street-pus-693e77d29115",
-      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-      "excerpt": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push",
-      "content": "<p>Tokenization stocks slip as SEC delay puts 'speed bump' in crypto’s Wall Street push</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T13:04:42.961777+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-15T18:12:31.371265+00:00",
+  "lastUpdated": "2026-08-15T18:52:42.149729+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 2
 }
