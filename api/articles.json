@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "8b989ba319ee",
+      "slug": "the-sec-meeting-that-wasnt-state-of-crypto-8b989ba319ee",
+      "title": "The SEC meeting that wasn't: State of Crypto",
+      "excerpt": "The SEC meeting that wasn't: State of Crypto",
+      "content": "<p>The SEC meeting that wasn't: State of Crypto</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T18:52:36.807708+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "980e5cd1ab71",
+      "slug": "can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefi-980e5cd1ab71",
+      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+      "excerpt": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+      "content": "<p>Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T18:52:39.259336+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "87c2f88f4d9d",
       "slug": "my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-87c2f88f4d9d",
       "title": "My friend’s mother died. Can she stop Medicaid from taking the family home?",
@@ -863,45 +899,9 @@
       "date": "2026-08-15T16:11:17.086374+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3d9e93dbeb9d",
-      "slug": "is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-3d9e93dbeb9d",
-      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "excerpt": "Is $1 million enough for a household to retire? The answer keeps changing.",
-      "content": "<p>Is $1 million enough for a household to retire? The answer keeps changing.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T16:11:18.968854+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T15:41:38.867048+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-16T18:12:43.076474+00:00",
+  "lastUpdated": "2026-08-16T18:52:40.807292+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 2
 }
