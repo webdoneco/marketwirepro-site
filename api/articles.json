@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "2cf443213c55",
+      "slug": "more-nz-data-retail-card-spending-july-13-mm-prior--14-2cf443213c55",
+      "title": "More NZ data: Retail card spending (July) +1.3% m/m (prior -1.4%)",
+      "excerpt": "More NZ data: Retail card spending (July) +1.3% m/m (prior -1.4%)",
+      "content": "<p>More NZ data: Retail card spending (July) +1.3% m/m (prior -1.4%)</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T23:09:23.260119+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c51f2dade1d6",
+      "slug": "nz-services-sector-holds-above-breakeven-for-second-month-as-pmi-eases-to-506-pr-c51f2dade1d6",
+      "title": "NZ services sector holds above breakeven for second month as PMI eases to 50.6 (prior 50.9)",
+      "excerpt": "NZ services sector holds above breakeven for second month as PMI eases to 50.6 (prior 50.9)",
+      "content": "<p>NZ services sector holds above breakeven for second month as PMI eases to 50.6 (prior 50.9)</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T23:09:24.791712+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0b33af66bafe",
+      "slug": "israel-attacks-lebanon-as-us-prepares-fresh-iran-sanctions-0b33af66bafe",
+      "title": "Israel attacks Lebanon as US prepares fresh Iran sanctions",
+      "excerpt": "Israel attacks Lebanon as US prepares fresh Iran sanctions",
+      "content": "<p>Israel attacks Lebanon as US prepares fresh Iran sanctions</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T23:09:26.543586+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "0291f694f0bb",
       "slug": "us-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-0291f694f0bb",
       "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
@@ -845,63 +899,9 @@
       "date": "2026-08-15T16:46:51.091142+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "906fab9e2589",
-      "slug": "silver-price-forecast-xag-stalls-as-yields-cap-recovery-906fab9e2589",
-      "title": "Silver Price Forecast: XAG stalls as yields cap recovery",
-      "excerpt": "Silver Price Forecast: XAG stalls as yields cap recovery",
-      "content": "<p>Silver Price Forecast: XAG stalls as yields cap recovery</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T16:46:53.853837+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3403f5659d89",
-      "slug": "audusd-price-forecast-bulls-eye-07100-after-us-retail-sales-miss-3403f5659d89",
-      "title": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
-      "excerpt": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
-      "content": "<p>AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T16:46:55.402232+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "983f140d8380",
-      "slug": "health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-coul-983f140d8380",
-      "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
-      "excerpt": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
-      "content": "<p>Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T16:46:57.388157+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-16T22:43:05.787743+00:00",
+  "lastUpdated": "2026-08-16T23:09:28.342670+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 3
 }
