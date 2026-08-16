@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "02009589ac92",
+      "slug": "crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals-02009589ac92",
+      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "excerpt": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "content": "<p>Crypto investors are looking past market-cap rankings and back to fundamentals</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T16:11:55.784749+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "406c2d3a895b",
+      "slug": "gemini-37-flash-review-googles-cheap-model-isnt-dumb-anymore-406c2d3a895b",
+      "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+      "excerpt": "Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore",
+      "content": "<p>Gemini 3.7 Flash Review: Google's Cheap Model Isn’t Dumb Anymore</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T16:11:57.393891+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9f4c7309cec1",
+      "slug": "trump-pretty-soon-will-be-declaring-strait-of-hormuz-territory-of-the-us-9f4c7309cec1",
+      "title": "Trump: Pretty soon will be declaring Strait of Hormuz territory of the US",
+      "excerpt": "Trump: Pretty soon will be declaring Strait of Hormuz territory of the US",
+      "content": "<p>Trump: Pretty soon will be declaring Strait of Hormuz territory of the US</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T16:11:59.087807+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "5004532cca05",
       "slug": "mexican-peso-refreshes-multi-month-highs-banxico-minutes-eyed-5004532cca05",
       "title": "Mexican Peso refreshes multi-month highs, Banxico minutes eyed",
@@ -845,63 +899,9 @@
       "date": "2026-08-15T15:41:43.673456+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "88bd6f2d7c72",
-      "slug": "social-security-recipients-will-get-more-money-next-year-heres-how-much-the-cola-88bd6f2d7c72",
-      "title": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
-      "excerpt": "Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.",
-      "content": "<p>Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T15:41:45.588653+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2b676e98e5db",
-      "slug": "meta-patents-cameras-that-recognize-faces-and-log-your-actions-2b676e98e5db",
-      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
-      "excerpt": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
-      "content": "<p>Meta Patents Cameras That Recognize Faces and Log Your Actions</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T15:10:09.334455+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0d593c65ad1b",
-      "slug": "chinas-zai-ships-glm-53-calling-it-the-top-open-weight-coding-model-0d593c65ad1b",
-      "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
-      "excerpt": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
-      "content": "<p>China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T15:10:10.929601+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-16T15:42:38.473324+00:00",
+  "lastUpdated": "2026-08-16T16:12:01.408907+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 3
 }
