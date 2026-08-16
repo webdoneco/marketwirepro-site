@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "81fdf013884f",
+      "slug": "ethereum-devs-to-narrow-66-proposals-tied-to-hegot-upgrade-81fdf013884f",
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "excerpt": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "content": "<p>Ethereum devs to narrow 66 proposals tied to Hegotá upgrade</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T11:41:05.896532+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "712973abf7e7",
       "slug": "walmart-and-target-are-about-to-reveal-the-health-of-the-us-consumer-712973abf7e7",
       "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
@@ -881,27 +899,9 @@
       "date": "2026-08-15T13:48:42.296908+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b72ceecebe7c",
-      "slug": "sharplink-will-stake-200m-of-ethereum-through-lidos-wsteth-b72ceecebe7c",
-      "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
-      "excerpt": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
-      "content": "<p>SharpLink Will Stake $200M of Ethereum Through Lido's wstETH</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T13:48:44.263918+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-16T11:10:06.517050+00:00",
+  "lastUpdated": "2026-08-16T11:41:08.406367+00:00",
   "totalCount": 50,
   "newCount": 1
 }
