@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "712973abf7e7",
+      "slug": "walmart-and-target-are-about-to-reveal-the-health-of-the-us-consumer-712973abf7e7",
+      "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
+      "excerpt": "Walmart and Target are about to reveal the health of the U.S. consumer",
+      "content": "<p>Walmart and Target are about to reveal the health of the U.S. consumer</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T11:10:04.925961+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "539cbcdca2af",
       "slug": "bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup-539cbcdca2af",
       "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
@@ -881,27 +899,9 @@
       "date": "2026-08-15T13:48:44.263918+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6846f606040a",
-      "slug": "openai-staff-blame-rush-to-ship-for-rogue-agent-hack-6846f606040a",
-      "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-      "excerpt": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-      "content": "<p>OpenAI Staff Blame Rush to Ship for Rogue Agent Hack</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T13:48:45.808961+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-16T10:44:59.138445+00:00",
+  "lastUpdated": "2026-08-16T11:10:06.517050+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 1
 }
