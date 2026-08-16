@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "8d65dc453891",
+      "slug": "chinese-yuan-steady-appreciation-backed-by-pboc-stance-societe-generale-8d65dc453891",
+      "title": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
+      "excerpt": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
+      "content": "<p>Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-16T15:10:14.947437+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "5000f95ef816",
       "slug": "us-business-inventories-for-june-00-vs-01-estimate-5000f95ef816",
       "title": "US Business inventories for June 0.0% vs 0.1% estimate",
@@ -881,27 +899,9 @@
       "date": "2026-08-15T15:10:12.856579+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5004532cca05",
-      "slug": "mexican-peso-refreshes-multi-month-highs-banxico-minutes-eyed-5004532cca05",
-      "title": "Mexican Peso refreshes multi-month highs, Banxico minutes eyed",
-      "excerpt": "Mexican Peso refreshes multi-month highs, Banxico minutes eyed",
-      "content": "<p>Mexican Peso refreshes multi-month highs, Banxico minutes eyed</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-15T15:10:14.605295+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-16T14:44:51.201267+00:00",
+  "lastUpdated": "2026-08-16T15:10:16.831444+00:00",
   "totalCount": 50,
-  "newCount": 2
+  "newCount": 1
 }
