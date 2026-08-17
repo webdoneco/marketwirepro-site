@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "ee8e87ffd32a",
+      "slug": "us-treasury-department-proposes-genius-act-stablecoin-rule-ee8e87ffd32a",
+      "title": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "excerpt": "U.S. Treasury Department proposes GENIUS Act stablecoin rule",
+      "content": "<p>U.S. Treasury Department proposes GENIUS Act stablecoin rule</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T23:12:00.139423+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cdd0fe4ff7be",
+      "slug": "australian-dollar-climbs-as-the-greenback-falls-on-soft-us-data-cdd0fe4ff7be",
+      "title": "Australian Dollar climbs as the Greenback falls on soft US data",
+      "excerpt": "Australian Dollar climbs as the Greenback falls on soft US data",
+      "content": "<p>Australian Dollar climbs as the Greenback falls on soft US data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T23:12:02.128036+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2036ef208004",
+      "slug": "gbpjpy-price-forecast-bulls-reclaim-50-day-sma-eye-21700-2036ef208004",
+      "title": "GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00",
+      "excerpt": "GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00",
+      "content": "<p>GBP/JPY Price Forecast: Bulls reclaim 50-day SMA, eye 217.00</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T23:12:03.656838+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "1828e917e1de",
       "slug": "cftc-seeks-public-input-on-ai-compute-futures-contracts-as-cme-eyes-october-laun-1828e917e1de",
       "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
@@ -845,63 +899,9 @@
       "date": "2026-08-17T19:05:02.579517+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ef1b908f2b99",
-      "slug": "xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign-ef1b908f2b99",
-      "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-      "excerpt": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-      "content": "<p>XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T19:05:04.180341+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "97609bd444e3",
-      "slug": "solanas-pump-token-leads-crypto-market-gainers-as-chart-paints-golden-cross-97609bd444e3",
-      "title": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-      "excerpt": "Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-      "content": "<p>Solana’s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T19:05:05.711400+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c71f546d7cae",
-      "slug": "united-states-washington-hardens-ai-alignment-strategy---rabobank-c71f546d7cae",
-      "title": "United States: Washington hardens AI alignment strategy - Rabobank",
-      "excerpt": "United States: Washington hardens AI alignment strategy - Rabobank",
-      "content": "<p>United States: Washington hardens AI alignment strategy - Rabobank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T19:05:07.722152+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-17T22:46:28.759883+00:00",
+  "lastUpdated": "2026-08-17T23:12:05.424308+00:00",
   "totalCount": 50,
-  "newCount": 7
+  "newCount": 3
 }
