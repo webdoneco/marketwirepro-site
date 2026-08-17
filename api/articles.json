@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "ce148e7a3c7a",
+      "slug": "bitpanda-fined-in-austrias-first-published-mica-penalty-ce148e7a3c7a",
+      "title": "Bitpanda fined in Austria’s first published MiCA penalty",
+      "excerpt": "Bitpanda fined in Austria’s first published MiCA penalty",
+      "content": "<p>Bitpanda fined in Austria’s first published MiCA penalty</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:16.381316+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "af5e7767960c",
+      "slug": "the-coldcard-hack-proves-reputation-is-not-a-security-model-af5e7767960c",
+      "title": "The Coldcard hack proves reputation is not a security model",
+      "excerpt": "The Coldcard hack proves reputation is not a security model",
+      "content": "<p>The Coldcard hack proves reputation is not a security model</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:18.157217+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9880e3a929fa",
+      "slug": "tom-lees-bitmine-now-owns-48-of-ethereum-supply-after-latest-eth-purchase-9880e3a929fa",
+      "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+      "excerpt": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+      "content": "<p>Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:19.686749+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d4d6d7fa5aa0",
+      "slug": "paul-tudor-jones-firm-buys-back-into-blackrock-bitcoin-etf-after-a-year-of-selli-d4d6d7fa5aa0",
+      "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+      "excerpt": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+      "content": "<p>Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:21.289347+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0d6e35c15903",
+      "slug": "dutch-prosecutors-sell-25m-of-crypto-from-bankrupt-platform-knaken-0d6e35c15903",
+      "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+      "excerpt": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+      "content": "<p>Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:22.818718+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "18d16dbe0f46",
+      "slug": "us-august-nahb-housing-market-index-35-vs-33-expected-18d16dbe0f46",
+      "title": "US August NAHB housing market index 35 vs 33 expected",
+      "excerpt": "US August NAHB housing market index 35 vs 33 expected",
+      "content": "<p>US August NAHB housing market index 35 vs 33 expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:24.606647+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e271f516e4c2",
+      "slug": "gold-investors-extend-longs-but-hedge-risks-td-securities-e271f516e4c2",
+      "title": "Gold: Investors extend longs but hedge risks – TD Securities",
+      "excerpt": "Gold: Investors extend longs but hedge risks – TD Securities",
+      "content": "<p>Gold: Investors extend longs but hedge risks – TD Securities</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:26.298022+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "97c09e3ce08e",
+      "slug": "euro-bullish-momentum-eyes-mid117s-against-us-dollar-scotiabank-97c09e3ce08e",
+      "title": "Euro: Bullish momentum eyes mid‑1.17s against US Dollar – Scotiabank",
+      "excerpt": "Euro: Bullish momentum eyes mid‑1.17s against US Dollar – Scotiabank",
+      "content": "<p>Euro: Bullish momentum eyes mid‑1.17s against US Dollar – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:27.830159+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "15703d7d53e3",
+      "slug": "canadian-dollar-inflation-steady-near-target-rbc-15703d7d53e3",
+      "title": "Canadian Dollar: Inflation steady near target – RBC",
+      "excerpt": "Canadian Dollar: Inflation steady near target – RBC",
+      "content": "<p>Canadian Dollar: Inflation steady near target – RBC</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:29.358110+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eb7a3067eb99",
+      "slug": "my-son-does-not-work-yet-pays-500-for-affordable-care-act-health-insurance-is-th-eb7a3067eb99",
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "excerpt": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "content": "<p>My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T14:24:31.111288+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -719,189 +899,9 @@
       "date": "2026-08-17T11:46:39.106160+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "84ab92abb1ac",
-      "slug": "bitmart-account-demands-founder-explain-funds-status-xia-calls-claims-fabricated-84ab92abb1ac",
-      "title": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
-      "excerpt": "BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’",
-      "content": "<p>BitMart account demands founder explain funds status, Xia calls claims ‘fabricated’</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:17.750844+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1e4199b17358",
-      "slug": "greenlanes-70m-bera-treasury-ends-q2-valued-at-16m-1e4199b17358",
-      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
-      "excerpt": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
-      "content": "<p>Greenlane’s $70M BERA treasury ends Q2 valued at $16M</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:19.280883+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b94112811890",
-      "slug": "no-major-us-data-releases-but-this-week-will-feature-a-big-test-on-consumer-heal-b94112811890",
-      "title": "No major US data releases but this week will feature a big test on consumer health",
-      "excerpt": "No major US data releases but this week will feature a big test on consumer health",
-      "content": "<p>No major US data releases but this week will feature a big test on consumer health</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:21.359780+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5416cf9c9d1b",
-      "slug": "copper-record-highs-on-tightening-supply-ing-5416cf9c9d1b",
-      "title": "Copper: Record highs on tightening supply – ING",
-      "excerpt": "Copper: Record highs on tightening supply – ING",
-      "content": "<p>Copper: Record highs on tightening supply – ING</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:23.200813+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0c72d1b0e002",
-      "slug": "canada-cpi-preview-inflation-forecast-to-tick-higher-in-july-pressuring-boc-0c72d1b0e002",
-      "title": "Canada CPI Preview: Inflation forecast to tick higher in July, pressuring BoC",
-      "excerpt": "Canada CPI Preview: Inflation forecast to tick higher in July, pressuring BoC",
-      "content": "<p>Canada CPI Preview: Inflation forecast to tick higher in July, pressuring BoC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:24.735132+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b9d50c53a5b1",
-      "slug": "investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-b-b9d50c53a5b1",
-      "title": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before it blew up",
-      "excerpt": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before it blew up",
-      "content": "<p>Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before it blew up</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:26.674095+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e3814403e063",
-      "slug": "my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-e3814403e063",
-      "title": "My son does not work, yet he pays $500 for ACA health insurance. How is that fair?",
-      "excerpt": "My son does not work, yet he pays $500 for ACA health insurance. How is that fair?",
-      "content": "<p>My son does not work, yet he pays $500 for ACA health insurance. How is that fair?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:28.204152+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cad6a4ba75e7",
-      "slug": "neighbors-in-rural-texas-county-are-not-happy-about-elon-musks-plan-to-erect-wor-cad6a4ba75e7",
-      "title": "Neighbors in rural Texas county are not happy about Elon Musk’s plan to erect world’s largest building",
-      "excerpt": "Neighbors in rural Texas county are not happy about Elon Musk’s plan to erect world’s largest building",
-      "content": "<p>Neighbors in rural Texas county are not happy about Elon Musk’s plan to erect world’s largest building</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:29.735071+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1c7771468f09",
-      "slug": "former-starbucks-ceo-howard-schultz-sells-home-in-hawaii-for-36-million-after-mo-1c7771468f09",
-      "title": "Former Starbucks CEO Howard Schultz sells home in Hawaii for $36 million after moving to Florida",
-      "excerpt": "Former Starbucks CEO Howard Schultz sells home in Hawaii for $36 million after moving to Florida",
-      "content": "<p>Former Starbucks CEO Howard Schultz sells home in Hawaii for $36 million after moving to Florida</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T11:15:31.263949+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f81762125dba",
-      "slug": "bitpanda-fined-70000-in-austrias-first-published-mica-enforcement-case-f81762125dba",
-      "title": "Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case",
-      "excerpt": "Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case",
-      "content": "<p>Bitpanda fined €70,000 in Austria’s first published MiCA enforcement case</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T10:53:25.033525+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-17T13:58:34.901398+00:00",
+  "lastUpdated": "2026-08-17T14:24:32.611431+00:00",
   "totalCount": 50,
   "newCount": 10
 }
