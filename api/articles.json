@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "uid": "81fdf013884f",
+      "slug": "ethereum-devs-to-narrow-66-proposals-tied-to-hegot-upgrade-81fdf013884f",
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "excerpt": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "content": "<p>Ethereum devs to narrow 66 proposals tied to Hegotá upgrade</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:02.071469+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "539cbcdca2af",
+      "slug": "bybit-adds-unitree-moonshot-ai-to-pre-ipo-perpetuals-lineup-539cbcdca2af",
+      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+      "excerpt": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+      "content": "<p>Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:03.600943+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b2264bfd12df",
+      "slug": "trump-linked-world-liberty-gets-conditional-bank-charter-for-usd1-stablecoin-b2264bfd12df",
+      "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "excerpt": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "content": "<p>Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:05.461101+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6ad6b43eecd3",
+      "slug": "chinas-delayed-july-data-looms-as-markets-eye-demand-and-pbocs-yuan-stance-6ad6b43eecd3",
+      "title": "China's delayed July data looms as markets eye demand and PBOC's yuan stance",
+      "excerpt": "China's delayed July data looms as markets eye demand and PBOC's yuan stance",
+      "content": "<p>China's delayed July data looms as markets eye demand and PBOC's yuan stance</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:07.122210+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9be65cc8b31d",
+      "slug": "eurjpy-price-forecast-tests-rising-wedge-bottom-near-18400-9be65cc8b31d",
+      "title": "EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00",
+      "excerpt": "EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00",
+      "content": "<p>EUR/JPY Price Forecast: Tests rising wedge bottom near 184.00</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:08.734963+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "90945d166520",
+      "slug": "united-states-dollar-index-weakens-to-near-9950-as-traders-push-back-fed-rate-hi-90945d166520",
+      "title": "United States Dollar Index weakens to near 99.50 as traders push back Fed rate hike bets",
+      "excerpt": "United States Dollar Index weakens to near 99.50 as traders push back Fed rate hike bets",
+      "content": "<p>United States Dollar Index weakens to near 99.50 as traders push back Fed rate hike bets</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:10.259669+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3a3ea8c1ccd4",
+      "slug": "silver-price-forecast-xagusd-bulls-await-acceptance-above-6600-100-day-ema-break-3a3ea8c1ccd4",
+      "title": "Silver Price Forecast: XAG/USD bulls await acceptance above $66.00, 100-day EMA breakout",
+      "excerpt": "Silver Price Forecast: XAG/USD bulls await acceptance above $66.00, 100-day EMA breakout",
+      "content": "<p>Silver Price Forecast: XAG/USD bulls await acceptance above $66.00, 100-day EMA breakout</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:11.791627+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "285932223449",
+      "slug": "australian-dollar-rises-on-hawkish-rba-outlook-285932223449",
+      "title": "Australian Dollar rises on hawkish RBA outlook",
+      "excerpt": "Australian Dollar rises on hawkish RBA outlook",
+      "content": "<p>Australian Dollar rises on hawkish RBA outlook</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:13.318283+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "02c7e23d2710",
+      "slug": "im-63-a-retired-cpa-with-a-12-million-401k-do-i-need-to-bother-with-a-roth-conve-02c7e23d2710",
+      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "excerpt": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
+      "content": "<p>I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-17T03:25:16.030875+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "8d78df182f27",
       "slug": "tokenized-stock-holders-more-than-double-as-monthly-volume-surges-8d78df182f27",
       "title": "Tokenized stock holders more than double as monthly volume surges",
@@ -737,171 +899,9 @@
       "date": "2026-08-16T14:12:30.236324+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3b07c151f283",
-      "slug": "people-are-turning-to-ai-for-mental-health-california-wants-it-banned-3b07c151f283",
-      "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-      "excerpt": "People Are Turning to AI for Mental Health, California Wants It Banned",
-      "content": "<p>People Are Turning to AI for Mental Health, California Wants It Banned</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T14:12:31.865738+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fbbe8d459e8e",
-      "slug": "canada-manufacturing-sales-for-june-01-vs--01-estimate-fbbe8d459e8e",
-      "title": "Canada Manufacturing Sales for June +0.1% vs -0.1% estimate",
-      "excerpt": "Canada Manufacturing Sales for June +0.1% vs -0.1% estimate",
-      "content": "<p>Canada Manufacturing Sales for June +0.1% vs -0.1% estimate</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T13:49:52.430000+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8d4d723c1cc2",
-      "slug": "us-july-retail-sales--06-vs-01-expected-8d4d723c1cc2",
-      "title": "US July retail sales -0.6% vs +0.1% expected",
-      "excerpt": "US July retail sales -0.6% vs +0.1% expected",
-      "content": "<p>US July retail sales -0.6% vs +0.1% expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T13:49:53.962257+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5c8f0c4ab0df",
-      "slug": "forecasting-the-upcoming-week-fomc-minutes-take-center-stage-next-week-5c8f0c4ab0df",
-      "title": "Forecasting the upcoming week: FOMC Minutes take center stage next week",
-      "excerpt": "Forecasting the upcoming week: FOMC Minutes take center stage next week",
-      "content": "<p>Forecasting the upcoming week: FOMC Minutes take center stage next week</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T13:49:55.951352+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4503e17a52c7",
-      "slug": "defillama-delayed-mobile-launch-over-phishing-apps-on-apple-store-founder-says-4503e17a52c7",
-      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-      "excerpt": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-      "content": "<p>DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T13:06:20.508011+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "23a18cfd3cd7",
-      "slug": "bitcoin-to-1m-by-2030-is-mathematically-impossible-says-markus-thielen-23a18cfd3cd7",
-      "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
-      "excerpt": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
-      "content": "<p>Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T13:06:22.034238+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ac256f94b7e2",
-      "slug": "the-stablecoin-yield-clash-that-wont-go-away-has-banks-crypto-battling-over-trad-ac256f94b7e2",
-      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "excerpt": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "content": "<p>The stablecoin yield clash that won't go away has banks, crypto battling over tradition</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T13:06:23.714875+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "38df79518aea",
-      "slug": "heres-the-real-reason-oil-prices-arent-moving-higher-38df79518aea",
-      "title": "Here’s the real reason oil prices aren’t moving higher",
-      "excerpt": "Here’s the real reason oil prices aren’t moving higher",
-      "content": "<p>Here’s the real reason oil prices aren’t moving higher</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T13:06:26.033140+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f35dc81bd249",
-      "slug": "the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embra-f35dc81bd249",
-      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "excerpt": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "content": "<p>The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-16T12:16:36.320824+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-17T02:12:55.521362+00:00",
+  "lastUpdated": "2026-08-17T03:25:17.561052+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 9
 }
