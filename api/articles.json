@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "e99ac03a80ed",
+      "slug": "rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed-e99ac03a80ed",
+      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+      "excerpt": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+      "content": "<p>Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T22:10:58.156369+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "211154f6d379",
+      "slug": "mexican-peso-dips-on-middle-east-tensions-eyes-on-fomc-minutes-211154f6d379",
+      "title": "Mexican Peso dips on Middle East tensions, eyes on FOMC minutes",
+      "excerpt": "Mexican Peso dips on Middle East tensions, eyes on FOMC minutes",
+      "content": "<p>Mexican Peso dips on Middle East tensions, eyes on FOMC minutes</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T22:11:00.112012+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7d5e139e293b",
+      "slug": "meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-7d5e139e293b",
+      "title": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+      "excerpt": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+      "content": "<p>Meta is facing its ‘Big Tobacco’ moment — and investors can profit</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T22:11:01.813529+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "851db3272ec6",
       "slug": "sec-proposes-new-crypto-rules-in-absence-of-clarity-act-851db3272ec6",
       "title": "SEC proposes new crypto rules in absence of CLARITY Act",
@@ -845,63 +899,9 @@
       "date": "2026-08-18T18:20:19.625916+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fa09f20a8f65",
-      "slug": "toyota-finance-opens-tokenized-bonds-to-retail-investors-via-mobile-payment-app-fa09f20a8f65",
-      "title": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-      "excerpt": "Toyota Finance opens tokenized bonds to retail investors via mobile payment app",
-      "content": "<p>Toyota Finance opens tokenized bonds to retail investors via mobile payment app</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T18:20:21.166403+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e88c2f979112",
-      "slug": "bitcoin-wallet-maker-bitbox-says-ai-found-severe-flaws-in-firmware-e88c2f979112",
-      "title": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
-      "excerpt": "Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware",
-      "content": "<p>Bitcoin Wallet Maker BitBox Says AI Found Severe Flaws in Firmware</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T18:20:22.985004+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a147d1a6b730",
-      "slug": "economists-agree-boe-will-hold-rates-through-year-end-reuters-poll-a147d1a6b730",
-      "title": "Economists agree: BoE will hold rates through year-end – Reuters poll",
-      "excerpt": "Economists agree: BoE will hold rates through year-end – Reuters poll",
-      "content": "<p>Economists agree: BoE will hold rates through year-end – Reuters poll</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T18:20:24.908898+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-18T21:43:58.200286+00:00",
+  "lastUpdated": "2026-08-18T22:11:03.347825+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 3
 }
