@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "7828da05741a",
+      "slug": "south-koreas-jeonbuk-bank-taps-ripple-for-cross-border-payments-7828da05741a",
+      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+      "excerpt": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+      "content": "<p>South Korea’s Jeonbuk Bank taps Ripple for cross-border payments</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:08.395080+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "963851171873",
+      "slug": "bitcoin-climbs-above-64000-while-most-majors-slip-963851171873",
+      "title": "Bitcoin climbs above $64,000 while most majors slip",
+      "excerpt": "Bitcoin climbs above $64,000 while most majors slip",
+      "content": "<p>Bitcoin climbs above $64,000 while most majors slip</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:10.532524+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "236e54df1791",
+      "slug": "bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-e-236e54df1791",
+      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "excerpt": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
+      "content": "<p>BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:12.091354+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3a799b2e9b98",
+      "slug": "australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month--3a799b2e9b98",
+      "title": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
+      "excerpt": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
+      "content": "<p>Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:14.144899+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5d812b00e2af",
+      "slug": "eurjpy-price-forecast-rises-to-near-18500-after-breaking-above-50-day-ema-5d812b00e2af",
+      "title": "EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA",
+      "excerpt": "EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA",
+      "content": "<p>EUR/JPY Price Forecast: Rises to near 185.00 after breaking above 50-day EMA</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:15.697526+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2bc3865ebd3d",
+      "slug": "india-gold-price-today-gold-falls-according-to-fxstreet-data-2bc3865ebd3d",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "excerpt": "India Gold price today: Gold falls, according to FXStreet data",
+      "content": "<p>India Gold price today: Gold falls, according to FXStreet data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:17.248323+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c43f8bb1bd75",
+      "slug": "audjpy-price-forecast-strengthens-to-near-11350-near-term-outlook-remain-constru-c43f8bb1bd75",
+      "title": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
+      "excerpt": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
+      "content": "<p>AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:18.794871+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "92a416426bbe",
+      "slug": "its-a-double-edged-sword-my-husband-got-a-42000-bonus-will-it-wipe-out-our-affor-92a416426bbe",
+      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "excerpt": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
+      "content": "<p>‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:20.759508+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "329f1dff4908",
+      "slug": "theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-329f1dff4908",
+      "title": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+      "excerpt": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+      "content": "<p>There’s a 49% chance the Dow will finish this year up double digits. Here’s why.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:22.304602+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bd160f8d1f70",
+      "slug": "the-number-of-negative-beta-stocks-in-the-sp-500-just-hit-a-new-record-high-what-bd160f8d1f70",
+      "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+      "excerpt": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+      "content": "<p>The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T04:59:23.850455+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "7352b3722f14",
       "slug": "alleged-165m-crypto-ponzi-mastermind-faces-us-charges-after-fiji-deportation-7352b3722f14",
       "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
@@ -719,189 +899,9 @@
       "date": "2026-08-17T22:46:23.733298+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "97a909c7ea3f",
-      "slug": "british-pound-sterling-did-not-earn-its-three-month-high-97a909c7ea3f",
-      "title": "British Pound Sterling did not earn its three-month high",
-      "excerpt": "British Pound Sterling did not earn its three-month high",
-      "content": "<p>British Pound Sterling did not earn its three-month high</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T22:46:25.278518+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0b7fea855afd",
-      "slug": "why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-0b7fea855afd",
-      "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
-      "excerpt": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
-      "content": "<p>Why this popular Treasury-bond ETF is trading at its lowest since 2004</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T22:46:27.207799+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "deb8c4744996",
-      "slug": "kraken-parent-payward-joins-anthropics-project-glasswing-for-ai-security-push-deb8c4744996",
-      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-      "excerpt": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-      "content": "<p>Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T22:12:37.338156+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "af5e7767960c",
-      "slug": "the-coldcard-hack-proves-reputation-is-not-a-security-model-af5e7767960c",
-      "title": "The Coldcard hack proves reputation is not a security model",
-      "excerpt": "The Coldcard hack proves reputation is not a security model",
-      "content": "<p>The Coldcard hack proves reputation is not a security model</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T22:12:38.901072+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "18d16dbe0f46",
-      "slug": "us-august-nahb-housing-market-index-35-vs-33-expected-18d16dbe0f46",
-      "title": "US August NAHB housing market index 35 vs 33 expected",
-      "excerpt": "US August NAHB housing market index 35 vs 33 expected",
-      "content": "<p>US August NAHB housing market index 35 vs 33 expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T22:12:40.932191+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "636c140cef73",
-      "slug": "the-dow-jones-industrial-average-prices-the-war-last-636c140cef73",
-      "title": "The Dow Jones Industrial Average prices the war last",
-      "excerpt": "The Dow Jones Industrial Average prices the war last",
-      "content": "<p>The Dow Jones Industrial Average prices the war last</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T22:12:42.701727+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2f62d98a4319",
-      "slug": "occ-approves-trump-family-crypto-company-for-trust-charter-2f62d98a4319",
-      "title": "OCC approves Trump family crypto company for trust charter",
-      "excerpt": "OCC approves Trump family crypto company for trust charter",
-      "content": "<p>OCC approves Trump family crypto company for trust charter</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T21:46:44.918824+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a0c486a34697",
-      "slug": "prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september-a0c486a34697",
-      "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-      "excerpt": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-      "content": "<p>Prediction Markets Give the Fed 74% Odds of Standing Pat in September</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T21:46:46.881039+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "352408a3bbc0",
-      "slug": "us-empire-manufacturing-index-2060-vs-1100-estimate-352408a3bbc0",
-      "title": "US Empire Manufacturing index 20.60 vs 11.00 estimate",
-      "excerpt": "US Empire Manufacturing index 20.60 vs 11.00 estimate",
-      "content": "<p>US Empire Manufacturing index 20.60 vs 11.00 estimate</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T21:46:48.657834+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c5f70bc1db1",
-      "slug": "new-zealand-dollar-stalls-as-china-slows-down-6c5f70bc1db1",
-      "title": "New Zealand Dollar stalls as China slows down",
-      "excerpt": "New Zealand Dollar stalls as China slows down",
-      "content": "<p>New Zealand Dollar stalls as China slows down</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-17T21:46:50.540679+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-18T04:03:42.120475+00:00",
+  "lastUpdated": "2026-08-18T04:59:25.350628+00:00",
   "totalCount": 50,
-  "newCount": 8
+  "newCount": 10
 }
