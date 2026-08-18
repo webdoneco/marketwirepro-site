@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "49d4b5495b81",
+      "slug": "bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis-49d4b5495b81",
+      "title": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+      "excerpt": "Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis",
+      "content": "<p>Bitcoin price spike to $64.5K was ‘low-volume liquidity trap’: Analysis</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:54:50.273198+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b594d15a5bbe",
+      "slug": "ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade-b594d15a5bbe",
+      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "excerpt": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "content": "<p>Ethereum Foundation warns some tools may break with Glamsterdam upgrade</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:54:51.850566+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "16dbc3a6e736",
+      "slug": "monad-an-ethereum-rival-offered-early-investors-up-to-60-million-to-cash-out-alm-16dbc3a6e736",
+      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "excerpt": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "content": "<p>Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:54:53.931640+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "deb8c4744996",
+      "slug": "kraken-parent-payward-joins-anthropics-project-glasswing-for-ai-security-push-deb8c4744996",
+      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "excerpt": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "content": "<p>Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:54:55.516256+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2a0865f6ba1d",
+      "slug": "bitpanda-hit-with-europes-first-published-mica-penalty-in-austria-2a0865f6ba1d",
+      "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+      "excerpt": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+      "content": "<p>Bitpanda Hit With Europe's First Published MiCA Penalty in Austria</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:54:57.230305+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c54fbabcee82",
+      "slug": "kraken-parent-payward-joins-glasswing-gets-access-to-claude-mythos-to-hunt-secur-c54fbabcee82",
+      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+      "excerpt": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+      "content": "<p>Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:54:58.811084+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "36b9488e6ec9",
+      "slug": "minnesota-says-xais-grok-created-marketplace-for-digital-sexual-violence-36b9488e6ec9",
+      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+      "excerpt": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+      "content": "<p>Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:55:00.391413+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a0c486a34697",
+      "slug": "prediction-markets-give-the-fed-74-odds-of-standing-pat-in-september-a0c486a34697",
+      "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+      "excerpt": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+      "content": "<p>Prediction Markets Give the Fed 74% Odds of Standing Pat in September</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:55:01.971272+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0bf640166600",
+      "slug": "euro-ticks-higher-against-the-british-pound-after-upbeat-german-economic-sentime-0bf640166600",
+      "title": "Euro ticks higher against the British Pound after upbeat German economic sentiment",
+      "excerpt": "Euro ticks higher against the British Pound after upbeat German economic sentiment",
+      "content": "<p>Euro ticks higher against the British Pound after upbeat German economic sentiment</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:55:04.043392+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b0acf310a093",
+      "slug": "japanese-yen-bearish-bias-within-tight-range-against-us-dollar-uob-b0acf310a093",
+      "title": "Japanese Yen: Bearish bias within tight range against US Dollar – UOB",
+      "excerpt": "Japanese Yen: Bearish bias within tight range against US Dollar – UOB",
+      "content": "<p>Japanese Yen: Bearish bias within tight range against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T09:55:05.625021+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "30c01280cc04",
       "slug": "china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30-30c01280cc04",
       "title": "China adds 8 banks to digital yuan network as operator count hits 30",
@@ -719,189 +899,9 @@
       "date": "2026-08-18T07:12:29.859559+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:24.335324+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ba75810011c2",
-      "slug": "the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked-ba75810011c2",
-      "title": "The bitcoin price level where leveraged bulls could get whacked",
-      "excerpt": "The bitcoin price level where leveraged bulls could get whacked",
-      "content": "<p>The bitcoin price level where leveraged bulls could get whacked</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:27.277472+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bb2d83772f78",
-      "slug": "saylor-says-share-buyback-isnt-priority-as-strategy-builds-48-billion-cash-reser-bb2d83772f78",
-      "title": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
-      "excerpt": "Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve",
-      "content": "<p>Saylor says share buyback isn’t priority as Strategy builds $4.8 billion cash reserve</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:28.814336+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ef1b908f2b99",
-      "slug": "xrp-price-holds-to-near-two-year-streak-but-charts-flash-a-warning-sign-ef1b908f2b99",
-      "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-      "excerpt": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-      "content": "<p>XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:30.450503+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c36f630edd20",
-      "slug": "gold-remains-depressed-below-4400-as-usd-firms-amid-oil-driven-inflation-fears-c36f630edd20",
-      "title": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
-      "excerpt": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
-      "content": "<p>Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:32.709316+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cf914af823f0",
-      "slug": "british-pound-drops-against-yen-after-uk-employment-data-release-cf914af823f0",
-      "title": "British Pound drops against Yen after UK employment data release",
-      "excerpt": "British Pound drops against Yen after UK employment data release",
-      "content": "<p>British Pound drops against Yen after UK employment data release</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:34.243431+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a16219de0120",
-      "slug": "euro-upside-bias-needs-confirmation-above-11615-against-us-dollar-uob-a16219de0120",
-      "title": "Euro: Upside bias needs confirmation above 1.1615 against US Dollar – UOB",
-      "excerpt": "Euro: Upside bias needs confirmation above 1.1615 against US Dollar – UOB",
-      "content": "<p>Euro: Upside bias needs confirmation above 1.1615 against US Dollar – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:35.782202+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "485efc341608",
-      "slug": "united-kingdom-unemployment-rate-stays-at-49-in-june-vs-48-expected-485efc341608",
-      "title": "United Kingdom Unemployment Rate stays at 4.9% in June vs. 4.8% expected",
-      "excerpt": "United Kingdom Unemployment Rate stays at 4.9% in June vs. 4.8% expected",
-      "content": "<p>United Kingdom Unemployment Rate stays at 4.9% in June vs. 4.8% expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:37.319817+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d88b87a9f898",
-      "slug": "indonesian-rupiah-holds-weak-footing-ahead-of-looming-bi-policy-decision-d88b87a9f898",
-      "title": "Indonesian Rupiah holds weak footing ahead of looming BI policy decision",
-      "excerpt": "Indonesian Rupiah holds weak footing ahead of looming BI policy decision",
-      "content": "<p>Indonesian Rupiah holds weak footing ahead of looming BI policy decision</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T06:23:38.854560+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8c25170e640a",
-      "slug": "xrp-slips-below-1-even-as-a-korean-regional-bank-adopts-ripple-payments-8c25170e640a",
-      "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
-      "excerpt": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
-      "content": "<p>XRP slips below $1 even as a Korean regional bank adopts Ripple Payments</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T05:54:46.277727+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-18T09:21:40.746868+00:00",
+  "lastUpdated": "2026-08-18T09:55:07.125176+00:00",
   "totalCount": 50,
   "newCount": 10
 }
