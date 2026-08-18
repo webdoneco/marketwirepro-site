@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "uid": "738e5cf5b567",
+      "slug": "bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower-738e5cf5b567",
+      "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+      "excerpt": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
+      "content": "<p>Bitcoin pauses at $64,000 as rising yields, oil drag equities lower</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T10:52:08.805124+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "88111e8a2004",
+      "slug": "ing-says-heavy-tone-in-treasuries-has-further-to-run-as-truce-lapses-88111e8a2004",
+      "title": "ING says heavy tone in Treasuries has further to run as truce lapses",
+      "excerpt": "ING says heavy tone in Treasuries has further to run as truce lapses",
+      "content": "<p>ING says heavy tone in Treasuries has further to run as truce lapses</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T10:52:10.831109+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2c1cf73c1bea",
+      "slug": "australian-consumer-sentiment-rises-6-to-889-but-stays-deep-in-pessimism-2c1cf73c1bea",
+      "title": "Australian consumer sentiment rises 6% to 88.9 but stays deep in pessimism",
+      "excerpt": "Australian consumer sentiment rises 6% to 88.9 but stays deep in pessimism",
+      "content": "<p>Australian consumer sentiment rises 6% to 88.9 but stays deep in pessimism</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T10:52:12.381812+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a5aa6719d1c5",
+      "slug": "gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-a5aa6719d1c5",
+      "title": "Gold falls as rising US Treasury yields strengthen the US Dollar",
+      "excerpt": "Gold falls as rising US Treasury yields strengthen the US Dollar",
+      "content": "<p>Gold falls as rising US Treasury yields strengthen the US Dollar</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T10:52:14.129742+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8cc3e4a8f48e",
+      "slug": "gold-price-forecast-xauusd-eases-below-4400-as-us-yields-rally-8cc3e4a8f48e",
+      "title": "Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally",
+      "excerpt": "Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally",
+      "content": "<p>Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T10:52:15.681616+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bd047d898546",
+      "slug": "this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-h-bd047d898546",
+      "title": "‘This is very stressful’: My son’s insurance company won’t pay for his damaged roof. How can he fight this?",
+      "excerpt": "‘This is very stressful’: My son’s insurance company won’t pay for his damaged roof. How can he fight this?",
+      "content": "<p>‘This is very stressful’: My son’s insurance company won’t pay for his damaged roof. How can he fight this?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T10:52:17.537877+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d298e7777fbe",
+      "slug": "chris-pratts-pacific-palisades-home-returns-to-the-market-for-just-under-20-mill-d298e7777fbe",
+      "title": "Chris Pratt’s Pacific Palisades home returns to the market for just under $20 million",
+      "excerpt": "Chris Pratt’s Pacific Palisades home returns to the market for just under $20 million",
+      "content": "<p>Chris Pratt’s Pacific Palisades home returns to the market for just under $20 million</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T10:52:19.086114+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0b7fea855afd",
+      "slug": "why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-0b7fea855afd",
+      "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
+      "excerpt": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
+      "content": "<p>Why this popular Treasury-bond ETF is trading at its lowest since 2004</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T10:52:20.630453+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -755,153 +899,9 @@
       "date": "2026-08-18T07:59:30.357015+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "204d228e500d",
-      "slug": "investinglive-americas-fx-news-wrap-17-aug-204d228e500d",
-      "title": "investingLive Americas FX news wrap 17 Aug",
-      "excerpt": "investingLive Americas FX news wrap 17 Aug",
-      "content": "<p>investingLive Americas FX news wrap 17 Aug</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:32.094104+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "95185d509b30",
-      "slug": "economic-and-event-calendar-in-asia-18-august-2026---very-light-95185d509b30",
-      "title": "Economic and event calendar in Asia 18 August 2026 - very light",
-      "excerpt": "Economic and event calendar in Asia 18 August 2026 - very light",
-      "content": "<p>Economic and event calendar in Asia 18 August 2026 - very light</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:33.646834+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bf384136b7b6",
-      "slug": "united-states-dollar-index-extends-recovery-from-two-month-low-trades-above-9950-bf384136b7b6",
-      "title": "United States Dollar Index extends recovery from two-month low; trades above 99.50",
-      "excerpt": "United States Dollar Index extends recovery from two-month low; trades above 99.50",
-      "content": "<p>United States Dollar Index extends recovery from two-month low; trades above 99.50</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:35.321195+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5668dac53a62",
-      "slug": "gbpjpy-price-forecast-pound-steadies-below-the-21635-resistance-area-5668dac53a62",
-      "title": "GBP/JPY Price Forecast: Pound steadies below the 216.35 resistance area",
-      "excerpt": "GBP/JPY Price Forecast: Pound steadies below the 216.35 resistance area",
-      "content": "<p>GBP/JPY Price Forecast: Pound steadies below the 216.35 resistance area</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:36.874657+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dfd35253e01b",
-      "slug": "australian-dollar-upside-risk-targets-07150-against-us-dollar-uob-dfd35253e01b",
-      "title": "Australian Dollar: Upside risk targets 0.7150 against US Dollar – UOB",
-      "excerpt": "Australian Dollar: Upside risk targets 0.7150 against US Dollar – UOB",
-      "content": "<p>Australian Dollar: Upside risk targets 0.7150 against US Dollar – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:38.432714+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ebfd9c7b1d73",
-      "slug": "indian-rupee-edges-up-higher-oil-prices-to-remain-key-drag-ebfd9c7b1d73",
-      "title": "Indian Rupee edges up, higher oil prices to remain key drag",
-      "excerpt": "Indian Rupee edges up, higher oil prices to remain key drag",
-      "content": "<p>Indian Rupee edges up, higher oil prices to remain key drag</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:39.985556+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d4dd7f21f64a",
-      "slug": "british-pound-softer-as-jobs-data-cools-hikes-ing-d4dd7f21f64a",
-      "title": "British Pound: Softer as jobs data cools hikes – ING",
-      "excerpt": "British Pound: Softer as jobs data cools hikes – ING",
-      "content": "<p>British Pound: Softer as jobs data cools hikes – ING</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:41.561775+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "67e014c3c367",
-      "slug": "japanese-yen-hits-drift-closer-to-the-key-16000-level-as-risk-appetite-fades-67e014c3c367",
-      "title": "Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades",
-      "excerpt": "Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades",
-      "content": "<p>Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:43.117700+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-18T10:17:20.699917+00:00",
+  "lastUpdated": "2026-08-18T10:52:22.193169+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 8
 }
