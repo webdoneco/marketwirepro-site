@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "uid": "97f9ca724918",
+      "slug": "kraken-launches-us-listed-stock-trading-for-eea-customers-97f9ca724918",
+      "title": "Kraken launches US-listed stock trading for EEA customers",
+      "excerpt": "Kraken launches US-listed stock trading for EEA customers",
+      "content": "<p>Kraken launches US-listed stock trading for EEA customers</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T11:15:11.048121+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a18305901284",
+      "slug": "south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access-a18305901284",
+      "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+      "excerpt": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+      "content": "<p>South Korea joins more than 30 jurisdictions restricting Polymarket access</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T11:15:13.112491+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5a17a98d44f1",
+      "slug": "usdjpy-price-forecast-aims-to-extend-rally-above-16000-5a17a98d44f1",
+      "title": "USD/JPY Price Forecast: Aims to extend rally above 160.00",
+      "excerpt": "USD/JPY Price Forecast: Aims to extend rally above 160.00",
+      "content": "<p>USD/JPY Price Forecast: Aims to extend rally above 160.00</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T11:15:15.224936+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b096197f2681",
+      "slug": "copper-squeeze-deepens-on-tight-supply-ing-b096197f2681",
+      "title": "Copper: Squeeze deepens on tight supply – ING",
+      "excerpt": "Copper: Squeeze deepens on tight supply – ING",
+      "content": "<p>Copper: Squeeze deepens on tight supply – ING</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T11:15:16.781520+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1592b0053b3c",
+      "slug": "us-30-year-treasury-yield-hits-highest-level-since-2007-amid-global-bond-sell-of-1592b0053b3c",
+      "title": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off",
+      "excerpt": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off",
+      "content": "<p>U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-18T11:15:18.760558+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "738e5cf5b567",
       "slug": "bitcoin-pauses-at-64000-as-rising-yields-oil-drag-equities-lower-738e5cf5b567",
       "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower",
@@ -809,99 +899,9 @@
       "date": "2026-08-18T08:37:39.328688+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b098c3f775a9",
-      "slug": "audusd-price-forecast-holds-breakout-near-07100-b098c3f775a9",
-      "title": "AUD/USD Price Forecast: Holds breakout near 0.7100",
-      "excerpt": "AUD/USD Price Forecast: Holds breakout near 0.7100",
-      "content": "<p>AUD/USD Price Forecast: Holds breakout near 0.7100</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T08:37:40.859992+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b29a5f28f7ab",
-      "slug": "dow-jones-futures-drop-as-soaring-us-yields-us-iran-friction-rattle-markets-b29a5f28f7ab",
-      "title": "Dow Jones futures drop as soaring US yields, US-Iran friction rattle markets",
-      "excerpt": "Dow Jones futures drop as soaring US yields, US-Iran friction rattle markets",
-      "content": "<p>Dow Jones futures drop as soaring US yields, US-Iran friction rattle markets</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T08:37:42.396217+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "664d1bdf149e",
-      "slug": "united-kingdom-stagnation-with-stabilisation-signs-deutsche-bank-664d1bdf149e",
-      "title": "United Kingdom: Stagnation with stabilisation signs – Deutsche Bank",
-      "excerpt": "United Kingdom: Stagnation with stabilisation signs – Deutsche Bank",
-      "content": "<p>United Kingdom: Stagnation with stabilisation signs – Deutsche Bank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T08:37:43.925294+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3d899da86283",
-      "slug": "fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express-3d899da86283",
-      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-      "excerpt": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-      "content": "<p>‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:28.275062+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "569ecfa193c7",
-      "slug": "openais-answer-to-rogue-agents-and-hacks-is-more-ai-not-less-569ecfa193c7",
-      "title": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-      "excerpt": "OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-      "content": "<p>OpenAI’s Answer to Rogue Agents and Hacks Is More AI, Not Less</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T07:59:30.357015+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-18T10:52:22.193169+00:00",
+  "lastUpdated": "2026-08-18T11:15:20.366425+00:00",
   "totalCount": 50,
-  "newCount": 8
+  "newCount": 5
 }
