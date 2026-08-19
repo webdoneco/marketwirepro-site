@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "uid": "258c2a76ea0d",
+      "slug": "investinglive-americas-fx-news-wrap-surprise-us-treasury-announcement-sends-doll-258c2a76ea0d",
+      "title": "investingLive Americas FX news wrap: Surprise US Treasury announcement sends dollar lower, gold higher",
+      "excerpt": "investingLive Americas FX news wrap: Surprise US Treasury announcement sends dollar lower, gold higher",
+      "content": "<p>investingLive Americas FX news wrap: Surprise US Treasury announcement sends dollar lower, gold higher</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T23:43:07.510206+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0f2444cab08d",
+      "slug": "us-president-donald-trump-announces-crushing-economic-operation-on-iran-0f2444cab08d",
+      "title": "US President Donald Trump announces \"crushing economic operation\" on Iran",
+      "excerpt": "US President Donald Trump announces \"crushing economic operation\" on Iran",
+      "content": "<p>US President Donald Trump announces \"crushing economic operation\" on Iran</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T23:43:09.476154+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "73e37a5e679b",
+      "slug": "gold-climbs-above-4500-as-us-dollar-yields-fall-73e37a5e679b",
+      "title": "Gold climbs above $4,500 as US Dollar, yields fall",
+      "excerpt": "Gold climbs above $4,500 as US Dollar, yields fall",
+      "content": "<p>Gold climbs above $4,500 as US Dollar, yields fall</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T23:43:11.005216+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fd8825905efc",
+      "slug": "australian-dollar-gains-as-treasury-buyback-offsets-hawkish-fed-fd8825905efc",
+      "title": "Australian Dollar gains as Treasury buyback offsets hawkish Fed",
+      "excerpt": "Australian Dollar gains as Treasury buyback offsets hawkish Fed",
+      "content": "<p>Australian Dollar gains as Treasury buyback offsets hawkish Fed</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T23:43:12.536547+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eb7a3067eb99",
+      "slug": "my-son-does-not-work-yet-pays-500-for-affordable-care-act-health-insurance-is-th-eb7a3067eb99",
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "excerpt": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "content": "<p>My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T23:43:14.370382+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d96e4d516163",
+      "slug": "i-hold-my-mother-in-laws-power-of-attorney-im-also-her-executor-and-trustee-do-i-d96e4d516163",
+      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
+      "excerpt": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?",
+      "content": "<p>I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have ultimate authority?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T23:43:15.900211+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "00fe502b444a",
+      "slug": "a-420-camera-for-10-chinas-young-consumers-would-rather-rent-than-buy-beijing-ha-00fe502b444a",
+      "title": "A $420 camera for $10: China’s young consumers would rather rent than buy. Beijing has a problem.",
+      "excerpt": "A $420 camera for $10: China’s young consumers would rather rent than buy. Beijing has a problem.",
+      "content": "<p>A $420 camera for $10: China’s young consumers would rather rent than buy. Beijing has a problem.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T23:43:17.428899+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "3b18a75f83fa",
       "slug": "bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-76000-3b18a75f83fa",
       "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
@@ -773,135 +899,9 @@
       "date": "2026-08-19T20:14:23.648969+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "94e0474e0d63",
-      "slug": "bitcoin-surges-above-68000-liquidating-14-billion-shorts-as-treasury-buybacks-bo-94e0474e0d63",
-      "title": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
-      "excerpt": "Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite",
-      "content": "<p>Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T20:14:25.195802+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b0d779a68b39",
-      "slug": "trump-calls-on-congress-to-pass-fair-version-of-clarity-act-at-white-house-crypt-b0d779a68b39",
-      "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
-      "excerpt": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
-      "content": "<p>Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T20:14:26.895393+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7eff1c0e10b4",
-      "slug": "crypto-stocks-rip-higher-as-strategy-jumps-12-coinbase-climbs-9-7eff1c0e10b4",
-      "title": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-      "excerpt": "Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%",
-      "content": "<p>Crypto Stocks Rip Higher as Strategy Jumps 12%, Coinbase Climbs 9%</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T20:14:28.442032+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "40e771f25203",
-      "slug": "euro-surges-as-traders-ignore-feds-hawkish-minutes-40e771f25203",
-      "title": "Euro surges as traders ignore Fed’s hawkish minutes",
-      "excerpt": "Euro surges as traders ignore Fed’s hawkish minutes",
-      "content": "<p>Euro surges as traders ignore Fed’s hawkish minutes</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T20:14:30.438542+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f32cb4ce17b8",
-      "slug": "hidden-valley-ranch-dressing-may-be-a-victim-of-this-summers-salad-scare-f32cb4ce17b8",
-      "title": "Hidden Valley Ranch dressing may be a victim of this summer’s salad scare",
-      "excerpt": "Hidden Valley Ranch dressing may be a victim of this summer’s salad scare",
-      "content": "<p>Hidden Valley Ranch dressing may be a victim of this summer’s salad scare</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T20:14:32.388092+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bb0144ac7ae1",
-      "slug": "standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buyback-bb0144ac7ae1",
-      "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-      "excerpt": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-      "content": "<p>Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T19:46:49.810770+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "68e318c53aea",
-      "slug": "us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs-68e318c53aea",
-      "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-      "excerpt": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-      "content": "<p>US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T19:46:51.344382+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-19T23:13:30.091063+00:00",
+  "lastUpdated": "2026-08-19T23:43:18.964774+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 7
 }
