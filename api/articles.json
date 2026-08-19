@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "uid": "5f51ebf33cc1",
+      "slug": "falconx-ethena-bring-usde-backing-assets-into-1b-institutional-credit-facility-5f51ebf33cc1",
+      "title": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "excerpt": "FalconX, Ethena bring USDe backing assets into $1B institutional credit facility",
+      "content": "<p>FalconX, Ethena bring USDe backing assets into $1B institutional credit facility</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T17:46:39.772016+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1559a2a148e6",
+      "slug": "coinbases-base-is-betting-big-on-ai-agents-with-1-million-startup-accelerator-1559a2a148e6",
+      "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
+      "excerpt": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
+      "content": "<p>Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T17:46:41.544224+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "91f164d058eb",
+      "slug": "chinese-insurtech-firm-zhibao-adds-2380-bitcoin-in-1547m-treasury-pivot-91f164d058eb",
+      "title": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
+      "excerpt": "Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot",
+      "content": "<p>Chinese InsurTech Firm Zhibao Adds 2,380 Bitcoin in $154.7M Treasury Pivot</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T17:46:43.076619+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dc03f82d2de7",
+      "slug": "us-treasury-auctions-off-18-billion-of-20-year-bonds-at-a-high-yield-of-5204-dc03f82d2de7",
+      "title": "US Treasury auctions off $18 billion of 20-year bonds at a high yield of 5.204%",
+      "excerpt": "US Treasury auctions off $18 billion of 20-year bonds at a high yield of 5.204%",
+      "content": "<p>US Treasury auctions off $18 billion of 20-year bonds at a high yield of 5.204%</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T17:46:44.773494+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a20df165e3fa",
+      "slug": "wti-oil-climbs-as-us-iran-standoff-keeps-middle-east-supply-risks-elevated-a20df165e3fa",
+      "title": "WTI Oil climbs as US-Iran standoff keeps Middle East supply risks elevated",
+      "excerpt": "WTI Oil climbs as US-Iran standoff keeps Middle East supply risks elevated",
+      "content": "<p>WTI Oil climbs as US-Iran standoff keeps Middle East supply risks elevated</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T17:46:46.644757+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4e9e97bee81f",
+      "slug": "apples-stock-could-be-the-savviest-buy-within-big-tech-according-to-this-analysi-4e9e97bee81f",
+      "title": "Apple’s stock could be the savviest buy within Big Tech, according to this analysis",
+      "excerpt": "Apple’s stock could be the savviest buy within Big Tech, according to this analysis",
+      "content": "<p>Apple’s stock could be the savviest buy within Big Tech, according to this analysis</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T17:46:48.359795+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b34af0085c90",
+      "slug": "im-running-out-of-time-i-sold-my-300000-rental-property-at-a-75000-loss-should-i-b34af0085c90",
+      "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "excerpt": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "content": "<p>‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T17:46:49.900383+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c267e33c42b8",
+      "slug": "trump-accounts-wont-help-solve-americans-savings-problems-heres-a-better-way-c267e33c42b8",
+      "title": "‘Trump accounts’ won’t help solve Americans’ savings problems. Here’s a better way.",
+      "excerpt": "‘Trump accounts’ won’t help solve Americans’ savings problems. Here’s a better way.",
+      "content": "<p>‘Trump accounts’ won’t help solve Americans’ savings problems. Here’s a better way.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T17:46:51.433497+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "9f8bc5689b86",
       "slug": "occ-head-promises-final-genius-rules-by-november-9f8bc5689b86",
       "title": "OCC head promises final GENIUS rules by November",
@@ -755,153 +899,9 @@
       "date": "2026-08-19T14:59:11.400223+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "13967d6ce0ff",
-      "slug": "pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows-13967d6ce0ff",
-      "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-      "excerpt": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-      "content": "<p>Pennsylvania Cracks Down on AI Data Centers as Backlash Grows</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T14:59:12.932310+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4c98b8623251",
-      "slug": "mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in-4c98b8623251",
-      "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
-      "excerpt": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
-      "content": "<p>Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T14:59:14.463324+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d0fb46c57118",
-      "slug": "thai-baht-higher-commodities-threaten-baht-stability-commerzbank-d0fb46c57118",
-      "title": "Thai Baht: Higher commodities threaten Baht stability – Commerzbank",
-      "excerpt": "Thai Baht: Higher commodities threaten Baht stability – Commerzbank",
-      "content": "<p>Thai Baht: Higher commodities threaten Baht stability – Commerzbank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T14:59:16.234598+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2d03d93db39b",
-      "slug": "gold-approaches-4500-as-us-dollar-and-treasury-yields-tumble-fomc-minutes-in-foc-2d03d93db39b",
-      "title": "Gold approaches $4,500 as US Dollar and Treasury yields tumble, FOMC Minutes in focus",
-      "excerpt": "Gold approaches $4,500 as US Dollar and Treasury yields tumble, FOMC Minutes in focus",
-      "content": "<p>Gold approaches $4,500 as US Dollar and Treasury yields tumble, FOMC Minutes in focus</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T14:59:17.765485+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2151f1ee8360",
-      "slug": "canadian-dollar-strengthens-as-trump-pauses-50-tariffs-oil-prices-climb-2151f1ee8360",
-      "title": "Canadian Dollar strengthens as Trump pauses 50% tariffs, Oil prices climb",
-      "excerpt": "Canadian Dollar strengthens as Trump pauses 50% tariffs, Oil prices climb",
-      "content": "<p>Canadian Dollar strengthens as Trump pauses 50% tariffs, Oil prices climb</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T14:59:19.294427+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f0b84864494c",
-      "slug": "australian-dollar-rba-keeps-hawkish-bias-on-inflation-bny-f0b84864494c",
-      "title": "Australian Dollar: RBA keeps hawkish bias on inflation – BNY",
-      "excerpt": "Australian Dollar: RBA keeps hawkish bias on inflation – BNY",
-      "content": "<p>Australian Dollar: RBA keeps hawkish bias on inflation – BNY</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T14:59:20.825466+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "28d708a4ae80",
-      "slug": "bank-of-england-rate-hold-baseline-with-conflict-risks-societe-generale-28d708a4ae80",
-      "title": "Bank of England: Rate hold baseline with conflict risks – Societe Generale",
-      "excerpt": "Bank of England: Rate hold baseline with conflict risks – Societe Generale",
-      "content": "<p>Bank of England: Rate hold baseline with conflict risks – Societe Generale</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T14:59:22.356613+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d990f56f3507",
-      "slug": "200000-fake-ai-victims-deployed-to-scam-bait-online-fraudsters-d990f56f3507",
-      "title": "200,000 fake AI ‘victims’ deployed to scam bait online fraudsters",
-      "excerpt": "200,000 fake AI ‘victims’ deployed to scam bait online fraudsters",
-      "content": "<p>200,000 fake AI ‘victims’ deployed to scam bait online fraudsters</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T14:02:58.990339+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-19T17:17:27.990672+00:00",
+  "lastUpdated": "2026-08-19T17:46:52.968368+00:00",
   "totalCount": 50,
-  "newCount": 9
+  "newCount": 8
 }
