@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:17.905837+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7b5b4cb42f2c",
+      "slug": "beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-1-billion-falco-7b5b4cb42f2c",
+      "title": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+      "excerpt": "Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility",
+      "content": "<p>Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:19.710127+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c0a66a4d8316",
+      "slug": "strengthen-the-clarity-act-c0a66a4d8316",
+      "title": "Strengthen the Clarity Act",
+      "excerpt": "Strengthen the Clarity Act",
+      "content": "<p>Strengthen the Clarity Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:21.257528+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3445c7d092b3",
+      "slug": "bitcoin-is-flashing-8-of-12-capitulation-signals-but-bottoms-not-yet-in-says-van-3445c7d092b3",
+      "title": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+      "excerpt": "Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck",
+      "content": "<p>Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:22.802746+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "323619025602",
+      "slug": "arguing-with-people-on-x-may-get-you-more-posts-you-hate-as-algo-feeds-on-rageba-323619025602",
+      "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
+      "excerpt": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
+      "content": "<p>Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:24.434060+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "954cbdab7c08",
+      "slug": "us-treasury-is-increasing-the-size-of-liquidity-support-buyback-operations-for-l-954cbdab7c08",
+      "title": "US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities",
+      "excerpt": "US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities",
+      "content": "<p>US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:26.195070+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5714478fe8e2",
+      "slug": "euro-area-inflation-confirmed-to-nudge-up-a-little-in-july-5714478fe8e2",
+      "title": "Euro area inflation confirmed to nudge up a little in July",
+      "excerpt": "Euro area inflation confirmed to nudge up a little in July",
+      "content": "<p>Euro area inflation confirmed to nudge up a little in July</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:27.738558+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eea4a5dd1770",
+      "slug": "inflation-data-the-main-focus-on-the-economic-calendar-in-europe-today-eea4a5dd1770",
+      "title": "Inflation data the main focus on the economic calendar in Europe today",
+      "excerpt": "Inflation data the main focus on the economic calendar in Europe today",
+      "content": "<p>Inflation data the main focus on the economic calendar in Europe today</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:29.284978+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9b2ac071ed7d",
+      "slug": "investinglive-asia-pacific-market-news-asian-equities-slide-kospi-circuit-breake-9b2ac071ed7d",
+      "title": "investingLive Asia-Pacific market news: Asian equities slide, KOSPI circuit breaker",
+      "excerpt": "investingLive Asia-Pacific market news: Asian equities slide, KOSPI circuit breaker",
+      "content": "<p>investingLive Asia-Pacific market news: Asian equities slide, KOSPI circuit breaker</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:30.828235+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "898d30e1dc0a",
+      "slug": "gold-climbs-over-2-as-us-treasury-buyback-plan-pressures-long-term-yields-898d30e1dc0a",
+      "title": "Gold climbs over 2% as US Treasury buyback plan pressures long-term yields",
+      "excerpt": "Gold climbs over 2% as US Treasury buyback plan pressures long-term yields",
+      "content": "<p>Gold climbs over 2% as US Treasury buyback plan pressures long-term yields</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T13:22:32.500070+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "40259971b54f",
       "slug": "centrifuge-adds-symbiotic-liquidity-network-across-16b-in-janus-henderson-nylim--40259971b54f",
       "title": "Centrifuge adds Symbiotic liquidity network across $1.6B in Janus Henderson, NYLIM funds",
@@ -719,189 +899,9 @@
       "date": "2026-08-19T10:17:46.675031+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3ef207502201",
-      "slug": "euro-extends-gains-against-british-pound-as-eurozone-inflation-accelerates-3ef207502201",
-      "title": "Euro extends gains against British Pound as Eurozone inflation accelerates",
-      "excerpt": "Euro extends gains against British Pound as Eurozone inflation accelerates",
-      "content": "<p>Euro extends gains against British Pound as Eurozone inflation accelerates</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T10:17:48.751710+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fc4e35eeadb9",
-      "slug": "silver-price-today-silver-falls-according-to-fxstreet-data-fc4e35eeadb9",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "excerpt": "Silver price today: Silver falls, according to FXStreet data",
-      "content": "<p>Silver price today: Silver falls, according to FXStreet data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T10:17:50.331847+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cda0c84ee75a",
-      "slug": "united-kingdom-upside-risks-building-for-inflation-deutsche-bank-cda0c84ee75a",
-      "title": "United Kingdom: Upside risks building for inflation – Deutsche Bank",
-      "excerpt": "United Kingdom: Upside risks building for inflation – Deutsche Bank",
-      "content": "<p>United Kingdom: Upside risks building for inflation – Deutsche Bank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T10:17:51.912188+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "384d6bb4fbe6",
-      "slug": "chinese-robotic-companys-stock-soars-over-600-in-trading-debut-384d6bb4fbe6",
-      "title": "Chinese robotic company’s stock soars over 600% in trading debut",
-      "excerpt": "Chinese robotic company’s stock soars over 600% in trading debut",
-      "content": "<p>Chinese robotic company’s stock soars over 600% in trading debut</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T10:17:53.997634+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "23e118f21480",
-      "slug": "im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-po-23e118f21480",
-      "title": "I’m my mother-in-law’s power of attorney, executor and trustee. Do I hold all the power?",
-      "excerpt": "I’m my mother-in-law’s power of attorney, executor and trustee. Do I hold all the power?",
-      "content": "<p>I’m my mother-in-law’s power of attorney, executor and trustee. Do I hold all the power?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T10:17:55.577654+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "851db3272ec6",
-      "slug": "sec-proposes-new-crypto-rules-in-absence-of-clarity-act-851db3272ec6",
-      "title": "SEC proposes new crypto rules in absence of CLARITY Act",
-      "excerpt": "SEC proposes new crypto rules in absence of CLARITY Act",
-      "content": "<p>SEC proposes new crypto rules in absence of CLARITY Act</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T09:55:17.182941+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3fd6f1895484",
-      "slug": "openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training-3fd6f1895484",
-      "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
-      "excerpt": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
-      "content": "<p>OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T09:55:19.335717+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9dc003c644dd",
-      "slug": "live-updates-bitcoin-remains-above-64000-as-oil-rises-and-the-kospi-tumbles-6-9dc003c644dd",
-      "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
-      "excerpt": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
-      "content": "<p>Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T09:55:20.883457+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0a2e6ce5c158",
-      "slug": "winklevoss-backed-cypherpunk-launches-worlds-largest-zcash-mining-fleet-0a2e6ce5c158",
-      "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
-      "excerpt": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
-      "content": "<p>Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T09:55:22.541979+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e99ac03a80ed",
-      "slug": "rare-books-traced-to-amazon-ai-training-facility-to-be-scanned-and-destroyed-e99ac03a80ed",
-      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
-      "excerpt": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
-      "content": "<p>Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T09:55:24.086754+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-19T12:22:05.191430+00:00",
+  "lastUpdated": "2026-08-19T13:22:34.000277+00:00",
   "totalCount": 50,
   "newCount": 10
 }
