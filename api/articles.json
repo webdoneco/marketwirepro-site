@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "uid": "712f5556a630",
+      "slug": "mayachain-halts-network-after-estimated-17m-exploit-712f5556a630",
+      "title": "MAYAChain halts network after estimated $1.7M exploit",
+      "excerpt": "MAYAChain halts network after estimated $1.7M exploit",
+      "content": "<p>MAYAChain halts network after estimated $1.7M exploit</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T05:29:53.590946+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "13967d6ce0ff",
+      "slug": "pennsylvania-cracks-down-on-ai-data-centers-as-backlash-grows-13967d6ce0ff",
+      "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+      "excerpt": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+      "content": "<p>Pennsylvania Cracks Down on AI Data Centers as Backlash Grows</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T05:29:55.712213+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4c98b8623251",
+      "slug": "mozilla-tests-an-ai-smart-window-in-firefoxbut-only-if-you-opt-in-4c98b8623251",
+      "title": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
+      "excerpt": "Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In",
+      "content": "<p>Mozilla Tests an AI 'Smart Window' in Firefox—But Only If You Opt In</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T05:29:57.269644+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "269b5f09ef9d",
+      "slug": "eurusd-price-forecast-gathers-strength-above-11550-bullish-outlook-remains-intac-269b5f09ef9d",
+      "title": "EUR/USD Price Forecast: Gathers strength above 1.1550, bullish outlook remains intact",
+      "excerpt": "EUR/USD Price Forecast: Gathers strength above 1.1550, bullish outlook remains intact",
+      "content": "<p>EUR/USD Price Forecast: Gathers strength above 1.1550, bullish outlook remains intact</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T05:29:59.187968+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "75c656d65758",
+      "slug": "we-are-committed-christians-our-son-and-daughter-in-law-cut-us-out-of-their-live-75c656d65758",
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+      "excerpt": "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
+      "content": "<p>‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T05:30:01.100430+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eb7a3067eb99",
+      "slug": "my-son-does-not-work-yet-pays-500-for-affordable-care-act-health-insurance-is-th-eb7a3067eb99",
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "excerpt": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "content": "<p>My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T05:30:02.664108+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "51fd64c88ab7",
+      "slug": "this-is-very-stressful-my-sons-roof-was-damaged-in-a-storm-but-his-insurance-won-51fd64c88ab7",
+      "title": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
+      "excerpt": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
+      "content": "<p>‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T05:30:04.223443+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eb0abc5bce8d",
+      "slug": "too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-eb0abc5bce8d",
+      "title": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
+      "excerpt": "‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?",
+      "content": "<p>‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T05:30:05.789441+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "851db3272ec6",
       "slug": "sec-proposes-new-crypto-rules-in-absence-of-clarity-act-851db3272ec6",
       "title": "SEC proposes new crypto rules in absence of CLARITY Act",
@@ -755,153 +899,9 @@
       "date": "2026-08-19T00:36:09.045845+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb905e15c180",
-      "slug": "australian-dollar-reverses-as-iran-risks-lift-usd-ahead-of-fed-minutes-eb905e15c180",
-      "title": "Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes",
-      "excerpt": "Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes",
-      "content": "<p>Australian Dollar reverses as Iran risks lift USD ahead of Fed minutes</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T00:36:10.801082+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b29840ff1e14",
-      "slug": "cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-b29840ff1e14",
-      "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
-      "excerpt": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
-      "content": "<p>Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T00:36:12.660187+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "27c8b9bee2a0",
-      "slug": "robinhood-ceo-urges-us-to-clear-path-for-tokenized-stocks-as-overseas-markets-ad-27c8b9bee2a0",
-      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-      "excerpt": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-      "content": "<p>Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T23:42:45.649658+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c6393185fbd6",
-      "slug": "wyoming-joins-15-billion-layerzero-exodus-with-state-stablecoin-move-c6393185fbd6",
-      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-      "excerpt": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
-      "content": "<p>Wyoming joins $15 billion LayerZero exodus with state stablecoin move</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T23:42:47.189725+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "233bf1611d83",
-      "slug": "canada-us-race-against-midnight-tariff-deadline-as-talks-continue-233bf1611d83",
-      "title": "Canada, US race against midnight tariff deadline as talks continue",
-      "excerpt": "Canada, US race against midnight tariff deadline as talks continue",
-      "content": "<p>Canada, US race against midnight tariff deadline as talks continue</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T23:42:49.098678+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2a01364ff9eb",
-      "slug": "canadian-dollar-extends-losses-as-us-downplays-hopes-for-trade-deal-with-canada-2a01364ff9eb",
-      "title": "Canadian dollar extends losses as US downplays hopes for trade deal with Canada",
-      "excerpt": "Canadian dollar extends losses as US downplays hopes for trade deal with Canada",
-      "content": "<p>Canadian dollar extends losses as US downplays hopes for trade deal with Canada</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T23:42:50.642691+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b3c79b5f5916",
-      "slug": "trump-carney-hold-last-minute-talks-ahead-of-new-50-tariffs-on-canadian-goods-b3c79b5f5916",
-      "title": "Trump, Carney hold last-minute talks ahead of new 50% tariffs on Canadian goods",
-      "excerpt": "Trump, Carney hold last-minute talks ahead of new 50% tariffs on Canadian goods",
-      "content": "<p>Trump, Carney hold last-minute talks ahead of new 50% tariffs on Canadian goods</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T23:42:52.547975+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5e903fa5df40",
-      "slug": "gold-steadies-below-4350-as-surging-yields-offset-support-from-fed-rate-hold-bet-5e903fa5df40",
-      "title": "Gold steadies below $4,350 as surging yields offset support from Fed rate-hold bets",
-      "excerpt": "Gold steadies below $4,350 as surging yields offset support from Fed rate-hold bets",
-      "content": "<p>Gold steadies below $4,350 as surging yields offset support from Fed rate-hold bets</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-18T23:42:54.091804+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-19T04:59:24.946518+00:00",
+  "lastUpdated": "2026-08-19T05:30:07.432179+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 8
 }
