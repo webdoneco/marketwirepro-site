@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "3b18a75f83fa",
+      "slug": "bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-76000-3b18a75f83fa",
+      "title": "Bitcoin nears key technical breakout that could propel prices to $76,000",
+      "excerpt": "Bitcoin nears key technical breakout that could propel prices to $76,000",
+      "content": "<p>Bitcoin nears key technical breakout that could propel prices to $76,000</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:25:56.001717+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "16b5026109b4",
+      "slug": "coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-abou-16b5026109b4",
+      "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
+      "excerpt": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
+      "content": "<p>Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:25:57.548931+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9a7ed1dbb775",
+      "slug": "ai-could-supercharge-crypto-but-theres-a-catch-fidelity-digital-assets-says-9a7ed1dbb775",
+      "title": "AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says",
+      "excerpt": "AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says",
+      "content": "<p>AI could supercharge crypto but there’s a catch, Fidelity Digital Assets says</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:25:59.092444+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8571b34511d0",
+      "slug": "crypto-long-short-where-defi-yield-really-comes-from-and-why-it-broke-this-sprin-8571b34511d0",
+      "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
+      "excerpt": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
+      "content": "<p>Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:26:00.638857+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b9e27440211f",
+      "slug": "kalshi-pushes-beyond-prediction-markets-with-copper-perpetual-futures-b9e27440211f",
+      "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+      "excerpt": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+      "content": "<p>Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:26:02.324447+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6e286ecd845a",
+      "slug": "trump-tells-reporters-us-and-canada-reached-a-deal-suggests-iran-negotiations-co-6e286ecd845a",
+      "title": "Trump tells reporters US and Canada reached a deal, suggests Iran negotiations continue",
+      "excerpt": "Trump tells reporters US and Canada reached a deal, suggests Iran negotiations continue",
+      "content": "<p>Trump tells reporters US and Canada reached a deal, suggests Iran negotiations continue</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:26:04.158879+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f698671c1f28",
+      "slug": "investinglive-european-session-wrap-dollar-cools-on-mixed-markets-uk-inflation-p-f698671c1f28",
+      "title": "investingLive European session wrap: Dollar cools on mixed markets, UK inflation picks up in July",
+      "excerpt": "investingLive European session wrap: Dollar cools on mixed markets, UK inflation picks up in July",
+      "content": "<p>investingLive European session wrap: Dollar cools on mixed markets, UK inflation picks up in July</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:26:05.701542+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b1c5c3b3b8a0",
+      "slug": "silver-surges-as-treasury-buyback-plan-sinks-the-us-dollar-b1c5c3b3b8a0",
+      "title": "Silver surges as Treasury buyback plan sinks the US Dollar",
+      "excerpt": "Silver surges as Treasury buyback plan sinks the US Dollar",
+      "content": "<p>Silver surges as Treasury buyback plan sinks the US Dollar</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:26:07.487357+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "97b83d971f85",
+      "slug": "usdchf-price-forecast-franc-tests-100-day-sma-as-us-dollar-tanks-97b83d971f85",
+      "title": "USD/CHF Price Forecast: Franc tests 100-day SMA as US Dollar tanks",
+      "excerpt": "USD/CHF Price Forecast: Franc tests 100-day SMA as US Dollar tanks",
+      "content": "<p>USD/CHF Price Forecast: Franc tests 100-day SMA as US Dollar tanks</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:26:09.034826+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "51fd64c88ab7",
+      "slug": "this-is-very-stressful-my-sons-roof-was-damaged-in-a-storm-but-his-insurance-won-51fd64c88ab7",
+      "title": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
+      "excerpt": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
+      "content": "<p>‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-19T19:26:10.973336+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "8f71abe6873d",
       "slug": "crypto-pac-notches-primary-wins-but-loses-2m-florida-race-8f71abe6873d",
       "title": "Crypto PAC notches primary wins, but loses $2M Florida race",
@@ -719,189 +899,9 @@
       "date": "2026-08-19T16:52:59.389386+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "afc441b32cc1",
-      "slug": "9-stocks-to-ride-the-industrial-sectors-blazing-rally-afc441b32cc1",
-      "title": "9 stocks to ride the industrial sector’s blazing rally",
-      "excerpt": "9 stocks to ride the industrial sector’s blazing rally",
-      "content": "<p>9 stocks to ride the industrial sector’s blazing rally</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:53:01.262368+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b44bfa6dd36e",
-      "slug": "were-in-our-50s-and-have-15-million-in-traditional-401ks-is-it-too-early-to-star-b44bfa6dd36e",
-      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-      "excerpt": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-      "content": "<p>We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:53:02.795026+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d09dc5fdfa84",
-      "slug": "stocks-bonds-and-gold-rally-after-treasury-indicates-it-will-buy-more-government-d09dc5fdfa84",
-      "title": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
-      "excerpt": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
-      "content": "<p>Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:53:04.326712+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb7a3067eb99",
-      "slug": "my-son-does-not-work-yet-pays-500-for-affordable-care-act-health-insurance-is-th-eb7a3067eb99",
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "excerpt": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "content": "<p>My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:53:05.859319+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5446a2b00973",
-      "slug": "i-want-to-be-a-snowbird-but-im-not-sure-my-2-million-nest-egg-can-sustain-two-ho-5446a2b00973",
-      "title": "I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes",
-      "excerpt": "I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes",
-      "content": "<p>I want to be a snowbird, but I’m not sure my $2 million nest egg can sustain two homes</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:53:07.389427+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bb0144ac7ae1",
-      "slug": "standard-chartered-analyst-eyes-100k-btc-as-us-treasury-doubles-long-end-buyback-bb0144ac7ae1",
-      "title": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-      "excerpt": "Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks",
-      "content": "<p>Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:18:18.692278+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "68e318c53aea",
-      "slug": "us-commodities-regulator-imposes-5-year-trading-ban-on-ex-alameda-ftx-execs-68e318c53aea",
-      "title": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-      "excerpt": "US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs",
-      "content": "<p>US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:18:20.230984+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7e27646f21dd",
-      "slug": "bitcoin-price-hits-11-week-high-as-us-treasury-doubles-debt-buyback-size-7e27646f21dd",
-      "title": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
-      "excerpt": "Bitcoin price hits 11-week high as US Treasury doubles debt buyback size",
-      "content": "<p>Bitcoin price hits 11-week high as US Treasury doubles debt buyback size</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:18:21.774836+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bcc092abe924",
-      "slug": "bitcoin-surges-toward-70k-as-114-billion-in-crypto-shorts-get-rekt-in-an-hour-bcc092abe924",
-      "title": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
-      "excerpt": "Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour",
-      "content": "<p>Bitcoin Surges Toward $70K as $1.14 Billion in Crypto Shorts Get Rekt in an Hour</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:18:23.762563+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e3274e4f098f",
-      "slug": "coinbase-adds-50x-crypto-perps-to-base-app-through-hyperliquid-e3274e4f098f",
-      "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
-      "excerpt": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
-      "content": "<p>Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-19T16:18:25.309752+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-19T18:59:47.829342+00:00",
+  "lastUpdated": "2026-08-19T19:26:12.473475+00:00",
   "totalCount": 50,
   "newCount": 10
 }
