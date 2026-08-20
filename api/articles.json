@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T20:16:35.269076+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3430d8b8a41c",
+      "slug": "bitcoin-miners-pour-billions-into-ai-as-capex-outpaces-revenue-15-to-1-3430d8b8a41c",
+      "title": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
+      "excerpt": "Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1",
+      "content": "<p>Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T20:16:36.815754+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "98a3dbeb4269",
+      "slug": "most-americans-say-the-trump-familys-crypto-investments-are-not-appropriate-poll-98a3dbeb4269",
+      "title": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
+      "excerpt": "Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll",
+      "content": "<p>Most Americans say the Trump family’s crypto investments are not ‘appropriate’: Poll</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T20:16:38.371320+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b05d7d560dd5",
+      "slug": "treasury-buybacks-could-set-up-bitcoins-next-move-toward-180000-says-strategist-b05d7d560dd5",
+      "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "excerpt": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "content": "<p>Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T20:16:40.463267+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a6103ff237a8",
+      "slug": "ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern-a6103ff237a8",
+      "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+      "excerpt": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+      "content": "<p>Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T20:16:42.015426+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "041323316626",
+      "slug": "mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-041323316626",
+      "title": "Mexican Peso holds firm as Banxico minutes supports the Peso",
+      "excerpt": "Mexican Peso holds firm as Banxico minutes supports the Peso",
+      "content": "<p>Mexican Peso holds firm as Banxico minutes supports the Peso</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T20:16:44.119933+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b867c5eeb1a1",
+      "slug": "sports-betting-to-build-wealth-is-becoming-the-new-american-dream-b867c5eeb1a1",
+      "title": "Sports betting to build wealth is becoming the new American dream",
+      "excerpt": "Sports betting to build wealth is becoming the new American dream",
+      "content": "<p>Sports betting to build wealth is becoming the new American dream</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T20:16:46.125719+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "61902dc7207e",
       "slug": "optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund-61902dc7207e",
       "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
@@ -773,135 +899,9 @@
       "date": "2026-08-20T16:58:26.136829+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bd3259b427f1",
-      "slug": "nearly-2000-hacked-wordpress-sites-turned-into-criminal-infrastructure-bd3259b427f1",
-      "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
-      "excerpt": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
-      "content": "<p>Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T16:58:27.759861+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2a8677e28842",
-      "slug": "investinglive-european-markets-wrap-dollar-yields-recover-some-poise-walmart-sha-2a8677e28842",
-      "title": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
-      "excerpt": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
-      "content": "<p>investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T16:58:29.649348+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1a7a57296f04",
-      "slug": "walmarts-stock-slides-as-investors-worry-that-pressure-on-consumers-is-getting-w-1a7a57296f04",
-      "title": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
-      "excerpt": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
-      "content": "<p>Walmart’s stock slides as investors worry that pressure on consumers is getting worse</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T16:58:31.756323+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f1c2d881719f",
-      "slug": "apple-has-gotten-too-predictable-can-its-next-ceo-bring-back-the-element-of-surp-f1c2d881719f",
-      "title": "Apple has gotten too predictable. Can its next CEO bring back the element of surprise?",
-      "excerpt": "Apple has gotten too predictable. Can its next CEO bring back the element of surprise?",
-      "content": "<p>Apple has gotten too predictable. Can its next CEO bring back the element of surprise?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T16:58:33.299515+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4a4efbdcb52e",
-      "slug": "ghost-offices-and-long-wait-times-social-security-workers-demand-3-billion-and-2-4a4efbdcb52e",
-      "title": "‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires",
-      "excerpt": "‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires",
-      "content": "<p>‘Ghost offices’ and long wait times: Social Security workers demand $3 billion and 20,000 hires</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T16:58:34.844798+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "117437fd2727",
-      "slug": "the-rise-in-interest-rates-hit-a-raw-nerve-at-the-white-house-bessents-plan-has--117437fd2727",
-      "title": "The rise in interest rates hit a ‘raw nerve’ at the White House. Bessent’s plan has analysts on edge.",
-      "excerpt": "The rise in interest rates hit a ‘raw nerve’ at the White House. Bessent’s plan has analysts on edge.",
-      "content": "<p>The rise in interest rates hit a ‘raw nerve’ at the White House. Bessent’s plan has analysts on edge.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T16:58:36.391496+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bcf8f7187ed7",
-      "slug": "the-biggest-loser-from-the-treasurys-latest-buyback-plan-the-us-dollar-heres-why-bcf8f7187ed7",
-      "title": "The biggest loser from the Treasury’s latest buyback plan: The U.S. dollar. Here’s why.",
-      "excerpt": "The biggest loser from the Treasury’s latest buyback plan: The U.S. dollar. Here’s why.",
-      "content": "<p>The biggest loser from the Treasury’s latest buyback plan: The U.S. dollar. Here’s why.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T16:58:37.936073+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-20T19:52:20.012551+00:00",
+  "lastUpdated": "2026-08-20T20:16:47.671983+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 7
 }
