@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "70f51824f837",
+      "slug": "south-korea-producer-prices-fall-for-first-time-in-11-months-on-cheaper-oil-that-70f51824f837",
+      "title": "South Korea producer prices fall for first time in 11 months on cheaper oil that month",
+      "excerpt": "South Korea producer prices fall for first time in 11 months on cheaper oil that month",
+      "content": "<p>South Korea producer prices fall for first time in 11 months on cheaper oil that month</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T22:15:16.591346+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "473c1ba11529",
+      "slug": "mexican-peso-holds-firm-as-banxico-minutes-support-the-peso-473c1ba11529",
+      "title": "Mexican Peso holds firm as Banxico minutes support the Peso",
+      "excerpt": "Mexican Peso holds firm as Banxico minutes support the Peso",
+      "content": "<p>Mexican Peso holds firm as Banxico minutes support the Peso</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T22:15:18.332253+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d34a69bf0e99",
       "slug": "new-zealand-dollar-holds-early-june-high-d34a69bf0e99",
       "title": "New Zealand Dollar holds early June high",
@@ -863,45 +899,9 @@
       "date": "2026-08-20T17:54:25.943796+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6dc17109ff64",
-      "slug": "iranian-hackers-tied-to-6-million-bitcoin-extortion-charged-in-massive-cyber-cam-6dc17109ff64",
-      "title": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
-      "excerpt": "Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign",
-      "content": "<p>Iranian Hackers Tied to $6 Million Bitcoin Extortion Charged in Massive Cyber Campaign</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T17:26:28.846886+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "93dda875d3a7",
-      "slug": "us-treasury-auctions-off-9-billion-of-30-year-tips-at-2973-vs-2991-wi-93dda875d3a7",
-      "title": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
-      "excerpt": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
-      "content": "<p>US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T17:26:30.684804+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-20T21:49:50.407767+00:00",
+  "lastUpdated": "2026-08-20T22:15:20.236341+00:00",
   "totalCount": 50,
   "newCount": 2
 }
