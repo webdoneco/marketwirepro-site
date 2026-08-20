@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "uid": "c1d64e095bda",
+      "slug": "us-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-f-c1d64e095bda",
+      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "excerpt": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "content": "<p>U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:07:59.145978+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9ae80123eede",
+      "slug": "cftc-chair-readies-crypto-rules-if-congress-fails-to-pass-clarity-act-9ae80123eede",
+      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "excerpt": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "content": "<p>CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:08:00.889707+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0c3704214321",
+      "slug": "alibabas-revenue-jumps-9-as-ai-cloud-growth-hits-45but-a-profit-plunge-sends-sha-0c3704214321",
+      "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
+      "excerpt": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
+      "content": "<p>Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:08:02.476611+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4a3345a57cbe",
+      "slug": "the-dollar-index-takes-its-floor-from-a-fed-non-voter-4a3345a57cbe",
+      "title": "The Dollar Index takes its floor from a Fed non-voter",
+      "excerpt": "The Dollar Index takes its floor from a Fed non-voter",
+      "content": "<p>The Dollar Index takes its floor from a Fed non-voter</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:08:04.549564+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d072cb6b00f6",
+      "slug": "indonesian-rupiah-softer-dollar-offers-limited-relief-ocbc-d072cb6b00f6",
+      "title": "Indonesian Rupiah: Softer Dollar offers limited relief – OCBC",
+      "excerpt": "Indonesian Rupiah: Softer Dollar offers limited relief – OCBC",
+      "content": "<p>Indonesian Rupiah: Softer Dollar offers limited relief – OCBC</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:08:06.113638+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "73be701e7923",
+      "slug": "singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-73be701e7923",
+      "title": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
+      "excerpt": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
+      "content": "<p>Singapore Dollar: Upside risk stays in focus against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:08:07.676507+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b5ff63c8052b",
+      "slug": "the-bond-market-is-going-to-burst-the-stock-market-bubble-b5ff63c8052b",
+      "title": "The bond market is going to burst the stock-market bubble",
+      "excerpt": "The bond market is going to burst the stock-market bubble",
+      "content": "<p>The bond market is going to burst the stock-market bubble</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:08:09.842559+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9d0946b852e9",
+      "slug": "modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but--9d0946b852e9",
+      "title": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped",
+      "excerpt": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped",
+      "content": "<p>Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:08:11.397204+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "48feb3cff364",
+      "slug": "neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-48feb3cff364",
+      "title": "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
+      "excerpt": "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
+      "content": "<p>Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-20T19:08:13.008213+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "f69ca29be283",
       "slug": "mica-cracks-down-on-usdt-in-europe-but-no-one-else-cares-f69ca29be283",
       "title": "MiCA cracks down on USDT in Europe... but no one else cares",
@@ -737,171 +899,9 @@
       "date": "2026-08-20T16:21:57.752890+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "61902dc7207e",
-      "slug": "optimism-moves-5469m-op-from-future-airdrops-to-ecosystem-growth-fund-61902dc7207e",
-      "title": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-      "excerpt": "Optimism moves 546.9M OP from future airdrops to ecosystem growth fund",
-      "content": "<p>Optimism moves 546.9M OP from future airdrops to ecosystem growth fund</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:19.344217+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "81491e5ee45b",
-      "slug": "bitcoin-price-reaches-725k-as-us-issues-economic-d-day-threat-to-iran-81491e5ee45b",
-      "title": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
-      "excerpt": "Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran",
-      "content": "<p>Bitcoin price reaches $72.5K as US issues ‘Economic D-Day’ threat to Iran</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:20.879375+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a2789dd4ce64",
-      "slug": "bitcoins-jump-above-71000-sets-up-bullish-golden-cross-pattern-a2789dd4ce64",
-      "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-      "excerpt": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-      "content": "<p>Bitcoin's jump above $71,000 sets up bullish golden cross pattern</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:22.879261+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98a6e32dbe01",
-      "slug": "crypto-for-advisors-what-are-tokenized-deposits-98a6e32dbe01",
-      "title": "Crypto for Advisors: What are tokenized deposits?",
-      "excerpt": "Crypto for Advisors: What are tokenized deposits?",
-      "content": "<p>Crypto for Advisors: What are tokenized deposits?</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:24.411706+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e1a157a4a7a4",
-      "slug": "us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-tha-e1a157a4a7a4",
-      "title": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
-      "excerpt": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
-      "content": "<p>US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:26.301662+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6b794211a7ca",
-      "slug": "feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-6b794211a7ca",
-      "title": "Fed's Musalem: Hiking rates now could save more aggressive action later",
-      "excerpt": "Fed's Musalem: Hiking rates now could save more aggressive action later",
-      "content": "<p>Fed's Musalem: Hiking rates now could save more aggressive action later</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:27.978454+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "227da8d986ae",
-      "slug": "us-dollar-debasement-worries-weigh-after-buyback-scotiabank-227da8d986ae",
-      "title": "US Dollar: Debasement worries weigh after buyback – Scotiabank",
-      "excerpt": "US Dollar: Debasement worries weigh after buyback – Scotiabank",
-      "content": "<p>US Dollar: Debasement worries weigh after buyback – Scotiabank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:29.515731+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7f1166f7ab3e",
-      "slug": "usdchf-price-forecast-attempts-to-reclaim-08000-after-defending-the-100-day-sma-7f1166f7ab3e",
-      "title": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
-      "excerpt": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
-      "content": "<p>USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:31.045293+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "23d9d8a0eaf5",
-      "slug": "bessent-wants-bigger-bond-buybacks-but-markets-barely-blink-23d9d8a0eaf5",
-      "title": "Bessent wants bigger bond buybacks, but markets barely blink",
-      "excerpt": "Bessent wants bigger bond buybacks, but markets barely blink",
-      "content": "<p>Bessent wants bigger bond buybacks, but markets barely blink</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T15:55:32.584643+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-20T18:21:55.141838+00:00",
+  "lastUpdated": "2026-08-20T19:08:14.633441+00:00",
   "totalCount": 50,
-  "newCount": 5
+  "newCount": 9
 }
