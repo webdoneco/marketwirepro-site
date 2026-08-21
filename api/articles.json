@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "uid": "08f34e2986ad",
+      "slug": "solana-cuts-blockchain-slot-time-to-350-milliseconds-08f34e2986ad",
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "excerpt": "Solana cuts blockchain slot time to 350 milliseconds",
+      "content": "<p>Solana cuts blockchain slot time to 350 milliseconds</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T18:20:53.394657+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ea8779d6f472",
+      "slug": "washington-goes-all-in-on-crypto-trump-pushes-clarity-sec-rules-and-cftc-warning-ea8779d6f472",
+      "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
+      "excerpt": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
+      "content": "<p>Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T18:20:55.234744+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "551c2b0c0067",
+      "slug": "eu-consumer-confidence--155-versus--163-expected-551c2b0c0067",
+      "title": "EU consumer confidence -15.5 versus -16.3 expected",
+      "excerpt": "EU consumer confidence -15.5 versus -16.3 expected",
+      "content": "<p>EU consumer confidence -15.5 versus -16.3 expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T18:20:56.936359+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3a47a423e2fd",
+      "slug": "silver-price-forecast-xag-bulls-test-70-as-rally-extends-3a47a423e2fd",
+      "title": "Silver Price Forecast: XAG bulls test $70 as rally extends",
+      "excerpt": "Silver Price Forecast: XAG bulls test $70 as rally extends",
+      "content": "<p>Silver Price Forecast: XAG bulls test $70 as rally extends</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T18:20:58.552460+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ccd7a4c070ef",
+      "slug": "gold-hits-three-month-peak-above-4600-as-middle-east-risks-fuel-rally-ccd7a4c070ef",
+      "title": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally",
+      "excerpt": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally",
+      "content": "<p>Gold hits three-month peak above $4,600 as Middle East risks fuel rally</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T18:21:00.084237+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fc9330b90de8",
+      "slug": "the-treasury-the-fed-and-the-threat-to-your-money-fc9330b90de8",
+      "title": "The Treasury, the Fed and the threat to your money",
+      "excerpt": "The Treasury, the Fed and the threat to your money",
+      "content": "<p>The Treasury, the Fed and the threat to your money</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T18:21:01.989868+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eb7a3067eb99",
+      "slug": "my-son-does-not-work-yet-pays-500-for-affordable-care-act-health-insurance-is-th-eb7a3067eb99",
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "excerpt": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "content": "<p>My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T18:21:03.529601+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "26f8f36d1391",
       "slug": "laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years-26f8f36d1391",
       "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
@@ -773,135 +899,9 @@
       "date": "2026-08-21T15:35:51.333038+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e8183f5f4ae7",
-      "slug": "social-security-union-says-it-needs-3-billion-and-another-20000-workers-to-fix-l-e8183f5f4ae7",
-      "title": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’",
-      "excerpt": "Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’",
-      "content": "<p>Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T15:35:52.878579+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "95d78568232c",
-      "slug": "i-hold-my-mother-in-laws-power-of-attorney-im-also-her-executor-and-trustee-do-i-95d78568232c",
-      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "excerpt": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "content": "<p>I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T15:35:54.421371+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6894ca19990f",
-      "slug": "coldcard-strengthens-seed-generation-with-firmware-update-6894ca19990f",
-      "title": "Coldcard strengthens seed generation with firmware update",
-      "excerpt": "Coldcard strengthens seed generation with firmware update",
-      "content": "<p>Coldcard strengthens seed generation with firmware update</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T15:00:06.755338+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb8dd64eec50",
-      "slug": "bitcoin-tops-77000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride-eb8dd64eec50",
-      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "excerpt": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "content": "<p>Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T15:00:08.764391+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bb5726694cff",
-      "slug": "bitcoin-climbs-higher-as-12-billion-in-shorts-liquidated-bb5726694cff",
-      "title": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
-      "excerpt": "Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated",
-      "content": "<p>Bitcoin Climbs Higher as $1.2 Billion in Shorts Liquidated</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T15:00:10.497786+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c7ee7e5761ff",
-      "slug": "morning-minute-cftc-will-give-crypto-clarity-if-congress-wont-c7ee7e5761ff",
-      "title": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
-      "excerpt": "Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t",
-      "content": "<p>Morning Minute: CFTC Will Give Crypto Clarity If Congress Won’t</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T15:00:12.046904+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "160d7d8593a4",
-      "slug": "tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc-160d7d8593a4",
-      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "excerpt": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "content": "<p>Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T15:00:13.599532+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-21T17:53:05.488895+00:00",
+  "lastUpdated": "2026-08-21T18:21:05.131644+00:00",
   "totalCount": 50,
   "newCount": 7
 }
