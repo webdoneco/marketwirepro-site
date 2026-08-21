@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "uid": "5bbb3a36f4f2",
+      "slug": "ray-dalio-says-to-buy-a-bit-of-bitcoin-amid-potential-debt-crisis-5bbb3a36f4f2",
+      "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+      "excerpt": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+      "content": "<p>Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T20:13:13.757542+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6903887910a3",
+      "slug": "onchain-in-court-what-happened-in-crypto-legal-news-this-week-6903887910a3",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "excerpt": "Onchain, in court: What happened in crypto legal news this week",
+      "content": "<p>Onchain, in court: What happened in crypto legal news this week</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T20:13:15.344810+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5c273c0a0274",
+      "slug": "bitcoin-seeks-support-near-77k-as-btc-gold-near-100-day-highs-5c273c0a0274",
+      "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+      "excerpt": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+      "content": "<p>Bitcoin seeks support near $77K as BTC, gold near 100-day highs</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T20:13:16.934264+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b48bcd71e2e8",
+      "slug": "wall-street-and-washington-fuel-bitcoin-rally-heres-whats-going-on-b48bcd71e2e8",
+      "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
+      "excerpt": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
+      "content": "<p>Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T20:13:19.167641+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "48067e3730be",
+      "slug": "investinglive-european-markets-wrap-gold-runs-higher-dollar-stays-under-pressure-48067e3730be",
+      "title": "investingLive European markets wrap: Gold runs higher, dollar stays under pressure",
+      "excerpt": "investingLive European markets wrap: Gold runs higher, dollar stays under pressure",
+      "content": "<p>investingLive European markets wrap: Gold runs higher, dollar stays under pressure</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T20:13:21.041061+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "83b256c521dc",
+      "slug": "i-plan-to-leave-money-to-grandkids-but-they-must-pass-financial-literacy-classes-83b256c521dc",
+      "title": "I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?",
+      "excerpt": "I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?",
+      "content": "<p>I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T20:13:23.354538+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b867c5eeb1a1",
+      "slug": "sports-betting-to-build-wealth-is-becoming-the-new-american-dream-b867c5eeb1a1",
+      "title": "Sports betting to build wealth is becoming the new American dream",
+      "excerpt": "Sports betting to build wealth is becoming the new American dream",
+      "content": "<p>Sports betting to build wealth is becoming the new American dream</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T20:13:24.940901+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "941d2b8255c6",
       "slug": "trump-gets-rid-of-264-tariffs-on-imported-beef-and-prices-will-come-down-by-25-941d2b8255c6",
       "title": "Trump: Gets rid of 26.4% tariffs on imported beef and prices will come down by 25%",
@@ -773,135 +899,9 @@
       "date": "2026-08-21T16:58:15.580500+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7af7b61f7e84",
-      "slug": "bitcoin-rally-sends-crypto-stocks-soaring-as-miners-treasury-companies-jump-7af7b61f7e84",
-      "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-      "excerpt": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
-      "content": "<p>Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T16:19:10.520191+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5dce7b0857d3",
-      "slug": "crypto-biz-treasurys-not-qe-playbook-sends-bitcoin-higher-5dce7b0857d3",
-      "title": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
-      "excerpt": "Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher",
-      "content": "<p>Crypto Biz: Treasury’s ‘Not-QE’ playbook sends Bitcoin higher</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T16:19:12.052286+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2e8adabed913",
-      "slug": "ethenas-ena-token-surges-48-but-altcoin-season-will-have-to-wait-2e8adabed913",
-      "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "excerpt": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "content": "<p>Ethena's ENA token surges 48%, but altcoin season will have to wait</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T16:19:13.816284+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6e4bc9d650e6",
-      "slug": "the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill-6e4bc9d650e6",
-      "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
-      "excerpt": "The hard truth is that the Clarity Act is an anti-crypto bill",
-      "content": "<p>The hard truth is that the Clarity Act is an anti-crypto bill</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T16:19:15.346748+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "529c6ef9fd78",
-      "slug": "bitcoin-faces-80000-test-as-thinner-weekend-liquidity-looms-529c6ef9fd78",
-      "title": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-      "excerpt": "Bitcoin faces $80,000 test as thinner weekend liquidity looms",
-      "content": "<p>Bitcoin faces $80,000 test as thinner weekend liquidity looms</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T16:19:16.882679+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "629f19ef97f7",
-      "slug": "xrp-erases-its-most-bearish-signaland-the-ripple-linked-coin-is-flying-629f19ef97f7",
-      "title": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
-      "excerpt": "XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying",
-      "content": "<p>XRP Erases Its Most Bearish Signal—And the Ripple-Linked Coin Is Flying</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T16:19:18.465408+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f4c75d2f5391",
-      "slug": "most-americans-say-trumps-crypto-profits-cross-the-line-poll-f4c75d2f5391",
-      "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
-      "excerpt": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
-      "content": "<p>Most Americans Say Trump's Crypto Profits Cross the Line: Poll</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T16:19:19.998911+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-21T19:44:24.340431+00:00",
+  "lastUpdated": "2026-08-21T20:13:26.572479+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 7
 }
