@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "ab6a3cdb9354",
+      "slug": "bitcoin-etfs-draw-608m-as-ether-etfs-see-largest-inflow-since-october-ab6a3cdb9354",
+      "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
+      "excerpt": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
+      "content": "<p>Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:28.545266+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "18750309af65",
+      "slug": "live-updates-btc-tops-76000-bitcoin-ether-etfs-pull-in-800-million-18750309af65",
+      "title": "Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million",
+      "excerpt": "Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million",
+      "content": "<p>Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:30.669106+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0d1012b3eb92",
+      "slug": "bitcoin-pushes-past-75000-as-rally-continues-0d1012b3eb92",
+      "title": "Bitcoin pushes past $75,000 as rally continues.",
+      "excerpt": "Bitcoin pushes past $75,000 as rally continues.",
+      "content": "<p>Bitcoin pushes past $75,000 as rally continues.</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:32.208925+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7230add3d7a1",
+      "slug": "a-2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge-7230add3d7a1",
+      "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+      "excerpt": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+      "content": "<p>A $2 million bet on XRP volatility crosses the tape as prices surge</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:33.754857+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9ae80123eede",
+      "slug": "cftc-chair-readies-crypto-rules-if-congress-fails-to-pass-clarity-act-9ae80123eede",
+      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "excerpt": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "content": "<p>CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:35.387136+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "70d175cb7a9f",
+      "slug": "eurozone-august-flash-services-pmi-517-vs-515-expected-70d175cb7a9f",
+      "title": "Eurozone August flash services PMI 51.7 vs 51.5 expected",
+      "excerpt": "Eurozone August flash services PMI 51.7 vs 51.5 expected",
+      "content": "<p>Eurozone August flash services PMI 51.7 vs 51.5 expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:37.238951+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "da08fc6b6208",
+      "slug": "germany-august-flash-manufacturing-pmi-541-vs-520-expected-da08fc6b6208",
+      "title": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
+      "excerpt": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
+      "content": "<p>Germany August flash manufacturing PMI 54.1 vs 52.0 expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:38.783521+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "784a75cd4ae7",
+      "slug": "french-business-activity-contracts-further-in-august-as-demand-conditions-remain-784a75cd4ae7",
+      "title": "French business activity contracts further in August as demand conditions remain subdued",
+      "excerpt": "French business activity contracts further in August as demand conditions remain subdued",
+      "content": "<p>French business activity contracts further in August as demand conditions remain subdued</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:40.323222+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b93427403b44",
+      "slug": "eurozone-flash-manufacturing-pmi-rises-unexpectedly-faster-than-estimates-to-528-b93427403b44",
+      "title": "Eurozone flash Manufacturing PMI rises unexpectedly faster-than-estimates to 52.8 in August",
+      "excerpt": "Eurozone flash Manufacturing PMI rises unexpectedly faster-than-estimates to 52.8 in August",
+      "content": "<p>Eurozone flash Manufacturing PMI rises unexpectedly faster-than-estimates to 52.8 in August</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:42.194062+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cdfe86e4041f",
+      "slug": "swiss-franc-funding-role-grows-as-volatility-stays-low-ing-cdfe86e4041f",
+      "title": "Swiss Franc: Funding role grows as volatility stays low – ING",
+      "excerpt": "Swiss Franc: Funding role grows as volatility stays low – ING",
+      "content": "<p>Swiss Franc: Funding role grows as volatility stays low – ING</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T08:02:43.736655+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "97fae64d3318",
       "slug": "live-updates-bitcoin-ether-etfs-pull-in-800-million-as-inflows-surge-for-a-secon-97fae64d3318",
       "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
@@ -719,189 +899,9 @@
       "date": "2026-08-21T05:01:01.398552+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "526eafb7a7a6",
-      "slug": "capitalcom-plans-uae-spot-crypto-services-after-affiliate-wins-licence-526eafb7a7a6",
-      "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
-      "excerpt": "Capital.com plans UAE spot crypto services after affiliate wins licence",
-      "content": "<p>Capital.com plans UAE spot crypto services after affiliate wins licence</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T04:07:52.630734+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T04:07:54.170603+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b05d7d560dd5",
-      "slug": "treasury-buybacks-could-set-up-bitcoins-next-move-toward-180000-says-strategist-b05d7d560dd5",
-      "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
-      "excerpt": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
-      "content": "<p>Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T04:07:56.081261+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c1877ec8d40a",
-      "slug": "whats-next-for-bitcoin-after-historic-rally-experts-weigh-in-c1877ec8d40a",
-      "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
-      "excerpt": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
-      "content": "<p>What's Next for Bitcoin After Historic Rally? Experts Weigh In</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T04:07:57.711909+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4753ecea0f6e",
-      "slug": "investinglive-asia-pacific-market-news-surge-for-crypto-4753ecea0f6e",
-      "title": "investingLive Asia-Pacific market news: Surge for crypto",
-      "excerpt": "investingLive Asia-Pacific market news: Surge for crypto",
-      "content": "<p>investingLive Asia-Pacific market news: Surge for crypto</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T04:07:59.539719+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9bb278c62d78",
-      "slug": "gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike--9bb278c62d78",
-      "title": "Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets",
-      "excerpt": "Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets",
-      "content": "<p>Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T04:08:01.538778+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b867c5eeb1a1",
-      "slug": "sports-betting-to-build-wealth-is-becoming-the-new-american-dream-b867c5eeb1a1",
-      "title": "Sports betting to build wealth is becoming the new American dream",
-      "excerpt": "Sports betting to build wealth is becoming the new American dream",
-      "content": "<p>Sports betting to build wealth is becoming the new American dream</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T04:08:03.536375+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a2789dd4ce64",
-      "slug": "bitcoins-jump-above-71000-sets-up-bullish-golden-cross-pattern-a2789dd4ce64",
-      "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-      "excerpt": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-      "content": "<p>Bitcoin's jump above $71,000 sets up bullish golden cross pattern</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T03:27:01.277705+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98a6e32dbe01",
-      "slug": "crypto-for-advisors-what-are-tokenized-deposits-98a6e32dbe01",
-      "title": "Crypto for Advisors: What are tokenized deposits?",
-      "excerpt": "Crypto for Advisors: What are tokenized deposits?",
-      "content": "<p>Crypto for Advisors: What are tokenized deposits?</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T03:27:02.831022+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "347921a4621b",
-      "slug": "bitcoin-is-pumping-but-prediction-market-traders-arent-convinced-347921a4621b",
-      "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
-      "excerpt": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
-      "content": "<p>Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T03:27:04.501220+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-21T07:15:20.340107+00:00",
+  "lastUpdated": "2026-08-21T08:02:45.236804+00:00",
   "totalCount": 50,
   "newCount": 10
 }
