@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "550cd9060850",
+      "slug": "treasurys-latest-measure-isnt-qe-or-ycc-still-bitcoin-is-skyrocketing-heres-why-550cd9060850",
+      "title": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
+      "excerpt": "Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.",
+      "content": "<p>Treasury's latest measure isn't QE or YCC. Still, bitcoin is skyrocketing. Here's why.</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:37.022806+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "230c66dc781f",
+      "slug": "live-updates-bitcoin-tops-79500-btc-eth-record-800-million-inflows-230c66dc781f",
+      "title": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
+      "excerpt": "Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows",
+      "content": "<p>Live updates: Bitcoin tops $79,500; BTC, ETH record $800 million inflows</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:38.553457+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8ef783a8b33e",
+      "slug": "bitcoin-ether-and-solana-climb-as-another-1-billion-shorts-get-wiped-out-8ef783a8b33e",
+      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "excerpt": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "content": "<p>Bitcoin, ether and solana climb as another $1 billion shorts get wiped out</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:40.084917+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bc54f6b4a3d9",
+      "slug": "binance-opens-the-door-to-ai-agents-that-can-trade-crypto-for-you-bc54f6b4a3d9",
+      "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+      "excerpt": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+      "content": "<p>Binance Opens the Door to AI Agents That Can Trade Crypto for You</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:41.667368+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3e91449cd606",
+      "slug": "united-kingdom-burnham-sentiment-bounce-deutsche-bank-3e91449cd606",
+      "title": "United Kingdom: Burnham sentiment bounce – Deutsche Bank",
+      "excerpt": "United Kingdom: Burnham sentiment bounce – Deutsche Bank",
+      "content": "<p>United Kingdom: Burnham sentiment bounce – Deutsche Bank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:44.029679+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c9265671ab0e",
+      "slug": "sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-c9265671ab0e",
+      "title": "S&P Global US PMIs expected to ease slightly in August, still showing solid growth",
+      "excerpt": "S&P Global US PMIs expected to ease slightly in August, still showing solid growth",
+      "content": "<p>S&P Global US PMIs expected to ease slightly in August, still showing solid growth</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:45.563253+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3dbfe654b50e",
+      "slug": "united-states-yields-risk-renewed-surge-rabobank-3dbfe654b50e",
+      "title": "United States: Yields risk renewed surge – Rabobank",
+      "excerpt": "United States: Yields risk renewed surge – Rabobank",
+      "content": "<p>United States: Yields risk renewed surge – Rabobank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:47.096943+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "91363492e7eb",
+      "slug": "13670-british-pound-hits-six-month-highs-as-uk-pmi-beats-expectations-91363492e7eb",
+      "title": "1.3670: British Pound hits six-month highs as UK PMI beats expectations",
+      "excerpt": "1.3670: British Pound hits six-month highs as UK PMI beats expectations",
+      "content": "<p>1.3670: British Pound hits six-month highs as UK PMI beats expectations</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:48.629237+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a1a1ebaaf82e",
+      "slug": "silver-price-today-silver-rises-according-to-fxstreet-data-a1a1ebaaf82e",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "excerpt": "Silver price today: Silver rises, according to FXStreet data",
+      "content": "<p>Silver price today: Silver rises, according to FXStreet data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:50.159744+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a9c7fb8f3d48",
+      "slug": "indian-rupee-remains-under-pressure-amid-higher-oil-prices-a9c7fb8f3d48",
+      "title": "Indian Rupee remains under pressure amid higher oil prices",
+      "excerpt": "Indian Rupee remains under pressure amid higher oil prices",
+      "content": "<p>Indian Rupee remains under pressure amid higher oil prices</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T09:57:51.691885+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "985975c976fc",
       "slug": "strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k-985975c976fc",
       "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
@@ -719,189 +899,9 @@
       "date": "2026-08-21T06:25:58.942714+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e754d57cf51e",
-      "slug": "south-korean-lawmakers-seek-expanded-fiu-powers-over-unregistered-crypto-firms-e754d57cf51e",
-      "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-      "excerpt": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-      "content": "<p>South Korean lawmakers seek expanded FIU powers over unregistered crypto firms</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:12.174045+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "33787619128a",
-      "slug": "mantra-token-sinks-18-to-record-low-amid-blockchain-halt-33787619128a",
-      "title": "MANTRA token sinks 18% to record low amid blockchain halt",
-      "excerpt": "MANTRA token sinks 18% to record low amid blockchain halt",
-      "content": "<p>MANTRA token sinks 18% to record low amid blockchain halt</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:13.718252+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "02bee3f779fe",
-      "slug": "mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit-02bee3f779fe",
-      "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-      "excerpt": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-      "content": "<p>MANTRA token plunges 18% to record low as blockchain halts after exploit</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:15.765086+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "465c55814f1f",
-      "slug": "ripple-backs-an-rlusd-credit-fund-amid-xrps-best-week-in-months-465c55814f1f",
-      "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-      "excerpt": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-      "content": "<p>Ripple backs an RLUSD credit fund amid XRP's best week in months</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:17.312631+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "160d7d8593a4",
-      "slug": "tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc-160d7d8593a4",
-      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "excerpt": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "content": "<p>Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:18.952814+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2c3057f255f1",
-      "slug": "us-yields-push-back-up-looks-to-challenge-bessent-put-2c3057f255f1",
-      "title": "US yields push back up, looks to challenge \"Bessent put\"",
-      "excerpt": "US yields push back up, looks to challenge \"Bessent put\"",
-      "content": "<p>US yields push back up, looks to challenge \"Bessent put\"</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:20.863541+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "42e60f2d00c7",
-      "slug": "indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-42e60f2d00c7",
-      "title": "Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields",
-      "excerpt": "Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields",
-      "content": "<p>Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:22.792440+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6aa346e574cf",
-      "slug": "529-indias-hsbc-manufacturing-pmi-falls-in-august-6aa346e574cf",
-      "title": "52.9: India's HSBC Manufacturing PMI falls in August",
-      "excerpt": "52.9: India's HSBC Manufacturing PMI falls in August",
-      "content": "<p>52.9: India's HSBC Manufacturing PMI falls in August</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:24.333214+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e1f92fd24f51",
-      "slug": "indonesian-rupiah-advances-despite-record-current-account-deficit-e1f92fd24f51",
-      "title": "Indonesian Rupiah advances despite record Current Account Deficit",
-      "excerpt": "Indonesian Rupiah advances despite record Current Account Deficit",
-      "content": "<p>Indonesian Rupiah advances despite record Current Account Deficit</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:25.872815+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "95d78568232c",
-      "slug": "i-hold-my-mother-in-laws-power-of-attorney-im-also-her-executor-and-trustee-do-i-95d78568232c",
-      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "excerpt": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "content": "<p>I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T05:54:27.806976+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-21T09:05:27.975851+00:00",
+  "lastUpdated": "2026-08-21T09:57:53.192052+00:00",
   "totalCount": 50,
   "newCount": 10
 }
