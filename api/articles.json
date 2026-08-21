@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "08f34e2986ad",
+      "slug": "solana-cuts-blockchain-slot-time-to-350-milliseconds-08f34e2986ad",
+      "title": "Solana cuts blockchain slot time to 350 milliseconds",
+      "excerpt": "Solana cuts blockchain slot time to 350 milliseconds",
+      "content": "<p>Solana cuts blockchain slot time to 350 milliseconds</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:03.953007+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bc54f6b4a3d9",
+      "slug": "binance-opens-the-door-to-ai-agents-that-can-trade-crypto-for-you-bc54f6b4a3d9",
+      "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+      "excerpt": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+      "content": "<p>Binance Opens the Door to AI Agents That Can Trade Crypto for You</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:06.043495+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "43e29e5c45ae",
+      "slug": "sp-global-manufacturing-pmi-flash-estimate-for-august-532-versus-539-estimate-43e29e5c45ae",
+      "title": "S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate",
+      "excerpt": "S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate",
+      "content": "<p>S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:07.702751+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dc55fe12fa45",
+      "slug": "japanese-yen-soft-dollar-and-boj-outlook-shift-near-term-tone-scotiabank-dc55fe12fa45",
+      "title": "Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank",
+      "excerpt": "Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank",
+      "content": "<p>Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:10.595837+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1d397e78b522",
+      "slug": "breaking-sp-global-composite-pmi-is-seen-at-56-in-august-1d397e78b522",
+      "title": "Breaking: S&P Global Composite PMI is seen at 56 in August",
+      "excerpt": "Breaking: S&P Global Composite PMI is seen at 56 in August",
+      "content": "<p>Breaking: S&P Global Composite PMI is seen at 56 in August</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:12.142478+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0566ec5e800a",
+      "slug": "gold-upside-asymmetry-into-next-week-td-securities-0566ec5e800a",
+      "title": "Gold: Upside asymmetry into next week – TD Securities",
+      "excerpt": "Gold: Upside asymmetry into next week – TD Securities",
+      "content": "<p>Gold: Upside asymmetry into next week – TD Securities</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:13.688732+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1b467f1e03a8",
+      "slug": "british-pound-mixed-data-but-sterling-supported-bbh-1b467f1e03a8",
+      "title": "British Pound: Mixed data but Sterling supported – BBH",
+      "excerpt": "British Pound: Mixed data but Sterling supported – BBH",
+      "content": "<p>British Pound: Mixed data but Sterling supported – BBH</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:15.238722+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "949cc15e38f5",
+      "slug": "canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiab-949cc15e38f5",
+      "title": "Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank",
+      "excerpt": "Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank",
+      "content": "<p>Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:16.791970+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cbb517e098cc",
+      "slug": "there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-he-cbb517e098cc",
+      "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "excerpt": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "content": "<p>‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:18.683119+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1bff6f286301",
+      "slug": "nvidia-earnings-could-rescue-a-stalled-out-stock-market-if-the-ai-chip-maker-bre-1bff6f286301",
+      "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
+      "excerpt": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
+      "content": "<p>Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T14:04:20.228674+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "26f8f36d1391",
       "slug": "laser-digital-gets-japans-first-crypto-exchange-approval-in-4-years-26f8f36d1391",
       "title": "Laser Digital gets Japan’s first crypto exchange approval in 4 years",
@@ -719,189 +899,9 @@
       "date": "2026-08-21T10:55:04.290462+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb7a3067eb99",
-      "slug": "my-son-does-not-work-yet-pays-500-for-affordable-care-act-health-insurance-is-th-eb7a3067eb99",
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "excerpt": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "content": "<p>My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:55:05.834607+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "95d78568232c",
-      "slug": "i-hold-my-mother-in-laws-power-of-attorney-im-also-her-executor-and-trustee-do-i-95d78568232c",
-      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "excerpt": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "content": "<p>I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:55:07.376565+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "19fb84e54447",
-      "slug": "our-4-year-old-son-has-100000-in-his-529-account-is-a-bull-market-a-bad-time-to--19fb84e54447",
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "excerpt": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "content": "<p>Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:55:08.919996+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6894ca19990f",
-      "slug": "coldcard-strengthens-seed-generation-with-firmware-update-6894ca19990f",
-      "title": "Coldcard strengthens seed generation with firmware update",
-      "excerpt": "Coldcard strengthens seed generation with firmware update",
-      "content": "<p>Coldcard strengthens seed generation with firmware update</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:24:53.663260+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e754d57cf51e",
-      "slug": "south-korean-lawmakers-seek-expanded-fiu-powers-over-unregistered-crypto-firms-e754d57cf51e",
-      "title": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-      "excerpt": "South Korean lawmakers seek expanded FIU powers over unregistered crypto firms",
-      "content": "<p>South Korean lawmakers seek expanded FIU powers over unregistered crypto firms</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:24:55.235721+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "33787619128a",
-      "slug": "mantra-token-sinks-18-to-record-low-amid-blockchain-halt-33787619128a",
-      "title": "MANTRA token sinks 18% to record low amid blockchain halt",
-      "excerpt": "MANTRA token sinks 18% to record low amid blockchain halt",
-      "content": "<p>MANTRA token sinks 18% to record low amid blockchain halt</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:24:56.781205+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb8dd64eec50",
-      "slug": "bitcoin-tops-77000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride-eb8dd64eec50",
-      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "excerpt": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "content": "<p>Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:24:58.728261+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "02bee3f779fe",
-      "slug": "mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit-02bee3f779fe",
-      "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-      "excerpt": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-      "content": "<p>MANTRA token plunges 18% to record low as blockchain halts after exploit</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:25:00.275967+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "465c55814f1f",
-      "slug": "ripple-backs-an-rlusd-credit-fund-amid-xrps-best-week-in-months-465c55814f1f",
-      "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-      "excerpt": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-      "content": "<p>Ripple backs an RLUSD credit fund amid XRP's best week in months</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:25:01.823733+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "160d7d8593a4",
-      "slug": "tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc-160d7d8593a4",
-      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "excerpt": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "content": "<p>Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T10:25:03.483167+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-21T13:24:04.915671+00:00",
+  "lastUpdated": "2026-08-21T14:04:21.728817+00:00",
   "totalCount": 50,
   "newCount": 10
 }
