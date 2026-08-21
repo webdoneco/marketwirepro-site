@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "0c3704214321",
+      "slug": "alibabas-revenue-jumps-9-as-ai-cloud-growth-hits-45but-a-profit-plunge-sends-sha-0c3704214321",
+      "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
+      "excerpt": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower",
+      "content": "<p>Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%—But a Profit Plunge Sends Shares Lower</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T00:37:49.680400+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8010c76b852e",
+      "slug": "bessent-says-us-unlikely-to-resume-large-scale-iran-combat-steps-up-economic-pre-8010c76b852e",
+      "title": "Bessent says US unlikely to resume large-scale Iran combat, steps up economic pressure",
+      "excerpt": "Bessent says US unlikely to resume large-scale Iran combat, steps up economic pressure",
+      "content": "<p>Bessent says US unlikely to resume large-scale Iran combat, steps up economic pressure</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T00:37:51.533771+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "9ecb56040229",
       "slug": "us-debt-tops-40t-stoking-debate-on-what-it-means-for-bitcoin-9ecb56040229",
       "title": "US debt tops $40T stoking debate on what it means for Bitcoin",
@@ -863,45 +899,9 @@
       "date": "2026-08-20T19:52:18.512363+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c1d64e095bda",
-      "slug": "us-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-f-c1d64e095bda",
-      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-      "excerpt": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-      "content": "<p>U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T19:07:59.145978+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9ae80123eede",
-      "slug": "cftc-chair-readies-crypto-rules-if-congress-fails-to-pass-clarity-act-9ae80123eede",
-      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
-      "excerpt": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
-      "content": "<p>CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T19:08:00.889707+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-20T23:46:40.661094+00:00",
+  "lastUpdated": "2026-08-21T00:37:53.296060+00:00",
   "totalCount": 50,
-  "newCount": 7
+  "newCount": 2
 }
