@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "8ca5a173ac0b",
+      "slug": "crypto-advocates-join-in-suing-illinois-over-digital-asset-tax-8ca5a173ac0b",
+      "title": "Crypto advocates join in suing Illinois over digital asset tax",
+      "excerpt": "Crypto advocates join in suing Illinois over digital asset tax",
+      "content": "<p>Crypto advocates join in suing Illinois over digital asset tax</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T22:12:14.866273+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "a21be2e49c51",
       "slug": "coldcard-adds-new-security-measures-after-130-million-bitcoin-exploit-a21be2e49c51",
       "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
@@ -881,27 +899,9 @@
       "date": "2026-08-21T17:52:57.156990+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a9ec1e7d45a3",
-      "slug": "eurusd-price-forecast-bulls-test-11700-as-rsi-turns-overbought-a9ec1e7d45a3",
-      "title": "EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought",
-      "excerpt": "EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought",
-      "content": "<p>EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T17:52:59.053888+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-21T21:45:11.253912+00:00",
+  "lastUpdated": "2026-08-21T22:12:17.132712+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 1
 }
