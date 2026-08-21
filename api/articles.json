@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6f7ea84edac2",
+      "slug": "standard-chartered-wavers-on-100k-bitcoin-year-end-call-says-it-may-be-too-low-6f7ea84edac2",
+      "title": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
+      "excerpt": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
+      "content": "<p>Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:20.987411+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ab6a3cdb9354",
+      "slug": "bitcoin-etfs-draw-608m-as-ether-etfs-see-largest-inflow-since-october-ab6a3cdb9354",
+      "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
+      "excerpt": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
+      "content": "<p>Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:22.535999+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7bb546451a4b",
+      "slug": "coldcard-ships-firmware-after-114-million-bitcoin-theft-says-ai-helped-catch-mor-7bb546451a4b",
+      "title": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+      "excerpt": "Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs",
+      "content": "<p>Coldcard ships firmware after $114 million bitcoin theft; says AI helped catch more bugs</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:24.639925+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9ae80123eede",
+      "slug": "cftc-chair-readies-crypto-rules-if-congress-fails-to-pass-clarity-act-9ae80123eede",
+      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "excerpt": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "content": "<p>CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:26.328088+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "be624b01929f",
+      "slug": "euro-area-business-activity-sees-further-pick-up-in-august-despite-france-german-be624b01929f",
+      "title": "Euro area business activity sees further pick up in August despite France, Germany softness",
+      "excerpt": "Euro area business activity sees further pick up in August despite France, Germany softness",
+      "content": "<p>Euro area business activity sees further pick up in August despite France, Germany softness</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:28.215379+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8aa9c8e7a0d7",
+      "slug": "uk-august-flash-services-pmi-528-vs-518-expected-8aa9c8e7a0d7",
+      "title": "UK August flash services PMI 52.8 vs 51.8 expected",
+      "excerpt": "UK August flash services PMI 52.8 vs 51.8 expected",
+      "content": "<p>UK August flash services PMI 52.8 vs 51.8 expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:29.768352+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "da08fc6b6208",
+      "slug": "germany-august-flash-manufacturing-pmi-541-vs-520-expected-da08fc6b6208",
+      "title": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
+      "excerpt": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
+      "content": "<p>Germany August flash manufacturing PMI 54.1 vs 52.0 expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:31.330966+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "42e2cbf3cf25",
+      "slug": "why-markets-care-more-about-the-signal-than-the-size-of-the-treasury-buyback-42e2cbf3cf25",
+      "title": "Why markets care more about the signal than the size of the Treasury buyback",
+      "excerpt": "Why markets care more about the signal than the size of the Treasury buyback",
+      "content": "<p>Why markets care more about the signal than the size of the Treasury buyback</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:32.880961+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d24ae9116026",
+      "slug": "indonesia-expansionary-stance-with-narrowing-buffer-standard-chartered-d24ae9116026",
+      "title": "Indonesia: Expansionary stance with narrowing buffer – Standard Chartered",
+      "excerpt": "Indonesia: Expansionary stance with narrowing buffer – Standard Chartered",
+      "content": "<p>Indonesia: Expansionary stance with narrowing buffer – Standard Chartered</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:34.583401+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "06866cb53707",
+      "slug": "gold-safe-haven-bid-on-us-debt-worries-commerzbank-06866cb53707",
+      "title": "Gold: Safe-haven bid on US debt worries – Commerzbank",
+      "excerpt": "Gold: Safe-haven bid on US debt worries – Commerzbank",
+      "content": "<p>Gold: Safe-haven bid on US debt worries – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T12:23:36.135046+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "ceec0d235150",
       "slug": "analysts-split-on-whether-bitcoins-surge-past-key-levels-signals-a-new-bull-run-ceec0d235150",
       "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
@@ -719,189 +899,9 @@
       "date": "2026-08-21T09:57:47.096943+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "91363492e7eb",
-      "slug": "13670-british-pound-hits-six-month-highs-as-uk-pmi-beats-expectations-91363492e7eb",
-      "title": "1.3670: British Pound hits six-month highs as UK PMI beats expectations",
-      "excerpt": "1.3670: British Pound hits six-month highs as UK PMI beats expectations",
-      "content": "<p>1.3670: British Pound hits six-month highs as UK PMI beats expectations</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:57:48.629237+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a1a1ebaaf82e",
-      "slug": "silver-price-today-silver-rises-according-to-fxstreet-data-a1a1ebaaf82e",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "excerpt": "Silver price today: Silver rises, according to FXStreet data",
-      "content": "<p>Silver price today: Silver rises, according to FXStreet data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:57:50.159744+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a9c7fb8f3d48",
-      "slug": "indian-rupee-remains-under-pressure-amid-higher-oil-prices-a9c7fb8f3d48",
-      "title": "Indian Rupee remains under pressure amid higher oil prices",
-      "excerpt": "Indian Rupee remains under pressure amid higher oil prices",
-      "content": "<p>Indian Rupee remains under pressure amid higher oil prices</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:57:51.691885+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "985975c976fc",
-      "slug": "strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k-985975c976fc",
-      "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
-      "excerpt": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
-      "content": "<p>Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:05:11.189657+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:05:12.769035+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "526eafb7a7a6",
-      "slug": "capitalcom-plans-uae-spot-crypto-services-after-affiliate-wins-licence-526eafb7a7a6",
-      "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
-      "excerpt": "Capital.com plans UAE spot crypto services after affiliate wins licence",
-      "content": "<p>Capital.com plans UAE spot crypto services after affiliate wins licence</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:05:14.348811+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dda3a51b913a",
-      "slug": "strategy-sits-on-14-billion-profit-on-bitcoin-holdings-as-price-surges-dda3a51b913a",
-      "title": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-      "excerpt": "Strategy sits on $1.4 billion profit on bitcoin holdings as price surges",
-      "content": "<p>Strategy sits on $1.4 billion profit on bitcoin holdings as price surges</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:05:16.453936+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "97c61656bf85",
-      "slug": "live-updates-bitcoin-tops-77000-btc-eth-record-800-million-inflows-97c61656bf85",
-      "title": "Live updates: Bitcoin tops $77,000; BTC, ETH record $800 million inflows",
-      "excerpt": "Live updates: Bitcoin tops $77,000; BTC, ETH record $800 million inflows",
-      "content": "<p>Live updates: Bitcoin tops $77,000; BTC, ETH record $800 million inflows</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:05:18.034074+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c1877ec8d40a",
-      "slug": "whats-next-for-bitcoin-after-historic-rally-experts-weigh-in-c1877ec8d40a",
-      "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
-      "excerpt": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
-      "content": "<p>What's Next for Bitcoin After Historic Rally? Experts Weigh In</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:05:19.785175+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "347921a4621b",
-      "slug": "bitcoin-is-pumping-but-prediction-market-traders-arent-convinced-347921a4621b",
-      "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
-      "excerpt": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
-      "content": "<p>Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T09:05:21.361011+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-21T11:48:40.216330+00:00",
+  "lastUpdated": "2026-08-21T12:23:37.635171+00:00",
   "totalCount": 50,
   "newCount": 10
 }
