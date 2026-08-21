@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "f329623472b9",
+      "slug": "bitcoin-breaks-above-200-day-moving-average-for-first-time-since-november-f329623472b9",
+      "title": "Bitcoin breaks above 200-day moving average for first time since November",
+      "excerpt": "Bitcoin breaks above 200-day moving average for first time since November",
+      "content": "<p>Bitcoin breaks above 200-day moving average for first time since November</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:46.677423+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "50a5a5bf1ec1",
+      "slug": "cftc-chair-says-agency-will-move-forward-on-crypto-regulation-if-clarity-fails-50a5a5bf1ec1",
+      "title": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
+      "excerpt": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
+      "content": "<p>CFTC chair says agency will move forward on crypto regulation if CLARITY fails</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:48.207282+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "470290e066e2",
+      "slug": "binance-opens-crypto-trading-to-ai-agents-with-user-set-controls-470290e066e2",
+      "title": "Binance opens crypto trading to AI agents with user-set controls",
+      "excerpt": "Binance opens crypto trading to AI agents with user-set controls",
+      "content": "<p>Binance opens crypto trading to AI agents with user-set controls</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:49.738995+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8ef783a8b33e",
+      "slug": "bitcoin-ether-and-solana-climb-as-another-1-billion-shorts-get-wiped-out-8ef783a8b33e",
+      "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "excerpt": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
+      "content": "<p>Bitcoin, ether and solana climb as another $1 billion shorts get wiped out</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:51.565191+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9244644c5e86",
+      "slug": "audjpy-price-forecast-strengthens-above-11350-as-bullish-momentum-persists-above-9244644c5e86",
+      "title": "AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA",
+      "excerpt": "AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA",
+      "content": "<p>AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:53.525161+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cdd5c6f648f6",
+      "slug": "euro-sits-near-multi-month-top-vs-weak-usd-as-bulls-await-move-beyond-11700-ahea-cdd5c6f648f6",
+      "title": "Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs",
+      "excerpt": "Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs",
+      "content": "<p>Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:55.054339+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "11ec27275afc",
+      "slug": "india-gold-price-today-gold-rises-according-to-fxstreet-data-11ec27275afc",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "excerpt": "India Gold price today: Gold rises, according to FXStreet data",
+      "content": "<p>India Gold price today: Gold rises, according to FXStreet data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:56.587626+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3f794dc89f9c",
+      "slug": "eurjpy-price-forecast-rises-to-near-18600-as-bullish-bias-prevails-3f794dc89f9c",
+      "title": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
+      "excerpt": "EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails",
+      "content": "<p>EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:58.123295+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e0a45a548253",
+      "slug": "usdjpy-price-forecast-20-day-ema-remains-key-hurdle-e0a45a548253",
+      "title": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
+      "excerpt": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
+      "content": "<p>USD/JPY Price Forecast: 20-day EMA remains key hurdle</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:00:59.654455+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b44bfa6dd36e",
+      "slug": "were-in-our-50s-and-have-15-million-in-traditional-401ks-is-it-too-early-to-star-b44bfa6dd36e",
+      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "excerpt": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "content": "<p>We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-21T05:01:01.398552+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "526eafb7a7a6",
       "slug": "capitalcom-plans-uae-spot-crypto-services-after-affiliate-wins-licence-526eafb7a7a6",
       "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
@@ -719,189 +899,9 @@
       "date": "2026-08-20T23:15:39.267965+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "19fb84e54447",
-      "slug": "our-4-year-old-son-has-100000-in-his-529-account-is-a-bull-market-a-bad-time-to--19fb84e54447",
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "excerpt": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "content": "<p>Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T23:15:40.800071+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "160d7d8593a4",
-      "slug": "tensions-flare-as-cme-kalshi-execs-clash-over-prediction-markets-in-dc-160d7d8593a4",
-      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "excerpt": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "content": "<p>Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:51:13.619201+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "93dda875d3a7",
-      "slug": "us-treasury-auctions-off-9-billion-of-30-year-tips-at-2973-vs-2991-wi-93dda875d3a7",
-      "title": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
-      "excerpt": "US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI",
-      "content": "<p>US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:51:15.431310+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b6282f8ba00f",
-      "slug": "the-japanese-yen-is-the-reason-for-its-own-hike-b6282f8ba00f",
-      "title": "The Japanese Yen is the reason for its own hike",
-      "excerpt": "The Japanese Yen is the reason for its own hike",
-      "content": "<p>The Japanese Yen is the reason for its own hike</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:51:17.137069+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "470b43384f57",
-      "slug": "the-british-pound-is-buying-an-energy-bill-not-inflation-470b43384f57",
-      "title": "The British Pound is buying an energy bill, not inflation",
-      "excerpt": "The British Pound is buying an energy bill, not inflation",
-      "content": "<p>The British Pound is buying an energy bill, not inflation</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:51:18.695731+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4c8060403944",
-      "slug": "euro-fades-below-11700-as-us-dollar-rebounds-on-yields-4c8060403944",
-      "title": "Euro fades below 1.1700 as US Dollar rebounds on yields",
-      "excerpt": "Euro fades below 1.1700 as US Dollar rebounds on yields",
-      "content": "<p>Euro fades below 1.1700 as US Dollar rebounds on yields</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:51:20.252186+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8b5f6f2263fe",
-      "slug": "dow-jones-industrial-average-repays-the-treasurys-rally-with-interest-8b5f6f2263fe",
-      "title": "Dow Jones Industrial Average repays the Treasury's rally with interest",
-      "excerpt": "Dow Jones Industrial Average repays the Treasury's rally with interest",
-      "content": "<p>Dow Jones Industrial Average repays the Treasury's rally with interest</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:51:21.808625+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "95d78568232c",
-      "slug": "i-hold-my-mother-in-laws-power-of-attorney-im-also-her-executor-and-trustee-do-i-95d78568232c",
-      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "excerpt": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "content": "<p>I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:51:23.812955+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "70f51824f837",
-      "slug": "south-korea-producer-prices-fall-for-first-time-in-11-months-on-cheaper-oil-that-70f51824f837",
-      "title": "South Korea producer prices fall for first time in 11 months on cheaper oil that month",
-      "excerpt": "South Korea producer prices fall for first time in 11 months on cheaper oil that month",
-      "content": "<p>South Korea producer prices fall for first time in 11 months on cheaper oil that month</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:15:16.591346+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "473c1ba11529",
-      "slug": "mexican-peso-holds-firm-as-banxico-minutes-support-the-peso-473c1ba11529",
-      "title": "Mexican Peso holds firm as Banxico minutes support the Peso",
-      "excerpt": "Mexican Peso holds firm as Banxico minutes support the Peso",
-      "content": "<p>Mexican Peso holds firm as Banxico minutes support the Peso</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-20T22:15:18.332253+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-21T04:08:05.216192+00:00",
+  "lastUpdated": "2026-08-21T05:01:02.898717+00:00",
   "totalCount": 50,
-  "newCount": 7
+  "newCount": 10
 }
