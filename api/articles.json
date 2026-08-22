@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "6f3409b0e33d",
+      "slug": "the-estrangement-isnt-about-politics-my-daughter-hasnt-spoken-to-me-for-4-years--6f3409b0e33d",
+      "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "excerpt": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+      "content": "<p>‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-22T11:11:15.526409+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "94ef2a4a8f49",
+      "slug": "a-massive-corporate-welfare-program-is-underway-and-consumers-want-a-bigger-cut--94ef2a4a8f49",
+      "title": "A massive ‘corporate welfare’ program is underway — and consumers want a bigger cut of it",
+      "excerpt": "A massive ‘corporate welfare’ program is underway — and consumers want a bigger cut of it",
+      "content": "<p>A massive ‘corporate welfare’ program is underway — and consumers want a bigger cut of it</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-22T11:11:17.057301+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "aa2460a3801c",
       "slug": "shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she--aa2460a3801c",
       "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
@@ -863,45 +899,9 @@
       "date": "2026-08-21T19:44:22.746401+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b4b785132bd3",
-      "slug": "pass-the-clarity-act-b4b785132bd3",
-      "title": "Pass the Clarity Act",
-      "excerpt": "Pass the Clarity Act",
-      "content": "<p>Pass the Clarity Act</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T19:04:18.885847+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3cc534872b10",
-      "slug": "solana-just-got-fasteris-it-bullish-for-sol-3cc534872b10",
-      "title": "Solana Just Got Faster—Is It Bullish for SOL?",
-      "excerpt": "Solana Just Got Faster—Is It Bullish for SOL?",
-      "content": "<p>Solana Just Got Faster—Is It Bullish for SOL?</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T19:04:20.585904+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-22T10:45:43.989057+00:00",
+  "lastUpdated": "2026-08-22T11:11:18.649927+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 2
 }
