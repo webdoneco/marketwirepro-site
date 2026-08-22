@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "74c8862b978a",
+      "slug": "this-has-been-one-of-the-most-affordable-us-cities-to-buy-a-home-for-the-past-13-74c8862b978a",
+      "title": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years",
+      "excerpt": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years",
+      "content": "<p>This has been one of the most affordable U.S. cities to buy a home for the past 134 years</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-22T10:11:53.807542+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "5e5e01e35578",
       "slug": "zcash-jumps-48-to-over-800-as-grayscale-spot-etf-push-adds-to-next-bitcoin-buzz-5e5e01e35578",
       "title": "Zcash jumps 48% to over $800 as Grayscale spot ETF push adds to ‘next bitcoin’ buzz",
@@ -881,27 +899,9 @@
       "date": "2026-08-21T19:04:22.137997+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "aec1b81f7e78",
-      "slug": "malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-aec1b81f7e78",
-      "title": "Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC",
-      "excerpt": "Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC",
-      "content": "<p>Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T19:04:24.150818+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-22T09:48:10.369351+00:00",
+  "lastUpdated": "2026-08-22T10:11:55.360406+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 1
 }
