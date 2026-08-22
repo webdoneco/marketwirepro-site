@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "c0743b31cbf6",
+      "slug": "crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after--c0743b31cbf6",
+      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "excerpt": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "content": "<p>Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-22T15:42:02.675848+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ef182b7336f7",
+      "slug": "ai-has-made-bitcoin-software-a-targetthis-group-is-fighting-back-ef182b7336f7",
+      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "excerpt": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+      "content": "<p>AI Has Made Bitcoin Software a Target—This Group Is Fighting Back</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-22T15:42:04.362202+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "7467a2cbc503",
       "slug": "bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc-7467a2cbc503",
       "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
@@ -863,45 +899,9 @@
       "date": "2026-08-21T21:13:03.502589+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9c8c76e995e7",
-      "slug": "brazils-lula-and-us-pres-trump-held-phone-call-on-friday-9c8c76e995e7",
-      "title": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
-      "excerpt": "Brazil's Lula and US Pres. Trump held phone call on Friday.",
-      "content": "<p>Brazil's Lula and US Pres. Trump held phone call on Friday.</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T21:13:05.185455+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "46c12fb84f9f",
-      "slug": "south-korean-won-cautious-tightening-path-expected-from-bok-dbs-46c12fb84f9f",
-      "title": "South Korean Won: Cautious tightening path expected from BoK – DBS",
-      "excerpt": "South Korean Won: Cautious tightening path expected from BoK – DBS",
-      "content": "<p>South Korean Won: Cautious tightening path expected from BoK – DBS</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-21T21:13:07.134484+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-22T15:10:12.880791+00:00",
+  "lastUpdated": "2026-08-22T15:42:06.951577+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 2
 }
