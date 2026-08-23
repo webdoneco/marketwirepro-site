@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "c8b1ac1e4433",
+      "slug": "the-market-is-obviously-on-fire-should-i-take-1000-from-my-brokerage-account-to--c8b1ac1e4433",
+      "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "excerpt": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+      "content": "<p>‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-23T19:14:27.260127+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "54fa79a818f2",
       "slug": "regulation-crypto-is-here-state-of-crypto-54fa79a818f2",
       "title": "Regulation Crypto is here: State of Crypto",
@@ -881,27 +899,9 @@
       "date": "2026-08-22T13:06:53.025504+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "60f8ef7fe823",
-      "slug": "bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musks-x-wants-t-60f8ef7fe823",
-      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
-      "excerpt": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
-      "content": "<p>Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T12:17:01.381442+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-23T18:53:44.178012+00:00",
+  "lastUpdated": "2026-08-23T19:14:28.821574+00:00",
   "totalCount": 50,
   "newCount": 1
 }
