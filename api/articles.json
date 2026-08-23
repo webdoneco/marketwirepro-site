@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "001cc8dc31ef",
+      "slug": "a-third-of-the-post-chatgpt-web-is-ai-written-pew-finds-001cc8dc31ef",
+      "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+      "excerpt": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
+      "content": "<p>A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-23T23:41:35.501409+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ddb1722c8dc1",
+      "slug": "new-zealand-dollar-edges-lower-below-06000-after-weaker-retail-sales-data-ddb1722c8dc1",
+      "title": "New Zealand Dollar edges lower below 0.6000 after weaker Retail Sales data",
+      "excerpt": "New Zealand Dollar edges lower below 0.6000 after weaker Retail Sales data",
+      "content": "<p>New Zealand Dollar edges lower below 0.6000 after weaker Retail Sales data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-23T23:41:37.412599+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "82b04f2e7f18",
       "slug": "new-zealand-q2-retail-sales-have-slowed-much-worse-than-expected-82b04f2e7f18",
       "title": "New Zealand Q2 retail sales have slowed much worse than expected",
@@ -863,45 +899,9 @@
       "date": "2026-08-22T13:49:08.608737+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6903887910a3",
-      "slug": "onchain-in-court-what-happened-in-crypto-legal-news-this-week-6903887910a3",
-      "title": "Onchain, in court: What happened in crypto legal news this week",
-      "excerpt": "Onchain, in court: What happened in crypto legal news this week",
-      "content": "<p>Onchain, in court: What happened in crypto legal news this week</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T13:49:10.140279+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5c273c0a0274",
-      "slug": "bitcoin-seeks-support-near-77k-as-btc-gold-near-100-day-highs-5c273c0a0274",
-      "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
-      "excerpt": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
-      "content": "<p>Bitcoin seeks support near $77K as BTC, gold near 100-day highs</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T13:49:11.670024+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-23T23:10:33.934428+00:00",
+  "lastUpdated": "2026-08-23T23:41:39.392455+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 2
 }
