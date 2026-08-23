@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "af827da2d954",
+      "slug": "us-canada-trade-talks-collapse-as-50-tariffs-take-effect-carney-vows-retaliation-af827da2d954",
+      "title": "US-Canada trade talks collapse as 50% tariffs take effect, Carney vows retaliation",
+      "excerpt": "US-Canada trade talks collapse as 50% tariffs take effect, Carney vows retaliation",
+      "content": "<p>US-Canada trade talks collapse as 50% tariffs take effect, Carney vows retaliation</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-23T20:10:03.010230+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "eb7a3067eb99",
       "slug": "my-son-does-not-work-yet-pays-500-for-affordable-care-act-health-insurance-is-th-eb7a3067eb99",
       "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -881,27 +899,9 @@
       "date": "2026-08-22T13:06:49.959446+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "21328664a83a",
-      "slug": "why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-w-21328664a83a",
-      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-      "excerpt": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-      "content": "<p>Why an announcement from the Treasury sparked a rally in gold and bitcoin this week</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T13:06:51.494706+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-23T19:42:11.151316+00:00",
+  "lastUpdated": "2026-08-23T20:10:05.037929+00:00",
   "totalCount": 50,
   "newCount": 1
 }
