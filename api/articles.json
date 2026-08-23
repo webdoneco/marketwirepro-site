@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "eb7a3067eb99",
+      "slug": "my-son-does-not-work-yet-pays-500-for-affordable-care-act-health-insurance-is-th-eb7a3067eb99",
+      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "excerpt": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+      "content": "<p>My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-23T19:42:09.520318+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "c8b1ac1e4433",
       "slug": "the-market-is-obviously-on-fire-should-i-take-1000-from-my-brokerage-account-to--c8b1ac1e4433",
       "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
@@ -881,27 +899,9 @@
       "date": "2026-08-22T13:06:51.494706+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a0b967865951",
-      "slug": "move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-a0b967865951",
-      "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
-      "excerpt": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
-      "content": "<p>Move over, credit cards: Social-media stars are tapping magic wands to buy things</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T13:06:53.025504+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-23T19:14:28.821574+00:00",
+  "lastUpdated": "2026-08-23T19:42:11.151316+00:00",
   "totalCount": 50,
   "newCount": 1
 }
