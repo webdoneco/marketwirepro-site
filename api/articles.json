@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "c4372b9d1bf4",
+      "slug": "bitcoin-etf-inflows-hit-19b-in-strongest-week-since-october-2025-c4372b9d1bf4",
+      "title": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+      "excerpt": "Bitcoin ETF inflows hit $1.9B in strongest week since October 2025",
+      "content": "<p>Bitcoin ETF inflows hit $1.9B in strongest week since October 2025</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:18.950170+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a0ba636e0829",
+      "slug": "crypto-roars-back-as-bitcoin-posts-its-second-best-week-since-early-2021-a0ba636e0829",
+      "title": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+      "excerpt": "Crypto roars back as bitcoin posts its second-best week since early 2021",
+      "content": "<p>Crypto roars back as bitcoin posts its second-best week since early 2021</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:20.902739+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "74f950ed8c90",
+      "slug": "jackson-hole-symposium-us-pce-prices-iren-earnings-crypto-week-ahead-74f950ed8c90",
+      "title": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+      "excerpt": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
+      "content": "<p>Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:22.449407+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "02697024d5ea",
+      "slug": "japanese-yen-weakens-against-recovering-usd-seems-vulnerable-amid-us-japan-rate--02697024d5ea",
+      "title": "Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap",
+      "excerpt": "Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap",
+      "content": "<p>Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:24.566986+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b2833fdbaa65",
+      "slug": "us-dollar-warsh-speech-shapes-dollar-and-treasuries-bny-b2833fdbaa65",
+      "title": "US Dollar: Warsh speech shapes Dollar and Treasuries – BNY",
+      "excerpt": "US Dollar: Warsh speech shapes Dollar and Treasuries – BNY",
+      "content": "<p>US Dollar: Warsh speech shapes Dollar and Treasuries – BNY</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:26.108109+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a0e66d02c34b",
+      "slug": "dow-jones-futures-slip-as-us-treasury-pledges-buybacks-middle-east-tensions-pers-a0e66d02c34b",
+      "title": "Dow Jones futures slip as US Treasury pledges buybacks, Middle East tensions persist",
+      "excerpt": "Dow Jones futures slip as US Treasury pledges buybacks, Middle East tensions persist",
+      "content": "<p>Dow Jones futures slip as US Treasury pledges buybacks, Middle East tensions persist</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:27.652520+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d7496f527382",
+      "slug": "japanese-yen-slightly-bullish-within-broad-range-against-us-dollar-uob-d7496f527382",
+      "title": "Japanese Yen: Slightly bullish within broad range against US Dollar – UOB",
+      "excerpt": "Japanese Yen: Slightly bullish within broad range against US Dollar – UOB",
+      "content": "<p>Japanese Yen: Slightly bullish within broad range against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:29.195072+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fef8dc6d224f",
+      "slug": "gold-sticks-to-gains-near-mid-may-highs-bulls-turn-cautious-amid-notable-usd-str-fef8dc6d224f",
+      "title": "Gold sticks to gains near mid-May highs; bulls turn cautious amid notable USD strength",
+      "excerpt": "Gold sticks to gains near mid-May highs; bulls turn cautious amid notable USD strength",
+      "content": "<p>Gold sticks to gains near mid-May highs; bulls turn cautious amid notable USD strength</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:30.741107+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a7c6d789a054",
+      "slug": "gold-debasement-narrative-lifts-prices-td-securities-a7c6d789a054",
+      "title": "Gold: Debasement narrative lifts prices – TD Securities",
+      "excerpt": "Gold: Debasement narrative lifts prices – TD Securities",
+      "content": "<p>Gold: Debasement narrative lifts prices – TD Securities</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:32.282423+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6f22509c36f1",
+      "slug": "samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory--6f22509c36f1",
+      "title": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
+      "excerpt": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
+      "content": "<p>Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T09:10:34.110020+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d1313fcf1c4a",
       "slug": "we-are-so-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest-d1313fcf1c4a",
       "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
@@ -719,189 +899,9 @@
       "date": "2026-08-24T05:08:06.042390+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "69c945c2a68a",
-      "slug": "term-finance-loses-estimated-85m-in-vault-governance-exploit-69c945c2a68a",
-      "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-      "excerpt": "Term Finance loses estimated $8.5M in vault governance exploit",
-      "content": "<p>Term Finance loses estimated $8.5M in vault governance exploit</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T04:13:20.068237+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T04:13:21.600680+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "102023e6af3d",
-      "slug": "microsoft-fixes-perfect-10-exploit-that-could-have-let-hackers-run-code-remotely-102023e6af3d",
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "excerpt": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "content": "<p>Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T04:13:23.526070+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cb773044edef",
-      "slug": "investinglive-asia-pacific-market-news-gold-hit-a-three-month-high-cb773044edef",
-      "title": "investingLive Asia-Pacific market news: Gold hit a three month high",
-      "excerpt": "investingLive Asia-Pacific market news: Gold hit a three month high",
-      "content": "<p>investingLive Asia-Pacific market news: Gold hit a three month high</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T04:13:25.275720+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ad4e7a43b9d7",
-      "slug": "indian-rupee-strengthens-due-to-strong-capital-inflows-rbi-support-ad4e7a43b9d7",
-      "title": "Indian Rupee strengthens due to strong capital inflows, RBI support",
-      "excerpt": "Indian Rupee strengthens due to strong capital inflows, RBI support",
-      "content": "<p>Indian Rupee strengthens due to strong capital inflows, RBI support</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T04:13:27.134558+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7467a2cbc503",
-      "slug": "bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc-7467a2cbc503",
-      "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-      "excerpt": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-      "content": "<p>Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T03:28:34.168731+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5bbb3a36f4f2",
-      "slug": "ray-dalio-says-to-buy-a-bit-of-bitcoin-amid-potential-debt-crisis-5bbb3a36f4f2",
-      "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
-      "excerpt": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
-      "content": "<p>Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T03:28:35.730855+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c0743b31cbf6",
-      "slug": "crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after--c0743b31cbf6",
-      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "excerpt": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "content": "<p>Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T03:28:37.707133+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fdf56b6aa0fe",
-      "slug": "web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit-fdf56b6aa0fe",
-      "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "excerpt": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "content": "<p>Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T03:28:39.264774+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ef182b7336f7",
-      "slug": "ai-has-made-bitcoin-software-a-targetthis-group-is-fighting-back-ef182b7336f7",
-      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "excerpt": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "content": "<p>AI Has Made Bitcoin Software a Target—This Group Is Fighting Back</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T03:28:40.912430+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-24T08:09:39.035343+00:00",
+  "lastUpdated": "2026-08-24T09:10:35.610182+00:00",
   "totalCount": 50,
   "newCount": 10
 }
