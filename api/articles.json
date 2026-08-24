@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "34a0f57c1275",
+      "slug": "stablecoin-neobank-fasset-lands-1-billion-valuation-as-sbi-backs-its-payments-pu-34a0f57c1275",
+      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "excerpt": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "content": "<p>Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:07:51.376883+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "632fa62b4450",
+      "slug": "crypto-holds-big-weekly-rally-as-warshs-jackson-hole-debut-comes-into-focus-632fa62b4450",
+      "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "excerpt": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "content": "<p>Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:07:52.917946+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a21be2e49c51",
+      "slug": "coldcard-adds-new-security-measures-after-130-million-bitcoin-exploit-a21be2e49c51",
+      "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+      "excerpt": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
+      "content": "<p>Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:07:54.536350+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8a3d22b7b08c",
+      "slug": "what-are-the-main-events-for-today-8a3d22b7b08c",
+      "title": "What are the main events for today?",
+      "excerpt": "What are the main events for today?",
+      "content": "<p>What are the main events for today?</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:07:56.291246+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b25cb875d801",
+      "slug": "swiss-franc-advances-as-dollar-slides-on-us-bond-buyback-surge-b25cb875d801",
+      "title": "Swiss Franc advances as Dollar slides on US bond buyback surge",
+      "excerpt": "Swiss Franc advances as Dollar slides on US bond buyback surge",
+      "content": "<p>Swiss Franc advances as Dollar slides on US bond buyback surge</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:07:57.919474+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a235f890c7af",
+      "slug": "eurjpy-price-forecast-softens-to-near-18550-but-maintaining-constructive-bias-ab-a235f890c7af",
+      "title": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
+      "excerpt": "EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA",
+      "content": "<p>EUR/JPY Price Forecast: Softens to near 185.50, but maintaining constructive bias above 100-day SMA</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:07:59.464777+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fa24735f2b0c",
+      "slug": "gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-unde-fa24735f2b0c",
+      "title": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+      "excerpt": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+      "content": "<p>Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:08:01.007111+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1b812e8d816b",
+      "slug": "india-gold-price-today-gold-rises-according-to-fxstreet-data-1b812e8d816b",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "excerpt": "India Gold price today: Gold rises, according to FXStreet data",
+      "content": "<p>India Gold price today: Gold rises, according to FXStreet data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:08:02.550246+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "83a013ced031",
+      "slug": "we-are-committed-christians-our-son-and-daughter-in-law-cut-us-off-over-politics-83a013ced031",
+      "title": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+      "excerpt": "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+      "content": "<p>‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:08:04.496515+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b44bfa6dd36e",
+      "slug": "were-in-our-50s-and-have-15-million-in-traditional-401ks-is-it-too-early-to-star-b44bfa6dd36e",
+      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "excerpt": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
+      "content": "<p>We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T05:08:06.042390+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "69c945c2a68a",
       "slug": "term-finance-loses-estimated-85m-in-vault-governance-exploit-69c945c2a68a",
       "title": "Term Finance loses estimated $8.5M in vault governance exploit",
@@ -719,189 +899,9 @@
       "date": "2026-08-23T14:45:41.985255+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "055d18b6acaa",
-      "slug": "robot-brains-could-have-their-chatgpt-moment-by-2027-ace-robotics-chairman-says-055d18b6acaa",
-      "title": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
-      "excerpt": "Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says",
-      "content": "<p>Robot Brains Could Have Their ‘ChatGPT Moment’ by 2027, ACE Robotics Chairman Says</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T14:45:43.563989+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "551c2b0c0067",
-      "slug": "eu-consumer-confidence--155-versus--163-expected-551c2b0c0067",
-      "title": "EU consumer confidence -15.5 versus -16.3 expected",
-      "excerpt": "EU consumer confidence -15.5 versus -16.3 expected",
-      "content": "<p>EU consumer confidence -15.5 versus -16.3 expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T14:12:31.823047+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2f50901ddb52",
-      "slug": "audusd-price-forecast-bulls-target-ytd-high-after-breakout-2f50901ddb52",
-      "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
-      "excerpt": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
-      "content": "<p>AUD/USD Price Forecast: Bulls target YTD high after breakout</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T14:12:33.503326+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e6c18f6aca5c",
-      "slug": "investinglive-americas-fx-news-wrap-21-aug-trump-folds-on-beef-tariffs-e6c18f6aca5c",
-      "title": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
-      "excerpt": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
-      "content": "<p>investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T13:50:51.832205+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "43e29e5c45ae",
-      "slug": "sp-global-manufacturing-pmi-flash-estimate-for-august-532-versus-539-estimate-43e29e5c45ae",
-      "title": "S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate",
-      "excerpt": "S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate",
-      "content": "<p>S&P Global manufacturing PMI flash estimate for August 53.2 versus 53.9 estimate</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T13:50:53.364419+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fea50e04b04e",
-      "slug": "usdchf-price-forecast-bulls-reclaim-08000-as-recovery-stalls-fea50e04b04e",
-      "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
-      "excerpt": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
-      "content": "<p>USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T13:50:54.999395+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "773911a302e4",
-      "slug": "investinglive-americas-fx-news-wrap-21-aug-trump-folds-on-beef-tariffs-773911a302e4",
-      "title": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
-      "excerpt": "investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.",
-      "content": "<p>investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T13:07:58.926462+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2ae4641a63cc",
-      "slug": "us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-2ae4641a63cc",
-      "title": "US Treasury yields extend rebound as Services PMI beats estimates",
-      "excerpt": "US Treasury yields extend rebound as Services PMI beats estimates",
-      "content": "<p>US Treasury yields extend rebound as Services PMI beats estimates</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T13:08:00.548145+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5606962d821f",
-      "slug": "mexican-peso-reaches-two-year-high-despite-weaker-retail-sales-5606962d821f",
-      "title": "Mexican Peso reaches two-year high despite weaker Retail Sales",
-      "excerpt": "Mexican Peso reaches two-year high despite weaker Retail Sales",
-      "content": "<p>Mexican Peso reaches two-year high despite weaker Retail Sales</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T13:08:02.086353+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7095cbc266aa",
-      "slug": "nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a--7095cbc266aa",
-      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-      "excerpt": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-      "content": "<p>Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-23T13:08:03.868330+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-24T04:13:29.144527+00:00",
+  "lastUpdated": "2026-08-24T05:08:07.542579+00:00",
   "totalCount": 50,
-  "newCount": 5
+  "newCount": 10
 }
