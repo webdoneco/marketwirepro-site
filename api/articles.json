@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "uid": "3a52288a6bc6",
+      "slug": "mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult-3a52288a6bc6",
+      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+      "excerpt": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+      "content": "<p>MiCA is coming for DeFi vaults, but regulation will be difficult</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T02:15:47.258491+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a75f260feb39",
+      "slug": "canadian-dollar-bears-seem-hesitant-as-weak-usd-counters-us-canada-trade-war-a75f260feb39",
+      "title": "Canadian Dollar bears seem hesitant as weak USD counters US-Canada trade war",
+      "excerpt": "Canadian Dollar bears seem hesitant as weak USD counters US-Canada trade war",
+      "content": "<p>Canadian Dollar bears seem hesitant as weak USD counters US-Canada trade war</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T02:15:49.943186+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "591b499baa78",
+      "slug": "gold-gains-momentum-above-4600-on-us-treasury-buyback-plans-591b499baa78",
+      "title": "Gold gains momentum above $4,600 on US Treasury buyback plans",
+      "excerpt": "Gold gains momentum above $4,600 on US Treasury buyback plans",
+      "content": "<p>Gold gains momentum above $4,600 on US Treasury buyback plans</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T02:15:51.503879+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "96d7a0db7f75",
+      "slug": "wti-slips-below-8500-as-traders-take-profits-before-new-us-sanctions-on-iran-96d7a0db7f75",
+      "title": "WTI slips below $85.00 as traders take profits before new US sanctions on Iran",
+      "excerpt": "WTI slips below $85.00 as traders take profits before new US sanctions on Iran",
+      "content": "<p>WTI slips below $85.00 as traders take profits before new US sanctions on Iran</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T02:15:53.062192+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ea6500052acf",
+      "slug": "british-pound-holds-near-feb-11-highs-vs-weak-usd-as-bulls-await-breakout-above--ea6500052acf",
+      "title": "British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660",
+      "excerpt": "British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660",
+      "content": "<p>British Pound holds near Feb. 11 highs vs weak USD as bulls await breakout above 1.3660</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T02:15:54.623854+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1d37ff8bcc49",
+      "slug": "pboc-sets-usdcny-reference-rate-at-67841-vs-67817-previous-1d37ff8bcc49",
+      "title": "PBOC sets USD/CNY reference rate at 6.7841 vs. 6.7817 previous",
+      "excerpt": "PBOC sets USD/CNY reference rate at 6.7841 vs. 6.7817 previous",
+      "content": "<p>PBOC sets USD/CNY reference rate at 6.7841 vs. 6.7817 previous</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T02:15:56.178037+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1bd9dfa0ff93",
+      "slug": "euro-holds-steady-against-us-dollar-amid-us-debt-strategy-1bd9dfa0ff93",
+      "title": "Euro holds steady against US Dollar amid US debt strategy",
+      "excerpt": "Euro holds steady against US Dollar amid US debt strategy",
+      "content": "<p>Euro holds steady against US Dollar amid US debt strategy</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T02:15:57.740306+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d1313fcf1c4a",
       "slug": "we-are-so-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest-d1313fcf1c4a",
       "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
@@ -773,135 +899,9 @@
       "date": "2026-08-22T16:10:39.495220+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c0743b31cbf6",
-      "slug": "crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after--c0743b31cbf6",
-      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "excerpt": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
-      "content": "<p>Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T15:42:02.675848+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ef182b7336f7",
-      "slug": "ai-has-made-bitcoin-software-a-targetthis-group-is-fighting-back-ef182b7336f7",
-      "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "excerpt": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-      "content": "<p>AI Has Made Bitcoin Software a Target—This Group Is Fighting Back</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T15:42:04.362202+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7467a2cbc503",
-      "slug": "bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc-7467a2cbc503",
-      "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-      "excerpt": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-      "content": "<p>Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T14:44:14.952481+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5bbb3a36f4f2",
-      "slug": "ray-dalio-says-to-buy-a-bit-of-bitcoin-amid-potential-debt-crisis-5bbb3a36f4f2",
-      "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
-      "excerpt": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
-      "content": "<p>Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T14:10:30.958364+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fdf56b6aa0fe",
-      "slug": "web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit-fdf56b6aa0fe",
-      "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "excerpt": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-      "content": "<p>Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T14:10:32.964966+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b0323e4ce66c",
-      "slug": "tokenized-stocks-risk-repeating-wall-streets-1960s-paper-crisis-fairmint-ceo-say-b0323e4ce66c",
-      "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-      "excerpt": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-      "content": "<p>Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T14:10:34.512246+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4ba387477725",
-      "slug": "malaysian-ringgit-robust-trade-supports-myr-commerzbank-4ba387477725",
-      "title": "Malaysian Ringgit: Robust trade supports MYR – Commerzbank",
-      "excerpt": "Malaysian Ringgit: Robust trade supports MYR – Commerzbank",
-      "content": "<p>Malaysian Ringgit: Robust trade supports MYR – Commerzbank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T14:10:36.519467+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-24T00:37:16.599388+00:00",
+  "lastUpdated": "2026-08-24T02:15:59.794632+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 7
 }
