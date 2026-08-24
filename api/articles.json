@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "uid": "4f445d616d1e",
+      "slug": "hugging-face-explores-13-billion-sale-a-month-after-a-rogue-openai-agent-hacked--4f445d616d1e",
+      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "excerpt": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "content": "<p>Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T22:49:26.221593+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e8d92b496aef",
+      "slug": "chinese-yuan-targeting-67200-against-us-dollar-uob-e8d92b496aef",
+      "title": "Chinese Yuan: Targeting 6.7200 against US Dollar – UOB",
+      "excerpt": "Chinese Yuan: Targeting 6.7200 against US Dollar – UOB",
+      "content": "<p>Chinese Yuan: Targeting 6.7200 against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T22:49:28.935236+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "398e3f6e682f",
+      "slug": "eurjpy-price-forecast-bulls-struggle-at-187-amid-intervention-fears-398e3f6e682f",
+      "title": "EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears",
+      "excerpt": "EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears",
+      "content": "<p>EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T22:49:30.523917+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2fafabd2d4dc",
+      "slug": "heres-how-overvalued-the-stock-market-really-is-2fafabd2d4dc",
+      "title": "Here’s how overvalued the stock market really is",
+      "excerpt": "Here’s how overvalued the stock market really is",
+      "content": "<p>Here’s how overvalued the stock market really is</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T22:49:32.659762+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "283f2c185eab",
       "slug": "tom-lees-bitmine-buys-81-million-of-eth-in-largest-weekly-haul-since-early-july-283f2c185eab",
       "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
@@ -827,81 +899,9 @@
       "date": "2026-08-24T19:51:11.969626+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3db14811dccb",
-      "slug": "zondacrypto-boss-seeks-leniency-for-testimony-on-political-ties-report-3db14811dccb",
-      "title": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
-      "excerpt": "Zondacrypto boss seeks leniency for testimony on political ties: Report",
-      "content": "<p>Zondacrypto boss seeks leniency for testimony on political ties: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T19:07:49.245529+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9a9bfa6af1fa",
-      "slug": "bitget-ceo-isnt-buying-the-bitcoin-rally-shes-waiting-for-50k-9a9bfa6af1fa",
-      "title": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
-      "excerpt": "Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K",
-      "content": "<p>Bitget CEO isn’t buying the Bitcoin rally — She’s waiting for $50K</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T19:07:50.798381+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "257c7782ca0b",
-      "slug": "hyperliquid-hits-record-high-as-12-billion-token-unlock-looms-257c7782ca0b",
-      "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-      "excerpt": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-      "content": "<p>Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T19:07:52.806951+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2c50ca85cf3f",
-      "slug": "silver-price-forecast-xag-pullback-tests-100-day-sma-2c50ca85cf3f",
-      "title": "Silver Price Forecast: XAG pullback tests 100-day SMA",
-      "excerpt": "Silver Price Forecast: XAG pullback tests 100-day SMA",
-      "content": "<p>Silver Price Forecast: XAG pullback tests 100-day SMA</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-24T19:07:54.751871+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-24T22:14:45.147262+00:00",
+  "lastUpdated": "2026-08-24T22:49:34.321571+00:00",
   "totalCount": 50,
-  "newCount": 7
+  "newCount": 4
 }
