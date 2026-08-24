@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "d1313fcf1c4a",
+      "slug": "we-are-so-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest-d1313fcf1c4a",
+      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "excerpt": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "content": "<p>We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-24T00:37:13.592629+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "001cc8dc31ef",
       "slug": "a-third-of-the-post-chatgpt-web-is-ai-written-pew-finds-001cc8dc31ef",
       "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
@@ -881,27 +899,9 @@
       "date": "2026-08-22T14:10:36.519467+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3a52288a6bc6",
-      "slug": "mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult-3a52288a6bc6",
-      "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "excerpt": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-      "content": "<p>MiCA is coming for DeFi vaults, but regulation will be difficult</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-22T13:49:08.608737+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-23T23:41:39.392455+00:00",
+  "lastUpdated": "2026-08-24T00:37:16.599388+00:00",
   "totalCount": 50,
-  "newCount": 2
+  "newCount": 1
 }
