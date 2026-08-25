@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "uid": "e63647691dfd",
+      "slug": "bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant-e63647691dfd",
+      "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+      "excerpt": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+      "content": "<p>Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:31.312583+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "190c2a14fc40",
+      "slug": "solana-transactions-hit-record-42b-as-sol-rallies-40-190c2a14fc40",
+      "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
+      "excerpt": "Solana transactions hit record 4.2B as SOL rallies 40%",
+      "content": "<p>Solana transactions hit record 4.2B as SOL rallies 40%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:32.852360+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "104282906837",
+      "slug": "mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds-104282906837",
+      "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+      "excerpt": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+      "content": "<p>MiCA revolutionised European crypto, and left Poland licking its wounds</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:34.578360+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7ed92154daca",
+      "slug": "chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-co-7ed92154daca",
+      "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+      "excerpt": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
+      "content": "<p>Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:36.111152+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a95b684f0663",
+      "slug": "gold-pulls-back-from-4700-as-hormuz-hopes-cool-haven-demand-a95b684f0663",
+      "title": "Gold pulls back from $4,700 as Hormuz hopes cool haven demand",
+      "excerpt": "Gold pulls back from $4,700 as Hormuz hopes cool haven demand",
+      "content": "<p>Gold pulls back from $4,700 as Hormuz hopes cool haven demand</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:38.299678+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a7ac390204e3",
+      "slug": "usdcad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-a7ac390204e3",
+      "title": "USD/CAD Price Forecast: Bearish indicators keep the path tilted lower",
+      "excerpt": "USD/CAD Price Forecast: Bearish indicators keep the path tilted lower",
+      "content": "<p>USD/CAD Price Forecast: Bearish indicators keep the path tilted lower</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:39.836071+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5e0c3d0c2466",
+      "slug": "dicks-sporting-goods-epic-drop-hits-other-footwear-giants-as-shoppers-sour-on-re-5e0c3d0c2466",
+      "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+      "excerpt": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+      "content": "<p>Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:41.556795+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6462305d5848",
+      "slug": "its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-h-6462305d5848",
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "excerpt": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "content": "<p>‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:43.089753+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "818fcd2c3230",
+      "slug": "are-older-americans-spoiling-the-economy-for-everyone-else-818fcd2c3230",
+      "title": "Are older Americans spoiling the economy for everyone else?",
+      "excerpt": "Are older Americans spoiling the economy for everyone else?",
+      "content": "<p>Are older Americans spoiling the economy for everyone else?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T18:22:44.621900+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "84ab06464c2c",
       "slug": "a-3-token-move-just-triggered-36-million-in-ethereum-defi-liquidations-84ab06464c2c",
       "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
@@ -737,171 +899,9 @@
       "date": "2026-08-25T14:11:27.189111+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "418d054ce131",
-      "slug": "hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox-418d054ce131",
-      "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
-      "excerpt": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
-      "content": "<p>Hugging Face hack exposes the open-weight AI cybersecurity paradox</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:28.722226+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:30.260106+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d820962ccb3c",
-      "slug": "crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-500-d820962ccb3c",
-      "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-      "excerpt": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-      "content": "<p>Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:32.233799+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "88b2ebd3a2be",
-      "slug": "dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware-88b2ebd3a2be",
-      "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
-      "excerpt": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
-      "content": "<p>Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:33.846159+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e67364e042a0",
-      "slug": "us-can-now-sanction-anyone-operating-in-irans-crypto-sector-e67364e042a0",
-      "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
-      "excerpt": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
-      "content": "<p>US Can Now Sanction Anyone Operating in Iran's Crypto Sector</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:35.384724+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f614c1e2ce7b",
-      "slug": "richmond-fed-manufacturing-composite-index-4-vs-5-prior-f614c1e2ce7b",
-      "title": "Richmond Fed manufacturing composite index +4 vs +5 prior",
-      "excerpt": "Richmond Fed manufacturing composite index +4 vs +5 prior",
-      "content": "<p>Richmond Fed manufacturing composite index +4 vs +5 prior</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:37.239291+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0725235d78d9",
-      "slug": "us-conference-board-august-consumer-confidence-894-vs-902-expected-0725235d78d9",
-      "title": "US Conference Board August consumer confidence 89.4 vs 90.2 expected",
-      "excerpt": "US Conference Board August consumer confidence 89.4 vs 90.2 expected",
-      "content": "<p>US Conference Board August consumer confidence 89.4 vs 90.2 expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:38.787086+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e266c35654f7",
-      "slug": "us-new-home-sales-for-july-0607m-vs-0620m-estimate-e266c35654f7",
-      "title": "US New home sales for July 0.607M vs 0.620M estimate",
-      "excerpt": "US New home sales for July 0.607M vs 0.620M estimate",
-      "content": "<p>US New home sales for July 0.607M vs 0.620M estimate</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:40.326138+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3f3d465f3ef1",
-      "slug": "euro-upside-limited-above-fair-value-against-us-dollar-scotiabank-3f3d465f3ef1",
-      "title": "Euro: Upside limited above fair value against US Dollar – Scotiabank",
-      "excerpt": "Euro: Upside limited above fair value against US Dollar – Scotiabank",
-      "content": "<p>Euro: Upside limited above fair value against US Dollar – Scotiabank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T14:11:43.960880+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-25T17:52:13.865437+00:00",
+  "lastUpdated": "2026-08-25T18:22:46.147170+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 9
 }
