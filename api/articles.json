@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:57:56.449452+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c38618298de2",
+      "slug": "bnb-chain-activates-pasteur-hard-fork-to-strengthen-bridge-security-c38618298de2",
+      "title": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+      "excerpt": "BNB Chain activates Pasteur hard fork to strengthen bridge security",
+      "content": "<p>BNB Chain activates Pasteur hard fork to strengthen bridge security</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:57:57.995602+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "48fcaa1fdd42",
+      "slug": "franklin-templetons-tokenized-treasury-fund-lands-on-hashkey-48fcaa1fdd42",
+      "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+      "excerpt": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+      "content": "<p>Franklin Templeton's Tokenized Treasury Fund Lands on HashKey</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:58:00.081600+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "73303c933051",
+      "slug": "why-the-bitcoin-rally-looks-like-a-vote-against-the-dollar-73303c933051",
+      "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
+      "excerpt": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
+      "content": "<p>Why the Bitcoin Rally Looks Like a Vote Against the Dollar</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:58:01.622017+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5fb090b69023",
+      "slug": "investinglive-asia-pacific-market-news-gold-down-bitcoin-up-5fb090b69023",
+      "title": "investingLive Asia-Pacific market news: Gold down, Bitcoin up",
+      "excerpt": "investingLive Asia-Pacific market news: Gold down, Bitcoin up",
+      "content": "<p>investingLive Asia-Pacific market news: Gold down, Bitcoin up</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:58:03.482874+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b985f4507135",
+      "slug": "euro-advances-against-japanese-yen-as-german-business-sentiment-improves-b985f4507135",
+      "title": "Euro advances against Japanese Yen as German business sentiment improves",
+      "excerpt": "Euro advances against Japanese Yen as German business sentiment improves",
+      "content": "<p>Euro advances against Japanese Yen as German business sentiment improves</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:58:05.107874+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f300dfeb2e11",
+      "slug": "hungarian-forint-holding-firm-against-euro-below-key-resistance---societe-genera-f300dfeb2e11",
+      "title": "Hungarian Forint: Holding firm against Euro below key resistance - Societe Generale",
+      "excerpt": "Hungarian Forint: Holding firm against Euro below key resistance - Societe Generale",
+      "content": "<p>Hungarian Forint: Holding firm against Euro below key resistance - Societe Generale</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:58:06.648741+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0094d3e334f9",
+      "slug": "silver-price-today-silver-falls-according-to-fxstreet-data-0094d3e334f9",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "excerpt": "Silver price today: Silver falls, according to FXStreet data",
+      "content": "<p>Silver price today: Silver falls, according to FXStreet data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:58:08.191526+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3aca6f5cd38d",
+      "slug": "canadian-dollar-tariff-risks-cloud-outlook-commerzbank-3aca6f5cd38d",
+      "title": "Canadian Dollar: Tariff risks cloud outlook – Commerzbank",
+      "excerpt": "Canadian Dollar: Tariff risks cloud outlook – Commerzbank",
+      "content": "<p>Canadian Dollar: Tariff risks cloud outlook – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:58:09.734589+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "84f0b5571f61",
+      "slug": "japanese-yen-range-trade-within-15790-and-15980-against-us-dollar-uob-84f0b5571f61",
+      "title": "Japanese Yen: Range trade within 157.90 and 159.80 against US Dollar – UOB",
+      "excerpt": "Japanese Yen: Range trade within 157.90 and 159.80 against US Dollar – UOB",
+      "content": "<p>Japanese Yen: Range trade within 157.90 and 159.80 against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T09:58:11.276311+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "cf9806a16812",
       "slug": "galaxy-puts-coldcard-hack-losses-at-1789-btc-with-87-unmoved-cf9806a16812",
       "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
@@ -719,189 +899,9 @@
       "date": "2026-08-25T05:54:11.662788+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3b78420b5873",
-      "slug": "crypto-political-group-details-list-of-us-congressional-allies-its-backing-this--3b78420b5873",
-      "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-      "excerpt": "Crypto political group details list of U.S. congressional allies its backing this year",
-      "content": "<p>Crypto political group details list of U.S. congressional allies its backing this year</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:54:13.197183+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e6e36a09cbfb",
-      "slug": "coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities--e6e36a09cbfb",
-      "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-      "excerpt": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-      "content": "<p>Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:54:14.724882+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5dc786d39f11",
-      "slug": "strive-buys-815-million-in-bitcoin-after-issuing-more-shares-5dc786d39f11",
-      "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-      "excerpt": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
-      "content": "<p>Strive Buys $81.5 Million in Bitcoin After Issuing More Shares</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:54:16.303359+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ac43048ef13b",
-      "slug": "indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-ac43048ef13b",
-      "title": "Indian Rupee ticks up against US Dollar on RBI’s likely intervention",
-      "excerpt": "Indian Rupee ticks up against US Dollar on RBI’s likely intervention",
-      "content": "<p>Indian Rupee ticks up against US Dollar on RBI’s likely intervention</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:54:18.146204+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "179df87da1c9",
-      "slug": "indonesian-rupiah-struggles-amid-record-deficit-external-pressures-179df87da1c9",
-      "title": "Indonesian Rupiah struggles amid record deficit, external pressures",
-      "excerpt": "Indonesian Rupiah struggles amid record deficit, external pressures",
-      "content": "<p>Indonesian Rupiah struggles amid record deficit, external pressures</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:54:19.675412+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2eac9af80e1b",
-      "slug": "visa-and-mastercard-stocks-hit-fresh-records-underscoring-a-resilient-us-consume-2eac9af80e1b",
-      "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
-      "excerpt": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
-      "content": "<p>Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:54:21.465696+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5f0dcb40d3a8",
-      "slug": "gemini-plans-to-distribute-crypto-prediction-markets-through-apex-brokerages-5f0dcb40d3a8",
-      "title": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
-      "excerpt": "Gemini plans to distribute crypto prediction markets through Apex brokerages",
-      "content": "<p>Gemini plans to distribute crypto prediction markets through Apex brokerages</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:00:54.420927+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "601ee812acf4",
-      "slug": "ai-model-ox-alpha-is-free-beats-claude-fable-and-nobody-knows-who-built-it-601ee812acf4",
-      "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
-      "excerpt": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
-      "content": "<p>AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:00:56.286710+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1b07f0897846",
-      "slug": "what-are-the-main-events-for-today-1b07f0897846",
-      "title": "What are the main events for today?",
-      "excerpt": "What are the main events for today?",
-      "content": "<p>What are the main events for today?</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:00:58.099797+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "549115b7dd55",
-      "slug": "economic-and-event-calendar-in-asia-25-august-2026---rba-august-meeting-minutes-549115b7dd55",
-      "title": "Economic and event calendar in Asia 25 August 2026 - RBA August meeting minutes",
-      "excerpt": "Economic and event calendar in Asia 25 August 2026 - RBA August meeting minutes",
-      "content": "<p>Economic and event calendar in Asia 25 August 2026 - RBA August meeting minutes</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T05:00:59.634982+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-25T09:05:30.261125+00:00",
+  "lastUpdated": "2026-08-25T09:58:12.776470+00:00",
   "totalCount": 50,
   "newCount": 10
 }
