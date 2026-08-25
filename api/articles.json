@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "f53d3887d91d",
+      "slug": "strategys-66b-bitcoin-machine-hinges-on-capital-markets-not-btc-price-report-f53d3887d91d",
+      "title": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+      "excerpt": "Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report",
+      "content": "<p>Strategy’s $66B Bitcoin machine hinges on capital markets, not BTC price: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:42.465648+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2ef1576887ba",
+      "slug": "bitwise-launches-self-custodied-tokenized-stock-portfolios-with-coinbase-2ef1576887ba",
+      "title": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
+      "excerpt": "Bitwise launches self-custodied tokenized stock portfolios with Coinbase",
+      "content": "<p>Bitwise launches self-custodied tokenized stock portfolios with Coinbase</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:44.003699+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4ce13f2fb2de",
+      "slug": "layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-su-4ce13f2fb2de",
+      "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+      "excerpt": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+      "content": "<p>LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:45.874636+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8408ee035069",
+      "slug": "bitcoin-rally-is-outrunning-the-rest-of-the-market-heres-why-8408ee035069",
+      "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+      "excerpt": "Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why",
+      "content": "<p>Bitcoin Rally Is Outrunning the Rest of the Market: Here’s Why</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:47.495719+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d3582d30e6bf",
+      "slug": "crypto-group-warns-regulators-against-expanding-stablecoin-kyc-d3582d30e6bf",
+      "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+      "excerpt": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+      "content": "<p>Crypto Group Warns Regulators Against Expanding Stablecoin KYC</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:49.030419+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d10a3a7d7268",
+      "slug": "us-treas-sec-bessent-iran-leadership-is-feeling-the-economic-pressure-d10a3a7d7268",
+      "title": "US Treas. Sec. Bessent: Iran leadership is feeling the economic pressure",
+      "excerpt": "US Treas. Sec. Bessent: Iran leadership is feeling the economic pressure",
+      "content": "<p>US Treas. Sec. Bessent: Iran leadership is feeling the economic pressure</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:50.849903+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4d16d713a332",
+      "slug": "mexico-alignment-for-certainty-in-usmca-societe-generale-4d16d713a332",
+      "title": "Mexico: Alignment for certainty in USMCA – Societe Generale",
+      "excerpt": "Mexico: Alignment for certainty in USMCA – Societe Generale",
+      "content": "<p>Mexico: Alignment for certainty in USMCA – Societe Generale</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:52.523660+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0c85e0014c8f",
+      "slug": "dow-jones-industrial-average-round-trips-between-ottawa-and-the-treasury-0c85e0014c8f",
+      "title": "Dow Jones Industrial Average round-trips between Ottawa and the Treasury",
+      "excerpt": "Dow Jones Industrial Average round-trips between Ottawa and the Treasury",
+      "content": "<p>Dow Jones Industrial Average round-trips between Ottawa and the Treasury</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:54.070647+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5956ff1000ea",
+      "slug": "united-kingdom-resilient-growth-versus-fiscal-strain-rabobank-5956ff1000ea",
+      "title": "United Kingdom: Resilient growth versus fiscal strain – Rabobank",
+      "excerpt": "United Kingdom: Resilient growth versus fiscal strain – Rabobank",
+      "content": "<p>United Kingdom: Resilient growth versus fiscal strain – Rabobank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:55.609555+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "01347a20343a",
+      "slug": "canadian-dollar-faces-double-trouble-from-oil-slump-us-tariffs-01347a20343a",
+      "title": "Canadian Dollar faces double trouble from Oil slump, US tariffs",
+      "excerpt": "Canadian Dollar faces double trouble from Oil slump, US tariffs",
+      "content": "<p>Canadian Dollar faces double trouble from Oil slump, US tariffs</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-25T17:02:57.149273+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d28b15fd8bf9",
       "slug": "dgrid-ai-token-jumps-93-after-launch-as-decentralized-ai-network-goes-live-d28b15fd8bf9",
       "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
@@ -719,189 +899,9 @@
       "date": "2026-08-25T13:26:03.242232+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f1731c027b76",
-      "slug": "india-plans-first-tokenized-bonds-using-wholesale-cbdc-report-f1731c027b76",
-      "title": "India plans first tokenized bonds using wholesale CBDC: Report",
-      "excerpt": "India plans first tokenized bonds using wholesale CBDC: Report",
-      "content": "<p>India plans first tokenized bonds using wholesale CBDC: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:24:53.332644+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "799bc44f2524",
-      "slug": "shipyard-winds-down-ipfs-work-after-protocol-labs-ends-funding-799bc44f2524",
-      "title": "Shipyard winds down IPFS work after Protocol Labs ends funding",
-      "excerpt": "Shipyard winds down IPFS work after Protocol Labs ends funding",
-      "content": "<p>Shipyard winds down IPFS work after Protocol Labs ends funding</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:24:54.862045+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "84ab06464c2c",
-      "slug": "a-3-token-move-just-triggered-36-million-in-ethereum-defi-liquidations-84ab06464c2c",
-      "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
-      "excerpt": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
-      "content": "<p>A 3% token move just triggered $36 million in Ethereum DeFi liquidations</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:24:56.800546+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7b472367eb6c",
-      "slug": "grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cry-7b472367eb6c",
-      "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
-      "excerpt": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
-      "content": "<p>Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:24:58.393791+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "31cc672382e6",
-      "slug": "morning-minute-coinbase-puts-tokenized-stocks-on-base-31cc672382e6",
-      "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-      "excerpt": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-      "content": "<p>Morning Minute: Coinbase Puts Tokenized Stocks on Base</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:24:59.923766+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4ba0f250fc52",
-      "slug": "pakistani-army-chief-munir-is-carrying-an-offer-to-iran-to-halt-blockade-and-lif-4ba0f250fc52",
-      "title": "Pakistani Army Chief Munir is carrying an offer to Iran to halt blockade and lift sanctions under MoU",
-      "excerpt": "Pakistani Army Chief Munir is carrying an offer to Iran to halt blockade and lift sanctions under MoU",
-      "content": "<p>Pakistani Army Chief Munir is carrying an offer to Iran to halt blockade and lift sanctions under MoU</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:25:01.561647+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "194d250cb6f7",
-      "slug": "germany-august-ifo-business-climate-index-888-vs-872-expected-194d250cb6f7",
-      "title": "Germany August Ifo business climate index 88.8 vs 87.2 expected",
-      "excerpt": "Germany August Ifo business climate index 88.8 vs 87.2 expected",
-      "content": "<p>Germany August Ifo business climate index 88.8 vs 87.2 expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:25:03.090788+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "484c0dfee189",
-      "slug": "british-pound-range-trading-outlook-against-euro-rabobank-484c0dfee189",
-      "title": "British Pound: Range trading outlook against Euro – Rabobank",
-      "excerpt": "British Pound: Range trading outlook against Euro – Rabobank",
-      "content": "<p>British Pound: Range trading outlook against Euro – Rabobank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:25:05.684529+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f7ff775c0d35",
-      "slug": "us-adp-employment-change-4-week-average-increases-to-11750k-f7ff775c0d35",
-      "title": "US ADP Employment Change 4-week average increases to 11.750K",
-      "excerpt": "US ADP Employment Change 4-week average increases to 11.750K",
-      "content": "<p>US ADP Employment Change 4-week average increases to 11.750K</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:25:07.215860+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9770abbf20c6",
-      "slug": "us-dollar-fragmentation-risks-and-reserve-diversification-mufg-9770abbf20c6",
-      "title": "US Dollar: Fragmentation risks and reserve diversification – MUFG",
-      "excerpt": "US Dollar: Fragmentation risks and reserve diversification – MUFG",
-      "content": "<p>US Dollar: Fragmentation risks and reserve diversification – MUFG</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T12:25:08.744425+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-25T16:06:26.558164+00:00",
+  "lastUpdated": "2026-08-25T17:02:58.649447+00:00",
   "totalCount": 50,
   "newCount": 10
 }
