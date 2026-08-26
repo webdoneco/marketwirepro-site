@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "55c1bd70a322",
+      "slug": "crypto-greed-gauge-hits-highest-since-just-before-octobers-19-billion-wipeout-55c1bd70a322",
+      "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+      "excerpt": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
+      "content": "<p>Crypto greed gauge hits highest since just before October’s $19 billion wipeout</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:36.246901+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "40f5ab782f4c",
+      "slug": "xrp-hot-streak-cools-as-traders-hit-a-wall-where-does-it-go-next-40f5ab782f4c",
+      "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
+      "excerpt": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
+      "content": "<p>XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:37.820453+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f9a9b343fcde",
+      "slug": "alibaba-to-release-qwen-38-flash-next-as-a-preview-of-what-qwen-4-will-offer-f9a9b343fcde",
+      "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
+      "excerpt": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
+      "content": "<p>Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:39.349491+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b9cce1bf76bc",
+      "slug": "wti-oil-drops-below-80-amid-hopes-of-hormuz-reopening-us-iran-de-escalation-b9cce1bf76bc",
+      "title": "WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation",
+      "excerpt": "WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation",
+      "content": "<p>WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:41.181673+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e015396848dc",
+      "slug": "australian-dollar-watching-07200-resistance-against-us-dollar-uob-e015396848dc",
+      "title": "Australian Dollar: Watching 0.7200 resistance against US Dollar – UOB",
+      "excerpt": "Australian Dollar: Watching 0.7200 resistance against US Dollar – UOB",
+      "content": "<p>Australian Dollar: Watching 0.7200 resistance against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:42.714572+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5550e3a321b3",
+      "slug": "hungarian-forint-recovery-tied-to-euro-entry-story-ing-5550e3a321b3",
+      "title": "Hungarian Forint: Recovery tied to euro entry story – ING",
+      "excerpt": "Hungarian Forint: Recovery tied to euro entry story – ING",
+      "content": "<p>Hungarian Forint: Recovery tied to euro entry story – ING</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:44.247039+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e95b36baa4bc",
+      "slug": "silver-price-today-silver-falls-according-to-fxstreet-data-e95b36baa4bc",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "excerpt": "Silver price today: Silver falls, according to FXStreet data",
+      "content": "<p>Silver price today: Silver falls, according to FXStreet data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:45.777392+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b72bc1e96a1a",
+      "slug": "us-dollar-index-range-trade-persists-as-data-soft-dbs-b72bc1e96a1a",
+      "title": "US Dollar Index: Range trade persists as data soft – DBS",
+      "excerpt": "US Dollar Index: Range trade persists as data soft – DBS",
+      "content": "<p>US Dollar Index: Range trade persists as data soft – DBS</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:47.307681+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4a45a452030a",
+      "slug": "eurjpy-price-forecast-tests-nine-day-ema-confluence-support-near-18500-4a45a452030a",
+      "title": "EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00",
+      "excerpt": "EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00",
+      "content": "<p>EUR/JPY Price Forecast: Tests nine-day EMA confluence support near 185.00</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:48.839027+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3b93ac706442",
+      "slug": "two-thirds-of-parents-dont-have-this-vital-document-they-need-in-case-of-emergen-3b93ac706442",
+      "title": "Two-thirds of parents don’t have this vital document they need in case of emergency",
+      "excerpt": "Two-thirds of parents don’t have this vital document they need in case of emergency",
+      "content": "<p>Two-thirds of parents don’t have this vital document they need in case of emergency</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T10:03:50.535955+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "5cfa760a1b41",
       "slug": "revolut-rolls-out-euro-stablecoin-in-three-european-markets-5cfa760a1b41",
       "title": "Revolut rolls out euro stablecoin in three European markets",
@@ -719,189 +899,9 @@
       "date": "2026-08-26T06:35:24.866216+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e63647691dfd",
-      "slug": "bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant-e63647691dfd",
-      "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
-      "excerpt": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
-      "content": "<p>Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:23.345668+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "190c2a14fc40",
-      "slug": "solana-transactions-hit-record-42b-as-sol-rallies-40-190c2a14fc40",
-      "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
-      "excerpt": "Solana transactions hit record 4.2B as SOL rallies 40%",
-      "content": "<p>Solana transactions hit record 4.2B as SOL rallies 40%</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:24.878751+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "554631a718d3",
-      "slug": "wall-street-is-making-it-easier-for-bitcoin-whales-to-ditch-self-custody-report-554631a718d3",
-      "title": "Wall Street is making it easier for bitcoin whales to ditch self-custody: report",
-      "excerpt": "Wall Street is making it easier for bitcoin whales to ditch self-custody: report",
-      "content": "<p>Wall Street is making it easier for bitcoin whales to ditch self-custody: report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:26.760955+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "36db2c39bed6",
-      "slug": "xrps-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback-36db2c39bed6",
-      "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
-      "excerpt": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
-      "content": "<p>XRP’s 44% rally brings leverage back, raising risk of sharper pullback</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:28.293140+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5bb738c472e9",
-      "slug": "elon-musks-spacex-plans-100-billion-louisiana-spaceport-5bb738c472e9",
-      "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
-      "excerpt": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
-      "content": "<p>Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:29.867552+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b585e1fff93a",
-      "slug": "audusd-price-forecast-hot-australian-cpi-data-boosts-hawkish-rba-bets-b585e1fff93a",
-      "title": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
-      "excerpt": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
-      "content": "<p>AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:31.718015+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "03d761be1b22",
-      "slug": "ecbs-schnabel-inflation-likely-to-top-2-for-extended-period-03d761be1b22",
-      "title": "ECB's Schnabel: Inflation likely to top 2% for extended period",
-      "excerpt": "ECB's Schnabel: Inflation likely to top 2% for extended period",
-      "content": "<p>ECB's Schnabel: Inflation likely to top 2% for extended period</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:33.251200+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "81883a165b90",
-      "slug": "eurusd-price-forecast-declines-to-near-11650-overbought-signals-curb-upside-bias-81883a165b90",
-      "title": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
-      "excerpt": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
-      "content": "<p>EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:34.785177+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "478b01f9d17c",
-      "slug": "swiss-franc-weakens-as-us-dollar-gains-ahead-of-pce-inflation-data-478b01f9d17c",
-      "title": "Swiss Franc weakens as US Dollar gains ahead of PCE inflation data",
-      "excerpt": "Swiss Franc weakens as US Dollar gains ahead of PCE inflation data",
-      "content": "<p>Swiss Franc weakens as US Dollar gains ahead of PCE inflation data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:36.313147+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9c0fad41fbcf",
-      "slug": "gold-trades-with-negative-bias-below-4650-as-usd-edges-higher-ahead-of-us-pce-9c0fad41fbcf",
-      "title": "Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE",
-      "excerpt": "Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE",
-      "content": "<p>Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T05:56:37.846301+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-26T09:12:14.571162+00:00",
+  "lastUpdated": "2026-08-26T10:03:52.036116+00:00",
   "totalCount": 50,
   "newCount": 10
 }
