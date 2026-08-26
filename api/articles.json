@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "e63647691dfd",
+      "slug": "bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant-e63647691dfd",
+      "title": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+      "excerpt": "Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant",
+      "content": "<p>Bitcoin enters ‘initial phase’ of new bull market, but $83K remains key: CryptoQuant</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:23.345668+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "190c2a14fc40",
+      "slug": "solana-transactions-hit-record-42b-as-sol-rallies-40-190c2a14fc40",
+      "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
+      "excerpt": "Solana transactions hit record 4.2B as SOL rallies 40%",
+      "content": "<p>Solana transactions hit record 4.2B as SOL rallies 40%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:24.878751+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "554631a718d3",
+      "slug": "wall-street-is-making-it-easier-for-bitcoin-whales-to-ditch-self-custody-report-554631a718d3",
+      "title": "Wall Street is making it easier for bitcoin whales to ditch self-custody: report",
+      "excerpt": "Wall Street is making it easier for bitcoin whales to ditch self-custody: report",
+      "content": "<p>Wall Street is making it easier for bitcoin whales to ditch self-custody: report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:26.760955+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "36db2c39bed6",
+      "slug": "xrps-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback-36db2c39bed6",
+      "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+      "excerpt": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
+      "content": "<p>XRP’s 44% rally brings leverage back, raising risk of sharper pullback</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:28.293140+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5bb738c472e9",
+      "slug": "elon-musks-spacex-plans-100-billion-louisiana-spaceport-5bb738c472e9",
+      "title": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
+      "excerpt": "Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport",
+      "content": "<p>Elon Musk’s SpaceX Plans $100 Billion Louisiana Spaceport</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:29.867552+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b585e1fff93a",
+      "slug": "audusd-price-forecast-hot-australian-cpi-data-boosts-hawkish-rba-bets-b585e1fff93a",
+      "title": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
+      "excerpt": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
+      "content": "<p>AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:31.718015+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "03d761be1b22",
+      "slug": "ecbs-schnabel-inflation-likely-to-top-2-for-extended-period-03d761be1b22",
+      "title": "ECB's Schnabel: Inflation likely to top 2% for extended period",
+      "excerpt": "ECB's Schnabel: Inflation likely to top 2% for extended period",
+      "content": "<p>ECB's Schnabel: Inflation likely to top 2% for extended period</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:33.251200+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "81883a165b90",
+      "slug": "eurusd-price-forecast-declines-to-near-11650-overbought-signals-curb-upside-bias-81883a165b90",
+      "title": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
+      "excerpt": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
+      "content": "<p>EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:34.785177+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "478b01f9d17c",
+      "slug": "swiss-franc-weakens-as-us-dollar-gains-ahead-of-pce-inflation-data-478b01f9d17c",
+      "title": "Swiss Franc weakens as US Dollar gains ahead of PCE inflation data",
+      "excerpt": "Swiss Franc weakens as US Dollar gains ahead of PCE inflation data",
+      "content": "<p>Swiss Franc weakens as US Dollar gains ahead of PCE inflation data</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:36.313147+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9c0fad41fbcf",
+      "slug": "gold-trades-with-negative-bias-below-4650-as-usd-edges-higher-ahead-of-us-pce-9c0fad41fbcf",
+      "title": "Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE",
+      "excerpt": "Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE",
+      "content": "<p>Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-26T05:56:37.846301+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "55c1bd70a322",
       "slug": "crypto-greed-gauge-hits-highest-since-just-before-octobers-19-billion-wipeout-55c1bd70a322",
       "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
@@ -719,189 +899,9 @@
       "date": "2026-08-26T02:18:13.263303+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "efe90bbd97a0",
-      "slug": "japans-services-inflation-accelerates-to-36pct-in-july-beating-forecasts-efe90bbd97a0",
-      "title": "Japan's services inflation accelerates to 3.6pct in July, beating forecasts",
-      "excerpt": "Japan's services inflation accelerates to 3.6pct in July, beating forecasts",
-      "content": "<p>Japan's services inflation accelerates to 3.6pct in July, beating forecasts</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T00:37:23.556687+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "46505edb9b1c",
-      "slug": "us-weighs-further-trade-escalation-after-canada-sets-retaliatory-tariffs-46505edb9b1c",
-      "title": "US weighs further trade escalation after Canada sets retaliatory tariffs",
-      "excerpt": "US weighs further trade escalation after Canada sets retaliatory tariffs",
-      "content": "<p>US weighs further trade escalation after Canada sets retaliatory tariffs</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T00:37:25.087082+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a98b04ac3a4c",
-      "slug": "japan-july-2026-services-ppi-36-yy-expected-32-prior-32-a98b04ac3a4c",
-      "title": "Japan July 2026 Services PPI +3.6% y/y (expected 3.2%, prior 3.2%)",
-      "excerpt": "Japan July 2026 Services PPI +3.6% y/y (expected 3.2%, prior 3.2%)",
-      "content": "<p>Japan July 2026 Services PPI +3.6% y/y (expected 3.2%, prior 3.2%)</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T00:37:26.617731+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c905b0406122",
-      "slug": "australia-cpi-forecast-to-show-cooling-inflation-in-july-still-above-rba-target-c905b0406122",
-      "title": "Australia CPI forecast to show cooling inflation in July, still above RBA target",
-      "excerpt": "Australia CPI forecast to show cooling inflation in July, still above RBA target",
-      "content": "<p>Australia CPI forecast to show cooling inflation in July, still above RBA target</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T00:37:28.453242+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "efab50d6d772",
-      "slug": "my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-efab50d6d772",
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "excerpt": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "content": "<p>My father-in-law passed away, leaving a house with tenants. Do I evict them?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T00:37:30.164633+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4e3771aea181",
-      "slug": "my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-4e3771aea181",
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "excerpt": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "content": "<p>‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T00:37:31.696884+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T23:45:06.701461+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d820962ccb3c",
-      "slug": "crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-500-d820962ccb3c",
-      "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-      "excerpt": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-      "content": "<p>Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T23:45:08.443442+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "becb465bfdc6",
-      "slug": "iran-and-oman-push-talks-for-interim-reopening-of-hormuz-bloomberg-becb465bfdc6",
-      "title": "Iran and Oman push talks for ‘interim’ reopening of Hormuz — Bloomberg",
-      "excerpt": "Iran and Oman push talks for ‘interim’ reopening of Hormuz — Bloomberg",
-      "content": "<p>Iran and Oman push talks for ‘interim’ reopening of Hormuz — Bloomberg</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T23:45:12.394575+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "10f56af73a57",
-      "slug": "gold-advances-above-4650-on-us-dollar-weakness-treasury-bond-buyback-plans-10f56af73a57",
-      "title": "Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans",
-      "excerpt": "Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans",
-      "content": "<p>Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-25T23:45:13.923951+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-26T05:05:28.967944+00:00",
+  "lastUpdated": "2026-08-26T05:56:39.346491+00:00",
   "totalCount": 50,
   "newCount": 10
 }
