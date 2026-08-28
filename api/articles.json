@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "e199b27bd007",
+      "slug": "california-senate-passes-bill-to-ban-memecoin-issuance-by-public-officials-e199b27bd007",
+      "title": "California Senate passes bill to ban memecoin issuance by public officials",
+      "excerpt": "California Senate passes bill to ban memecoin issuance by public officials",
+      "content": "<p>California Senate passes bill to ban memecoin issuance by public officials</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:00.060558+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dd89a2583639",
+      "slug": "capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-bloc-dd89a2583639",
+      "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
+      "excerpt": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
+      "content": "<p>Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:01.680523+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d1e93293fe57",
+      "slug": "bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo-d1e93293fe57",
+      "title": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
+      "excerpt": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
+      "content": "<p>Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:03.295469+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4dabea2426a3",
+      "slug": "ena-token-rises-10-as-ethena-puts-revenue-funded-token-buybacks-to-vote-4dabea2426a3",
+      "title": "ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote",
+      "excerpt": "ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote",
+      "content": "<p>ENA token rises 10% as Ethena puts revenue-funded token buybacks to vote</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:04.913399+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "71e8c63f3f10",
+      "slug": "bitgo-buys-nydig-trading-arm-to-deepen-institutional-crypto-push-71e8c63f3f10",
+      "title": "BitGo buys NYDIG trading arm to deepen institutional crypto push",
+      "excerpt": "BitGo buys NYDIG trading arm to deepen institutional crypto push",
+      "content": "<p>BitGo buys NYDIG trading arm to deepen institutional crypto push</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:06.525328+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "09c120a045dc",
+      "slug": "onekey-reproduces-transaction-replacement-attack-on-outdated-ledger-ethereum-app-09c120a045dc",
+      "title": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
+      "excerpt": "OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app",
+      "content": "<p>OneKey reproduces transaction replacement attack on outdated Ledger Ethereum app</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:08.149278+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b8e870762255",
+      "slug": "the-clarity-act-slipped-to-september-banks-are-building-anyway-b8e870762255",
+      "title": "The Clarity Act slipped to September. Banks are building anyway",
+      "excerpt": "The Clarity Act slipped to September. Banks are building anyway",
+      "content": "<p>The Clarity Act slipped to September. Banks are building anyway</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:10.514649+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0de5146fd8d5",
+      "slug": "ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals-0de5146fd8d5",
+      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+      "excerpt": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
+      "content": "<p>Ethena looks beyond crypto to squeeze yield from booming equity perpetuals</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:12.133279+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c79667c923b6",
+      "slug": "sbi-buys-20-stake-in-indonesias-ajaib-for-270-million-to-expand-yen-stablecoin-i-c79667c923b6",
+      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+      "excerpt": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+      "content": "<p>SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:13.746345+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6b399c24af5f",
+      "slug": "bitcoin-is-outperforming-stocks-and-correlating-with-gold-just-when-it-matters-m-6b399c24af5f",
+      "title": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
+      "excerpt": "Bitcoin is outperforming stocks and correlating with gold just when it matters most",
+      "content": "<p>Bitcoin is outperforming stocks and correlating with gold just when it matters most</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-28T13:30:15.362956+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "907ab7f59b83",
       "slug": "virtu-tradeweb-complete-onchain-repo-using-marshall-islands-digital-bond-907ab7f59b83",
       "title": "Virtu, Tradeweb complete onchain repo using Marshall Islands digital bond",
@@ -719,189 +899,9 @@
       "date": "2026-08-26T23:50:07.428980+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4528203e2f91",
-      "slug": "better-launches-bitcoin-backed-mortgages-powered-by-coinbase-4528203e2f91",
-      "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
-      "excerpt": "Better launches Bitcoin-backed mortgages powered by Coinbase",
-      "content": "<p>Better launches Bitcoin-backed mortgages powered by Coinbase</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:21.977208+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7252d7abcbcd",
-      "slug": "south-koreas-top-financial-conglomerate-team-up-with-visa-to-test-stablecoin-iss-7252d7abcbcd",
-      "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
-      "excerpt": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
-      "content": "<p>South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:23.938128+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3941c5169a0e",
-      "slug": "dallas-fed-warns-tokenized-deposits-could-strip-700-billion-from-us-banks-lendin-3941c5169a0e",
-      "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
-      "excerpt": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
-      "content": "<p>Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:25.483254+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a9e1b63a480b",
-      "slug": "galaxy-opens-retail-crypto-backed-credit-lines-on-bitcoin-ethereum-and-solana-a9e1b63a480b",
-      "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-      "excerpt": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-      "content": "<p>Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:27.135165+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1805e0eb2922",
-      "slug": "us-banks-join-forces-to-build-a-blockchain-of-their-own-1805e0eb2922",
-      "title": "US Banks Join Forces to Build a Blockchain of Their Own",
-      "excerpt": "US Banks Join Forces to Build a Blockchain of Their Own",
-      "content": "<p>US Banks Join Forces to Build a Blockchain of Their Own</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:28.671732+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "aa945cef4ff9",
-      "slug": "bitcoin-wallets-dormant-for-over-a-decade-move-40m-in-one-week-aa945cef4ff9",
-      "title": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
-      "excerpt": "Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week",
-      "content": "<p>Bitcoin Wallets Dormant for Over a Decade Move $40M in One Week</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:30.211994+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ab2fd94fd465",
-      "slug": "economic-and-event-calendar-in-asia-27-august-2026---bank-of-korea-and-rba-ab2fd94fd465",
-      "title": "Economic and event calendar in Asia 27 August 2026 - Bank of Korea and RBA",
-      "excerpt": "Economic and event calendar in Asia 27 August 2026 - Bank of Korea and RBA",
-      "content": "<p>Economic and event calendar in Asia 27 August 2026 - Bank of Korea and RBA</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:32.092146+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2c0646fb2a67",
-      "slug": "chinese-yuan-pace-of-appreciation-against-us-dollar-seen-slowing-ing-2c0646fb2a67",
-      "title": "Chinese Yuan: Pace of appreciation against US Dollar seen slowing – ING",
-      "excerpt": "Chinese Yuan: Pace of appreciation against US Dollar seen slowing – ING",
-      "content": "<p>Chinese Yuan: Pace of appreciation against US Dollar seen slowing – ING</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:34.217074+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f2bcdea800c0",
-      "slug": "japanese-yen-range-bound-against-us-dollar-as-markets-price-boj-hike-scotiabank-f2bcdea800c0",
-      "title": "Japanese Yen: Range-bound against US Dollar as markets price BoJ hike – Scotiabank",
-      "excerpt": "Japanese Yen: Range-bound against US Dollar as markets price BoJ hike – Scotiabank",
-      "content": "<p>Japanese Yen: Range-bound against US Dollar as markets price BoJ hike – Scotiabank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:35.766085+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "450de0919c53",
-      "slug": "banxico-lifts-2026-gdp-forecast-delays-inflation-target-return-450de0919c53",
-      "title": "Banxico lifts 2026 GDP forecast, delays inflation target return",
-      "excerpt": "Banxico lifts 2026 GDP forecast, delays inflation target return",
-      "content": "<p>Banxico lifts 2026 GDP forecast, delays inflation target return</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-26T20:20:37.303216+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-28T01:33:28.510387+00:00",
+  "lastUpdated": "2026-08-28T13:30:16.863194+00:00",
   "totalCount": 50,
   "newCount": 10
 }
