@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "653059c72741",
+      "slug": "bitcoin-wallets-untouched-for-10-years-moved-40-million-worth-of-coins-653059c72741",
+      "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
+      "excerpt": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
+      "content": "<p>Bitcoin wallets untouched for 10 years moved $40 million worth of coins</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T23:40:37.279060+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "812f6a3b5ce1",
       "slug": "polygon-discloses-security-flaws-fixed-in-recent-hard-forks-812f6a3b5ce1",
       "title": "Polygon discloses security flaws fixed in recent hard forks",
@@ -881,27 +899,9 @@
       "date": "2026-08-28T23:09:31.865710+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e199b27bd007",
-      "slug": "california-senate-passes-bill-to-ban-memecoin-issuance-by-public-officials-e199b27bd007",
-      "title": "California Senate passes bill to ban memecoin issuance by public officials",
-      "excerpt": "California Senate passes bill to ban memecoin issuance by public officials",
-      "content": "<p>California Senate passes bill to ban memecoin issuance by public officials</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-28T13:30:00.060558+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-29T21:31:01.098232+00:00",
+  "lastUpdated": "2026-08-29T23:40:40.177461+00:00",
   "totalCount": 50,
-  "newCount": 2
+  "newCount": 1
 }
