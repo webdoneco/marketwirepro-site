@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "812f6a3b5ce1",
+      "slug": "polygon-discloses-security-flaws-fixed-in-recent-hard-forks-812f6a3b5ce1",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "excerpt": "Polygon discloses security flaws fixed in recent hard forks",
+      "content": "<p>Polygon discloses security flaws fixed in recent hard forks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T21:30:56.051770+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "944ec06526f8",
+      "slug": "stellar-tokenized-rwa-market-more-than-quadruples-to-nearly-4b-944ec06526f8",
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "excerpt": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "content": "<p>Stellar tokenized RWA market more than quadruples to nearly $4B</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T21:30:57.634094+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "e1c368d9ccbb",
       "slug": "tokenized-stock-transfer-volume-jumps-415-in-30-days-to-295b-e1c368d9ccbb",
       "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
@@ -863,45 +899,9 @@
       "date": "2026-08-28T13:30:00.060558+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dd89a2583639",
-      "slug": "capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-bloc-dd89a2583639",
-      "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
-      "excerpt": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
-      "content": "<p>Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-28T13:30:01.680523+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d1e93293fe57",
-      "slug": "bitcoin-bear-market-over-as-price-metric-copies-2023-recovery-cryptoquant-ceo-d1e93293fe57",
-      "title": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
-      "excerpt": "Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO",
-      "content": "<p>Bitcoin bear market ‘over’ as price metric copies 2023 recovery: CryptoQuant CEO</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-28T13:30:03.295469+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-29T18:59:07.482455+00:00",
+  "lastUpdated": "2026-08-29T21:31:01.098232+00:00",
   "totalCount": 50,
-  "newCount": 7
+  "newCount": 2
 }
