@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "0501212a2f80",
+      "slug": "ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives-0501212a2f80",
+      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "excerpt": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
+      "content": "<p>Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:12:53.275764+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f37d7a6e7876",
+      "slug": "meta-tests-robots-to-handle-data-center-work-f37d7a6e7876",
+      "title": "Meta Tests Robots to Handle Data Center Work",
+      "excerpt": "Meta Tests Robots to Handle Data Center Work",
+      "content": "<p>Meta Tests Robots to Handle Data Center Work</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:12:55.067427+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3f5a3c1287c8",
+      "slug": "xrp-treasury-company-gets-one-step-closer-to-listing-on-nasdaq-3f5a3c1287c8",
+      "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+      "excerpt": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+      "content": "<p>XRP Treasury Company Gets One Step Closer to Listing on Nasdaq</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:12:56.650484+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "34b69d0a33e9",
+      "slug": "us-cities-eye-ai-data-center-limits-as-study-flags-water-risks-34b69d0a33e9",
+      "title": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
+      "excerpt": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
+      "content": "<p>US Cities Eye AI Data Center Limits as Study Flags Water Risks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:12:58.232823+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d60fbc9df1f4",
+      "slug": "solana-will-now-print-less-sol-as-disinflation-vote-passes-in-dramatic-fashion-d60fbc9df1f4",
+      "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
+      "excerpt": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
+      "content": "<p>Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:12:59.818285+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8cc91630dae5",
+      "slug": "fed-chair-warsh-calls-ai-a-hinge-point-in-history4-key-things-he-said-8cc91630dae5",
+      "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
+      "excerpt": "Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said",
+      "content": "<p>Fed Chair Warsh Calls AI a 'Hinge Point in History'—4 Key Things He Said</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:13:01.408896+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fcc4142c30f3",
+      "slug": "investinglive-americas-fx-news-wrap-28-aug-fcc4142c30f3",
+      "title": "investingLive Americas FX news wrap 28 Aug",
+      "excerpt": "investingLive Americas FX news wrap 28 Aug",
+      "content": "<p>investingLive Americas FX news wrap 28 Aug</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:13:03.393954+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "49017120c473",
+      "slug": "non-farm-payrolls-benchmark-revisions-trimmed-employment-by-79k-jobs-49017120c473",
+      "title": "Non-farm payrolls benchmark revisions trimmed employment by 79K jobs",
+      "excerpt": "Non-farm payrolls benchmark revisions trimmed employment by 79K jobs",
+      "content": "<p>Non-farm payrolls benchmark revisions trimmed employment by 79K jobs</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:13:04.974796+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "66b6b1dbb360",
+      "slug": "univ-of-michigan-final-sentiment-index-for-august-517-vs-510-estimate-66b6b1dbb360",
+      "title": "Univ of Michigan final sentiment index for August 51.7 vs 51.0 estimate",
+      "excerpt": "Univ of Michigan final sentiment index for August 51.7 vs 51.0 estimate",
+      "content": "<p>Univ of Michigan final sentiment index for August 51.7 vs 51.0 estimate</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:13:06.555069+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dc945ada65d7",
+      "slug": "canada-gdp-q2-annualized-33-vs-34-estimate-dc945ada65d7",
+      "title": "Canada GDP Q2 annualized 3.3% vs 3.4% estimate",
+      "excerpt": "Canada GDP Q2 annualized 3.3% vs 3.4% estimate",
+      "content": "<p>Canada GDP Q2 annualized 3.3% vs 3.4% estimate</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-29T04:13:08.147792+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "64d9975d61ff",
       "slug": "solana-validators-approve-proposal-to-accelerate-sol-disinflation-64d9975d61ff",
       "title": "Solana validators approve proposal to accelerate SOL disinflation",
@@ -719,189 +899,9 @@
       "date": "2026-08-27T17:02:08.006493+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "56a29f1bb509",
-      "slug": "starkware-tests-quantum-resistant-bitcoin-transaction-on-mainnet-56a29f1bb509",
-      "title": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
-      "excerpt": "StarkWare tests quantum-resistant Bitcoin transaction on mainnet",
-      "content": "<p>StarkWare tests quantum-resistant Bitcoin transaction on mainnet</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:21.588687+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b6f4509e0913",
-      "slug": "shrincs-bip-published-quantum-secure-bitcoin-comes-with-a-catch-b6f4509e0913",
-      "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
-      "excerpt": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
-      "content": "<p>SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:23.142105+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:24.697593+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9fe89b51c6db",
-      "slug": "binance-co-founders-cz-and-yi-he-adopted-simpsons-cartoon-aliases-homer-and-marg-9fe89b51c6db",
-      "title": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings",
-      "excerpt": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings",
-      "content": "<p>Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases ‘Homer’ and ‘Marge’ in company meetings</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:26.706206+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a5ea45cb5b96",
-      "slug": "bitcoin-below-79000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike-a5ea45cb5b96",
-      "title": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
-      "excerpt": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
-      "content": "<p>Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:28.260862+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6e491ca1c8b2",
-      "slug": "lesser-tracked-bitcoin-market-dynamic-lends-credibility-to-august-surge-to-80000-6e491ca1c8b2",
-      "title": "Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000",
-      "excerpt": "Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000",
-      "content": "<p>Lesser-tracked bitcoin market dynamic lends credibility to August surge to $80,000</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:29.817156+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0e69c940a923",
-      "slug": "investinglive-asia-pacific-market-news-asia-marks-time-ahead-of-warsh-0e69c940a923",
-      "title": "investingLive Asia-Pacific market news: Asia marks time ahead of Warsh",
-      "excerpt": "investingLive Asia-Pacific market news: Asia marks time ahead of Warsh",
-      "content": "<p>investingLive Asia-Pacific market news: Asia marks time ahead of Warsh</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:31.659040+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d081ccd54bc1",
-      "slug": "china-industrial-profit-growth-slumps-to-7-month-low-of-112-d081ccd54bc1",
-      "title": "China industrial profit growth slumps to 7-month low of 11.2%",
-      "excerpt": "China industrial profit growth slumps to 7-month low of 11.2%",
-      "content": "<p>China industrial profit growth slumps to 7-month low of 11.2%</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:33.212304+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "84e3eccfd457",
-      "slug": "gold-struggles-to-build-on-gains-as-traders-await-fed-chair-warshs-speech-for-ra-84e3eccfd457",
-      "title": "Gold struggles to build on gains as traders await Fed Chair Warsh's speech for rate cues",
-      "excerpt": "Gold struggles to build on gains as traders await Fed Chair Warsh's speech for rate cues",
-      "content": "<p>Gold struggles to build on gains as traders await Fed Chair Warsh's speech for rate cues</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:35.818144+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "48dd09f5921d",
-      "slug": "euro-drifts-higher-above-11650-on-hawkish-ecb-stance-48dd09f5921d",
-      "title": "Euro drifts higher above 1.1650 on hawkish ECB stance",
-      "excerpt": "Euro drifts higher above 1.1650 on hawkish ECB stance",
-      "content": "<p>Euro drifts higher above 1.1650 on hawkish ECB stance</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-27T05:36:37.375622+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-28T23:09:33.365873+00:00",
+  "lastUpdated": "2026-08-29T04:13:09.648028+00:00",
   "totalCount": 50,
   "newCount": 10
 }
