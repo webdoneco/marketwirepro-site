@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "25c2876c92cf",
+      "slug": "a-11-million-crypto-card-hack-crashed-a-neobanks-token-49-25c2876c92cf",
+      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "excerpt": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "content": "<p>A $1.1 million crypto card hack crashed a neobank's token 49%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-30T02:15:00.984810+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bb21a46387b4",
+      "slug": "inside-the-high-stakes-battle-between-digital-dollars-and-swifts-massive-money-e-bb21a46387b4",
+      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+      "excerpt": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+      "content": "<p>Inside the high-stakes battle between digital dollars and Swift's massive money engine</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-08-30T02:15:02.600931+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "653059c72741",
       "slug": "bitcoin-wallets-untouched-for-10-years-moved-40-million-worth-of-coins-653059c72741",
       "title": "Bitcoin wallets untouched for 10 years moved $40 million worth of coins",
@@ -863,45 +899,9 @@
       "date": "2026-08-28T23:09:28.708631+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bd3deea19fb6",
-      "slug": "fed-chair-kevin-warsh-at-jackson-hole-we-have-work-to-do-on-inflation-bd3deea19fb6",
-      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "excerpt": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "content": "<p>Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-28T23:09:30.256426+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9ba05381ac2f",
-      "slug": "bitcoin-rally-stalls-but-long-term-sentiment-remains-bullish-9ba05381ac2f",
-      "title": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
-      "excerpt": "Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish",
-      "content": "<p>Bitcoin Rally Stalls, But Long-Term Sentiment Remains Bullish</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-28T23:09:31.865710+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-08-29T23:40:40.177461+00:00",
+  "lastUpdated": "2026-08-30T02:15:05.763143+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 2
 }
