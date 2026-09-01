@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "d8b9c17cf70d",
+      "slug": "sec-proposes-broad-update-to-decades-old-transfer-agent-rules-with-blockchain-no-d8b9c17cf70d",
+      "title": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+      "excerpt": "SEC proposes broad update to decades-old transfer agent rules with blockchain nod",
+      "content": "<p>SEC proposes broad update to decades-old transfer agent rules with blockchain nod</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:11.393321+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "83e3417af7d3",
+      "slug": "kalshi-issues-first-lifetime-ban-for-republican-politician-over-insider-bets-83e3417af7d3",
+      "title": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+      "excerpt": "Kalshi issues first lifetime ban for Republican politician over insider bets",
+      "content": "<p>Kalshi issues first lifetime ban for Republican politician over insider bets</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:12.927537+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "57c49d581821",
+      "slug": "dropbox-security-breach-hackers-access-accounts-through-authentication-flaw-57c49d581821",
+      "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
+      "excerpt": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
+      "content": "<p>Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:14.752618+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "77e638765a01",
+      "slug": "anthropic-ships-claude-fable-51-more-than-doubling-its-predecessor-on-key-benchm-77e638765a01",
+      "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
+      "excerpt": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
+      "content": "<p>Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:16.293347+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "38a87f9b30ac",
+      "slug": "bitcoins-next-move-bullish-bets-run-up-against-a-historical-wall-38a87f9b30ac",
+      "title": "Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall",
+      "excerpt": "Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall",
+      "content": "<p>Bitcoin's Next Move: Bullish Bets Run Up Against a Historical Wall</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:17.824455+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3953613ab044",
+      "slug": "solana-treasury-defi-development-corp-eyes-20-million-raise-to-buy-more-sol-3953613ab044",
+      "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
+      "excerpt": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
+      "content": "<p>Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:19.364300+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "233de4706a67",
+      "slug": "cathie-woods-ark-invest-buys-37-million-in-bitcoin-and-payments-firm-block-233de4706a67",
+      "title": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
+      "excerpt": "Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block",
+      "content": "<p>Cathie Wood’s Ark Invest Buys $37 Million in Bitcoin and Payments Firm Block</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:20.897765+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cc3da96ed30d",
+      "slug": "here-we-go-again-trump-says-iran-will-be-totally-wiped-out-as-a-country-crude-oi-cc3da96ed30d",
+      "title": "Here we go again.  Trump says \"Iran will be totally wiped out as a country\". Crude oil trades at $90.50",
+      "excerpt": "Here we go again.  Trump says \"Iran will be totally wiped out as a country\". Crude oil trades at $90.50",
+      "content": "<p>Here we go again.  Trump says \"Iran will be totally wiped out as a country\". Crude oil trades at $90.50</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:22.534577+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8bbafca9649e",
+      "slug": "trump-confirms-us-striking-iran-8bbafca9649e",
+      "title": "Trump confirms US striking Iran.",
+      "excerpt": "Trump confirms US striking Iran.",
+      "content": "<p>Trump confirms US striking Iran.</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:24.069168+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c6086879c397",
+      "slug": "crude-oil-moves-higher-stocks-move-lower-as-reports-of-an-american-attack-on-ira-c6086879c397",
+      "title": "Crude oil moves higher. Stocks move lower as reports of an American attack on Iran",
+      "excerpt": "Crude oil moves higher. Stocks move lower as reports of an American attack on Iran",
+      "content": "<p>Crude oil moves higher. Stocks move lower as reports of an American attack on Iran</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T20:16:25.601595+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "a05cbe961042",
       "slug": "bofa-citi-goldman-sachs-among-21-institutions-planning-stablecoin-launch-a05cbe961042",
       "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
@@ -719,189 +899,9 @@
       "date": "2026-09-01T03:35:01.865755+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8fe1b366857a",
-      "slug": "ireland-excludes-crypto-from-new-tax-advantaged-investment-accounts-8fe1b366857a",
-      "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
-      "excerpt": "Ireland excludes crypto from new tax-advantaged investment accounts",
-      "content": "<p>Ireland excludes crypto from new tax-advantaged investment accounts</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:20.670713+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c926bdd6b198",
-      "slug": "north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes--c926bdd6b198",
-      "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-      "excerpt": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-      "content": "<p>North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:22.601530+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "44d993bb5256",
-      "slug": "as-public-fury-mounts-texas-pulls-the-plug-on-flock-surveillance-funding-44d993bb5256",
-      "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
-      "excerpt": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
-      "content": "<p>As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:24.237663+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fd2dea5b80ea",
-      "slug": "strive-adds-143-million-in-bitcoin-as-treasury-firms-pile-back-in-fd2dea5b80ea",
-      "title": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
-      "excerpt": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
-      "content": "<p>Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:25.783540+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "58526bfce784",
-      "slug": "hyperliquid-in-talks-with-kraken-parent-to-bring-crypto-perps-to-us-traders-58526bfce784",
-      "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
-      "excerpt": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
-      "content": "<p>Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:27.333905+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a15277dfb348",
-      "slug": "inflation-you-want-inflation-uk-shop-prices-rise-at-fastest-pace-since-2024-a15277dfb348",
-      "title": "Inflation? You want inflation? UK shop prices rise at fastest pace since 2024",
-      "excerpt": "Inflation? You want inflation? UK shop prices rise at fastest pace since 2024",
-      "content": "<p>Inflation? You want inflation? UK shop prices rise at fastest pace since 2024</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:29.209868+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ee9d1d6731b6",
-      "slug": "us-army-secretary-driscoll-resigns-after-months-of-friction-with-hegseth-ee9d1d6731b6",
-      "title": "US Army Secretary Driscoll resigns after months of friction with Hegseth",
-      "excerpt": "US Army Secretary Driscoll resigns after months of friction with Hegseth",
-      "content": "<p>US Army Secretary Driscoll resigns after months of friction with Hegseth</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:30.755186+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3e04c88900ec",
-      "slug": "investinglive-americas-fx-news-wrap-31-aug-the-usd-moves-lower-usd-corrects-afte-3e04c88900ec",
-      "title": "investingLive Americas FX news wrap 31 Aug: The USD moves lower. USD corrects after Warsh's hawkish speech at Jackson Hole",
-      "excerpt": "investingLive Americas FX news wrap 31 Aug: The USD moves lower. USD corrects after Warsh's hawkish speech at Jackson Hole",
-      "content": "<p>investingLive Americas FX news wrap 31 Aug: The USD moves lower. USD corrects after Warsh's hawkish speech at Jackson Hole</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:32.299726+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a4b5e901bd4b",
-      "slug": "china-caixin-pmi-preview-private-survey-seen-edging-up-to-510-after-nbs-beat-a4b5e901bd4b",
-      "title": "China Caixin PMI preview: private survey seen edging up to 51.0 after NBS beat",
-      "excerpt": "China Caixin PMI preview: private survey seen edging up to 51.0 after NBS beat",
-      "content": "<p>China Caixin PMI preview: private survey seen edging up to 51.0 after NBS beat</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:33.924164+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1a6c1e4ba691",
-      "slug": "economic-and-event-calendar-in-asia-01-september-2026---china-manufacturing-pmi--1a6c1e4ba691",
-      "title": "Economic and event calendar in Asia 01 September 2026 - China Manufacturing PMI due",
-      "excerpt": "Economic and event calendar in Asia 01 September 2026 - China Manufacturing PMI due",
-      "content": "<p>Economic and event calendar in Asia 01 September 2026 - China Manufacturing PMI due</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T23:58:35.469844+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-01T17:31:01.383397+00:00",
+  "lastUpdated": "2026-09-01T20:16:27.101756+00:00",
   "totalCount": 50,
   "newCount": 10
 }
