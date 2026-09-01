@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "a05cbe961042",
+      "slug": "bofa-citi-goldman-sachs-among-21-institutions-planning-stablecoin-launch-a05cbe961042",
+      "title": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "excerpt": "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+      "content": "<p>BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:45.606562+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "267ee4298ab1",
+      "slug": "ethena-launches-usde-payments-app-offers-6-rewards-267ee4298ab1",
+      "title": "Ethena launches USDe payments app, offers 6% rewards",
+      "excerpt": "Ethena launches USDe payments app, offers 6% rewards",
+      "content": "<p>Ethena launches USDe payments app, offers 6% rewards</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:47.137906+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d81864d3839f",
+      "slug": "bitcoin-stays-flat-as-global-bond-bear-market-rages-on-pushing-jgb-to-high-d81864d3839f",
+      "title": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+      "excerpt": "Bitcoin stays flat as global bond bear market rages on, pushing JGB to high",
+      "content": "<p>Bitcoin stays flat as global bond bear market rages on, pushing JGB to high</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:48.668915+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cb990ca8c57a",
+      "slug": "fake-claude-desktop-app-spreads-crypto-stealing-malware-cb990ca8c57a",
+      "title": "Fake Claude desktop app spreads crypto-stealing malware",
+      "excerpt": "Fake Claude desktop app spreads crypto-stealing malware",
+      "content": "<p>Fake Claude desktop app spreads crypto-stealing malware</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:50.202918+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f61b2d0db860",
+      "slug": "citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture-f61b2d0db860",
+      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "excerpt": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
+      "content": "<p>Citi, Goldman, other global banks and asset managers team up on stablecoin venture</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:52.161552+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1700fc6a2a0a",
+      "slug": "robinhoods-new-crypto-network-is-printing-cash-and-its-sending-arbitrums-token-s-1700fc6a2a0a",
+      "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+      "excerpt": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+      "content": "<p>Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:53.695766+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4437b9c5f065",
+      "slug": "musks-x-hit-by-wave-of-unsolicited-password-reset-emails-4437b9c5f065",
+      "title": "Musk’s X hit by wave of unsolicited password reset emails",
+      "excerpt": "Musk’s X hit by wave of unsolicited password reset emails",
+      "content": "<p>Musk’s X hit by wave of unsolicited password reset emails</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:55.232268+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6d72a434be1c",
+      "slug": "firelight-raises-8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-6d72a434be1c",
+      "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+      "excerpt": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+      "content": "<p>Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:56.762794+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3b34b9a493ab",
+      "slug": "bitcoin-enters-rektember-as-rate-hike-risk-combines-with-seasonality-to-threaten-3b34b9a493ab",
+      "title": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
+      "excerpt": "Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally",
+      "content": "<p>Bitcoin enters ‘Rektember’ as rate-hike risk combines with seasonality to threaten rally</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:58.293120+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "068d5923a81d",
+      "slug": "x-data-breach-users-are-getting-flooded-with-password-reset-emails-nobody-reques-068d5923a81d",
+      "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
+      "excerpt": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
+      "content": "<p>X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-01T17:30:59.883247+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "87cdf5c78db1",
       "slug": "does-the-bitcoin-rally-mean-we-havent-wasted-our-lives-in-crypto-87cdf5c78db1",
       "title": "Does the Bitcoin rally mean we haven’t wasted our lives in crypto?",
@@ -719,189 +899,9 @@
       "date": "2026-08-31T23:58:35.469844+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "796596875944",
-      "slug": "webull-expands-crypto-trading-into-canada-through-coinbase-collaboration-796596875944",
-      "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
-      "excerpt": "Webull expands crypto trading into Canada through Coinbase collaboration",
-      "content": "<p>Webull expands crypto trading into Canada through Coinbase collaboration</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:20.278177+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c31531f92b07",
-      "slug": "bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high-c31531f92b07",
-      "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
-      "excerpt": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
-      "content": "<p>Bitcoin begins volatile monthly close as US bond yields eye new 20-year high</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:21.836882+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7e9973aa06a5",
-      "slug": "bitmine-now-controls-49-of-ethereum-supply-after-adding-535k-eth-7e9973aa06a5",
-      "title": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
-      "excerpt": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
-      "content": "<p>Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:23.402646+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9f8b3590a279",
-      "slug": "strive-buys-1800-bitcoin-for-143m-becomes-fifth-biggest-corporate-holder-9f8b3590a279",
-      "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
-      "excerpt": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
-      "content": "<p>Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:24.962061+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "34d1bc56b2f7",
-      "slug": "russian-crypto-trading-to-bring-46b-to-regulated-exchanges-in-first-year-after-l-34d1bc56b2f7",
-      "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
-      "excerpt": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
-      "content": "<p>Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:26.523411+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0d1c02433c47",
-      "slug": "kalshi-lays-down-first-lifetime-ban-for-ex-member-of-congress-george-santos-0d1c02433c47",
-      "title": "Kalshi lays down first lifetime ban for ex-member of Congress George Santos",
-      "excerpt": "Kalshi lays down first lifetime ban for ex-member of Congress George Santos",
-      "content": "<p>Kalshi lays down first lifetime ban for ex-member of Congress George Santos</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:28.516391+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6bfcf233052d",
-      "slug": "nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm-6bfcf233052d",
-      "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
-      "excerpt": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
-      "content": "<p>NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:30.081823+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "99b49f9f2453",
-      "slug": "george-santos-bet-on-whether-hed-show-up-to-the-state-of-the-unionkalshi-just-ba-99b49f9f2453",
-      "title": "George Santos Bet on Whether He'd Show Up to the State of the Union—Kalshi Just Banned Him for Life",
-      "excerpt": "George Santos Bet on Whether He'd Show Up to the State of the Union—Kalshi Just Banned Him for Life",
-      "content": "<p>George Santos Bet on Whether He'd Show Up to the State of the Union—Kalshi Just Banned Him for Life</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:31.743381+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b947ce9842fe",
-      "slug": "xrp-etfs-extend-inflow-streak-to-9-days-pulling-in-16-billion-since-launch-b947ce9842fe",
-      "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
-      "excerpt": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
-      "content": "<p>XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:33.303928+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3bd6aef2fc76",
-      "slug": "russias-sberbank-sees-46-billion-in-crypto-trading-plans-ethereum-and-usdt-backe-3bd6aef2fc76",
-      "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-      "excerpt": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-      "content": "<p>Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-08-31T20:27:34.859281+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-01T13:56:10.514208+00:00",
+  "lastUpdated": "2026-09-01T17:31:01.383397+00:00",
   "totalCount": 50,
   "newCount": 10
 }
