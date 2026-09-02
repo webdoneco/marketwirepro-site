@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "1e6842f12775",
+      "slug": "sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-us-tra-1e6842f12775",
+      "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "excerpt": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
+      "content": "<p>SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:07.886565+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0082e9f79ed5",
+      "slug": "bojs-ueda-says-no-comment-on-daily-moves-markets-price-in-high-likelihood-of-sep-0082e9f79ed5",
+      "title": "BoJ’s Ueda says no comment on daily moves, markets price in high likelihood of September rate hike",
+      "excerpt": "BoJ’s Ueda says no comment on daily moves, markets price in high likelihood of September rate hike",
+      "content": "<p>BoJ’s Ueda says no comment on daily moves, markets price in high likelihood of September rate hike</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:09.859095+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "464231779696",
+      "slug": "japans-katayama-debt-expansion-is-global-trend-fiscal-policy-targeting-growth-an-464231779696",
+      "title": "Japan’s Katayama: Debt expansion is global trend, fiscal policy targeting growth and sustainability",
+      "excerpt": "Japan’s Katayama: Debt expansion is global trend, fiscal policy targeting growth and sustainability",
+      "content": "<p>Japan’s Katayama: Debt expansion is global trend, fiscal policy targeting growth and sustainability</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:11.391842+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f0a6736a9802",
+      "slug": "us-military-confirms-hits-iranian-air-defence-and-naval-sites-f0a6736a9802",
+      "title": "US military confirms hits Iranian air defence and naval sites",
+      "excerpt": "US military confirms hits Iranian air defence and naval sites",
+      "content": "<p>US military confirms hits Iranian air defence and naval sites</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:12.922765+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a4c41aa9d5d1",
+      "slug": "gold-slumps-below-4350-on-higher-us-yields-hawkish-fed-bets-a4c41aa9d5d1",
+      "title": "Gold slumps below $4,350 on higher US yields, hawkish Fed bets",
+      "excerpt": "Gold slumps below $4,350 on higher US yields, hawkish Fed bets",
+      "content": "<p>Gold slumps below $4,350 on higher US yields, hawkish Fed bets</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:14.453576+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1b723ddb8f30",
+      "slug": "rbnz-expected-to-hike-interest-rate-amid-sticky-inflation-1b723ddb8f30",
+      "title": "RBNZ expected to hike interest rate amid sticky inflation",
+      "excerpt": "RBNZ expected to hike interest rate amid sticky inflation",
+      "content": "<p>RBNZ expected to hike interest rate amid sticky inflation</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:15.982763+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "98d863338a2a",
+      "slug": "australian-dollar-falls-as-us-iran-conflict-lifts-usd-gdp-data-eyed-98d863338a2a",
+      "title": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
+      "excerpt": "Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed",
+      "content": "<p>Australian Dollar falls as US-Iran conflict lifts USD, GDP data eyed</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:17.514511+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0510dc2c5e29",
+      "slug": "dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-0510dc2c5e29",
+      "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
+      "excerpt": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
+      "content": "<p>Dell’s AI servers drive a stellar earnings performance, and a raised outlook</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:19.342750+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "12e0289ac6fd",
+      "slug": "palo-alto-networks-stock-falls-despite-strong-ai-cybersecurity-demand-12e0289ac6fd",
+      "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+      "excerpt": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
+      "content": "<p>Palo Alto Networks’ stock falls despite strong AI cybersecurity demand</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:20.873511+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bd46b6098754",
+      "slug": "im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-b-bd46b6098754",
+      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "excerpt": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
+      "content": "<p>‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-02T00:39:22.408203+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "43bfbed20060",
       "slug": "crypto-backed-pac-scales-back-ad-spending-in-massachusetts-primary-43bfbed20060",
       "title": "Crypto-backed PAC scales back ad spending in Massachusetts primary",
@@ -719,189 +899,9 @@
       "date": "2026-09-01T13:56:09.013999+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f0af28b4fee7",
-      "slug": "trump-jr-linked-1789-capital-leads-polymarkets-1b-raise-report-f0af28b4fee7",
-      "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
-      "excerpt": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
-      "content": "<p>Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:37.900832+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:39.434067+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d35e99e7ba8e",
-      "slug": "blackrock-drives-217m-bitcoin-etf-rebound-as-altcoin-funds-continue-streaks-d35e99e7ba8e",
-      "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-      "excerpt": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-      "content": "<p>BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:40.964046+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7175f3af0170",
-      "slug": "thailand-sec-proposes-retail-access-to-regulated-overseas-crypto-derivatives-7175f3af0170",
-      "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
-      "excerpt": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
-      "content": "<p>Thailand SEC proposes retail access to regulated overseas crypto derivatives</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:42.494642+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "028e15754c7a",
-      "slug": "live-updates-bitcoin-etfs-resume-buying-as-ether-funds-stretch-streak-to-11-days-028e15754c7a",
-      "title": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
-      "excerpt": "Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days",
-      "content": "<p>Live updates: Bitcoin ETFs resume buying as ether funds stretch streak to 11 days</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:44.255669+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "17dc22cd8ea5",
-      "slug": "london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain-17dc22cd8ea5",
-      "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-      "excerpt": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-      "content": "<p>London Stock Exchange to work with Payward to bring biggest UK stocks onchain</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:45.785892+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "077da9c88525",
-      "slug": "openais-trust-us-time-cover-raises-an-old-warning-for-ai-bulls-077da9c88525",
-      "title": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
-      "excerpt": "OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls",
-      "content": "<p>OpenAI’s ‘Trust Us’ TIME cover raises an old warning for AI bulls</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:47.319411+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "25a46ed5b5be",
-      "slug": "bitcoin-steady-above-78000-hype-leads-as-majors-slip-on-hawkish-fed-bets-25a46ed5b5be",
-      "title": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-      "excerpt": "Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets",
-      "content": "<p>Bitcoin steady above $78,000, HYPE leads as majors slip on hawkish Fed bets</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:48.852044+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4c4568c894a2",
-      "slug": "trump-jrs-firm-leads-1-billion-polymarket-raise-at-21-billion-value-report-4c4568c894a2",
-      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
-      "excerpt": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
-      "content": "<p>Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:50.385048+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "470c59d181e5",
-      "slug": "cmes-share-of-xrp-futures-jumps-as-token-rallies-40-in-a-week-470c59d181e5",
-      "title": "CME’s share of XRP futures jumps as token rallies 40% in a week",
-      "excerpt": "CME’s share of XRP futures jumps as token rallies 40% in a week",
-      "content": "<p>CME’s share of XRP futures jumps as token rallies 40% in a week</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-01T08:58:51.915700+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-01T22:41:01.655445+00:00",
+  "lastUpdated": "2026-09-02T00:39:23.908362+00:00",
   "totalCount": 50,
   "newCount": 10
 }
