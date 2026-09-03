@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:24.011048+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fa547e55fb3e",
+      "slug": "anthropic-admits-security-failures-behind-claude-hacking-incidents-fa547e55fb3e",
+      "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+      "excerpt": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+      "content": "<p>Anthropic Admits Security Failures Behind Claude Hacking Incidents</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:26.056701+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a65fa99cc164",
+      "slug": "an-ai-training-data-startup-just-became-y-combinators-fastest-ever-unicorn-a65fa99cc164",
+      "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+      "excerpt": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+      "content": "<p>An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:27.600218+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a9700a0ca7e5",
+      "slug": "fbi-seizes-560k-in-crypto-bound-for-hamas-takes-over-fundraising-sites-a9700a0ca7e5",
+      "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+      "excerpt": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+      "content": "<p>FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:29.144397+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7f2c687d4d20",
+      "slug": "us-president-donald-trump-renewed-campaign-against-iran-will-not-continue-for-to-7f2c687d4d20",
+      "title": "US President Donald Trump: Renewed campaign against Iran will not continue for too long",
+      "excerpt": "US President Donald Trump: Renewed campaign against Iran will not continue for too long",
+      "content": "<p>US President Donald Trump: Renewed campaign against Iran will not continue for too long</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:31.475879+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3a21e8f9b748",
+      "slug": "the-australian-dollars-thirteen-year-high-is-a-new-zealand-story-3a21e8f9b748",
+      "title": "The Australian Dollar's thirteen-year high is a New Zealand story",
+      "excerpt": "The Australian Dollar's thirteen-year high is a New Zealand story",
+      "content": "<p>The Australian Dollar's thirteen-year high is a New Zealand story</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:33.023924+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c40fcea9525b",
+      "slug": "gold-rebounds-above-4350-as-us-dollar-treasury-yields-slip-c40fcea9525b",
+      "title": "Gold rebounds above $4,350 as US Dollar, Treasury yields slip",
+      "excerpt": "Gold rebounds above $4,350 as US Dollar, Treasury yields slip",
+      "content": "<p>Gold rebounds above $4,350 as US Dollar, Treasury yields slip</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:34.565132+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "02143c8137f7",
+      "slug": "gbpjpy-price-forecast-sellers-eye-21400-after-sma-break-02143c8137f7",
+      "title": "GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break",
+      "excerpt": "GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break",
+      "content": "<p>GBP/JPY Price Forecast: Sellers eye 214.00 after SMA break</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:36.112049+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7d51cafe9116",
+      "slug": "the-new-zealand-dollar-sells-the-hike-it-asked-for-7d51cafe9116",
+      "title": "The New Zealand Dollar sells the hike it asked for",
+      "excerpt": "The New Zealand Dollar sells the hike it asked for",
+      "content": "<p>The New Zealand Dollar sells the hike it asked for</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:37.661997+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "72c6fafa5f17",
+      "slug": "broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-fo-72c6fafa5f17",
+      "title": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "excerpt": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+      "content": "<p>Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-03T00:49:39.588487+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "f2f12528b773",
       "slug": "us-officials-work-with-crowdstrike-to-fight-malware-behind-crypto-theft-f2f12528b773",
       "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
@@ -719,189 +899,9 @@
       "date": "2026-09-02T13:56:35.484838+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9e5763b75b14",
-      "slug": "bitcoin-etfs-notch-best-month-of-2026-as-btc-gains-25-in-august-9e5763b75b14",
-      "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
-      "excerpt": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
-      "content": "<p>Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:39.834176+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "85b157b5d84b",
-      "slug": "hype-treasury-firm-hyperliquid-strategies-boosts-equity-facility-to-25b-85b157b5d84b",
-      "title": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-      "excerpt": "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
-      "content": "<p>HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:41.375673+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "16827e3306c2",
-      "slug": "live-updates-blackrocks-ibit-drives-236-million-bitcoin-etf-outflow-16827e3306c2",
-      "title": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
-      "excerpt": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
-      "content": "<p>Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:43.297279+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a15aea6e8118",
-      "slug": "xrp-etfs-pull-in-170-million-over-eleven-days-goldman-tops-institutional-holders-a15aea6e8118",
-      "title": "XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders",
-      "excerpt": "XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders",
-      "content": "<p>XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:44.839681+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "68b945ee0d11",
-      "slug": "a-china-indicator-that-supports-risk-taking-in-stocks-and-bitcoin-is-flashing-re-68b945ee0d11",
-      "title": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
-      "excerpt": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
-      "content": "<p>A China indicator that supports risk-taking in stocks and bitcoin is flashing red</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:46.381962+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ed28b5eeba90",
-      "slug": "openai-says-its-new-astra-ai-can-build-attacks-without-human-help-ed28b5eeba90",
-      "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
-      "excerpt": "OpenAI says its new 'Astra' AI can build attacks without human help",
-      "content": "<p>OpenAI says its new 'Astra' AI can build attacks without human help</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:47.923474+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4f2b28552921",
-      "slug": "kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself-4f2b28552921",
-      "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
-      "excerpt": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
-      "content": "<p>Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:49.554473+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e871982637a1",
-      "slug": "irgc-claims-that-another-two-oil-tankers-have-been-disabled-after-hitting-mines--e871982637a1",
-      "title": "IRGC claims that another two oil tankers have been disabled after hitting mines in the Strait of Hormuz",
-      "excerpt": "IRGC claims that another two oil tankers have been disabled after hitting mines in the Strait of Hormuz",
-      "content": "<p>IRGC claims that another two oil tankers have been disabled after hitting mines in the Strait of Hormuz</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:51.416385+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "23388371ce72",
-      "slug": "the-tectonic-shift-that-is-taking-place-in-the-bond-market-23388371ce72",
-      "title": "The tectonic shift that is taking place in the bond market",
-      "excerpt": "The tectonic shift that is taking place in the bond market",
-      "content": "<p>The tectonic shift that is taking place in the bond market</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:52.958491+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0c200ae8fd95",
-      "slug": "what-are-the-main-events-for-today-0c200ae8fd95",
-      "title": "What are the main events for today?",
-      "excerpt": "What are the main events for today?",
-      "content": "<p>What are the main events for today?</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-02T09:45:54.500177+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-02T22:43:28.226645+00:00",
+  "lastUpdated": "2026-09-03T00:49:41.088675+00:00",
   "totalCount": 50,
   "newCount": 10
 }
