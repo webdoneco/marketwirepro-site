@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "a3dcade3e0ab",
+      "slug": "xrp-ledger-has-fewer-active-accounts-than-last-year-but-bigger-trades-and-more-v-a3dcade3e0ab",
+      "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "excerpt": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+      "content": "<p>XRP Ledger has fewer active accounts than last year, but bigger trades and more value</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-05T06:28:23.484096+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "74a25da9f496",
+      "slug": "southeast-asias-crypto-funding-rebounds-to-680-million-as-investors-focus-on-mat-74a25da9f496",
+      "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "excerpt": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "content": "<p>Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-05T06:28:25.024016+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d008f3d63603",
       "slug": "why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-d008f3d63603",
       "title": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
@@ -863,45 +899,9 @@
       "date": "2026-09-04T13:51:29.487414+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7e34bad56fff",
-      "slug": "zcash-jumps-20-to-landmark-1000-level-as-short-sellers-lose-34-million-7e34bad56fff",
-      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-      "excerpt": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-      "content": "<p>Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-04T13:51:31.017315+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8cd001a2ed54",
-      "slug": "bitcoin-clears-81000-as-privacy-coins-lead-a-broad-crypto-rally-8cd001a2ed54",
-      "title": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-      "excerpt": "Bitcoin clears $81,000 as privacy coins lead a broad crypto rally",
-      "content": "<p>Bitcoin clears $81,000 as privacy coins lead a broad crypto rally</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-04T13:51:32.550309+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-05T01:52:17.521653+00:00",
+  "lastUpdated": "2026-09-05T06:28:27.504429+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 2
 }
