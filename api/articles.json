@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-05T20:32:36.073468+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "12c0792f8bbd",
+      "slug": "robinhood-isnt-backing-down-after-amc-ceo-demands-halt-to-stock-tokens-12c0792f8bbd",
+      "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
+      "excerpt": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
+      "content": "<p>Robinhood isn't backing down after AMC CEO demands halt to stock tokens</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-05T20:32:37.852388+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a3981c504702",
+      "slug": "think-you-maxed-out-your-401k-the-real-limit-is-actually-almost-50000-higher-a3981c504702",
+      "title": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
+      "excerpt": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.",
+      "content": "<p>Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-05T20:32:40.249150+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "55b3e996c0f8",
+      "slug": "why-the-jobs-report-will-actually-be-good-for-bonds-55b3e996c0f8",
+      "title": "Why the jobs report will actually be good for bonds",
+      "excerpt": "Why the jobs report will actually be good for bonds",
+      "content": "<p>Why the jobs report will actually be good for bonds</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-05T20:32:41.775639+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "0da6e3a2a081",
       "slug": "why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-th-0da6e3a2a081",
       "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
@@ -827,81 +899,9 @@
       "date": "2026-09-04T21:55:43.973917+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a9065aee17aa",
-      "slug": "us-august-non-farm-payrolls-162k-vs-56k-expected-a9065aee17aa",
-      "title": "US August non-farm payrolls +162K vs +56K expected",
-      "excerpt": "US August non-farm payrolls +162K vs +56K expected",
-      "content": "<p>US August non-farm payrolls +162K vs +56K expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-04T21:55:45.511211+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e98d7330f85c",
-      "slug": "malaysian-ringgit-bnm-hawkish-tilt-supports-myr-commerzbank-e98d7330f85c",
-      "title": "Malaysian Ringgit: BNM hawkish tilt supports MYR – Commerzbank",
-      "excerpt": "Malaysian Ringgit: BNM hawkish tilt supports MYR – Commerzbank",
-      "content": "<p>Malaysian Ringgit: BNM hawkish tilt supports MYR – Commerzbank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-04T21:55:47.114747+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f2da8b8db239",
-      "slug": "pineapple-financial-puts-1b-in-mortgage-records-on-injective-f2da8b8db239",
-      "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-      "excerpt": "Pineapple Financial puts $1B in mortgage records on Injective",
-      "content": "<p>Pineapple Financial puts $1B in mortgage records on Injective</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-04T19:42:54.174002+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dd33e3fadb7a",
-      "slug": "fincen-ties-13b-in-crypto-scams-to-non-us-operations-dd33e3fadb7a",
-      "title": "FinCEN ties $13B in crypto scams to non-US operations",
-      "excerpt": "FinCEN ties $13B in crypto scams to non-US operations",
-      "content": "<p>FinCEN ties $13B in crypto scams to non-US operations</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-04T19:42:55.704663+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-05T18:26:57.616909+00:00",
+  "lastUpdated": "2026-09-05T20:32:43.304127+00:00",
   "totalCount": 50,
-  "newCount": 8
+  "newCount": 4
 }
