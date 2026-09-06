@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "189749309053",
+      "slug": "timing-the-bitcoin-market-is-exciting-but-nearly-impossible-heres-why-189749309053",
+      "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
+      "excerpt": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
+      "content": "<p>Timing the bitcoin market is exciting but nearly impossible. Here's why</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-06T09:01:21.853260+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a6d69564069e",
+      "slug": "will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-a6d69564069e",
+      "title": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+      "excerpt": "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
+      "content": "<p>Will a data center hurt your home’s value? Research says no. Sellers disagree.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-06T09:01:24.200596+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d2988fb855d8",
       "slug": "surprise-nonfarm-payrolls-print-sends-bitcoin-back-below-80k-d2988fb855d8",
       "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
@@ -863,45 +899,9 @@
       "date": "2026-09-04T23:33:50.597002+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8fa9cb542e15",
-      "slug": "bloom-energy-was-just-named-to-the-sp-500-these-other-stocks-are-joining-the-ind-8fa9cb542e15",
-      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
-      "excerpt": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
-      "content": "<p>Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-04T23:33:52.625008+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "100af1ccb380",
-      "slug": "teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-100af1ccb380",
-      "title": "Tesla’s stock falls as Cybercab launch lands with a thud",
-      "excerpt": "Tesla’s stock falls as Cybercab launch lands with a thud",
-      "content": "<p>Tesla’s stock falls as Cybercab launch lands with a thud</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-04T23:33:54.165585+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-06T04:52:29.206858+00:00",
+  "lastUpdated": "2026-09-06T09:01:25.726204+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 2
 }
