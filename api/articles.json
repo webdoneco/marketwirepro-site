@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "105c573edc96",
+      "slug": "new-york-town-weighs-crypto-mining-and-ai-data-center-ban-105c573edc96",
+      "title": "New York town weighs crypto mining and AI data center ban",
+      "excerpt": "New York town weighs crypto mining and AI data center ban",
+      "content": "<p>New York town weighs crypto mining and AI data center ban</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:35.711250+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "78a05240efee",
+      "slug": "franklin-templeton-digital-asset-veteran-takes-helm-at-stablecoinx-78a05240efee",
+      "title": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+      "excerpt": "Franklin Templeton digital asset veteran takes helm at StablecoinX",
+      "content": "<p>Franklin Templeton digital asset veteran takes helm at StablecoinX</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:37.255258+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5eb9a7191148",
+      "slug": "openai-says-it-solved-a-1m-math-problem-a-rival-mathematician-says-he-did-it-fir-5eb9a7191148",
+      "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+      "excerpt": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+      "content": "<p>OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:39.509398+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7fec6c697880",
+      "slug": "47m-still-missing-after-liquid-hack-as-blockstream-bargains-with-white-hats-7fec6c697880",
+      "title": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+      "excerpt": "$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'",
+      "content": "<p>$47M Still Missing After Liquid Hack as Blockstream Bargains With 'White Hats'</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:41.058504+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1fead681ba25",
+      "slug": "investinglive-americas-fx-news-wrap-8-sept-usd-mixed-yields-rise-trader-await-in-1fead681ba25",
+      "title": "investingLive Americas FX news wrap 8 Sept: USD mixed, yields rise. Trader await inflation data.",
+      "excerpt": "investingLive Americas FX news wrap 8 Sept: USD mixed, yields rise. Trader await inflation data.",
+      "content": "<p>investingLive Americas FX news wrap 8 Sept: USD mixed, yields rise. Trader await inflation data.</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:42.903101+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "29f509d24d4f",
+      "slug": "china-august-inflation-seen-rebounding-as-trade-data-flags-demand-gap-29f509d24d4f",
+      "title": "China August inflation seen rebounding as trade data flags demand gap",
+      "excerpt": "China August inflation seen rebounding as trade data flags demand gap",
+      "content": "<p>China August inflation seen rebounding as trade data flags demand gap</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:44.454402+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e04d0255c9e9",
+      "slug": "the-pound-sits-still-through-a-hawkish-hearing-and-the-priciest-gilt-sale-e04d0255c9e9",
+      "title": "The Pound sits still through a hawkish hearing and the priciest gilt sale",
+      "excerpt": "The Pound sits still through a hawkish hearing and the priciest gilt sale",
+      "content": "<p>The Pound sits still through a hawkish hearing and the priciest gilt sale</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:46.257846+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2be2ab693a4c",
+      "slug": "usdjpy-price-forecast-hammer-teases-rebound-after-650-pip-slide-2be2ab693a4c",
+      "title": "USD/JPY Price Forecast: Hammer teases rebound after 650-pip slide",
+      "excerpt": "USD/JPY Price Forecast: Hammer teases rebound after 650-pip slide",
+      "content": "<p>USD/JPY Price Forecast: Hammer teases rebound after 650-pip slide</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:47.814073+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d2b29d90e280",
+      "slug": "silver-price-forecast-head-and-shoulders-risk-builds-below-67-d2b29d90e280",
+      "title": "Silver Price Forecast: Head-and-Shoulders risk builds below $67",
+      "excerpt": "Silver Price Forecast: Head-and-Shoulders risk builds below $67",
+      "content": "<p>Silver Price Forecast: Head-and-Shoulders risk builds below $67</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:49.363737+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9a58b1808239",
+      "slug": "forex-today-chinas-inflation-looms-as-lagarde-tees-up-ecb-decision-9a58b1808239",
+      "title": "Forex Today: China’s inflation looms as Lagarde tees up ECB decision",
+      "excerpt": "Forex Today: China’s inflation looms as Lagarde tees up ECB decision",
+      "content": "<p>Forex Today: China’s inflation looms as Lagarde tees up ECB decision</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-08T22:49:50.908738+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b7d809dfcb75",
       "slug": "bybit-launches-247-perpetuals-for-major-currency-pairs-b7d809dfcb75",
       "title": "Bybit launches 24/7 perpetuals for major currency pairs",
@@ -719,189 +899,9 @@
       "date": "2026-09-08T09:53:35.561490+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "62488bc0353c",
-      "slug": "australia-says-it-removed-45-crypto-remittance-registrations-over-the-past-year-62488bc0353c",
-      "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
-      "excerpt": "Australia says it removed 45 crypto, remittance registrations over the past year",
-      "content": "<p>Australia says it removed 45 crypto, remittance registrations over the past year</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:31.410843+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "551c985dcb8a",
-      "slug": "liquid-white-hats-return-270m-in-bitcoin-as-network-prepares-restart-551c985dcb8a",
-      "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
-      "excerpt": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
-      "content": "<p>Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:32.941496+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "89da77a534cf",
-      "slug": "liquid-network-gets-back-3400-bitcoin-from-whitehat-hackers-talks-underway-for-t-89da77a534cf",
-      "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-      "excerpt": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
-      "content": "<p>Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:34.722333+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7075878418cc",
-      "slug": "bitcoin-slips-under-79000-zcash-leads-losses-as-fed-hike-odds-hold-near-60-7075878418cc",
-      "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-      "excerpt": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
-      "content": "<p>Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:36.253377+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8d9b9c792e8e",
-      "slug": "investinglive-asia-pacific-market-news-yen-surges-to-six-month-high-8d9b9c792e8e",
-      "title": "investingLive Asia-Pacific market news: Yen surges to six-month high",
-      "excerpt": "investingLive Asia-Pacific market news: Yen surges to six-month high",
-      "content": "<p>investingLive Asia-Pacific market news: Yen surges to six-month high</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:38.014249+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f5ba598224e5",
-      "slug": "china-exports-match-forecast-in-august-imports-fall-short-as-domestic-demand-sta-f5ba598224e5",
-      "title": "China exports match forecast in August, imports fall short as domestic demand stays soft",
-      "excerpt": "China exports match forecast in August, imports fall short as domestic demand stays soft",
-      "content": "<p>China exports match forecast in August, imports fall short as domestic demand stays soft</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:39.543985+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3b738f005d30",
-      "slug": "china-august-trade-balance-shows-imports-below-expectations-3b738f005d30",
-      "title": "China August trade balance shows imports below expectations",
-      "excerpt": "China August trade balance shows imports below expectations",
-      "content": "<p>China August trade balance shows imports below expectations</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:41.073033+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "506f2316f576",
-      "slug": "chinas-rio-tinto-ore-purchasing-halt-appears-set-to-take-effect-aud-down-506f2316f576",
-      "title": "China's Rio Tinto ore purchasing halt appears set to take effect. AUD down.",
-      "excerpt": "China's Rio Tinto ore purchasing halt appears set to take effect. AUD down.",
-      "content": "<p>China's Rio Tinto ore purchasing halt appears set to take effect. AUD down.</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:42.606055+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4b9478a7fb09",
-      "slug": "gbpusd-price-forecast-consolidates-below-mid-13500s-bullish-potential-seems-inta-4b9478a7fb09",
-      "title": "GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact",
-      "excerpt": "GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact",
-      "content": "<p>GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:44.968648+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7a0c7bb821c7",
-      "slug": "new-zealand-dollar-struggles-after-chinas-trade-balance-data-7a0c7bb821c7",
-      "title": "New Zealand Dollar struggles after China’s Trade Balance data",
-      "excerpt": "New Zealand Dollar struggles after China’s Trade Balance data",
-      "content": "<p>New Zealand Dollar struggles after China’s Trade Balance data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-08T05:25:46.498003+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-08T20:26:36.212065+00:00",
+  "lastUpdated": "2026-09-08T22:49:52.408872+00:00",
   "totalCount": 50,
   "newCount": 10
 }
