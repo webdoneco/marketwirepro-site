@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "fac41c0ae339",
+      "slug": "esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance-fac41c0ae339",
+      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+      "excerpt": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+      "content": "<p>ESMA warns growing crypto ties could amplify risks to traditional finance</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:42.441947+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "acc0a49c9fb5",
+      "slug": "new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-acc0a49c9fb5",
+      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "excerpt": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "content": "<p>New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:44.435997+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3773410ff808",
+      "slug": "why-a-new-sec-plan-could-ease-a-legal-headache-for-tokenized-securities-3773410ff808",
+      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "excerpt": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "content": "<p>Why a new SEC plan could ease a legal headache for tokenized securities</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:46.008538+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "674ed10ff468",
+      "slug": "deepseeks-new-model-nearly-matches-gpt-6-astra-on-designat-14-of-the-cost-674ed10ff468",
+      "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+      "excerpt": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+      "content": "<p>DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:47.672207+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1f1af4c5c301",
+      "slug": "ai-agents-just-slashed-the-cost-of-a-quantum-attack-on-bitcoin-1f1af4c5c301",
+      "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+      "excerpt": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+      "content": "<p>AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:49.231611+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "257241b1e112",
+      "slug": "coinbase-wallet-rebrands-to-chase-anything-anywhere-trading-as-robinhood-chain-h-257241b1e112",
+      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+      "excerpt": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+      "content": "<p>Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:50.796777+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f0c658a3f65a",
+      "slug": "bitcoin-rally-cools-but-a-golden-cross-is-coming-f0c658a3f65a",
+      "title": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+      "excerpt": "Bitcoin Rally Cools, But a Golden Cross Is Coming",
+      "content": "<p>Bitcoin Rally Cools, But a Golden Cross Is Coming</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:52.354625+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "272454694d79",
+      "slug": "investinglive-americas-market-news-wrap-oil-climbs-7-272454694d79",
+      "title": "investingLive Americas market news wrap: Oil climbs 7%",
+      "excerpt": "investingLive Americas market news wrap: Oil climbs 7%",
+      "content": "<p>investingLive Americas market news wrap: Oil climbs 7%</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:54.089631+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8fd116d62fdc",
+      "slug": "the-us-treasury-bought-5187-billion-in-10-20-year-notes-8fd116d62fdc",
+      "title": "The US Treasury bought $5.187 billion in 10-20 year notes",
+      "excerpt": "The US Treasury bought $5.187 billion in 10-20 year notes",
+      "content": "<p>The US Treasury bought $5.187 billion in 10-20 year notes</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:55.647143+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "76b2a980e443",
+      "slug": "us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5308-76b2a980e443",
+      "title": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.308%",
+      "excerpt": "US treasury sells $22 billion of 30 year bonds at a high yield of 5.308%",
+      "content": "<p>US treasury sells $22 billion of 30 year bonds at a high yield of 5.308%</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-10T21:17:57.210305+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "9440ce41da4e",
       "slug": "uk-house-of-lords-backs-mandatory-digital-asset-strategy-over-labour-position-9440ce41da4e",
       "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
@@ -719,189 +899,9 @@
       "date": "2026-09-10T06:09:13.018500+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:30.516780+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb6a34ef1724",
-      "slug": "investinglive-asia-pacific-market-news-war-escalation-supports-oil-eb6a34ef1724",
-      "title": "investingLive Asia-Pacific market news: War escalation supports oil",
-      "excerpt": "investingLive Asia-Pacific market news: War escalation supports oil",
-      "content": "<p>investingLive Asia-Pacific market news: War escalation supports oil</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:32.407373+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "334d63819293",
-      "slug": "china-inflation-rebounds-on-energy-costs-but-the-demand-story-hasnt-changed---re-334d63819293",
-      "title": "China inflation rebounds on energy costs, but the demand story hasn't changed - recap",
-      "excerpt": "China inflation rebounds on energy costs, but the demand story hasn't changed - recap",
-      "content": "<p>China inflation rebounds on energy costs, but the demand story hasn't changed - recap</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:33.945849+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1da6e5ce5fcf",
-      "slug": "wti-declines-despite-rising-us-iran-tensions-threaten-1da6e5ce5fcf",
-      "title": "WTI declines despite rising US-Iran tensions threaten",
-      "excerpt": "WTI declines despite rising US-Iran tensions threaten",
-      "content": "<p>WTI declines despite rising US-Iran tensions threaten</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:35.589531+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6cb93cded671",
-      "slug": "boj-to-raise-rates-to-125-this-month-reuters-poll-6cb93cded671",
-      "title": "BoJ to raise rates to 1.25% this month — Reuters poll",
-      "excerpt": "BoJ to raise rates to 1.25% this month — Reuters poll",
-      "content": "<p>BoJ to raise rates to 1.25% this month — Reuters poll</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:37.123850+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "27ff2e38bbb7",
-      "slug": "euro-steadies-above-11600-ahead-of-ecb-rate-decision-us-ppi-data-27ff2e38bbb7",
-      "title": "Euro steadies above 1.1600 ahead of ECB rate decision, US PPI data",
-      "excerpt": "Euro steadies above 1.1600 ahead of ECB rate decision, US PPI data",
-      "content": "<p>Euro steadies above 1.1600 ahead of ECB rate decision, US PPI data</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:38.669819+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "77695c0b348e",
-      "slug": "diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-g-77695c0b348e",
-      "title": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
-      "excerpt": "Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.",
-      "content": "<p>Diesel prices hit another record high. If you’re shocked, wait until you see your grocery bill.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:40.413934+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b859a515a04f",
-      "slug": "im-a-single-58-year-old-veteran-in-california-with-15-million-and-a-va-pension-c-b859a515a04f",
-      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "excerpt": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "content": "<p>I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:41.946032+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "123cde363646",
-      "slug": "home-insurance-premiums-just-hit-a-record-high-heres-where-they-spiked-the-most-123cde363646",
-      "title": "Home-insurance premiums just hit a record high. Here’s where they spiked the most.",
-      "excerpt": "Home-insurance premiums just hit a record high. Here’s where they spiked the most.",
-      "content": "<p>Home-insurance premiums just hit a record high. Here’s where they spiked the most.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:43.479369+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d743fdd6b2c0",
-      "slug": "hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-d743fdd6b2c0",
-      "title": "Hunter Biden’s memecoin flops, falling 95% just hours after launch",
-      "excerpt": "Hunter Biden’s memecoin flops, falling 95% just hours after launch",
-      "content": "<p>Hunter Biden’s memecoin flops, falling 95% just hours after launch</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T01:12:45.011939+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-10T18:35:29.599423+00:00",
+  "lastUpdated": "2026-09-10T21:17:58.710539+00:00",
   "totalCount": 50,
   "newCount": 10
 }
