@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "5e708e6c1832",
+      "slug": "anchorage-digital-adds-institutional-access-to-frgmnts-fusd-stablecoin-5e708e6c1832",
+      "title": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+      "excerpt": "Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin",
+      "content": "<p>Anchorage Digital adds institutional access to Frgmnt’s fUSD stablecoin</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:15.449149+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ad7b71bb173e",
+      "slug": "bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yield-ad7b71bb173e",
+      "title": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+      "excerpt": "Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields",
+      "content": "<p>Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond yields</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:16.984222+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eb8a8fb0b1cc",
+      "slug": "the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act-eb8a8fb0b1cc",
+      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+      "excerpt": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+      "content": "<p>The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:18.684267+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "81cfdaa96e27",
+      "slug": "with-fed-rate-hike-all-but-assured-heres-how-markets-might-react-81cfdaa96e27",
+      "title": "With Fed rate hike all but assured, here's how markets might react",
+      "excerpt": "With Fed rate hike all but assured, here's how markets might react",
+      "content": "<p>With Fed rate hike all but assured, here's how markets might react</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:20.217500+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5cee1415205f",
+      "slug": "openai-asks-congress-whether-an-ai-slowdown-would-be-legal-5cee1415205f",
+      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+      "excerpt": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+      "content": "<p>OpenAI Asks Congress Whether an AI Slowdown Would Be Legal</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:21.804997+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f2197d946882",
+      "slug": "robinhood-crypto-trading-volume-jumps-61-in-august-f2197d946882",
+      "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
+      "excerpt": "Robinhood Crypto Trading Volume Jumps 61% in August",
+      "content": "<p>Robinhood Crypto Trading Volume Jumps 61% in August</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:23.353177+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d195d5bbd04f",
+      "slug": "bitwise-to-close-dogecoin-etf-before-its-first-anniversary-d195d5bbd04f",
+      "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
+      "excerpt": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
+      "content": "<p>Bitwise to Close Dogecoin ETF Before Its First Anniversary</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:24.886291+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bddbcd962978",
+      "slug": "bitcoin-rises-as-markets-digest-inflation-data-ahead-of-fed-rate-decision-bddbcd962978",
+      "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
+      "excerpt": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
+      "content": "<p>Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:26.423254+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bbdc880029d7",
+      "slug": "blockstream-refuses-ransom-for-return-of-47m-in-bitcoin-from-liquid-hack-it-is-t-bbdc880029d7",
+      "title": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+      "excerpt": "Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'",
+      "content": "<p>Blockstream Refuses Ransom for Return of $47M in Bitcoin from Liquid Hack: 'It Is Theft'</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:27.953153+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d249c092c30b",
+      "slug": "morning-minute-ai-agents-cut-btc-quantum-attack-benchmark-by-86-d249c092c30b",
+      "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
+      "excerpt": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
+      "content": "<p>Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-11T18:41:29.484553+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "2cb70ea930ac",
       "slug": "metaplanet-cuts-series-10-stock-pool-by-41-plans-hong-kong-subsidiary-2cb70ea930ac",
       "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
@@ -719,189 +899,9 @@
       "date": "2026-09-11T01:14:40.140084+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:15:57.620099+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1cec216f4b9d",
-      "slug": "senate-republicans-release-revised-clarity-act-ahead-of-september-15-vote-1cec216f4b9d",
-      "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
-      "excerpt": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
-      "content": "<p>Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:15:59.461556+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ef0bf17b476d",
-      "slug": "nz-manufacturing-growth-slows-in-august-but-stays-above-long-term-average-ef0bf17b476d",
-      "title": "NZ manufacturing growth slows in August but stays above long-term average",
-      "excerpt": "NZ manufacturing growth slows in August but stays above long-term average",
-      "content": "<p>NZ manufacturing growth slows in August but stays above long-term average</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:16:01.242751+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cdf22e247a7a",
-      "slug": "us-wholesale-inventories-13-in-line-with-expectations-cdf22e247a7a",
-      "title": "US wholesale inventories +1.3% in line with expectations",
-      "excerpt": "US wholesale inventories +1.3% in line with expectations",
-      "content": "<p>US wholesale inventories +1.3% in line with expectations</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:16:02.775810+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6de6cab23590",
-      "slug": "us-august-existing-home-sales-398m-vs-398m-expected-6de6cab23590",
-      "title": "US August existing home sales 3.98m vs 3.98m expected",
-      "excerpt": "US August existing home sales 3.98m vs 3.98m expected",
-      "content": "<p>US August existing home sales 3.98m vs 3.98m expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:16:04.317800+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dbec9738505f",
-      "slug": "audjpy-price-forecast-yen-strength-keeps-11000-in-sight-dbec9738505f",
-      "title": "AUD/JPY Price Forecast: Yen strength keeps 110.00 in sight",
-      "excerpt": "AUD/JPY Price Forecast: Yen strength keeps 110.00 in sight",
-      "content": "<p>AUD/JPY Price Forecast: Yen strength keeps 110.00 in sight</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:16:05.930919+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "03689b297c3c",
-      "slug": "new-zealand-dollar-steadies-after-two-month-low-slide-03689b297c3c",
-      "title": "New Zealand Dollar steadies after two-month low slide",
-      "excerpt": "New Zealand Dollar steadies after two-month low slide",
-      "content": "<p>New Zealand Dollar steadies after two-month low slide</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:16:07.462740+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "93b437a9d399",
-      "slug": "wti-blasts-past-100-as-red-sea-hormuz-risks-collide-93b437a9d399",
-      "title": "WTI blasts past $100 as Red Sea, Hormuz risks collide",
-      "excerpt": "WTI blasts past $100 as Red Sea, Hormuz risks collide",
-      "content": "<p>WTI blasts past $100 as Red Sea, Hormuz risks collide</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:16:08.997871+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c73b96f40cc0",
-      "slug": "forex-today-us-dollar-rebounds-on-hot-ppi-ahead-of-us-cpi-c73b96f40cc0",
-      "title": "Forex Today: US Dollar rebounds on hot PPI ahead of US CPI",
-      "excerpt": "Forex Today: US Dollar rebounds on hot PPI ahead of US CPI",
-      "content": "<p>Forex Today: US Dollar rebounds on hot PPI ahead of US CPI</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:16:10.528040+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9525c63232e9",
-      "slug": "silver-price-forecast-head-and-shoulders-break-puts-60-back-in-play-9525c63232e9",
-      "title": "Silver Price Forecast: Head-and-shoulders break puts $60 back in play",
-      "excerpt": "Silver Price Forecast: Head-and-shoulders break puts $60 back in play",
-      "content": "<p>Silver Price Forecast: Head-and-shoulders break puts $60 back in play</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-10T23:16:12.063022+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-11T15:27:56.970280+00:00",
+  "lastUpdated": "2026-09-11T18:41:30.984731+00:00",
   "totalCount": 50,
   "newCount": 10
 }
