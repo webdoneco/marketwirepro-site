@@ -1,6 +1,78 @@
 {
   "articles": [
     {
+      "uid": "d61262a644e8",
+      "slug": "openai-ipo-wont-happen-this-year-says-sam-altman-d61262a644e8",
+      "title": "OpenAI IPO won't happen this year, says Sam Altman",
+      "excerpt": "OpenAI IPO won't happen this year, says Sam Altman",
+      "content": "<p>OpenAI IPO won't happen this year, says Sam Altman</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-12T23:07:07.056239+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d2ee14d1a062",
+      "slug": "bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad-d2ee14d1a062",
+      "title": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+      "excerpt": "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
+      "content": "<p>Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-12T23:07:08.587952+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6261a0627e19",
+      "slug": "anthropic-ceo-calls-for-ai-race-to-slow-down-citing-safety-musk-and-openais-altm-6261a0627e19",
+      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
+      "excerpt": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
+      "content": "<p>Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-12T23:07:10.121875+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "32af4378b4c7",
+      "slug": "why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-32af4378b4c7",
+      "title": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+      "excerpt": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+      "content": "<p>Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-12T23:07:12.402030+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "9e3a407235ec",
       "slug": "nigel-farages-reform-uk-lands-97-million-donations-from-two-crypto-billionaires--9e3a407235ec",
       "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
@@ -827,81 +899,9 @@
       "date": "2026-09-11T18:41:18.684267+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "81cfdaa96e27",
-      "slug": "with-fed-rate-hike-all-but-assured-heres-how-markets-might-react-81cfdaa96e27",
-      "title": "With Fed rate hike all but assured, here's how markets might react",
-      "excerpt": "With Fed rate hike all but assured, here's how markets might react",
-      "content": "<p>With Fed rate hike all but assured, here's how markets might react</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-11T18:41:20.217500+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5cee1415205f",
-      "slug": "openai-asks-congress-whether-an-ai-slowdown-would-be-legal-5cee1415205f",
-      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-      "excerpt": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-      "content": "<p>OpenAI Asks Congress Whether an AI Slowdown Would Be Legal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-11T18:41:21.804997+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f2197d946882",
-      "slug": "robinhood-crypto-trading-volume-jumps-61-in-august-f2197d946882",
-      "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
-      "excerpt": "Robinhood Crypto Trading Volume Jumps 61% in August",
-      "content": "<p>Robinhood Crypto Trading Volume Jumps 61% in August</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-11T18:41:23.353177+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d195d5bbd04f",
-      "slug": "bitwise-to-close-dogecoin-etf-before-its-first-anniversary-d195d5bbd04f",
-      "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
-      "excerpt": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
-      "content": "<p>Bitwise to Close Dogecoin ETF Before Its First Anniversary</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-11T18:41:24.886291+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-12T21:04:26.554973+00:00",
+  "lastUpdated": "2026-09-12T23:07:13.975352+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 4
 }
