@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "9e3a407235ec",
+      "slug": "nigel-farages-reform-uk-lands-97-million-donations-from-two-crypto-billionaires--9e3a407235ec",
+      "title": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "excerpt": "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "content": "<p>Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-12T21:04:23.354826+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d6e1fd00a0e7",
       "slug": "farages-reform-uk-gets-97m-from-two-crypto-billionaires-d6e1fd00a0e7",
       "title": "Farage’s Reform UK gets $97M from two crypto billionaires",
@@ -881,27 +899,9 @@
       "date": "2026-09-11T18:41:24.886291+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bddbcd962978",
-      "slug": "bitcoin-rises-as-markets-digest-inflation-data-ahead-of-fed-rate-decision-bddbcd962978",
-      "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-      "excerpt": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-      "content": "<p>Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-11T18:41:26.423254+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-12T18:50:45.397901+00:00",
+  "lastUpdated": "2026-09-12T21:04:26.554973+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 1
 }
