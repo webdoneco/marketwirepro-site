@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-13T23:21:11.343197+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7cf2fe138cfc",
+      "slug": "chatgpt-images-25-vs-nano-banana-2-which-one-is-better-7cf2fe138cfc",
+      "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+      "excerpt": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+      "content": "<p>ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-13T23:21:13.382103+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b96eec969f1e",
+      "slug": "nz-services-sector-expands-for-third-month-as-psi-rises-to-512-b96eec969f1e",
+      "title": "NZ services sector expands for third month as PSI rises to 51.2",
+      "excerpt": "NZ services sector expands for third month as PSI rises to 51.2",
+      "content": "<p>NZ services sector expands for third month as PSI rises to 51.2</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-13T23:21:15.035256+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f00a05c48ff5",
+      "slug": "iran-says-commercial-vessel-struck-in-strait-of-hormuz-f00a05c48ff5",
+      "title": "Iran says commercial vessel struck in Strait of Hormuz",
+      "excerpt": "Iran says commercial vessel struck in Strait of Hormuz",
+      "content": "<p>Iran says commercial vessel struck in Strait of Hormuz</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-13T23:21:16.638673+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c6512c173d5a",
+      "slug": "oman-meeting-between-gulf-states-and-iran-delayed-reuters-c6512c173d5a",
+      "title": "Oman meeting between Gulf states and Iran delayed — Reuters",
+      "excerpt": "Oman meeting between Gulf states and Iran delayed — Reuters",
+      "content": "<p>Oman meeting between Gulf states and Iran delayed — Reuters</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-13T23:21:18.168759+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "20c5eb4fc873",
+      "slug": "audusd-price-forecast-doji-high-guards-bulls-as-fed-bets-bite-20c5eb4fc873",
+      "title": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
+      "excerpt": "AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite",
+      "content": "<p>AUD/USD Price Forecast: Doji high guards bulls as Fed bets bite</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-13T23:21:19.704618+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "2645504f1311",
       "slug": "usdchf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-2645504f1311",
       "title": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
@@ -791,117 +899,9 @@
       "date": "2026-09-12T16:35:55.290637+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "31af4544b265",
-      "slug": "staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy-31af4544b265",
-      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "excerpt": "Staked ether should be seen as the benchmark of the decentralized economy",
-      "content": "<p>Staked ether should be seen as the benchmark of the decentralized economy</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-12T16:35:56.833148+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6a3cb7f385d1",
-      "slug": "gpt-6-astra-users-say-openais-newest-model-got-dumber-it-happened-before-too-6a3cb7f385d1",
-      "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-      "excerpt": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-      "content": "<p>GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-12T16:35:58.472618+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "34763304e038",
-      "slug": "crypto-billionaires-hand-reform-uk-97m-in-record-donations-34763304e038",
-      "title": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
-      "excerpt": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
-      "content": "<p>Crypto Billionaires Hand Reform UK $97M in Record Donations</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-12T16:36:00.007147+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7ee6a1ba177b",
-      "slug": "gta-mod-adds-flock-camerasand-lets-players-destroy-them-7ee6a1ba177b",
-      "title": "GTA Mod Adds Flock Cameras—And Lets Players Destroy Them",
-      "excerpt": "GTA Mod Adds Flock Cameras—And Lets Players Destroy Them",
-      "content": "<p>GTA Mod Adds Flock Cameras—And Lets Players Destroy Them</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-12T16:36:01.556854+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "665676949c3a",
-      "slug": "my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-ch-665676949c3a",
-      "title": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
-      "excerpt": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?",
-      "content": "<p>My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t have children. How is that fair?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-12T16:36:04.170385+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d3ebf471234b",
-      "slug": "bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-reque-d3ebf471234b",
-      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "excerpt": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-      "content": "<p>Bitcoin activity, passports exposed after Revolut falls for fake government request</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-12T13:39:25.067676+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-13T21:30:17.800869+00:00",
+  "lastUpdated": "2026-09-13T23:21:21.565641+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 6
 }
