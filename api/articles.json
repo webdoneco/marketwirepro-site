@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "656283915875",
+      "slug": "eu-cyber-rules-put-crypto-wallet-makers-on-24-hour-reporting-clock-656283915875",
+      "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+      "excerpt": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+      "content": "<p>EU cyber rules put crypto wallet makers on 24-hour reporting clock</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:14.827425+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ee81ae1163c3",
+      "slug": "clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week-ee81ae1163c3",
+      "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+      "excerpt": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+      "content": "<p>CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:16.375744+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "af4c0681e756",
+      "slug": "symbiosis-says-recovered-15-btc-from-bridge-hack-offers-20-bounty-af4c0681e756",
+      "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+      "excerpt": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+      "content": "<p>Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:17.931147+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "829014cdc7c1",
+      "slug": "uk-fca-seeks-views-on-fund-rule-exemptions-for-tokenized-gold-829014cdc7c1",
+      "title": "UK FCA seeks views on fund rule exemptions for tokenized gold",
+      "excerpt": "UK FCA seeks views on fund rule exemptions for tokenized gold",
+      "content": "<p>UK FCA seeks views on fund rule exemptions for tokenized gold</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:19.477986+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bb36deb8953d",
+      "slug": "bitcoin-etfs-shed-463m-in-weekly-reversal-as-ether-etfs-gain-197m-bb36deb8953d",
+      "title": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+      "excerpt": "Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M",
+      "content": "<p>Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:21.027592+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bd173e321cc2",
+      "slug": "bitmine-adds-68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead-bd173e321cc2",
+      "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+      "excerpt": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+      "content": "<p>Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:23.024063+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f72aececfeb2",
+      "slug": "dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-3--f72aececfeb2",
+      "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "excerpt": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+      "content": "<p>Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:24.573347+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a30ee7e5742f",
+      "slug": "trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap-a30ee7e5742f",
+      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "excerpt": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "content": "<p>Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:26.119377+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "11d7b58e6b65",
+      "slug": "fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market-11d7b58e6b65",
+      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "excerpt": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "content": "<p>FCA considers exempting tokenized gold from fund rules to defend London market</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:27.666110+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "78338b75eaed",
+      "slug": "live-updates-bitcoin-manages-small-gains-as-stocks-drop-on-ai-concern-oil-surges-78338b75eaed",
+      "title": "Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges",
+      "excerpt": "Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges",
+      "content": "<p>Live updates: Bitcoin manages small gains as stocks drop on AI concern, oil surges</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-14T13:28:29.218478+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "89aa400da3d8",
       "slug": "king-charles-to-host-ai-chiefs-amid-industry-call-to-slow-development-89aa400da3d8",
       "title": "King Charles to host AI chiefs amid industry call to slow development",
@@ -719,189 +899,9 @@
       "date": "2026-09-13T19:04:17.476989+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98a6b2e5f2db",
-      "slug": "umich-september-consumer-sentiment-478-vs-510-expected-98a6b2e5f2db",
-      "title": "UMich September consumer sentiment 47.8 vs 51.0 expected",
-      "excerpt": "UMich September consumer sentiment 47.8 vs 51.0 expected",
-      "content": "<p>UMich September consumer sentiment 47.8 vs 51.0 expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T19:04:19.022787+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3921629117d8",
-      "slug": "some-anniversaries-arent-meant-to-be-celebrated-they-are-simply-remembered-and-n-3921629117d8",
-      "title": "Some anniversaries aren’t meant to be celebrated. They are simply remembered and never forgotten.",
-      "excerpt": "Some anniversaries aren’t meant to be celebrated. They are simply remembered and never forgotten.",
-      "content": "<p>Some anniversaries aren’t meant to be celebrated. They are simply remembered and never forgotten.</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T19:04:20.567781+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f2d0481c9253",
-      "slug": "back-up-the-garbage-truck-a-look-at-how-ai-will-impact-margins-in-ai-f2d0481c9253",
-      "title": "Back up the garbage truck: A look at how AI will impact margins in AI",
-      "excerpt": "Back up the garbage truck: A look at how AI will impact margins in AI",
-      "content": "<p>Back up the garbage truck: A look at how AI will impact margins in AI</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T19:04:22.110146+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "23447d1c74d1",
-      "slug": "us-august-cpi-34-vs-34-expected-23447d1c74d1",
-      "title": "US August CPI 3.4% vs 3.4% expected",
-      "excerpt": "US August CPI 3.4% vs 3.4% expected",
-      "content": "<p>US August CPI 3.4% vs 3.4% expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T19:04:23.651701+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "56fd9c0e67f1",
-      "slug": "singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-56fd9c0e67f1",
-      "title": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
-      "excerpt": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
-      "content": "<p>Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T19:04:25.337417+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "29dd6d193935",
-      "slug": "fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-the-29dd6d193935",
-      "title": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "excerpt": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-      "content": "<p>Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T19:04:27.223304+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "33e6cba01322",
-      "slug": "fed-rate-hike-is-about-wall-street-not-inflation-says-economist-33e6cba01322",
-      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "excerpt": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "content": "<p>Fed rate hike is about Wall Street, not inflation, says economist</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T16:30:38.446086+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "681089b92d7e",
-      "slug": "circles-400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build-681089b92d7e",
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-      "excerpt": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
-      "content": "<p>Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T16:30:39.978518+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a69a86acde12",
-      "slug": "ai-agents-spending-money-online-new-research-says-not-really-a69a86acde12",
-      "title": "AI Agents Spending Money Online? New Research Says Not Really",
-      "excerpt": "AI Agents Spending Money Online? New Research Says Not Really",
-      "content": "<p>AI Agents Spending Money Online? New Research Says Not Really</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T16:30:41.555941+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b859a515a04f",
-      "slug": "im-a-single-58-year-old-veteran-in-california-with-15-million-and-a-va-pension-c-b859a515a04f",
-      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "excerpt": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-      "content": "<p>I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-13T16:30:43.541546+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-14T06:33:43.071301+00:00",
+  "lastUpdated": "2026-09-14T13:28:30.718618+00:00",
   "totalCount": 50,
   "newCount": 10
 }
