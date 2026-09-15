@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "1c0d9262ffc5",
+      "slug": "us-senate-fails-to-advance-clarity-act-1c0d9262ffc5",
+      "title": "US Senate fails to advance CLARITY Act",
+      "excerpt": "US Senate fails to advance CLARITY Act",
+      "content": "<p>US Senate fails to advance CLARITY Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:01.668809+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6787728ab2c0",
+      "slug": "stablecoin-growth-could-boost-dollar-dominance-us-treasury-demand-boe-official-6787728ab2c0",
+      "title": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+      "excerpt": "Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official",
+      "content": "<p>Stablecoin growth could boost dollar dominance, US Treasury demand: BoE official</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:03.223134+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e3f8cbff0fdc",
+      "slug": "binance-adds-11-us-listed-etfs-to-wealth-management-offering-e3f8cbff0fdc",
+      "title": "Binance adds 11 US-listed ETFs to wealth management offering",
+      "excerpt": "Binance adds 11 US-listed ETFs to wealth management offering",
+      "content": "<p>Binance adds 11 US-listed ETFs to wealth management offering</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:04.777123+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e235c9fb4333",
+      "slug": "bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs-e235c9fb4333",
+      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+      "excerpt": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
+      "content": "<p>Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:06.333864+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b9f52cd28b77",
+      "slug": "standard-chartered-says-arbitrum-could-outperform-bitcoin-ether-through-2030-b9f52cd28b77",
+      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+      "excerpt": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
+      "content": "<p>Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:07.882378+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d5baf73d737e",
+      "slug": "eth-wallet-exploit-backfires-as-mev-bot-captures-77m-kelp-freezes-address-d5baf73d737e",
+      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+      "excerpt": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
+      "content": "<p>ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:09.431570+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fe74211d980a",
+      "slug": "clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting-fe74211d980a",
+      "title": "Clarity Act fails in Senate: Here is how the crypto industry is reacting",
+      "excerpt": "Clarity Act fails in Senate: Here is how the crypto industry is reacting",
+      "content": "<p>Clarity Act fails in Senate: Here is how the crypto industry is reacting</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:11.472682+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b308a51e613b",
+      "slug": "crypto-clarity-act-flames-out-in-failed-us-senate-vote-b308a51e613b",
+      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+      "excerpt": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+      "content": "<p>Crypto Clarity Act flames out in failed U.S. Senate vote</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:13.029323+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b1c5c1e5e27d",
+      "slug": "solana-lender-kamino-taps-fintech-veteran-michael-weisz-as-ceo-for-massive-us-ex-b1c5c1e5e27d",
+      "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
+      "excerpt": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
+      "content": "<p>Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:14.578298+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8bae8e4ed67b",
+      "slug": "crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turn-8bae8e4ed67b",
+      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
+      "excerpt": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
+      "content": "<p>Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T19:07:16.134557+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "64400ffdffe4",
       "slug": "usdt-payments-feature-in-polish-energy-giants-failed-230m-oil-deal-ft-64400ffdffe4",
       "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
@@ -719,189 +899,9 @@
       "date": "2026-09-15T00:44:26.036570+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b3d8112fe161",
-      "slug": "kraken-brings-defi-yield-to-tokenized-stocks-and-etfs-b3d8112fe161",
-      "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-      "excerpt": "Kraken brings DeFi yield to tokenized stocks and ETFs",
-      "content": "<p>Kraken brings DeFi yield to tokenized stocks and ETFs</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:06.881884+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9a70c2c8180f",
-      "slug": "bitcoin-tops-79k-oil-falls-as-trump-says-iran-war-could-end-9a70c2c8180f",
-      "title": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
-      "excerpt": "Bitcoin tops $79K, oil falls as Trump says Iran war could end",
-      "content": "<p>Bitcoin tops $79K, oil falls as Trump says Iran war could end</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:08.427442+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "214f854e0b86",
-      "slug": "robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism-214f854e0b86",
-      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-      "excerpt": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-      "content": "<p>Robinhood plans share redemptions, voting rights for stock tokens, after criticism</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:10.274147+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5e5df3d9bf6c",
-      "slug": "trumps-800-million-stake-into-world-liberty-financials-token-now-has-a-timeline--5e5df3d9bf6c",
-      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
-      "excerpt": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
-      "content": "<p>Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:11.817174+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "09db9f244824",
-      "slug": "banks-want-more-trade-groups-demand-stricter-stablecoin-limits-in-clarity-act-09db9f244824",
-      "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
-      "excerpt": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
-      "content": "<p>Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:13.444956+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "db6220d545af",
-      "slug": "openais-sam-altman-warns-humans-could-lose-control-of-ai-db6220d545af",
-      "title": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-      "excerpt": "OpenAI’s Sam Altman Warns Humans Could Lose Control of AI",
-      "content": "<p>OpenAI’s Sam Altman Warns Humans Could Lose Control of AI</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:14.980652+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "af2d78c432fd",
-      "slug": "trump-says-he-likes-flock-surveillance-cameras-amid-bipartisan-pushback-af2d78c432fd",
-      "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
-      "excerpt": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
-      "content": "<p>Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:16.521216+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b0e908390406",
-      "slug": "microsoft-unveils-humanist-ai-code-of-conduct-asks-the-public-to-poke-holes-in-i-b0e908390406",
-      "title": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
-      "excerpt": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
-      "content": "<p>Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:18.061109+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "24fa1051a2f4",
-      "slug": "trump-says-hes-the-only-guardrails-ai-needs-attacks-anthropic-and-defends-data-c-24fa1051a2f4",
-      "title": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-      "excerpt": "Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers",
-      "content": "<p>Trump Says He’s the Only ‘Guardrails’ AI Needs, Attacks Anthropic and Defends Data Centers</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:19.599433+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9f7d9fd195fe",
-      "slug": "bitcoin-climbs-as-ai-slowdown-calls-sink-nvidia-intel-and-other-chip-stocks-9f7d9fd195fe",
-      "title": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
-      "excerpt": "Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks",
-      "content": "<p>Bitcoin Climbs as AI Slowdown Calls Sink Nvidia, Intel and Other Chip Stocks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T22:11:21.133495+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-15T15:20:00.872593+00:00",
+  "lastUpdated": "2026-09-15T19:07:17.634776+00:00",
   "totalCount": 50,
   "newCount": 10
 }
