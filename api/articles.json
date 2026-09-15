@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:11.223257+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "448db297d1dc",
+      "slug": "even-if-clarity-fails-wall-streets-crypto-push-is-unlikely-to-stop-448db297d1dc",
+      "title": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+      "excerpt": "Even if Clarity fails, Wall Street’s crypto push is unlikely to stop",
+      "content": "<p>Even if Clarity fails, Wall Street’s crypto push is unlikely to stop</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:13.233435+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c3aedaa2098c",
+      "slug": "secs-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-wit-c3aedaa2098c",
+      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "excerpt": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "content": "<p>SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:14.791398+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4fef096c5a6e",
+      "slug": "us-senator-lummis-says-democrats-wont-quit-asking-for-more-on-crypto-clarity-act-4fef096c5a6e",
+      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "excerpt": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "content": "<p>U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:16.348622+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6fd5d6bff373",
+      "slug": "investinglive-americas-fx-news-wrap-14-sept-its-a-wrap-oil-tops-100-as-higher-yi-6fd5d6bff373",
+      "title": "investingLive Americas FX news wrap 14 Sept: It’s a Wrap: Oil tops $100 as higher yields and AI worries pressure stocks",
+      "excerpt": "investingLive Americas FX news wrap 14 Sept: It’s a Wrap: Oil tops $100 as higher yields and AI worries pressure stocks",
+      "content": "<p>investingLive Americas FX news wrap 14 Sept: It’s a Wrap: Oil tops $100 as higher yields and AI worries pressure stocks</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:18.231287+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "685c335640a6",
+      "slug": "economic-event-calendar-asia-tuesday-september-15-2026-china-set-to-report-augus-685c335640a6",
+      "title": "Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity",
+      "excerpt": "Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity",
+      "content": "<p>Economic & event calendar Asia Tuesday, September 15, 2026: China set to report August activity</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:19.786739+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cc22071ac4d8",
+      "slug": "trump-ai-will-be-the-greatest-economic-development-engine-in-history-cc22071ac4d8",
+      "title": "Trump: AI will be the greatest economic development engine in history",
+      "excerpt": "Trump: AI will be the greatest economic development engine in history",
+      "content": "<p>Trump: AI will be the greatest economic development engine in history</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:21.360825+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "378808fe2100",
+      "slug": "risk-trades-steadily-rebound-on-trumps-talk-about-ai-and-energy-378808fe2100",
+      "title": "Risk trades steadily rebound on Trump's talk about AI and energy",
+      "excerpt": "Risk trades steadily rebound on Trump's talk about AI and energy",
+      "content": "<p>Risk trades steadily rebound on Trump's talk about AI and energy</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:22.918807+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3adb30263cc4",
+      "slug": "us-seeks-step-by-step-agreement-with-iran-citing-pakistani-sources-3adb30263cc4",
+      "title": "US seeks “step-by-step” agreement with Iran citing Pakistani sources",
+      "excerpt": "US seeks “step-by-step” agreement with Iran citing Pakistani sources",
+      "content": "<p>US seeks “step-by-step” agreement with Iran citing Pakistani sources</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:24.481498+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b763fd5082e4",
+      "slug": "trump-military-conflict-with-iran-will-not-be-long-b763fd5082e4",
+      "title": "Trump: Military conflict with Iran \"will not be long\"",
+      "excerpt": "Trump: Military conflict with Iran \"will not be long\"",
+      "content": "<p>Trump: Military conflict with Iran \"will not be long\"</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-15T00:44:26.036570+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b3d8112fe161",
       "slug": "kraken-brings-defi-yield-to-tokenized-stocks-and-etfs-b3d8112fe161",
       "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
@@ -719,189 +899,9 @@
       "date": "2026-09-14T06:33:41.571129+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4fc6d8c2c833",
-      "slug": "revolut-attackers-threaten-daily-customer-data-leaks-4fc6d8c2c833",
-      "title": "Revolut attackers threaten daily customer data leaks",
-      "excerpt": "Revolut attackers threaten daily customer data leaks",
-      "content": "<p>Revolut attackers threaten daily customer data leaks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:31.631386+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2270b62c29b2",
-      "slug": "cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest-2270b62c29b2",
-      "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
-      "excerpt": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
-      "content": "<p>Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:33.166742+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6a3cb7f385d1",
-      "slug": "gpt-6-astra-users-say-openais-newest-model-got-dumber-it-happened-before-too-6a3cb7f385d1",
-      "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-      "excerpt": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-      "content": "<p>GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:35.073481+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "34763304e038",
-      "slug": "crypto-billionaires-hand-reform-uk-97m-in-record-donations-34763304e038",
-      "title": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
-      "excerpt": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
-      "content": "<p>Crypto Billionaires Hand Reform UK $97M in Record Donations</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:36.605716+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7ee6a1ba177b",
-      "slug": "gta-mod-adds-flock-camerasand-lets-players-destroy-them-7ee6a1ba177b",
-      "title": "GTA Mod Adds Flock Cameras—And Lets Players Destroy Them",
-      "excerpt": "GTA Mod Adds Flock Cameras—And Lets Players Destroy Them",
-      "content": "<p>GTA Mod Adds Flock Cameras—And Lets Players Destroy Them</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:38.138025+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d0fe3bda5279",
-      "slug": "carney-explores-canada-as-eu-associate-member-wsj-reports-d0fe3bda5279",
-      "title": "Carney explores Canada as EU associate member, WSJ reports",
-      "excerpt": "Carney explores Canada as EU associate member, WSJ reports",
-      "content": "<p>Carney explores Canada as EU associate member, WSJ reports</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:39.824672+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "726190e69d5e",
-      "slug": "pboc-sets-usdcny-reference-rate-at-67698-vs-67743-previous-726190e69d5e",
-      "title": "PBOC sets USD/CNY reference rate at 6.7698 vs. 6.7743 previous",
-      "excerpt": "PBOC sets USD/CNY reference rate at 6.7698 vs. 6.7743 previous",
-      "content": "<p>PBOC sets USD/CNY reference rate at 6.7698 vs. 6.7743 previous</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:41.446263+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cca1f8e76cfc",
-      "slug": "euro-softens-below-11600-as-markets-price-in-fed-rate-hike-cca1f8e76cfc",
-      "title": "Euro softens below 1.1600 as markets price in Fed rate hike",
-      "excerpt": "Euro softens below 1.1600 as markets price in Fed rate hike",
-      "content": "<p>Euro softens below 1.1600 as markets price in Fed rate hike</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:42.982546+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "260558607021",
-      "slug": "australian-dollar-declines-to-near-07150-as-hot-us-inflation-data-boost-case-for-260558607021",
-      "title": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike",
-      "excerpt": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike",
-      "content": "<p>Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:44.516927+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d60c6cf87ee3",
-      "slug": "i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-t-d60c6cf87ee3",
-      "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "excerpt": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-      "content": "<p>‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-14T01:16:46.514435+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-14T22:11:22.633719+00:00",
+  "lastUpdated": "2026-09-15T00:44:27.536732+00:00",
   "totalCount": 50,
   "newCount": 10
 }
