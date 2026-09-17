@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "596c632dd9e5",
+      "slug": "bitcoin-absorbs-fed-rate-hike-as-officials-see-more-tightening-596c632dd9e5",
+      "title": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "excerpt": "Bitcoin absorbs Fed rate hike as officials see more tightening",
+      "content": "<p>Bitcoin absorbs Fed rate hike as officials see more tightening</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:09.276630+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3972fd4aca34",
+      "slug": "us-lawmakers-advance-bill-to-lock-trumps-bitcoin-reserve-into-law-3972fd4aca34",
+      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "excerpt": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "content": "<p>US lawmakers advance bill to lock Trump’s Bitcoin reserve into law</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:10.808692+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8eb1fa681a8b",
+      "slug": "united-states-dollar-index-holds-gains-above-10000-as-fed-signals-further-tighte-8eb1fa681a8b",
+      "title": "United States Dollar Index holds gains above 100.00 as Fed signals further tightening",
+      "excerpt": "United States Dollar Index holds gains above 100.00 as Fed signals further tightening",
+      "content": "<p>United States Dollar Index holds gains above 100.00 as Fed signals further tightening</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:12.998890+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b72618f8aa18",
+      "slug": "euro-weakens-to-near-11450-as-fed-raises-rate-for-first-time-in-three-years-b72618f8aa18",
+      "title": "Euro weakens to near 1.1450 as Fed raises rate for first time in three years",
+      "excerpt": "Euro weakens to near 1.1450 as Fed raises rate for first time in three years",
+      "content": "<p>Euro weakens to near 1.1450 as Fed raises rate for first time in three years</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:14.534149+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2700ef6b1500",
+      "slug": "silver-price-forecast-xagusd-rises-to-near-6400-as-oil-prices-decline-2700ef6b1500",
+      "title": "Silver Price Forecast: XAG/USD rises to near $64.00 as oil prices decline",
+      "excerpt": "Silver Price Forecast: XAG/USD rises to near $64.00 as oil prices decline",
+      "content": "<p>Silver Price Forecast: XAG/USD rises to near $64.00 as oil prices decline</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:16.069521+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3998436dae89",
+      "slug": "japanese-yen-edges-higher-vs-bullish-usd-amid-expectations-of-a-more-hawkish-boj-3998436dae89",
+      "title": "Japanese Yen edges higher vs bullish USD amid expectations of a more hawkish BoJ",
+      "excerpt": "Japanese Yen edges higher vs bullish USD amid expectations of a more hawkish BoJ",
+      "content": "<p>Japanese Yen edges higher vs bullish USD amid expectations of a more hawkish BoJ</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:17.602171+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e81041ff8632",
+      "slug": "us-president-donald-trump-says-he-told-fed-chair-to-do-what-you-want-ahead-of-ra-e81041ff8632",
+      "title": "US President Donald Trump says he told Fed Chair to 'do what you want' ahead of rate hike",
+      "excerpt": "US President Donald Trump says he told Fed Chair to 'do what you want' ahead of rate hike",
+      "content": "<p>US President Donald Trump says he told Fed Chair to 'do what you want' ahead of rate hike</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:19.133126+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5b055cb6f8d3",
+      "slug": "australian-dollar-holds-gains-near-07100-despite-fed-rate-hike-imf-urges-rba-to--5b055cb6f8d3",
+      "title": "Australian Dollar holds gains near 0.7100 despite Fed rate hike, IMF urges RBA to stay hawkish",
+      "excerpt": "Australian Dollar holds gains near 0.7100 despite Fed rate hike, IMF urges RBA to stay hawkish",
+      "content": "<p>Australian Dollar holds gains near 0.7100 despite Fed rate hike, IMF urges RBA to stay hawkish</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:20.681856+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "67340326af35",
+      "slug": "intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its--67340326af35",
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "excerpt": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "content": "<p>Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:22.556723+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d88b5ca5b5c3",
+      "slug": "as-fed-rolls-out-its-first-interest-rate-hike-in-3-years-market-braces-for-more--d88b5ca5b5c3",
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+      "excerpt": "As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases",
+      "content": "<p>As Fed rolls out its first interest-rate hike in 3 years, market braces for more increases</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-17T03:05:24.103403+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -719,189 +899,9 @@
       "date": "2026-09-16T15:04:17.401222+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f467c992f4fd",
-      "slug": "italy-investigates-government-email-breach-linked-to-revolut-data-leak-f467c992f4fd",
-      "title": "Italy investigates government email breach linked to Revolut data leak",
-      "excerpt": "Italy investigates government email breach linked to Revolut data leak",
-      "content": "<p>Italy investigates government email breach linked to Revolut data leak</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:10.494071+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6598e0dec995",
-      "slug": "bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand-6598e0dec995",
-      "title": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
-      "excerpt": "Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand",
-      "content": "<p>Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US demand</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:12.035619+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4fba9958344a",
-      "slug": "ecb-seeks-online-merchants-for-2027-digital-euro-pilot-4fba9958344a",
-      "title": "ECB seeks online merchants for 2027 digital euro pilot",
-      "excerpt": "ECB seeks online merchants for 2027 digital euro pilot",
-      "content": "<p>ECB seeks online merchants for 2027 digital euro pilot</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:13.587980+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "886cb7c87599",
-      "slug": "ai-has-been-a-net-negative-for-crypto-phemex-ceo-886cb7c87599",
-      "title": "AI has been a ‘net negative’ for crypto: Phemex CEO",
-      "excerpt": "AI has been a ‘net negative’ for crypto: Phemex CEO",
-      "content": "<p>AI has been a ‘net negative’ for crypto: Phemex CEO</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:15.129828+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b6415385d468",
-      "slug": "bitcoins-coinbase-premium-sinks-to-one-month-low-heres-why-b6415385d468",
-      "title": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
-      "excerpt": "Bitcoin's Coinbase premium sinks to one-month low, here’s why",
-      "content": "<p>Bitcoin's Coinbase premium sinks to one-month low, here’s why</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:16.905022+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "41ad0385458e",
-      "slug": "two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetual-41ad0385458e",
-      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "excerpt": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "content": "<p>Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:18.447973+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "379836229d17",
-      "slug": "ethereum-base-give-up-on-common-wallet-standard-after-months-of-talks-379836229d17",
-      "title": "Ethereum, Base give up on common wallet standard after months of talks",
-      "excerpt": "Ethereum, Base give up on common wallet standard after months of talks",
-      "content": "<p>Ethereum, Base give up on common wallet standard after months of talks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:19.989437+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ead9552693f3",
-      "slug": "fed-meeting-is-shaping-up-to-be-a-nightmare-for-warsh-bitcoin-might-still-shine-ead9552693f3",
-      "title": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
-      "excerpt": "Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine",
-      "content": "<p>Fed meeting is shaping up to be a nightmare for Warsh. Bitcoin might still shine</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:21.532988+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98b404d5386a",
-      "slug": "zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings-98b404d5386a",
-      "title": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
-      "excerpt": "Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings",
-      "content": "<p>Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:23.075750+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8ce915a72616",
-      "slug": "uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers-8ce915a72616",
-      "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-      "excerpt": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-      "content": "<p>UK Backs Money Laundering Crackdown With $676M and 500 New Officers</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-16T10:08:24.710937+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-16T23:57:39.639238+00:00",
+  "lastUpdated": "2026-09-17T03:05:25.603562+00:00",
   "totalCount": 50,
   "newCount": 10
 }
