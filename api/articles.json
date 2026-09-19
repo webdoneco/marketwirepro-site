@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "c72607429ef8",
+      "slug": "hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report-c72607429ef8",
+      "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "excerpt": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+      "content": "<p>Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-19T11:15:17.584173+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f57e47087ee2",
+      "slug": "ai-leaders-want-to-pace-the-frontier-as-part-of-a-safety-slowdown-but-how-f57e47087ee2",
+      "title": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
+      "excerpt": "AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?",
+      "content": "<p>AI leaders want to ‘pace the frontier’ as part of a safety slowdown. But how?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-19T11:15:19.917852+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "05a33cca19f6",
       "slug": "taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-05a33cca19f6",
       "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
@@ -863,45 +899,9 @@
       "date": "2026-09-18T11:31:21.998840+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f9e981209f5e",
-      "slug": "bitcoin-cycle-bottom-may-already-be-in-at-58k-says-analyst-james-check-f9e981209f5e",
-      "title": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-      "excerpt": "Bitcoin cycle bottom may already be in at $58K, says analyst James Check",
-      "content": "<p>Bitcoin cycle bottom may already be in at $58K, says analyst James Check</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-18T11:31:23.544958+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4bd606816754",
-      "slug": "xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins-4bd606816754",
-      "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-      "excerpt": "XRP on the brink of a golden cross as focus switches to altcoins",
-      "content": "<p>XRP on the brink of a golden cross as focus switches to altcoins</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-18T11:31:25.535996+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-19T06:06:00.825346+00:00",
+  "lastUpdated": "2026-09-19T11:15:21.464393+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 2
 }
