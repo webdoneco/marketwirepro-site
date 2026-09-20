@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "10ee0872b371",
+      "slug": "we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and--10ee0872b371",
+      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+      "excerpt": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
+      "content": "<p>'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-20T21:41:13.510133+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "be36ae55bb66",
+      "slug": "ripple-says-asset-managers-are-preparing-for-xrp-ledgers-next-payments-upgrade-be36ae55bb66",
+      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+      "excerpt": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
+      "content": "<p>Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-20T21:41:15.064661+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "a747aea6b0fb",
       "slug": "anthropic-taps-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal-a747aea6b0fb",
       "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
@@ -863,45 +899,9 @@
       "date": "2026-09-19T17:34:21.671630+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ee9073eaadc2",
-      "slug": "its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-unde-ee9073eaadc2",
-      "title": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "excerpt": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-      "content": "<p>It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-19T17:34:23.225339+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "515a51c90841",
-      "slug": "there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-c-515a51c90841",
-      "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "excerpt": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
-      "content": "<p>‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-19T17:34:24.791955+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-20T19:10:21.096896+00:00",
+  "lastUpdated": "2026-09-20T21:41:17.353837+00:00",
   "totalCount": 50,
-  "newCount": 5
+  "newCount": 2
 }
