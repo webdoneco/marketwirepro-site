@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "e55159cb9f7f",
+      "slug": "saudi-arabia-exits-china-backed-mbridge-cbdc-project-ft-e55159cb9f7f",
+      "title": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+      "excerpt": "Saudi Arabia exits China-backed mBridge CBDC project: FT",
+      "content": "<p>Saudi Arabia exits China-backed mBridge CBDC project: FT</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:35.075322+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fedded447c6e",
+      "slug": "bitcoin-could-test-90000-after-shorts-get-squeezed-but-traders-warn-leverage-is--fedded447c6e",
+      "title": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "excerpt": "Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building",
+      "content": "<p>Bitcoin could test $90,000 after shorts get squeezed, but traders warn leverage is building</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:36.896977+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "18e91b005ecc",
+      "slug": "google-admits-gemini-ai-hacked-three-companiesit-stayed-silent-for-7-weeks-18e91b005ecc",
+      "title": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+      "excerpt": "Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks",
+      "content": "<p>Google Admits Gemini AI Hacked Three Companies—It Stayed Silent for 7 Weeks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:38.502191+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9bfaaad026f2",
+      "slug": "after-clarity-act-fails-crypto-super-pac-fairshake-targets-sherrod-brown-with-30-9bfaaad026f2",
+      "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+      "excerpt": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+      "content": "<p>After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:40.033353+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "39303b7fbf49",
+      "slug": "robinhood-ceo-says-crypto-will-beat-sports-at-prediction-markets-own-game-39303b7fbf49",
+      "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+      "excerpt": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+      "content": "<p>Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:41.562247+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "433ff0b341a2",
+      "slug": "x-sues-two-bitcoin-influencers-over-bot-army-that-milked-creator-payouts-433ff0b341a2",
+      "title": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
+      "excerpt": "X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts",
+      "content": "<p>X Sues Two Bitcoin Influencers Over Bot Army That Milked Creator Payouts</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:43.093156+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "59841d9e6f69",
+      "slug": "investinglive-americas-fx-news-wrap-21-sept-nasdaq-closes-at-a-recordoil-slides--59841d9e6f69",
+      "title": "investingLive Americas FX news wrap 21 Sept: Nasdaq closes at a record,oil slides, Fed officials discuss more hikes",
+      "excerpt": "investingLive Americas FX news wrap 21 Sept: Nasdaq closes at a record,oil slides, Fed officials discuss more hikes",
+      "content": "<p>investingLive Americas FX news wrap 21 Sept: Nasdaq closes at a record,oil slides, Fed officials discuss more hikes</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:44.885066+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e5913434b4aa",
+      "slug": "trump-proposes-usd-5-billion-fund-to-help-rebuild-gulf-energy-sites-wsj-e5913434b4aa",
+      "title": "Trump proposes USD 5 billion fund to help rebuild Gulf energy sites — WSJ",
+      "excerpt": "Trump proposes USD 5 billion fund to help rebuild Gulf energy sites — WSJ",
+      "content": "<p>Trump proposes USD 5 billion fund to help rebuild Gulf energy sites — WSJ</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:46.417099+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "15d16579b8ee",
+      "slug": "expect-the-news-headlines-from-trump-and-the-administration-to-be-fast-and-furio-15d16579b8ee",
+      "title": "Expect the News Headlines from Trump and the administration to be fast and furious going into the elections",
+      "excerpt": "Expect the News Headlines from Trump and the administration to be fast and furious going into the elections",
+      "content": "<p>Expect the News Headlines from Trump and the administration to be fast and furious going into the elections</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:47.956072+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fddff3f8b7b0",
+      "slug": "bank-of-canadas-macklem-us-tariffs-could-roughly-halve-fourth-quarter-growth-to--fddff3f8b7b0",
+      "title": "Bank of Canada’s Macklem: US tariffs could roughly halve fourth-quarter growth to below 1%",
+      "excerpt": "Bank of Canada’s Macklem: US tariffs could roughly halve fourth-quarter growth to below 1%",
+      "content": "<p>Bank of Canada’s Macklem: US tariffs could roughly halve fourth-quarter growth to below 1%</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T23:24:49.485739+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -719,189 +899,9 @@
       "date": "2026-09-20T23:40:53.934448+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dfbcf4a4a8fa",
-      "slug": "qatars-prime-minister-says-gulf-states-have-to-act-together-on-iran-dfbcf4a4a8fa",
-      "title": "Qatar’s Prime Minister says Gulf states have to act together on Iran",
-      "excerpt": "Qatar’s Prime Minister says Gulf states have to act together on Iran",
-      "content": "<p>Qatar’s Prime Minister says Gulf states have to act together on Iran</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T23:40:55.517164+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "10ee0872b371",
-      "slug": "we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and--10ee0872b371",
-      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-      "excerpt": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-      "content": "<p>'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T21:41:13.510133+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "be36ae55bb66",
-      "slug": "ripple-says-asset-managers-are-preparing-for-xrp-ledgers-next-payments-upgrade-be36ae55bb66",
-      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-      "excerpt": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-      "content": "<p>Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T21:41:15.064661+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a747aea6b0fb",
-      "slug": "anthropic-taps-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal-a747aea6b0fb",
-      "title": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
-      "excerpt": "Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal",
-      "content": "<p>Anthropic taps Accenture as embedded evaluator to help with AI slowdown proposal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T19:10:11.472664+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d123c2f56dd9",
-      "slug": "solanas-heartbeat-quickens-block-times-fall-17-in-latest-speed-upgrade-d123c2f56dd9",
-      "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-      "excerpt": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-      "content": "<p>Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T19:10:13.814365+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "05a33cca19f6",
-      "slug": "taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-05a33cca19f6",
-      "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
-      "excerpt": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
-      "content": "<p>Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T19:10:15.870522+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "57c90227388e",
-      "slug": "taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-57c90227388e",
-      "title": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
-      "excerpt": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
-      "content": "<p>Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T19:10:17.423760+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c75f3d8efaef",
-      "slug": "i-have-125000-in-credit-card-debt-will-17000-a-month-in-income-including-disabil-c75f3d8efaef",
-      "title": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "excerpt": "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
-      "content": "<p>I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T19:10:19.330438+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "725e0c174846",
-      "slug": "crypto-platform-geminis-stock-is-down-80-from-its-ipo-thats-reviving-takeover-sp-725e0c174846",
-      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
-      "excerpt": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
-      "content": "<p>Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:36:50.126770+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "03cc5b32d0b7",
-      "slug": "visa-moves-to-close-meme-coin-credit-card-rewards-loophole-03cc5b32d0b7",
-      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
-      "excerpt": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
-      "content": "<p>Visa Moves to Close Meme Coin Credit Card Rewards Loophole</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:36:51.779018+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-21T20:03:12.887854+00:00",
+  "lastUpdated": "2026-09-21T23:24:50.985905+00:00",
   "totalCount": 50,
   "newCount": 10
 }
