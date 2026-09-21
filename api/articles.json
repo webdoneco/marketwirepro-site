@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:02:56.731001+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "60b693754644",
+      "slug": "ondo-lets-institutions-convert-stocks-directly-into-tokenized-shares-60b693754644",
+      "title": "Ondo lets institutions convert stocks directly into tokenized shares",
+      "excerpt": "Ondo lets institutions convert stocks directly into tokenized shares",
+      "content": "<p>Ondo lets institutions convert stocks directly into tokenized shares</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:02:58.291645+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d62f1f028792",
+      "slug": "crypto-pac-to-spend-30m-opposing-sherrod-brown-in-ohio-again-d62f1f028792",
+      "title": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
+      "excerpt": "Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again",
+      "content": "<p>Crypto PAC to spend $30M opposing Sherrod Brown in Ohio, again</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:02:59.835900+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3813774d4360",
+      "slug": "circle-launches-bitcoin-backed-usdc-borrowing-for-institutional-clients-3813774d4360",
+      "title": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+      "excerpt": "Circle launches Bitcoin-backed USDC borrowing for institutional clients",
+      "content": "<p>Circle launches Bitcoin-backed USDC borrowing for institutional clients</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:03:01.399530+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dd4c522642a7",
+      "slug": "bitcoin-price-tags-86k-as-analysis-sees-crypto-in-new-bull-market-dd4c522642a7",
+      "title": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
+      "excerpt": "Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’",
+      "content": "<p>Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:03:02.945708+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bd7f6e81cf46",
+      "slug": "crypto-biz-clarity-act-setback-puts-coinbase-in-the-spotlight-bd7f6e81cf46",
+      "title": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
+      "excerpt": "Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight",
+      "content": "<p>Crypto Biz: CLARITY Act setback puts Coinbase in the spotlight</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:03:04.499681+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2cdc661ac34b",
+      "slug": "why-this-investment-bank-expects-little-demand-for-tokenized-stocks-despite-secs-2cdc661ac34b",
+      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+      "excerpt": "Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules",
+      "content": "<p>Why this investment bank expects little demand for tokenized stocks despite SEC’s new trading rules</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:03:06.574868+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5e14d12d2589",
+      "slug": "crypto-political-group-plans-to-spend-30-million-against-sherrod-browns-senate-b-5e14d12d2589",
+      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
+      "excerpt": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
+      "content": "<p>Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:03:08.143419+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c36e47500238",
+      "slug": "coinbase-brings-ipo-shares-to-us-retail-traders-with-oura-up-first-c36e47500238",
+      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+      "excerpt": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+      "content": "<p>Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:03:09.832717+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2cbf354d4fd3",
+      "slug": "europes-central-bank-prepares-to-invest-own-funds-in-tokenized-securities-2cbf354d4fd3",
+      "title": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+      "excerpt": "Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+      "content": "<p>Europe’s Central Bank Prepares to Invest Own Funds in Tokenized Securities</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-21T20:03:11.387685+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "4d5b7ca27c1b",
       "slug": "kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth-4d5b7ca27c1b",
       "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
@@ -719,189 +899,9 @@
       "date": "2026-09-20T16:36:51.779018+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c599193e04e7",
-      "slug": "why-holding-anything-but-bitcoin-has-been-a-losing-bet-for-two-years-c599193e04e7",
-      "title": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
-      "excerpt": "Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years",
-      "content": "<p>Why Holding Anything But Bitcoin Has Been a Losing Bet for Two Years</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:36:53.321000+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "caeaaf56d779",
-      "slug": "south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-caeaaf56d779",
-      "title": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
-      "excerpt": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
-      "content": "<p>South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:36:55.203566+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c17f1eff909",
-      "slug": "japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-6c17f1eff909",
-      "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
-      "excerpt": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
-      "content": "<p>Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:36:56.742397+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8998826e647a",
-      "slug": "singapore-dollar-strong-nodx-but-usd-still-drives-usdsgd-ocbc-8998826e647a",
-      "title": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
-      "excerpt": "Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC",
-      "content": "<p>Singapore Dollar: Strong NODX but USD still drives USD/SGD – OCBC</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:36:58.282405+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1202845b76c3",
-      "slug": "audusd-price-forecast-bulls-eye-07200-after-07100-break-1202845b76c3",
-      "title": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
-      "excerpt": "AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break",
-      "content": "<p>AUD/USD Price Forecast: Bulls eye 0.7200 after 0.7100 break</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:36:59.824338+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4e3771aea181",
-      "slug": "my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-4e3771aea181",
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "excerpt": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "content": "<p>‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:37:01.786897+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4ccbe1b56ff2",
-      "slug": "my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a--4ccbe1b56ff2",
-      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "excerpt": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-      "content": "<p>My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:37:03.330198+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5a2ce97c778c",
-      "slug": "snoopy-cups-at-starbucks-and-mcdonalds-spongebob-toys-are-commanding-huge-markup-5a2ce97c778c",
-      "title": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
-      "excerpt": "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
-      "content": "<p>Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T16:37:04.869576+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "45670f1d73a5",
-      "slug": "trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports-45670f1d73a5",
-      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-      "excerpt": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
-      "content": "<p>Trump says US will form ‘AI Force’ and appoint AI czar: Reports</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T12:43:38.422390+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "413a3c1f1cba",
-      "slug": "grayscales-zcash-etf-files-for-3-for-1-forward-share-split-413a3c1f1cba",
-      "title": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
-      "excerpt": "Grayscale’s Zcash ETF files for 3-for-1 forward share split",
-      "content": "<p>Grayscale’s Zcash ETF files for 3-for-1 forward share split</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-20T12:43:39.953675+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-21T15:12:05.566027+00:00",
+  "lastUpdated": "2026-09-21T20:03:12.887854+00:00",
   "totalCount": 50,
   "newCount": 10
 }
