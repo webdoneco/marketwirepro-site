@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "2365fc8922f6",
+      "slug": "us-treasury-secretary-emerges-as-frontrunner-for-trumps-ai-czar-role-report-2365fc8922f6",
+      "title": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
+      "excerpt": "US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report",
+      "content": "<p>US Treasury secretary emerges as frontrunner for Trump’s AI czar role: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:54:54.124939+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "380c9f33c16f",
+      "slug": "malicious-ios-app-fomopeek-linked-to-580k-crypto-theft-slowmist-says-380c9f33c16f",
+      "title": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
+      "excerpt": "Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says",
+      "content": "<p>Malicious iOS app FomoPeek linked to $580K crypto theft, SlowMist says</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:54:55.703855+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "44053b1b33e5",
+      "slug": "ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock-44053b1b33e5",
+      "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
+      "excerpt": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
+      "content": "<p>AI potential to drive crypto demand remains ‘underappreciated’: BlackRock</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:54:57.286252+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9ed4614a3185",
+      "slug": "openai-anthropic-to-brief-un-security-council-on-ai-risks-reports-9ed4614a3185",
+      "title": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+      "excerpt": "OpenAI, Anthropic to brief UN Security Council on AI risks: Reports",
+      "content": "<p>OpenAI, Anthropic to brief UN Security Council on AI risks: Reports</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:54:58.867033+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c1d19e72a750",
+      "slug": "solana-starts-testing-upgrade-that-could-cut-finality-from-128-seconds-to-150-mi-c1d19e72a750",
+      "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+      "excerpt": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+      "content": "<p>Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:55:00.946841+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "93f244826a76",
+      "slug": "bitcoins-on-a-streak-it-hasnt-hit-since-2012-93f244826a76",
+      "title": "Bitcoin's on a streak it hasn't hit since 2012",
+      "excerpt": "Bitcoin's on a streak it hasn't hit since 2012",
+      "content": "<p>Bitcoin's on a streak it hasn't hit since 2012</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:55:02.524874+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b1b1876952b7",
+      "slug": "zcash-leads-crypto-majors-with-a-10-gain-as-bitcoin-holds-near-87000-b1b1876952b7",
+      "title": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+      "excerpt": "Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000",
+      "content": "<p>Zcash leads crypto majors with a 10% gain as bitcoin holds near $87,000</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:55:04.105607+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "355eae0f2388",
+      "slug": "what-are-the-main-events-for-today-355eae0f2388",
+      "title": "What are the main events for today?",
+      "excerpt": "What are the main events for today?",
+      "content": "<p>What are the main events for today?</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:55:06.122732+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "99a14d0abdcb",
+      "slug": "euro-area-pmis-put-inflation-pressures-and-the-ecb-rate-path-in-focus-99a14d0abdcb",
+      "title": "Euro area PMIs put inflation pressures and the ECB rate path in focus",
+      "excerpt": "Euro area PMIs put inflation pressures and the ECB rate path in focus",
+      "content": "<p>Euro area PMIs put inflation pressures and the ECB rate path in focus</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:55:07.702129+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "aa2af5b1dfa6",
+      "slug": "investinglive-asia-pacific-market-news-oil-slips-as-us-and-iran-hold-qatar-media-aa2af5b1dfa6",
+      "title": "investingLive Asia-Pacific market news: Oil slips as US and Iran hold Qatar-mediated talks",
+      "excerpt": "investingLive Asia-Pacific market news: Oil slips as US and Iran hold Qatar-mediated talks",
+      "content": "<p>investingLive Asia-Pacific market news: Oil slips as US and Iran hold Qatar-mediated talks</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-23T06:55:09.280113+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "3b3067e2e609",
       "slug": "cftc-issues-warning-over-risky-prediction-market-mention-contracts-3b3067e2e609",
       "title": "CFTC issues warning over risky prediction market ‘mention’ contracts",
@@ -719,189 +899,9 @@
       "date": "2026-09-22T17:25:19.117228+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1d2290c51b58",
-      "slug": "binance-takes-100m-stake-in-circle-under-expanded-usdc-deal-1d2290c51b58",
-      "title": "Binance takes $100M stake in Circle under expanded USDC deal",
-      "excerpt": "Binance takes $100M stake in Circle under expanded USDC deal",
-      "content": "<p>Binance takes $100M stake in Circle under expanded USDC deal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:03.620311+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "deabf5289482",
-      "slug": "ecb-to-put-its-own-money-into-tokenized-securities-via-new-pontes-dlt-deabf5289482",
-      "title": "ECB to put its own money into tokenized securities via new Pontes DLT",
-      "excerpt": "ECB to put its own money into tokenized securities via new Pontes DLT",
-      "content": "<p>ECB to put its own money into tokenized securities via new Pontes DLT</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:05.153832+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8fb8232610bf",
-      "slug": "ecb-eu-cenbanks-seek-changes-in-micas-minimum-bank-deposit-for-stablecoins-8fb8232610bf",
-      "title": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "excerpt": "ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins",
-      "content": "<p>ECB, EU cenbanks seek changes in MiCA’s minimum bank deposit for stablecoins</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:06.685947+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "769b615f47dd",
-      "slug": "crypto-metric-signals-altseason-as-bitcoin-market-cap-share-stalls-below-60-769b615f47dd",
-      "title": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
-      "excerpt": "Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%",
-      "content": "<p>Crypto metric signals altseason as Bitcoin market-cap share stalls below 60%</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:08.215038+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "13823c14630a",
-      "slug": "crypto-market-cap-reclaims-3-trillion-as-bitcoin-altcoins-rally-13823c14630a",
-      "title": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
-      "excerpt": "Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally",
-      "content": "<p>Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:09.748002+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ad9a0b233238",
-      "slug": "white-hats-outrun-coldcard-hackers-in-52-bitcoin-evacuation-ad9a0b233238",
-      "title": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
-      "excerpt": "White hats outrun Coldcard hackers in 52-Bitcoin evacuation",
-      "content": "<p>White hats outrun Coldcard hackers in 52-Bitcoin evacuation</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:11.280005+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0b30436b3b08",
-      "slug": "bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-0b30436b3b08",
-      "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-      "excerpt": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-      "content": "<p>Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:13.131933+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "621d9b0cd99e",
-      "slug": "why-payward-backed-reap-is-betting-on-non-usd-stablecoins-for-247-cross-border-f-621d9b0cd99e",
-      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-      "excerpt": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-      "content": "<p>Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:14.670214+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "46a2afb7b9c7",
-      "slug": "a-32-million-bitcoin-butterfly-option-trade-bets-on-95000-by-the-end-of-october-46a2afb7b9c7",
-      "title": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
-      "excerpt": "A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October",
-      "content": "<p>A $3.2 million 'bitcoin butterfly' option trade bets on $95,000 by the end of October</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:16.200487+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eadaf5a438e3",
-      "slug": "binance-buys-100-million-circle-stake-in-five-year-usdc-promotion-deal-eadaf5a438e3",
-      "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
-      "excerpt": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
-      "content": "<p>Binance buys $100 million Circle stake in five-year USDC promotion deal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-22T12:42:17.732232+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-23T01:34:44.675955+00:00",
+  "lastUpdated": "2026-09-23T06:55:10.780290+00:00",
   "totalCount": 50,
   "newCount": 10
 }
