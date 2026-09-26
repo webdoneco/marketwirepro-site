@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "af0128f91f11",
+      "slug": "sec-commissioner-hester-peirce-to-leave-post-on-oct-2-af0128f91f11",
+      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "excerpt": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
+      "content": "<p>SEC Commissioner Hester Peirce to leave post on Oct. 2</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-26T09:58:53.012155+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "80ebba56e7d4",
+      "slug": "cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme-80ebba56e7d4",
+      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "excerpt": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
+      "content": "<p>CFTC sues Cash FX, alleges $950M crypto-linked forex scheme</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-26T09:58:54.560341+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f9415360c341",
+      "slug": "bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules-f9415360c341",
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "excerpt": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "content": "<p>Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-26T09:58:56.614527+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "91d630d28435",
+      "slug": "a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-91d630d28435",
+      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+      "excerpt": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+      "content": "<p>A ‘death cross’ is coming for the dollar. Why Trump will be happy.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-26T09:58:59.222901+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fcf0e36d81d2",
+      "slug": "my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-in-iras-and-4-fcf0e36d81d2",
+      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "excerpt": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+      "content": "<p>My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-26T09:59:00.776271+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c37380e07a0b",
+      "slug": "microsofts-stock-has-roared-back-to-life-closing-at-its-highest-level-of-the-yea-c37380e07a0b",
+      "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+      "excerpt": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+      "content": "<p>Microsoft’s stock has roared back to life, closing at its highest level of the year</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-26T09:59:02.324705+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "54563ce4e54e",
       "slug": "solanas-150-millisecond-settlement-upgrade-reaches-second-public-test-network-54563ce4e54e",
       "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
@@ -791,117 +899,9 @@
       "date": "2026-09-25T13:58:21.438430+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "699351c44f10",
-      "slug": "magic-eden-scare-puts-3832-nfts-in-whitehat-protective-custody-699351c44f10",
-      "title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-      "excerpt": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
-      "content": "<p>Magic Eden scare puts 3,832 NFTs in whitehat protective custody</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-25T13:58:22.977521+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b20d64936160",
-      "slug": "bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm-b20d64936160",
-      "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "excerpt": "Bond volatility surges while bitcoin and Wall Street stay calm",
-      "content": "<p>Bond volatility surges while bitcoin and Wall Street stay calm</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-25T13:58:24.978281+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6aa249ea75cc",
-      "slug": "bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops-6aa249ea75cc",
-      "title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-      "excerpt": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
-      "content": "<p>Bitcoin holders are cashing out, just not the way they did at prior market tops</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-25T13:58:26.526427+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1c3aaa175c65",
-      "slug": "altcoins-rally-across-the-board-as-bitcoin-consolidates-near-84000-1c3aaa175c65",
-      "title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "excerpt": "Altcoins rally across the board as bitcoin consolidates near $84,000",
-      "content": "<p>Altcoins rally across the board as bitcoin consolidates near $84,000</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-25T13:58:28.072551+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8c3f3be7598d",
-      "slug": "bitcoin-etf-flows-turn-positive-for-2026-after-erasing-58-billion-deficit-8c3f3be7598d",
-      "title": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-      "excerpt": "Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit",
-      "content": "<p>Bitcoin ETF flows turn positive for 2026 after erasing $5.8 billion deficit</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-25T13:58:29.607039+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e3604b43ac39",
-      "slug": "kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far-e3604b43ac39",
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "excerpt": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "content": "<p>KelpDAO sues LayerZero for the largest exploit 2026 has seen so far</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-25T13:58:31.142935+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-26T05:12:25.598493+00:00",
+  "lastUpdated": "2026-09-26T09:59:03.865034+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 6
 }
