@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "uid": "0ddbc4f1205f",
+      "slug": "bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules-0ddbc4f1205f",
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "excerpt": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "content": "<p>Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T20:34:03.676635+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bce18a030afc",
+      "slug": "south-korean-won-export-strength-supports-krw-societe-generale-bce18a030afc",
+      "title": "South Korean Won: Export strength supports KRW – Societe Generale",
+      "excerpt": "South Korean Won: Export strength supports KRW – Societe Generale",
+      "content": "<p>South Korean Won: Export strength supports KRW – Societe Generale</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T20:34:05.824739+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4268044b166c",
+      "slug": "us-treasury-yields-rise-as-30-year-bond-hits-22-year-high-4268044b166c",
+      "title": "US Treasury yields rise as 30-year bond hits 22-year high",
+      "excerpt": "US Treasury yields rise as 30-year bond hits 22-year high",
+      "content": "<p>US Treasury yields rise as 30-year bond hits 22-year high</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T20:34:07.381499+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bf8f8e325113",
+      "slug": "south-korean-won-trade-surplus-seen-widening-ing-bf8f8e325113",
+      "title": "South Korean Won: Trade surplus seen widening – ING",
+      "excerpt": "South Korean Won: Trade surplus seen widening – ING",
+      "content": "<p>South Korean Won: Trade surplus seen widening – ING</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T20:34:08.937880+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "198ce4c32c6a",
+      "slug": "chinese-yuan-pboc-keeps-yuan-broadly-stable-societe-generale-198ce4c32c6a",
+      "title": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
+      "excerpt": "Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale",
+      "content": "<p>Chinese Yuan: PBoC keeps yuan broadly stable – Societe Generale</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T20:34:10.498434+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "333d84f51123",
+      "slug": "feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-333d84f51123",
+      "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
+      "excerpt": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
+      "content": "<p>Fed’s Hammack says policy still isn’t restrictive despite high inflation</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T20:34:12.045499+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7d3bd4e91ae2",
+      "slug": "i-want-to-make-her-proud-my-mother-a-divorce-died-and-im-her-executor-do-i-need--7d3bd4e91ae2",
+      "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "excerpt": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+      "content": "<p>‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T20:34:14.106840+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fd00630a34ef",
+      "slug": "social-security-overpaid-my-82-year-old-mother-by-20000-what-else-is-hiding-in-h-fd00630a34ef",
+      "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "excerpt": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+      "content": "<p>Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T20:34:15.651691+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d6898ad6726c",
       "slug": "australia-asks-openai-anthropic-chiefs-to-senate-inquiry-on-rogue-hack-report-d6898ad6726c",
       "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
@@ -755,153 +899,9 @@
       "date": "2026-09-26T14:08:58.962347+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "38c703c18549",
-      "slug": "it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-38c703c18549",
-      "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "excerpt": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
-      "content": "<p>‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T14:09:00.498010+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "af0128f91f11",
-      "slug": "sec-commissioner-hester-peirce-to-leave-post-on-oct-2-af0128f91f11",
-      "title": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "excerpt": "SEC Commissioner Hester Peirce to leave post on Oct. 2",
-      "content": "<p>SEC Commissioner Hester Peirce to leave post on Oct. 2</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T09:58:53.012155+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "80ebba56e7d4",
-      "slug": "cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme-80ebba56e7d4",
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "excerpt": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "content": "<p>CFTC sues Cash FX, alleges $950M crypto-linked forex scheme</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T09:58:54.560341+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f9415360c341",
-      "slug": "bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules-f9415360c341",
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "excerpt": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "content": "<p>Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T09:58:56.614527+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "91d630d28435",
-      "slug": "a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-91d630d28435",
-      "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
-      "excerpt": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
-      "content": "<p>A ‘death cross’ is coming for the dollar. Why Trump will be happy.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T09:58:59.222901+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fcf0e36d81d2",
-      "slug": "my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-in-iras-and-4-fcf0e36d81d2",
-      "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "excerpt": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-      "content": "<p>My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T09:59:00.776271+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c37380e07a0b",
-      "slug": "microsofts-stock-has-roared-back-to-life-closing-at-its-highest-level-of-the-yea-c37380e07a0b",
-      "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
-      "excerpt": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
-      "content": "<p>Microsoft’s stock has roared back to life, closing at its highest level of the year</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T09:59:02.324705+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "54563ce4e54e",
-      "slug": "solanas-150-millisecond-settlement-upgrade-reaches-second-public-test-network-54563ce4e54e",
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "excerpt": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "content": "<p>Solana’s 150-millisecond settlement upgrade reaches second public test network</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T05:12:07.855068+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-27T17:51:10.764058+00:00",
+  "lastUpdated": "2026-09-27T20:34:17.226347+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 8
 }
