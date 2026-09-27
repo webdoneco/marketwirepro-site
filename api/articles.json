@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "006298714b1b",
+      "slug": "ex-cftc-leader-to-leave-blockchain-association-after-clarity-vote-fails-006298714b1b",
+      "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+      "excerpt": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
+      "content": "<p>Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T01:35:41.345642+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -881,27 +899,9 @@
       "date": "2026-09-26T00:14:33.007626+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fb3605adf1e0",
-      "slug": "ogcom-seeks-cftc-approval-for-single-stock-perpetual-futures-fb3605adf1e0",
-      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "excerpt": "OG.com seeks CFTC approval for single-stock perpetual futures",
-      "content": "<p>OG.com seeks CFTC approval for single-stock perpetual futures</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-25T21:42:13.166310+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-26T23:00:48.672761+00:00",
+  "lastUpdated": "2026-09-27T01:35:44.848476+00:00",
   "totalCount": 50,
   "newCount": 1
 }
