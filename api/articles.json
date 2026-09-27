@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "fb3605adf1e0",
+      "slug": "ogcom-seeks-cftc-approval-for-single-stock-perpetual-futures-fb3605adf1e0",
+      "title": "OG.com seeks CFTC approval for single-stock perpetual futures",
+      "excerpt": "OG.com seeks CFTC approval for single-stock perpetual futures",
+      "content": "<p>OG.com seeks CFTC approval for single-stock perpetual futures</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-27T07:17:20.040963+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "006298714b1b",
       "slug": "ex-cftc-leader-to-leave-blockchain-association-after-clarity-vote-fails-006298714b1b",
       "title": "Ex-CFTC leader to leave Blockchain Association after CLARITY vote fails",
@@ -881,27 +899,9 @@
       "date": "2026-09-26T00:14:31.444915+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "04d0ae158fa6",
-      "slug": "chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-04d0ae158fa6",
-      "title": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
-      "excerpt": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
-      "content": "<p>Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-26T00:14:33.007626+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-27T01:35:44.848476+00:00",
+  "lastUpdated": "2026-09-27T07:17:23.237664+00:00",
   "totalCount": 50,
   "newCount": 1
 }
