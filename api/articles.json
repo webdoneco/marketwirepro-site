@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "cdeed53400fb",
+      "slug": "peter-brandt-says-bitcoin-may-hit-600k-by-2029-calls-xrp-a-fool-coin-cdeed53400fb",
+      "title": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+      "excerpt": "Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’",
+      "content": "<p>Peter Brandt says Bitcoin may hit $600K by 2029, calls XRP a ‘fool coin’</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:01.582763+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8c53c9678da4",
+      "slug": "bitcoin-etf-inflows-leave-institutional-demand-unclear-coinshares-8c53c9678da4",
+      "title": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+      "excerpt": "Bitcoin ETF inflows leave institutional demand unclear: CoinShares",
+      "content": "<p>Bitcoin ETF inflows leave institutional demand unclear: CoinShares</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:03.141124+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "102b1468090b",
+      "slug": "ecb-puts-ai-agent-payments-on-the-digital-euro-drawing-board-102b1468090b",
+      "title": "ECB puts AI agent payments on the digital euro drawing board",
+      "excerpt": "ECB puts AI agent payments on the digital euro drawing board",
+      "content": "<p>ECB puts AI agent payments on the digital euro drawing board</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:04.694817+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "45fcd3bebc31",
+      "slug": "ethereum-schedules-glamsterdam-upgrade-on-sepolia-for-oct-6-45fcd3bebc31",
+      "title": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+      "excerpt": "Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6",
+      "content": "<p>Ethereum schedules Glamsterdam upgrade on Sepolia for Oct. 6</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:06.256265+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "34dfe8742da1",
+      "slug": "us-crypto-etf-inflows-cool-after-33b-week-but-streaks-hold-34dfe8742da1",
+      "title": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+      "excerpt": "US crypto ETF inflows cool after $3.3B week but streaks hold",
+      "content": "<p>US crypto ETF inflows cool after $3.3B week but streaks hold</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:07.815278+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4c9e9b9f7c5c",
+      "slug": "democrats-killed-the-clarity-act-4c9e9b9f7c5c",
+      "title": "Democrats killed the Clarity Act",
+      "excerpt": "Democrats killed the Clarity Act",
+      "content": "<p>Democrats killed the Clarity Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:09.817762+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "94953031a856",
+      "slug": "bitcoin-beats-gold-surge-to-100000-in-play-94953031a856",
+      "title": "Bitcoin beats gold, surge to $100,000 in play",
+      "excerpt": "Bitcoin beats gold, surge to $100,000 in play",
+      "content": "<p>Bitcoin beats gold, surge to $100,000 in play</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:11.378674+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5fd056cd46e4",
+      "slug": "zcash-developers-begin-moving-tachyon-code-into-faster-private-payment-software-5fd056cd46e4",
+      "title": "Zcash developers begin moving Tachyon code into faster private-payment software",
+      "excerpt": "Zcash developers begin moving Tachyon code into faster private-payment software",
+      "content": "<p>Zcash developers begin moving Tachyon code into faster private-payment software</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:12.931304+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5258dda8c250",
+      "slug": "aave-leads-defi-higher-as-crypto-shrugs-off-surging-bond-market-5258dda8c250",
+      "title": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+      "excerpt": "Aave leads DeFi higher as crypto shrugs off surging bond market",
+      "content": "<p>Aave leads DeFi higher as crypto shrugs off surging bond market</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:14.488106+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b69258df52c2",
+      "slug": "live-updates-bitcoin-in-tight-range-near-84000-consumer-confidence-plunged-this--b69258df52c2",
+      "title": "Live updates: Bitcoin in tight range near $84,000; consumer confidence plunged this month",
+      "excerpt": "Live updates: Bitcoin in tight range near $84,000; consumer confidence plunged this month",
+      "content": "<p>Live updates: Bitcoin in tight range near $84,000; consumer confidence plunged this month</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-09-29T15:12:16.044653+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "651012933664",
       "slug": "tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year-651012933664",
       "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
@@ -719,189 +899,9 @@
       "date": "2026-09-28T16:12:44.742542+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "69a9be02183c",
-      "slug": "south-korea-weighs-crypto-market-makers-after-jpyc-trades-at-4-times-peg-69a9be02183c",
-      "title": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
-      "excerpt": "South Korea weighs crypto market makers after JPYC trades at 4 times peg",
-      "content": "<p>South Korea weighs crypto market makers after JPYC trades at 4 times peg</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:41.361109+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "14acd3b05c77",
-      "slug": "vitalik-buterin-says-hegot-could-be-ethereums-last-normal-fork-14acd3b05c77",
-      "title": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
-      "excerpt": "Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork",
-      "content": "<p>Vitalik Buterin says Hegotá could be Ethereum’s last ‘normal’ fork</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:42.892712+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8e92b2534d30",
-      "slug": "newsom-signs-california-ban-on-public-officials-issuing-memecoins-8e92b2534d30",
-      "title": "Newsom signs California ban on public officials issuing memecoins",
-      "excerpt": "Newsom signs California ban on public officials issuing memecoins",
-      "content": "<p>Newsom signs California ban on public officials issuing memecoins</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:44.425662+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1ae5f98ca040",
-      "slug": "redotpay-completes-financial-audit-as-it-presses-ahead-with-us-ipo-plans-1ae5f98ca040",
-      "title": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
-      "excerpt": "RedotPay completes financial audit as it presses ahead with U.S. IPO plans",
-      "content": "<p>RedotPay completes financial audit as it presses ahead with U.S. IPO plans</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:46.375401+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9c223202f2bf",
-      "slug": "californias-newsom-signs-memecoin-ban-and-calls-it-the-opposite-of-trump-9c223202f2bf",
-      "title": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
-      "excerpt": "California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'",
-      "content": "<p>California's Newsom signs memecoin ban and calls it 'The Opposite of Trump'</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:47.906395+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ba06381e95f5",
-      "slug": "solana-etfs-draw-record-188-million-in-a-week-as-bitwise-takes-two-thirds-of-inf-ba06381e95f5",
-      "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-      "excerpt": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-      "content": "<p>Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:49.439107+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "601a1d60de72",
-      "slug": "bitcoin-nasdaq-futures-decline-as-trump-wont-rule-out-more-iran-strikes-601a1d60de72",
-      "title": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
-      "excerpt": "Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes",
-      "content": "<p>Bitcoin, Nasdaq futures decline as Trump won’t rule out more Iran strikes</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:50.974748+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "aef014e4940f",
-      "slug": "bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green-aef014e4940f",
-      "title": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
-      "excerpt": "Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green",
-      "content": "<p>Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:52.554438+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "759ea161f2ee",
-      "slug": "how-crypto-stopped-waiting-for-congress-and-learned-to-love-the-regulators-759ea161f2ee",
-      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-      "excerpt": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-      "content": "<p>How Crypto Stopped Waiting for Congress and Learned to Love the Regulators</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:54.085467+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8ddbfec21966",
-      "slug": "ai-agents-are-racing-to-make-quantum-safe-bitcoin-cheapand-winning-8ddbfec21966",
-      "title": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
-      "excerpt": "AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning",
-      "content": "<p>AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap—And Winning</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-09-28T07:53:55.617375+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-09-29T08:46:19.612344+00:00",
+  "lastUpdated": "2026-09-29T15:12:17.544822+00:00",
   "totalCount": 50,
   "newCount": 10
 }
