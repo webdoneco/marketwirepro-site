@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "4510aed0778e",
+      "slug": "trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports-4510aed0778e",
+      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "excerpt": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
+      "content": "<p>Trump is expected to appoint Jay Clayton as new AI czar: Reports</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-03T08:41:12.711647+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "36a48d05f98a",
+      "slug": "why-western-digital-and-seagate-are-seeing-big-stock-drops-today-36a48d05f98a",
+      "title": "Why Western Digital and Seagate are seeing big stock drops today",
+      "excerpt": "Why Western Digital and Seagate are seeing big stock drops today",
+      "content": "<p>Why Western Digital and Seagate are seeing big stock drops today</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-03T08:41:15.392958+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e21102848cdd",
+      "slug": "tesla-sold-a-lot-more-evs-than-wall-street-expected-and-the-stock-is-surging-e21102848cdd",
+      "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "excerpt": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+      "content": "<p>Tesla sold a lot more EVs than Wall Street expected, and the stock is surging</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-03T08:41:16.919490+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b1588edc0dec",
+      "slug": "im-71-and-still-working-i-earn-108000-a-year-am-i-doing-the-right-thing-b1588edc0dec",
+      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "excerpt": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+      "content": "<p>I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-03T08:41:18.448689+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "14b4c819ba35",
+      "slug": "falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-li-14b4c819ba35",
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "excerpt": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "content": "<p>Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-03T08:41:19.977237+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6db7be3a9dd8",
+      "slug": "why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-6db7be3a9dd8",
+      "title": "Why mixing politics with your stock portfolio might be costing you money",
+      "excerpt": "Why mixing politics with your stock portfolio might be costing you money",
+      "content": "<p>Why mixing politics with your stock portfolio might be costing you money</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-03T08:41:21.505769+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "fa1e67f7e6ba",
       "slug": "nec-director-kevin-hassett-us-jobs-report-says-the-us-consumer-is-very-strong-fa1e67f7e6ba",
       "title": "NEC Director Kevin Hassett: US jobs report says the US consumer is very strong",
@@ -791,117 +899,9 @@
       "date": "2026-10-02T08:42:44.247415+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7ff120119025",
-      "slug": "core-lightning-warns-attackers-are-targeting-unpatched-nodes-7ff120119025",
-      "title": "Core Lightning warns attackers are targeting unpatched nodes",
-      "excerpt": "Core Lightning warns attackers are targeting unpatched nodes",
-      "content": "<p>Core Lightning warns attackers are targeting unpatched nodes</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-02T08:42:45.812482+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ced14fb63a8b",
-      "slug": "tethers-usdt-is-coming-home-to-bitcoin-this-month-over-a-decade-after-debut-ther-ced14fb63a8b",
-      "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
-      "excerpt": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
-      "content": "<p>Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-02T08:42:47.867269+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c953c9644764",
-      "slug": "bitcoin-tops-86000-ahead-of-us-jobs-report-c953c9644764",
-      "title": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "excerpt": "Bitcoin tops $86,000 ahead of U.S. jobs report",
-      "content": "<p>Bitcoin tops $86,000 ahead of U.S. jobs report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-02T08:42:49.411761+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "af6f20a2fda4",
-      "slug": "what-is-the-distribution-of-forecasts-for-the-us-nfp-af6f20a2fda4",
-      "title": "What is the distribution of forecasts for the US NFP?",
-      "excerpt": "What is the distribution of forecasts for the US NFP?",
-      "content": "<p>What is the distribution of forecasts for the US NFP?</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-02T08:42:51.390588+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "042c5c03b32e",
-      "slug": "what-are-the-main-events-for-today-042c5c03b32e",
-      "title": "What are the main events for today?",
-      "excerpt": "What are the main events for today?",
-      "content": "<p>What are the main events for today?</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-02T08:42:52.937914+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4a69de495a17",
-      "slug": "us-jobs-report-faces-a-higher-bar-as-bond-market-tensions-raise-the-stakes-4a69de495a17",
-      "title": "US jobs report faces a higher bar as bond market tensions raise the stakes",
-      "excerpt": "US jobs report faces a higher bar as bond market tensions raise the stakes",
-      "content": "<p>US jobs report faces a higher bar as bond market tensions raise the stakes</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-02T08:42:54.499331+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-03T02:46:41.033748+00:00",
+  "lastUpdated": "2026-10-03T08:41:23.096108+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 6
 }
