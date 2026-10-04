@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "uid": "178e1b44232b",
+      "slug": "theres-an-election-next-month-state-of-crypto-178e1b44232b",
+      "title": "There's an election next month: State of Crypto",
+      "excerpt": "There's an election next month: State of Crypto",
+      "content": "<p>There's an election next month: State of Crypto</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-04T20:15:46.927898+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2de64a3167a9",
+      "slug": "gold-fails-at-4200-despite-nfp-miss-as-us-yields-climb-2de64a3167a9",
+      "title": "Gold fails at $4,200 despite NFP miss as US yields climb",
+      "excerpt": "Gold fails at $4,200 despite NFP miss as US yields climb",
+      "content": "<p>Gold fails at $4,200 despite NFP miss as US yields climb</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-04T20:15:49.318844+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2d81b8932c1d",
+      "slug": "feds-goolsbee-says-inflation-now-outweighs-labor-concerns-2d81b8932c1d",
+      "title": "Fed’s Goolsbee says inflation now outweighs labor concerns",
+      "excerpt": "Fed’s Goolsbee says inflation now outweighs labor concerns",
+      "content": "<p>Fed’s Goolsbee says inflation now outweighs labor concerns</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-04T20:15:50.872006+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dbe4aa4562ba",
+      "slug": "new-zealand-dollar-rebounds-after-sharp-us-employment-disappointment-dbe4aa4562ba",
+      "title": "New Zealand Dollar rebounds after sharp US employment disappointment",
+      "excerpt": "New Zealand Dollar rebounds after sharp US employment disappointment",
+      "content": "<p>New Zealand Dollar rebounds after sharp US employment disappointment</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-04T20:15:52.438563+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3b25fea3bdc3",
+      "slug": "us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-3b25fea3bdc3",
+      "title": "US payrolls miss at 29K and the Dollar Index drops below 102.00",
+      "excerpt": "US payrolls miss at 29K and the Dollar Index drops below 102.00",
+      "content": "<p>US payrolls miss at 29K and the Dollar Index drops below 102.00</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-04T20:15:54.003173+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "52fa4f4103aa",
+      "slug": "i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-1950-an-hour-at-a-big-box-s-52fa4f4103aa",
+      "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "excerpt": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+      "content": "<p>‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-04T20:15:55.956511+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "949b7e4b2855",
+      "slug": "corporate-america-has-never-been-this-upbeat-about-future-profits-949b7e4b2855",
+      "title": "Corporate America has never been this upbeat about future profits",
+      "excerpt": "Corporate America has never been this upbeat about future profits",
+      "content": "<p>Corporate America has never been this upbeat about future profits</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-04T20:15:57.505340+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6d4142d6925c",
+      "slug": "october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this--6d4142d6925c",
+      "title": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+      "excerpt": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+      "content": "<p>October can be a scary month for stocks. Here’s what investors need to watch this year.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-04T20:15:59.065335+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "e3bdff338030",
       "slug": "trump-taps-intel-chief-jay-clayton-to-lead-new-super-intelligence-force-e3bdff338030",
       "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
@@ -755,153 +899,9 @@
       "date": "2026-10-03T08:41:16.919490+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b1588edc0dec",
-      "slug": "im-71-and-still-working-i-earn-108000-a-year-am-i-doing-the-right-thing-b1588edc0dec",
-      "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "excerpt": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-      "content": "<p>I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-03T08:41:18.448689+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "14b4c819ba35",
-      "slug": "falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-li-14b4c819ba35",
-      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-      "excerpt": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-      "content": "<p>Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-03T08:41:19.977237+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6db7be3a9dd8",
-      "slug": "why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-6db7be3a9dd8",
-      "title": "Why mixing politics with your stock portfolio might be costing you money",
-      "excerpt": "Why mixing politics with your stock portfolio might be costing you money",
-      "content": "<p>Why mixing politics with your stock portfolio might be costing you money</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-03T08:41:21.505769+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fa1e67f7e6ba",
-      "slug": "nec-director-kevin-hassett-us-jobs-report-says-the-us-consumer-is-very-strong-fa1e67f7e6ba",
-      "title": "NEC Director Kevin Hassett: US jobs report says the US consumer is very strong",
-      "excerpt": "NEC Director Kevin Hassett: US jobs report says the US consumer is very strong",
-      "content": "<p>NEC Director Kevin Hassett: US jobs report says the US consumer is very strong</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-03T02:46:22.615174+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c97c0c50b503",
-      "slug": "us-september-non-farm-payrolls-29k-vs-90k-expected-c97c0c50b503",
-      "title": "US September non-farm payrolls +29K vs +90K expected",
-      "excerpt": "US September non-farm payrolls +29K vs +90K expected",
-      "content": "<p>US September non-farm payrolls +29K vs +90K expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-03T02:46:24.179939+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9372f977619c",
-      "slug": "investinglive-european-session-wrap-stocks-advance-as-bond-yields-ease-ahead-of--9372f977619c",
-      "title": "investingLive European session wrap: Stocks advance as bond yields ease ahead of NFP",
-      "excerpt": "investingLive European session wrap: Stocks advance as bond yields ease ahead of NFP",
-      "content": "<p>investingLive European session wrap: Stocks advance as bond yields ease ahead of NFP</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-03T02:46:25.735237+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5c3fa587d5a1",
-      "slug": "silver-price-forecast-bears-crowd-60-after-six-percent-weekly-rout-5c3fa587d5a1",
-      "title": "Silver Price Forecast: Bears crowd $60 after six-percent weekly rout",
-      "excerpt": "Silver Price Forecast: Bears crowd $60 after six-percent weekly rout",
-      "content": "<p>Silver Price Forecast: Bears crowd $60 after six-percent weekly rout</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-03T02:46:29.761516+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ca9b0abc2d1a",
-      "slug": "mexican-peso-rebounds-but-carry-trade-exodus-still-bites-ca9b0abc2d1a",
-      "title": "Mexican Peso rebounds but carry trade exodus still bites",
-      "excerpt": "Mexican Peso rebounds but carry trade exodus still bites",
-      "content": "<p>Mexican Peso rebounds but carry trade exodus still bites</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-03T02:46:31.315120+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-04T17:10:40.054655+00:00",
+  "lastUpdated": "2026-10-04T20:16:00.622013+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 8
 }
