@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:06.820541+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1e588db9bb2b",
+      "slug": "bessent-hires-former-fed-board-nominee-and-investinglive-reader-judy-shelton-as--1e588db9bb2b",
+      "title": "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as adviser",
+      "excerpt": "Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as adviser",
+      "content": "<p>Bessent hires former Fed board nominee and investingLive reader, Judy Shelton as adviser</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:09.025253+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1f245a586466",
+      "slug": "how-have-interest-rate-expectations-changed-after-this-weeks-events-1f245a586466",
+      "title": "How have interest rate expectations changed after this week's events?",
+      "excerpt": "How have interest rate expectations changed after this week's events?",
+      "content": "<p>How have interest rate expectations changed after this week's events?</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:10.577935+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "aed62433e2b2",
+      "slug": "investinglive-european-session-wrap-stocks-rebound-as-bond-market-nerves-ease-fo-aed62433e2b2",
+      "title": "investingLive European session wrap: Stocks rebound as bond market nerves ease, for now",
+      "excerpt": "investingLive European session wrap: Stocks rebound as bond market nerves ease, for now",
+      "content": "<p>investingLive European session wrap: Stocks rebound as bond market nerves ease, for now</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:12.123505+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3e4db5756112",
+      "slug": "aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-3e4db5756112",
+      "title": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
+      "excerpt": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
+      "content": "<p>Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:13.789291+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1c84c3a783e0",
+      "slug": "chinese-yuan-pboc-defends-yuan-narrative-commerzbank-1c84c3a783e0",
+      "title": "Chinese Yuan: PBoC defends yuan narrative – Commerzbank",
+      "excerpt": "Chinese Yuan: PBoC defends yuan narrative – Commerzbank",
+      "content": "<p>Chinese Yuan: PBoC defends yuan narrative – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:15.337301+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1133185121d4",
+      "slug": "singapore-dollar-range-trading-persists-against-us-dollar-uob-1133185121d4",
+      "title": "Singapore Dollar: Range trading persists against US Dollar – UOB",
+      "excerpt": "Singapore Dollar: Range trading persists against US Dollar – UOB",
+      "content": "<p>Singapore Dollar: Range trading persists against US Dollar – UOB</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:16.887559+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "87a78e5d9ee0",
+      "slug": "taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-87a78e5d9ee0",
+      "title": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
+      "excerpt": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
+      "content": "<p>Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:18.435347+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "283af7242633",
+      "slug": "crude-oil-drops-on-trumps-russian-diesel-plan-283af7242633",
+      "title": "Crude Oil drops on Trump's Russian diesel plan",
+      "excerpt": "Crude Oil drops on Trump's Russian diesel plan",
+      "content": "<p>Crude Oil drops on Trump's Russian diesel plan</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:19.986198+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "651cab5b4c7c",
+      "slug": "china-robust-trade-and-rising-prices-dbs-651cab5b4c7c",
+      "title": "China: Robust trade and rising prices – DBS",
+      "excerpt": "China: Robust trade and rising prices – DBS",
+      "content": "<p>China: Robust trade and rising prices – DBS</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-10T02:29:21.535410+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "93ce610c5ecc",
       "slug": "us-plans-to-seize-1b-in-crypto-linked-to-iran-this-week-scott-bessent-93ce610c5ecc",
       "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
@@ -719,189 +899,9 @@
       "date": "2026-10-09T06:55:58.329890+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "17f2d8df6f19",
-      "slug": "chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express-17f2d8df6f19",
-      "title": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
-      "excerpt": "China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express",
-      "content": "<p>China’s P2P stablecoin wallets surge 43x, Korea’s $450B crypto economy: Asia Express</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:13.226450+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0c1362508b58",
-      "slug": "top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-te-0c1362508b58",
-      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-      "excerpt": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-      "content": "<p>Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:15.603011+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d46d58265053",
-      "slug": "eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-s-d46d58265053",
-      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-      "excerpt": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-      "content": "<p>EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:17.157906+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f3edb64db0ca",
-      "slug": "ai-startup-manus-raises-500-million-after-china-nixed-metas-2-billion-acquisitio-f3edb64db0ca",
-      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-      "excerpt": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-      "content": "<p>AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:18.867996+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "32c11b570297",
-      "slug": "google-wants-gemini-to-be-your-next-coworkercomplete-with-its-own-email-address-32c11b570297",
-      "title": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
-      "excerpt": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
-      "content": "<p>Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:20.457032+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c43a2ef9297f",
-      "slug": "ethereum-test-network-raises-block-limit-to-over-3x-its-current-capacity-c43a2ef9297f",
-      "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-      "excerpt": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-      "content": "<p>Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:22.023915+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9fec8370044f",
-      "slug": "nfl-sides-with-states-against-kalshi-in-supreme-court-prediction-market-fight-9fec8370044f",
-      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "excerpt": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "content": "<p>NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:23.584075+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5a052e855b72",
-      "slug": "satoshi-era-bitcoin-worth-83-million-moves-after-16-years-5a052e855b72",
-      "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
-      "excerpt": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
-      "content": "<p>Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:25.140498+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "541ba41aaa9a",
-      "slug": "solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand-541ba41aaa9a",
-      "title": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
-      "excerpt": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
-      "content": "<p>Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:26.713315+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "daebc20105f6",
-      "slug": "oracle-trucks-in-natural-gas-to-keep-ai-data-centres-on-schedule-as-pipelines-la-daebc20105f6",
-      "title": "Oracle trucks in natural gas to keep AI data centres on schedule as pipelines lag",
-      "excerpt": "Oracle trucks in natural gas to keep AI data centres on schedule as pipelines lag",
-      "content": "<p>Oracle trucks in natural gas to keep AI data centres on schedule as pipelines lag</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-09T00:47:28.636284+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-09T23:22:35.262360+00:00",
+  "lastUpdated": "2026-10-10T02:29:23.035548+00:00",
   "totalCount": 50,
   "newCount": 10
 }
