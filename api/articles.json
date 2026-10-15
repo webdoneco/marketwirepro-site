@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "d242fc78681f",
+      "slug": "south-korea-plans-cybersecurity-overhaul-after-attacks-hit-banks-crypto-firms-d242fc78681f",
+      "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "excerpt": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+      "content": "<p>South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:05.100666+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a307a678c3dc",
+      "slug": "australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout-a307a678c3dc",
+      "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "excerpt": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+      "content": "<p>Australia seeks feedback on crypto platform rules ahead of 2027 rollout</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:06.681024+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d16cf3f3fcba",
+      "slug": "bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july-d16cf3f3fcba",
+      "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+      "excerpt": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+      "content": "<p>Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:08.266414+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ea782f67f9c0",
+      "slug": "vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf-ea782f67f9c0",
+      "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "excerpt": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+      "content": "<p>VanEck seeks to withdraw application for Lido staked Ether ETF</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:09.845258+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ba8b97838d45",
+      "slug": "nearly-1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide-ba8b97838d45",
+      "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "excerpt": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+      "content": "<p>Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:11.782008+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "38de9ff3bdb1",
+      "slug": "bitcoin-mining-pool-once-handling-23-of-network-shuts-after-hashrate-falls-65-38de9ff3bdb1",
+      "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "excerpt": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+      "content": "<p>Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:13.362446+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f5f57b539a6c",
+      "slug": "bitcoin-wilts-as-fed-rate-uncertainty-weighs-kospi-plunges-8-f5f57b539a6c",
+      "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "excerpt": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+      "content": "<p>Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:14.938126+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2cbb40a9711b",
+      "slug": "investinglive-asia-pacific-market-news-treasury-rally-sinks-dollar-lifts-gold-2cbb40a9711b",
+      "title": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
+      "excerpt": "investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold",
+      "content": "<p>investingLive Asia-Pacific market news: Treasury rally sinks dollar, lifts gold</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:16.838772+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "31cc32fb8794",
+      "slug": "talk-grows-that-china-is-routing-us-treasury-holdings-through-canada-bloomberg-31cc32fb8794",
+      "title": "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
+      "excerpt": "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
+      "content": "<p>Talk grows that China is routing US Treasury holdings through Canada: Bloomberg</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:18.417194+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ae00262f3425",
+      "slug": "anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-ae00262f3425",
+      "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+      "excerpt": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+      "content": "<p>Anthropic’s slowing growth could be the AI trade’s latest red flag</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-15T06:01:20.652537+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "c585649384e5",
       "slug": "polygon-gains-us-payments-licenses-after-closing-coinme-deal-c585649384e5",
       "title": "Polygon gains US payments licenses after closing Coinme deal",
@@ -719,189 +899,9 @@
       "date": "2026-10-14T10:48:00.147506+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ab05b64d0c8c",
-      "slug": "sam-bankman-frieds-lawyer-lays-out-ex-ftx-ceos-supreme-court-case-ab05b64d0c8c",
-      "title": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
-      "excerpt": "Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case",
-      "content": "<p>Sam Bankman-Fried’s lawyer lays out ex-FTX CEO’s Supreme Court case</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:01.697828+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "55c25f25381d",
-      "slug": "bitcoin-will-become-less-volatile-and-larger-than-gold-the-bitcoin-standard-auth-55c25f25381d",
-      "title": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
-      "excerpt": "Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author",
-      "content": "<p>Bitcoin will become ‘less volatile’ and larger than gold: ‘The Bitcoin Standard’ author</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:03.248402+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3b8743b9cc68",
-      "slug": "standard-chartered-expands-bitcoin-and-ether-trading-to-professional-investors-i-3b8743b9cc68",
-      "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-      "excerpt": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-      "content": "<p>Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:04.797197+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "82f204e341ed",
-      "slug": "starknet-introduces-wallet-privacy-feature-for-defi-activity-82f204e341ed",
-      "title": "Starknet introduces wallet privacy feature for DeFi activity",
-      "excerpt": "Starknet introduces wallet privacy feature for DeFi activity",
-      "content": "<p>Starknet introduces wallet privacy feature for DeFi activity</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:06.350037+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d3054878e4af",
-      "slug": "sp-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange-d3054878e4af",
-      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-      "excerpt": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-      "content": "<p>S&P 500 options are the hottest bet on this Hyperliquid exchange</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:08.257700+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5af638d071aa",
-      "slug": "live-updates-bitcoin-tumbles-from-near-84000-ahead-of-us-inflation-data-5af638d071aa",
-      "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-      "excerpt": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
-      "content": "<p>Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:09.804995+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98f3e13b2435",
-      "slug": "proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore-98f3e13b2435",
-      "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
-      "excerpt": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
-      "content": "<p>Proposed French tax on regulated stablecoins could drive crypto traders offshore</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:11.348843+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a8bbeb928520",
-      "slug": "standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-cli-a8bbeb928520",
-      "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "excerpt": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-      "content": "<p>Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:12.896626+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "97fed39101dc",
-      "slug": "coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now-97fed39101dc",
-      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "excerpt": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
-      "content": "<p>Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T10:48:14.440386+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f28c1dbb732a",
-      "slug": "feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years-f28c1dbb732a",
-      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-      "excerpt": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
-      "content": "<p>Fed’s Williams sees AI supply squeeze lasting beyond 2 years</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-14T05:35:54.345278+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-15T01:04:03.659279+00:00",
+  "lastUpdated": "2026-10-15T06:01:22.152708+00:00",
   "totalCount": 50,
-  "newCount": 9
+  "newCount": 10
 }
