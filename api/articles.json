@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "uid": "78555c4151fb",
+      "slug": "solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says-78555c4151fb",
+      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+      "excerpt": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+      "content": "<p>Solana shows resilience, but some areas need continued observation, Fidelity says</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T16:01:02.129891+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "264f94648460",
+      "slug": "citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits-264f94648460",
+      "title": "Citrini sees a tokenization boom. The harder question is who profits",
+      "excerpt": "Citrini sees a tokenization boom. The harder question is who profits",
+      "content": "<p>Citrini sees a tokenization boom. The harder question is who profits</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T16:01:04.087190+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f4fcc9ec2b0b",
+      "slug": "polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-st-f4fcc9ec2b0b",
+      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "excerpt": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "content": "<p>Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T16:01:05.623971+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "16b0e0b550ec",
+      "slug": "chinese-startup-stepfun-launches-a-phone-built-around-an-ai-agent-not-apps-16b0e0b550ec",
+      "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+      "excerpt": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+      "content": "<p>Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T16:01:07.222463+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1c35ce8cae77",
+      "slug": "tokenmaxxing-how-to-get-the-most-out-of-your-ai-models-1c35ce8cae77",
+      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+      "excerpt": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+      "content": "<p>TokenMaxxing: How to Get the Most Out of Your AI Models</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T16:01:08.758924+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f3d2a7beee60",
+      "slug": "some-people-did-everything-right-i-lost-my-home-in-the-great-recession-i-rent-in-f3d2a7beee60",
+      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "excerpt": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+      "content": "<p>‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T16:01:10.807759+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1ac605f0e93d",
+      "slug": "meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-1ac605f0e93d",
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "excerpt": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "content": "<p>Meet the home buyers totally unfazed by 7% mortgage rates</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T16:01:12.346898+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "11caebcc3981",
       "slug": "circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-re-11caebcc3981",
       "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
@@ -773,135 +899,9 @@
       "date": "2026-10-16T14:33:04.515285+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3250655a65a0",
-      "slug": "circle-targets-40-new-markets-as-stablecoin-demand-grows-globally-3250655a65a0",
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "excerpt": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "content": "<p>Circle targets 40 new markets as stablecoin demand grows globally</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T14:33:06.075491+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a570d7c35812",
-      "slug": "quantum-alliance-forms-amid-warnings-64-million-bitcoin-face-future-quantum-thre-a570d7c35812",
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "excerpt": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "content": "<p>Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T14:33:07.634978+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "18cd769047cb",
-      "slug": "tokenized-tesla-surges-as-elon-musk-unveils-spacex-powered-flying-roadster-proto-18cd769047cb",
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "excerpt": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "content": "<p>Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T14:33:09.186494+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "67035a686139",
-      "slug": "altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plan-67035a686139",
-      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-      "excerpt": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-      "content": "<p>Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T14:33:10.736186+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fb003dc9cd52",
-      "slug": "bitcoin-may-seek-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant-fb003dc9cd52",
-      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
-      "excerpt": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
-      "content": "<p>Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T09:58:40.635843+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "25a9fea05f44",
-      "slug": "capital-b-reports-78m-h1-loss-driven-by-bitcoin-impairment-charge-25a9fea05f44",
-      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-      "excerpt": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-      "content": "<p>Capital B reports $78M H1 loss driven by Bitcoin impairment charge</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T09:58:42.161308+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "50758b9ce2c8",
-      "slug": "judge-rejects-cftc-gemini-bid-to-undo-5m-settlement-50758b9ce2c8",
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "excerpt": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "content": "<p>Judge rejects CFTC, Gemini bid to undo $5M settlement</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T09:58:43.686073+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-17T12:33:02.360683+00:00",
+  "lastUpdated": "2026-10-17T16:01:13.938088+00:00",
   "totalCount": 50,
   "newCount": 7
 }
