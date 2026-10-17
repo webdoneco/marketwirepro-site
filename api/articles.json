@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T00:02:08.558275+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "78e923243124",
+      "slug": "nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-78e923243124",
+      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "excerpt": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
+      "content": "<p>Nowhere to hide: Tech selloff hits software and chip stocks alike</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T00:02:11.106694+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1e966ec0b45e",
+      "slug": "this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-a-1e966ec0b45e",
+      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "excerpt": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
+      "content": "<p>This Senate race where data centers are a crucial issue has more spending than any other midterm clash</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T00:02:12.633461+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "29386cd9da0f",
+      "slug": "could-an-anthropic-ipo-put-your-401k-at-risk-the-ai-safety-debate-hits-a-new-dim-29386cd9da0f",
+      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "excerpt": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
+      "content": "<p>Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T00:02:14.162742+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b843d9aa9a63",
+      "slug": "new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-b843d9aa9a63",
+      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "excerpt": "New SEC rules would fleece everyday investors to enrich Wall Street",
+      "content": "<p>New SEC rules would fleece everyday investors to enrich Wall Street</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T00:02:15.691086+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0565d1dd0d08",
+      "slug": "im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-0565d1dd0d08",
+      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "excerpt": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+      "content": "<p>I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T00:02:17.224185+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "c3c725418d98",
       "slug": "tesla-roadster-rocket-is-the-cool-flying-car-you-cant-have-c3c725418d98",
       "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can’t Have",
@@ -791,117 +899,9 @@
       "date": "2026-10-16T05:15:25.263256+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "940014223493",
-      "slug": "market-playbook-is-the-bond-market-starting-to-worry-more-about-us-growth-than-i-940014223493",
-      "title": "Market playbook: Is the bond market starting to worry more about US growth than inflation?",
-      "excerpt": "Market playbook: Is the bond market starting to worry more about US growth than inflation?",
-      "content": "<p>Market playbook: Is the bond market starting to worry more about US growth than inflation?</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T05:15:26.817995+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "146118cbdbda",
-      "slug": "tesla-finally-delivers-on-its-promise-to-create-a-flying-car-146118cbdbda",
-      "title": "Tesla finally delivers on its promise to create a flying car",
-      "excerpt": "Tesla finally delivers on its promise to create a flying car",
-      "content": "<p>Tesla finally delivers on its promise to create a flying car</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T05:15:28.936247+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "16a252d3725a",
-      "slug": "australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework-16a252d3725a",
-      "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "excerpt": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
-      "content": "<p>Australia releases draft bill to adopt OECD crypto tax reporting framework</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T00:53:04.448832+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "79f32fde62ef",
-      "slug": "scammer-loses-48m-stored-on-tampered-ledgers-asia-express-79f32fde62ef",
-      "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "excerpt": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-      "content": "<p>Scammer loses $4.8M stored on tampered Ledgers: Asia Express</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T00:53:05.993724+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a60458648575",
-      "slug": "new-zealand-card-spending-falls-for-second-month-as-food-prices-hold-flat-in-sep-a60458648575",
-      "title": "New Zealand card spending falls for second month as food prices hold flat in September",
-      "excerpt": "New Zealand card spending falls for second month as food prices hold flat in September",
-      "content": "<p>New Zealand card spending falls for second month as food prices hold flat in September</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T00:53:08.371000+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3c00da5e1893",
-      "slug": "pepsi-loses-more-ground-in-the-soda-wars-as-kfc-switches-to-coke-3c00da5e1893",
-      "title": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-      "excerpt": "Pepsi loses more ground in the soda wars, as KFC switches to Coke",
-      "content": "<p>Pepsi loses more ground in the soda wars, as KFC switches to Coke</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T00:53:10.497416+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-16T21:34:13.528618+00:00",
+  "lastUpdated": "2026-10-17T00:02:18.819183+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 6
 }
