@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "aa3122285ec2",
+      "slug": "satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-googles-new-willow-break-aa3122285ec2",
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "excerpt": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "content": "<p>Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T04:43:37.411321+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -881,27 +899,9 @@
       "date": "2026-10-16T05:15:23.415055+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ef1a0b66063a",
-      "slug": "investinglive-asia-pacific-market-news-warsh-stays-silent-on-rates-ef1a0b66063a",
-      "title": "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
-      "excerpt": "investingLive Asia-Pacific market news: Warsh stays silent on rates,",
-      "content": "<p>investingLive Asia-Pacific market news: Warsh stays silent on rates,</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T05:15:25.263256+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-17T00:02:18.819183+00:00",
+  "lastUpdated": "2026-10-17T04:43:39.762351+00:00",
   "totalCount": 50,
-  "newCount": 6
+  "newCount": 1
 }
