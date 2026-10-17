@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "0e8d8016ab10",
+      "slug": "lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent-0e8d8016ab10",
+      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "excerpt": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "content": "<p>Lagarde says euro-area economy is resilient, digital euro imminent</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T08:54:36.113996+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a161faeb214a",
+      "slug": "bitget-to-discontinue-services-for-some-users-in-one-off-exercise-a161faeb214a",
+      "title": "Bitget to discontinue services for some users in one-off exercise",
+      "excerpt": "Bitget to discontinue services for some users in one-off exercise",
+      "content": "<p>Bitget to discontinue services for some users in one-off exercise</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T08:54:37.644915+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1bfec482786d",
+      "slug": "wow-its-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery-1bfec482786d",
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "excerpt": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "content": "<p>‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-17T08:54:39.413176+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "aa3122285ec2",
       "slug": "satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-googles-new-willow-break-aa3122285ec2",
       "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
@@ -845,63 +899,9 @@
       "date": "2026-10-16T09:58:54.709196+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c2bb8cc58514",
-      "slug": "msci-adopts-index-exclusion-rules-that-could-oust-strategy-c2bb8cc58514",
-      "title": "MSCI adopts index exclusion rules that could oust Strategy",
-      "excerpt": "MSCI adopts index exclusion rules that could oust Strategy",
-      "content": "<p>MSCI adopts index exclusion rules that could oust Strategy</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T05:15:19.934492+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "807a7a9aee1e",
-      "slug": "an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own-807a7a9aee1e",
-      "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "excerpt": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-      "content": "<p>An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T05:15:21.866254+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2bd7c68c681a",
-      "slug": "bitcoin-buyers-snap-up-a-brief-drop-below-80000-as-asian-stocks-rebound-2bd7c68c681a",
-      "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "excerpt": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
-      "content": "<p>Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-16T05:15:23.415055+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-17T04:43:39.762351+00:00",
+  "lastUpdated": "2026-10-17T08:54:41.496188+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 3
 }
