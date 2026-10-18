@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-18T22:00:42.812644+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "595021de1869",
+      "slug": "us-threatens-eu-with-devastating-retaliation-if-brussels-curbs-starlink-spectrum-595021de1869",
+      "title": "US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access",
+      "excerpt": "US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access",
+      "content": "<p>US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-18T22:00:44.920118+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "73827df0d987",
+      "slug": "romanian-f-16s-shoot-down-two-drones-over-black-sea-nato-council-to-meet-tuesday-73827df0d987",
+      "title": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
+      "excerpt": "Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday",
+      "content": "<p>Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-18T22:00:46.465307+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "434ddc1a76ae",
       "slug": "the-white-houses-crypto-chief-departs-state-of-crypto-434ddc1a76ae",
       "title": "The White House's crypto chief departs: State of Crypto",
@@ -845,63 +899,9 @@
       "date": "2026-10-17T12:32:56.160739+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98b0a5b40764",
-      "slug": "microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-pl-98b0a5b40764",
-      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-      "excerpt": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
-      "content": "<p>Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T12:32:57.690440+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d28f4c14c2ed",
-      "slug": "im-64-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70--d28f4c14c2ed",
-      "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "excerpt": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-      "content": "<p>I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T12:32:59.222331+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6e76a2451a01",
-      "slug": "it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-6e76a2451a01",
-      "title": "It was another great week for the average stock as market leadership shifts away from tech",
-      "excerpt": "It was another great week for the average stock as market leadership shifts away from tech",
-      "content": "<p>It was another great week for the average stock as market leadership shifts away from tech</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T12:33:00.757192+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-18T19:49:24.266757+00:00",
+  "lastUpdated": "2026-10-18T22:00:48.607729+00:00",
   "totalCount": 50,
-  "newCount": 5
+  "newCount": 3
 }
