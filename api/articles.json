@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "uid": "e9d9b944dd3f",
+      "slug": "richard-heart-caught-off-guard-qday-gets-even-closer-hodlers-digest-e9d9b944dd3f",
+      "title": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "excerpt": "Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest",
+      "content": "<p>Richard Heart caught ‘off-guard,’ QDay gets even closer: Hodler’s Digest</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T00:16:39.790207+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7476372abedd",
+      "slug": "sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-t-7476372abedd",
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "excerpt": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "content": "<p>SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T00:16:41.512092+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fd0580a615df",
+      "slug": "wall-street-freaked-out-friday-but-vix-and-bitcoin-trades-say-the-fear-may-fade--fd0580a615df",
+      "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+      "excerpt": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
+      "content": "<p>Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T00:16:43.049931+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "91dac1c62c61",
+      "slug": "only-a-third-of-the-us-data-centre-pipeline-looks-credible-as-ai-financing-strai-91dac1c62c61",
+      "title": "Only a third of the US data centre pipeline looks credible as AI financing strains build",
+      "excerpt": "Only a third of the US data centre pipeline looks credible as AI financing strains build",
+      "content": "<p>Only a third of the US data centre pipeline looks credible as AI financing strains build</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T00:16:44.803997+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7ccfd1d4c23d",
+      "slug": "new-zealand-trade-deficit-widens-to-nearly-nz2-billion-more-than-double-forecast-7ccfd1d4c23d",
+      "title": "New Zealand trade deficit widens to nearly NZ$2 billion, more than double forecasts",
+      "excerpt": "New Zealand trade deficit widens to nearly NZ$2 billion, more than double forecasts",
+      "content": "<p>New Zealand trade deficit widens to nearly NZ$2 billion, more than double forecasts</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T00:16:46.339862+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "033f9fe2acc0",
+      "slug": "china-data-preview-industry-holds-up-consumers-and-property-lag-ahead-of-q3-gdp-033f9fe2acc0",
+      "title": "China data preview: industry holds up, consumers and property lag ahead of Q3 GDP",
+      "excerpt": "China data preview: industry holds up, consumers and property lag ahead of Q3 GDP",
+      "content": "<p>China data preview: industry holds up, consumers and property lag ahead of Q3 GDP</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T00:16:47.878538+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fe21ea263827",
+      "slug": "economic-and-event-calendar-in-asia---china-data-the-focus-fe21ea263827",
+      "title": "Economic and event calendar in Asia - China data the focus",
+      "excerpt": "Economic and event calendar in Asia - China data the focus",
+      "content": "<p>Economic and event calendar in Asia - China data the focus</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T00:16:49.411171+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bd77acd612da",
+      "slug": "new-zealand-services-sector-grows-for-four-months-straight-as-psi-holds-at-509-bd77acd612da",
+      "title": "New Zealand services sector grows for four months straight as PSI holds at 50.9",
+      "excerpt": "New Zealand services sector grows for four months straight as PSI holds at 50.9",
+      "content": "<p>New Zealand services sector grows for four months straight as PSI holds at 50.9</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T00:16:50.946126+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -755,153 +899,9 @@
       "date": "2026-10-17T16:01:05.623971+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "16b0e0b550ec",
-      "slug": "chinese-startup-stepfun-launches-a-phone-built-around-an-ai-agent-not-apps-16b0e0b550ec",
-      "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-      "excerpt": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-      "content": "<p>Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T16:01:07.222463+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1c35ce8cae77",
-      "slug": "tokenmaxxing-how-to-get-the-most-out-of-your-ai-models-1c35ce8cae77",
-      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-      "excerpt": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-      "content": "<p>TokenMaxxing: How to Get the Most Out of Your AI Models</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T16:01:08.758924+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f3d2a7beee60",
-      "slug": "some-people-did-everything-right-i-lost-my-home-in-the-great-recession-i-rent-in-f3d2a7beee60",
-      "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "excerpt": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-      "content": "<p>‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T16:01:10.807759+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1ac605f0e93d",
-      "slug": "meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-1ac605f0e93d",
-      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "excerpt": "Meet the home buyers totally unfazed by 7% mortgage rates",
-      "content": "<p>Meet the home buyers totally unfazed by 7% mortgage rates</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T16:01:12.346898+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "11caebcc3981",
-      "slug": "circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-re-11caebcc3981",
-      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "excerpt": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "content": "<p>Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T12:32:50.525981+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "45da5472b727",
-      "slug": "banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds-45da5472b727",
-      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "excerpt": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "content": "<p>Banks could slow stablecoin growth by paying savers more, BIS paper finds</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T12:32:52.502076+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "60d4620bcaee",
-      "slug": "influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-60d4620bcaee",
-      "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-      "excerpt": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-      "content": "<p>Influencers and biohackers swear by fasting. Here’s what the science says.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T12:32:54.630028+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "48c348e2b8fd",
-      "slug": "silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-48c348e2b8fd",
-      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-      "excerpt": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
-      "content": "<p>Silver’s recent 50% drop from a record high hints that an economic slowdown looms</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-17T12:32:56.160739+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-18T22:00:48.607729+00:00",
+  "lastUpdated": "2026-10-19T00:16:52.819974+00:00",
   "totalCount": 50,
-  "newCount": 3
+  "newCount": 8
 }
