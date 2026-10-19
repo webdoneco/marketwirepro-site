@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "f158e37aa3ed",
+      "slug": "france-advances-stablecoin-tax-eyes-self-custodial-wallets-and-exit-tax-proposal-f158e37aa3ed",
+      "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "excerpt": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "content": "<p>France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:04.513922+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ee57589f3a09",
+      "slug": "stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week-ee57589f3a09",
+      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+      "excerpt": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+      "content": "<p>Stocks rebound into key tech earnings: Three things to know in Bitcoin this week</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:06.098099+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e3935d307f89",
+      "slug": "bingx-youhodler-added-to-esma-mica-register-in-latest-update-e3935d307f89",
+      "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
+      "excerpt": "BingX, YouHodler added to ESMA MiCA register in latest update",
+      "content": "<p>BingX, YouHodler added to ESMA MiCA register in latest update</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:07.677845+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4b3ac3cfefad",
+      "slug": "jpmorgan-takes-jpm-coin-to-ethereum-for-institutional-clients-report-4b3ac3cfefad",
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "excerpt": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "content": "<p>JPMorgan takes JPM Coin to Ethereum for institutional clients: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:09.259919+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c4603b19368b",
+      "slug": "bitcoin-ether-etfs-shed-549m-as-october-eth-outflows-near-1b-c4603b19368b",
+      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+      "excerpt": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+      "content": "<p>Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:10.843081+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4d648ce1a876",
+      "slug": "zoom-adds-proof-of-human-badges-to-show-youre-not-a-deepfake-4d648ce1a876",
+      "title": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+      "excerpt": "Zoom adds ‘proof of human’ badges to show you’re not a deepfake",
+      "content": "<p>Zoom adds ‘proof of human’ badges to show you’re not a deepfake</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:12.423092+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c1bd3e5b9ddf",
+      "slug": "bitcoin-extends-bounce-above-82000-as-stocks-rebound-defi-tokens-lead-altcoin-ga-c1bd3e5b9ddf",
+      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "excerpt": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "content": "<p>Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:14.571343+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e6994474d06d",
+      "slug": "jpmorgans-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg-e6994474d06d",
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "excerpt": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "content": "<p>JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:16.153497+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "00c332bcdb1e",
+      "slug": "crypto-vault-deposits-top-10-billion-as-lending-risks-draw-regulatory-scrutiny-00c332bcdb1e",
+      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "excerpt": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "content": "<p>Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:17.734796+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bebf3dcff879",
+      "slug": "cmes-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead-bebf3dcff879",
+      "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "excerpt": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+      "content": "<p>CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-19T10:29:19.318250+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "0022eda5fecc",
       "slug": "qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds-0022eda5fecc",
       "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
@@ -719,189 +899,9 @@
       "date": "2026-10-18T14:43:06.678990+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "81de889d9257",
-      "slug": "crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-11-mi-81de889d9257",
-      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "excerpt": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
-      "content": "<p>Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T14:43:08.234644+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d754f3a8e019",
-      "slug": "banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say-d754f3a8e019",
-      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
-      "excerpt": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
-      "content": "<p>Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T14:43:09.873391+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8882c3dcdea0",
-      "slug": "these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-sp-500-earnings--8882c3dcdea0",
-      "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
-      "excerpt": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
-      "content": "<p>These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T14:43:12.138856+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c4d1223d75fd",
-      "slug": "stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-ri-c4d1223d75fd",
-      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "excerpt": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-      "content": "<p>Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T14:43:13.683860+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "66894ccb182c",
-      "slug": "there-is-a-silent-market-rotation-inside-the-sp-500-thats-warning-of-more-weakne-66894ccb182c",
-      "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
-      "excerpt": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
-      "content": "<p>There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T14:43:15.223904+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "01a4a11e5fbd",
-      "slug": "cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys-01a4a11e5fbd",
-      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "excerpt": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "content": "<p>Cysic crypto bridge halted after unauthorized mint of 10M CYS</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T11:27:11.551574+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "276295f5ebfe",
-      "slug": "chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok-276295f5ebfe",
-      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-      "excerpt": "Chinese suspect in $75M international crime network arrested in Bangkok",
-      "content": "<p>Chinese suspect in $75M international crime network arrested in Bangkok</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T11:27:13.083002+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2b86838c6474",
-      "slug": "tether-backs-aisa-as-strategic-investor-completing-seed-extension-round-2b86838c6474",
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "excerpt": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "content": "<p>Tether backs AIsa as strategic investor, completing seed extension round</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T11:27:14.615779+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0905870076d7",
-      "slug": "chip-stock-bets-lost-52-million-in-10-minutes-with-wall-street-shut-0905870076d7",
-      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "excerpt": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "content": "<p>Chip-stock bets lost $52 million in 10 minutes with Wall Street shut</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T11:27:16.479240+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "130f16a5fc82",
-      "slug": "circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigge-130f16a5fc82",
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "excerpt": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "content": "<p>Circle defends USDC economics as stablecoin rivals court its partners with bigger cut</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-18T01:16:00.016672+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-19T04:58:18.230711+00:00",
+  "lastUpdated": "2026-10-19T10:29:20.818378+00:00",
   "totalCount": 50,
   "newCount": 10
 }
