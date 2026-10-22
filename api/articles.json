@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "df76369429c1",
+      "slug": "coindcx-pledges-no-user-losses-after-16m-transfers-draw-scrutiny-df76369429c1",
+      "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
+      "excerpt": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
+      "content": "<p>CoinDCX pledges no user losses after $16M transfers draw scrutiny</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:05.005014+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "78b8df856777",
+      "slug": "bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls-78b8df856777",
+      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+      "excerpt": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+      "content": "<p>Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:06.543007+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "247b7085e415",
+      "slug": "starknet-voters-back-research-into-life-beyond-ethereum-247b7085e415",
+      "title": "Starknet voters back research into life beyond Ethereum",
+      "excerpt": "Starknet voters back research into life beyond Ethereum",
+      "content": "<p>Starknet voters back research into life beyond Ethereum</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:08.080115+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "60356b518000",
+      "slug": "php-flaw-draws-millions-of-exploit-attempts-cloudflare-ceo-warns-60356b518000",
+      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+      "excerpt": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+      "content": "<p>PHP flaw draws millions of exploit attempts, Cloudflare CEO warns</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:09.616545+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f8fabf82c1b7",
+      "slug": "bitcoin-etfs-bag-another-528m-taking-3-day-haul-past-1b-f8fabf82c1b7",
+      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "excerpt": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+      "content": "<p>Bitcoin ETFs bag another $528M, taking 3-day haul past $1B</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:11.154362+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:12.688994+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d4aa8184944d",
+      "slug": "crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble-d4aa8184944d",
+      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+      "excerpt": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+      "content": "<p>Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:14.465398+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f1a1fbafb5ff",
+      "slug": "bitcoin-slides-below-82000-as-ai-doubts-return-with-defi-tokens-leading-declines-f1a1fbafb5ff",
+      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+      "excerpt": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+      "content": "<p>Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:16.001949+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7f2dee3bb3fe",
+      "slug": "crypto-traders-price-india-telecoms-company-reliance-jios-ipo-at-about-110-billi-7f2dee3bb3fe",
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+      "excerpt": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+      "content": "<p>Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:17.554278+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fd7616d5da79",
+      "slug": "live-updates-bitcoin-slumps-below-82000-as-markets-go-risk-off-on-ai-selloff-oil-fd7616d5da79",
+      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+      "excerpt": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+      "content": "<p>Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T12:10:19.088760+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "fb3975ea54c4",
       "slug": "move-over-memecoins-crypto-meme-games-coming-bagholders-and-all-fb3975ea54c4",
       "title": "Move over memecoins: Crypto ‘meme games’ coming, bagholders and all",
@@ -719,189 +899,9 @@
       "date": "2026-10-21T15:43:20.155244+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0a5cf6021007",
-      "slug": "5-alternatives-to-ledger-to-store-your-bitcoin-0a5cf6021007",
-      "title": "5 alternatives to Ledger to store your Bitcoin",
-      "excerpt": "5 alternatives to Ledger to store your Bitcoin",
-      "content": "<p>5 alternatives to Ledger to store your Bitcoin</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T15:43:21.690088+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e4a8dc83ddfa",
-      "slug": "occ-finalizes-genius-act-rules-for-stablecoin-issuers-and-custody-e4a8dc83ddfa",
-      "title": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-      "excerpt": "OCC finalizes GENIUS Act rules for stablecoin issuers and custody",
-      "content": "<p>OCC finalizes GENIUS Act rules for stablecoin issuers and custody</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T15:43:23.222996+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a1e4d7746398",
-      "slug": "how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-30-million-sui--a1e4d7746398",
-      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-      "excerpt": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-      "content": "<p>How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T15:43:25.016676+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "55f7a7390e5d",
-      "slug": "bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-us-55f7a7390e5d",
-      "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-      "excerpt": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-      "content": "<p>Bybit will look for big broker partnerships to take on Robinhood in the U.S.</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T15:43:26.555762+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "09e00b918790",
-      "slug": "crypto-long-short-why-real-world-assets-need-fixed-rate-loans-onchain-09e00b918790",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "excerpt": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "content": "<p>Crypto Long & Short: Why real-world assets need fixed-rate loans onchain</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T15:43:28.091045+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "346fa1ec3b64",
-      "slug": "why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-s-346fa1ec3b64",
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "excerpt": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "content": "<p>Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T15:43:29.640572+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "620f4d2e740b",
-      "slug": "japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-s-620f4d2e740b",
-      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "excerpt": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "content": "<p>Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T15:43:31.171855+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "334b52a6ba1b",
-      "slug": "shinhan-sbi-make-japan-korea-tourist-spending-a-test-case-for-yen-stablecoins-334b52a6ba1b",
-      "title": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-      "excerpt": "Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins",
-      "content": "<p>Shinhan, SBI make Japan-Korea tourist spending a test case for yen stablecoins</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T10:46:52.781575+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "81d5fdf96156",
-      "slug": "zcash-rallies-12-as-developers-finalize-nu7-activation-height-81d5fdf96156",
-      "title": "Zcash rallies 12% as developers finalize NU7 activation height",
-      "excerpt": "Zcash rallies 12% as developers finalize NU7 activation height",
-      "content": "<p>Zcash rallies 12% as developers finalize NU7 activation height</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T10:46:54.325395+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cd07d3031884",
-      "slug": "drift-exploiter-sends-109m-in-ether-to-tornado-cash-in-2-days-cd07d3031884",
-      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-      "excerpt": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-      "content": "<p>Drift exploiter sends $109M in Ether to Tornado Cash in 2 days</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T10:46:55.867523+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-22T06:14:33.638207+00:00",
+  "lastUpdated": "2026-10-22T12:10:20.588925+00:00",
   "totalCount": 50,
-  "newCount": 9
+  "newCount": 10
 }
