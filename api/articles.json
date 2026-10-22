@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "uid": "e9c56f945c97",
+      "slug": "php-foundation-admits-structural-failure-delayed-critical-security-fix-e9c56f945c97",
+      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+      "excerpt": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
+      "content": "<p>PHP Foundation admits ‘structural failure’ delayed critical security fix</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T01:04:18.317490+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "6729157561e0",
+      "slug": "new-zealand-inflation-slows-to-37-in-q3-below-forecasts-keeping-rbnz-hike-on-tra-6729157561e0",
+      "title": "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track",
+      "excerpt": "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track",
+      "content": "<p>New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T01:04:20.363782+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c63bf7470abc",
+      "slug": "this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-t-c63bf7470abc",
+      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+      "excerpt": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+      "content": "<p>This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T01:04:22.195074+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "351ed08d77a8",
+      "slug": "teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-351ed08d77a8",
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "excerpt": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "content": "<p>Tesla’s stock falls as Elon Musk leaves investors wanting more</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T01:04:23.731459+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "af829c7fbd66",
+      "slug": "metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-bu-af829c7fbd66",
+      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "excerpt": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
+      "content": "<p>Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T01:04:25.266719+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4a05011d6d01",
+      "slug": "why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-4a05011d6d01",
+      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "excerpt": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
+      "content": "<p>Why investors should be skeptical of a potential Tesla-SpaceX merger</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T01:04:26.800557+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "33f8585df9df",
+      "slug": "trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-on-33f8585df9df",
+      "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+      "excerpt": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
+      "content": "<p>Trump says data centers should generate their own electricity — but experts say only states can mandate that</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T01:04:28.337493+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cd57f2c3735e",
+      "slug": "oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-m-cd57f2c3735e",
+      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "excerpt": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
+      "content": "<p>Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-22T01:04:29.873433+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "041f026b238d",
       "slug": "american-bankers-association-occs-genius-rules-undermine-us-congress-041f026b238d",
       "title": "American Bankers Association: OCC’s GENIUS rules ‘undermine’ US Congress",
@@ -755,153 +899,9 @@
       "date": "2026-10-21T05:30:40.324349+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e78f2c13260b",
-      "slug": "ripple-brings-wall-street-into-247-stock-bets-but-hsbc-warns-markets-are-still-t-e78f2c13260b",
-      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-      "excerpt": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-      "content": "<p>Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T05:30:42.246533+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b2f485268ff4",
-      "slug": "solanas-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday-b2f485268ff4",
-      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-      "excerpt": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
-      "content": "<p>Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T05:30:43.795886+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c2ebcf5779ce",
-      "slug": "a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were--c2ebcf5779ce",
-      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-      "excerpt": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
-      "content": "<p>A company that vouches for websites had secret keys so weak that 8 of them were cracked</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T05:30:45.346237+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "97ff25592046",
-      "slug": "bitcoin-hovers-around-83000-as-ai-earnings-revive-tech-zec-jumps-11-97ff25592046",
-      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-      "excerpt": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-      "content": "<p>Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T05:30:46.895984+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "73aa93cde830",
-      "slug": "heads-up-uk-september-cpi-inflation-report-due-today-boe-rate-hike-for-november--73aa93cde830",
-      "title": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
-      "excerpt": "Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in",
-      "content": "<p>Heads up: UK September CPI inflation report due today, BOE rate hike for November almost fully priced in</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T05:30:48.855864+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ed42f6eab2f7",
-      "slug": "investinglive-asia-pacific-market-news-rbas-hauser-puts-november-hike-in-play-ed42f6eab2f7",
-      "title": "investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play",
-      "excerpt": "investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play",
-      "content": "<p>investingLive Asia-Pacific market news: RBA’s Hauser puts November hike in play</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T05:30:50.404029+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6e48e9933c32",
-      "slug": "us-intel-says-putin-ordered-nato-sabotage-drive-leipzig-drone-attack-an-opening--6e48e9933c32",
-      "title": "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening shot",
-      "excerpt": "US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening shot",
-      "content": "<p>US intel says Putin ordered NATO sabotage drive, Leipzig drone attack an opening shot</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T05:30:51.950731+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bf632a9f8405",
-      "slug": "japan-exports-rise-167-for-13th-straight-month-on-ai-chip-demand-trade-gap-narro-bf632a9f8405",
-      "title": "Japan exports rise 16.7% for 13th straight month on AI chip demand, trade gap narrows",
-      "excerpt": "Japan exports rise 16.7% for 13th straight month on AI chip demand, trade gap narrows",
-      "content": "<p>Japan exports rise 16.7% for 13th straight month on AI chip demand, trade gap narrows</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-21T05:30:53.503172+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-21T22:52:35.732075+00:00",
+  "lastUpdated": "2026-10-22T01:04:31.461795+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 8
 }
