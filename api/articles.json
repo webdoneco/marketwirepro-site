@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "e30574b73ce3",
+      "slug": "malaysia-thailand-join-singapores-cross-border-stablecoin-push-e30574b73ce3",
+      "title": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "excerpt": "Malaysia, Thailand join Singapore’s cross-border stablecoin push",
+      "content": "<p>Malaysia, Thailand join Singapore’s cross-border stablecoin push</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:13.882040+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d08d4514746c",
+      "slug": "bitcoin-etfs-bleed-635m-as-october-slides-back-into-the-red-d08d4514746c",
+      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "excerpt": "Bitcoin ETFs bleed $635M as October slides back into the red",
+      "content": "<p>Bitcoin ETFs bleed $635M as October slides back into the red</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:15.415240+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eb227da82c24",
+      "slug": "ethereum-delays-glamsterdam-hoodi-testnet-launch-over-security-risks-eb227da82c24",
+      "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "excerpt": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+      "content": "<p>Ethereum delays Glamsterdam Hoodi testnet launch over security risks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:16.953555+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1da4bf391a98",
+      "slug": "bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find-1da4bf391a98",
+      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "excerpt": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+      "content": "<p>Bitcoin Core changes security policy as AI makes bugs easier to find</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:18.487187+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8013b7231c5d",
+      "slug": "switzerlands-first-retail-spot-bitcoin-etf-targets-november-launch-8013b7231c5d",
+      "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
+      "excerpt": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
+      "content": "<p>Switzerland’s first retail spot Bitcoin ETF targets November launch</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:20.038283+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "28a87efc0100",
+      "slug": "polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-c-28a87efc0100",
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "excerpt": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "content": "<p>Polymarket has reportedly fired its marketing chief, also a close friend of the CEO</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:21.729788+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1a658fe4edf0",
+      "slug": "ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contr-1a658fe4edf0",
+      "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "excerpt": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+      "content": "<p>Ethereum delays Glamsterdam test after security devs flag risk to existing contracts</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:23.267525+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3082d7113c9f",
+      "slug": "cardano-holders-are-being-asked-to-bet-5-million-on-copper-hitting-a-new-record-3082d7113c9f",
+      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "excerpt": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+      "content": "<p>Cardano holders are being asked to bet $5 million on copper hitting a new record</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:24.802937+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7bb8facc6b5f",
+      "slug": "bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-100-7bb8facc6b5f",
+      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "excerpt": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+      "content": "<p>Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:26.358623+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5bc91b1716da",
+      "slug": "what-are-the-main-events-for-today-5bc91b1716da",
+      "title": "What are the main events for today?",
+      "excerpt": "What are the main events for today?",
+      "content": "<p>What are the main events for today?</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-23T07:46:28.125614+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "9b76f0c2cdcb",
       "slug": "switzerland-approves-first-spot-bitcoin-etf-for-retail-investors-9b76f0c2cdcb",
       "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
@@ -719,189 +899,9 @@
       "date": "2026-10-22T17:24:20.468761+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "df76369429c1",
-      "slug": "coindcx-pledges-no-user-losses-after-16m-transfers-draw-scrutiny-df76369429c1",
-      "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
-      "excerpt": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
-      "content": "<p>CoinDCX pledges no user losses after $16M transfers draw scrutiny</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:05.005014+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "78b8df856777",
-      "slug": "bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls-78b8df856777",
-      "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-      "excerpt": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-      "content": "<p>Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:06.543007+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "247b7085e415",
-      "slug": "starknet-voters-back-research-into-life-beyond-ethereum-247b7085e415",
-      "title": "Starknet voters back research into life beyond Ethereum",
-      "excerpt": "Starknet voters back research into life beyond Ethereum",
-      "content": "<p>Starknet voters back research into life beyond Ethereum</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:08.080115+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "60356b518000",
-      "slug": "php-flaw-draws-millions-of-exploit-attempts-cloudflare-ceo-warns-60356b518000",
-      "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-      "excerpt": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
-      "content": "<p>PHP flaw draws millions of exploit attempts, Cloudflare CEO warns</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:09.616545+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f8fabf82c1b7",
-      "slug": "bitcoin-etfs-bag-another-528m-taking-3-day-haul-past-1b-f8fabf82c1b7",
-      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-      "excerpt": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-      "content": "<p>Bitcoin ETFs bag another $528M, taking 3-day haul past $1B</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:11.154362+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:12.688994+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d4aa8184944d",
-      "slug": "crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble-d4aa8184944d",
-      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-      "excerpt": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
-      "content": "<p>Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:14.465398+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f1a1fbafb5ff",
-      "slug": "bitcoin-slides-below-82000-as-ai-doubts-return-with-defi-tokens-leading-declines-f1a1fbafb5ff",
-      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-      "excerpt": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-      "content": "<p>Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:16.001949+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7f2dee3bb3fe",
-      "slug": "crypto-traders-price-india-telecoms-company-reliance-jios-ipo-at-about-110-billi-7f2dee3bb3fe",
-      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "excerpt": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "content": "<p>Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:17.554278+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fd7616d5da79",
-      "slug": "live-updates-bitcoin-slumps-below-82000-as-markets-go-risk-off-on-ai-selloff-oil-fd7616d5da79",
-      "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
-      "excerpt": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
-      "content": "<p>Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-22T12:10:19.088760+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-23T02:25:37.090103+00:00",
+  "lastUpdated": "2026-10-23T07:46:29.625764+00:00",
   "totalCount": 50,
   "newCount": 10
 }
