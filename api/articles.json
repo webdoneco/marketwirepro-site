@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "e9ae40abcc37",
+      "slug": "franklin-templeton-adds-150-million-in-fund-shares-to-xrp-ledger-all-in-one-wall-e9ae40abcc37",
+      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "excerpt": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+      "content": "<p>Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-24T07:28:17.955521+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4590cc391215",
+      "slug": "my-spouse-was-awarded-90000-from-my-401k-in-our-divorce-how-is-that-fair-4590cc391215",
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "excerpt": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "content": "<p>My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-24T07:28:20.202225+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "0cce12f8fd7e",
       "slug": "i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-the-rest-of-my-life-i-0cce12f8fd7e",
       "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -863,45 +899,9 @@
       "date": "2026-10-23T07:46:23.267525+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3082d7113c9f",
-      "slug": "cardano-holders-are-being-asked-to-bet-5-million-on-copper-hitting-a-new-record-3082d7113c9f",
-      "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-      "excerpt": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-      "content": "<p>Cardano holders are being asked to bet $5 million on copper hitting a new record</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T07:46:24.802937+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7bb8facc6b5f",
-      "slug": "bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-100-7bb8facc6b5f",
-      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "excerpt": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-      "content": "<p>Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T07:46:26.358623+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-24T02:23:21.264675+00:00",
+  "lastUpdated": "2026-10-24T07:28:21.863037+00:00",
   "totalCount": 50,
-  "newCount": 1
+  "newCount": 2
 }
