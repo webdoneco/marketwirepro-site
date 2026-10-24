@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "b81845139cbf",
+      "slug": "my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-50000-debt-how-can--b81845139cbf",
+      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "excerpt": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+      "content": "<p>My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-24T21:18:16.957774+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "fe7f6a462512",
       "slug": "google-quietly-updates-privacy-policy-to-let-gmail-and-photos-data-feed-ads-fe7f6a462512",
       "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
@@ -881,27 +899,9 @@
       "date": "2026-10-23T17:37:22.316118+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a174a0b5a87b",
-      "slug": "china-targets-2030-for-its-national-blockchain-network-buildout-a174a0b5a87b",
-      "title": "China targets 2030 for its national blockchain network buildout",
-      "excerpt": "China targets 2030 for its national blockchain network buildout",
-      "content": "<p>China targets 2030 for its national blockchain network buildout</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T17:37:23.844445+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-24T18:53:21.748380+00:00",
+  "lastUpdated": "2026-10-24T21:18:18.587919+00:00",
   "totalCount": 50,
-  "newCount": 7
+  "newCount": 1
 }
