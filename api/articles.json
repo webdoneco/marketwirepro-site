@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "571f7f546333",
+      "slug": "netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions-571f7f546333",
+      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "excerpt": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "content": "<p>Netanyahu floats use of blockchain as solution to potential financial sanctions</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-25T11:51:03.374106+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "79b8211d040c",
+      "slug": "heres-the-real-signal-to-watch-for-the-feds-next-move-79b8211d040c",
+      "title": "Here’s the real signal to watch for the Fed’s next move",
+      "excerpt": "Here’s the real signal to watch for the Fed’s next move",
+      "content": "<p>Here’s the real signal to watch for the Fed’s next move</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-25T11:51:05.796533+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "b81845139cbf",
       "slug": "my-father-in-law-81-sold-his-75000-home-to-pay-his-daughters-50000-debt-how-can--b81845139cbf",
       "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -863,45 +899,9 @@
       "date": "2026-10-23T17:37:19.257468+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1f5561f6f15f",
-      "slug": "bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-marc-1f5561f6f15f",
-      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-      "excerpt": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-      "content": "<p>Bitcoin seeks support above $81K as Brent crude oil hits highest level since March</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T17:37:20.785475+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T17:37:22.316118+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-25T06:23:03.365118+00:00",
+  "lastUpdated": "2026-10-25T11:51:07.386762+00:00",
   "totalCount": 50,
-  "newCount": 0
+  "newCount": 2
 }
