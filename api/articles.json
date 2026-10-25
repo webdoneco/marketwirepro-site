@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "841496053616",
+      "slug": "initia-halts-blockchain-after-exploit-reportedly-drains-over-26m-841496053616",
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "excerpt": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "content": "<p>Initia halts blockchain after exploit reportedly drains over $2.6M</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-25T21:05:11.242167+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0e3122533e25",
+      "slug": "us-senator-probes-tether-after-reported-deal-with-ex-trump-crypto-adviser-0e3122533e25",
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "excerpt": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "content": "<p>US senator probes Tether after reported deal with ex-Trump crypto adviser</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-25T21:05:12.791286+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c82bb3300990",
+      "slug": "weekend---china-warns-of-countermeasures-as-us-treasury-widens-tech-investment-c-c82bb3300990",
+      "title": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
+      "excerpt": "Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech",
+      "content": "<p>Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-25T21:05:15.063482+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d262889b5f3a",
       "slug": "ecb-official-sees-digital-euro-as-key-to-protecting-eu-sovereignty-d262889b5f3a",
       "title": "ECB official sees digital euro as key to protecting EU ‘sovereignty’",
@@ -845,63 +899,9 @@
       "date": "2026-10-23T23:38:07.540902+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "580716e9b844",
-      "slug": "investinglive-americas-market-news-wrap-war-worries-boost-oil-to-the-highest-sin-580716e9b844",
-      "title": "investingLive Americas market news wrap: War worries boost oil to the highest since May",
-      "excerpt": "investingLive Americas market news wrap: War worries boost oil to the highest since May",
-      "content": "<p>investingLive Americas market news wrap: War worries boost oil to the highest since May</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T23:38:09.346608+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c467a054719f",
-      "slug": "canada-august-retail-sales-12-vs-13-expected-c467a054719f",
-      "title": "Canada August retail sales +1.2% vs +1.3% expected",
-      "excerpt": "Canada August retail sales +1.2% vs +1.3% expected",
-      "content": "<p>Canada August retail sales +1.2% vs +1.3% expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T23:38:10.901042+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "99e0aec50738",
-      "slug": "will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-99e0aec50738",
-      "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-      "excerpt": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-      "content": "<p>Will Anthropic pull off a November IPO? Time is running out to file key paperwork.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T23:38:12.905836+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-25T18:29:23.323747+00:00",
+  "lastUpdated": "2026-10-25T21:05:17.417056+00:00",
   "totalCount": 50,
-  "newCount": 9
+  "newCount": 3
 }
