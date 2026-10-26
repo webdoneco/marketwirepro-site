@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "0ac21013baca",
+      "slug": "standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin-0ac21013baca",
+      "title": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "excerpt": "Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin",
+      "content": "<p>Standard Chartered-led Anchorpoint says it’s not rushing retail stablecoin</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-26T01:24:52.363222+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "29da14b64f4a",
+      "slug": "irs-plans-lower-tax-disclosure-penalties-including-for-crypto-forbes-29da14b64f4a",
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "excerpt": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "content": "<p>IRS plans lower tax disclosure penalties, including for crypto: Forbes</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-26T01:24:53.922064+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "e03adbab3f86",
       "slug": "ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest-e03adbab3f86",
       "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
@@ -863,45 +899,9 @@
       "date": "2026-10-24T07:28:20.202225+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0cce12f8fd7e",
-      "slug": "i-dont-feel-sorry-for-myself-im-64-and-will-be-renting-for-the-rest-of-my-life-i-0cce12f8fd7e",
-      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "excerpt": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-      "content": "<p>‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-24T02:23:19.640505+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "77700f371373",
-      "slug": "wells-fargo-and-five-others-object-to-okx-ice-tokenized-stock-listings-report-77700f371373",
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "excerpt": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "content": "<p>Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-23T23:38:03.860445+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-25T23:23:22.617770+00:00",
+  "lastUpdated": "2026-10-26T01:24:56.654663+00:00",
   "totalCount": 50,
   "newCount": 2
 }
