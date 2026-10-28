@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:02.148264+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "23d93c95d1c6",
+      "slug": "sam-bankman-fried-wrote-to-actor-portraying-him-in-netflix-series-23d93c95d1c6",
+      "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+      "excerpt": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+      "content": "<p>Sam Bankman-Fried wrote to actor portraying him in Netflix series</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:03.698982+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "696c138e9e5a",
+      "slug": "strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks-696c138e9e5a",
+      "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+      "excerpt": "Strategy shareholders approve daily dividends for four preferred stocks",
+      "content": "<p>Strategy shareholders approve daily dividends for four preferred stocks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:05.247962+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "452d28f4943b",
+      "slug": "crypto-pac-spending-before-midterms-possibly-obscured-after-reported-fec-hack-452d28f4943b",
+      "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+      "excerpt": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+      "content": "<p>Crypto PAC spending before midterms possibly obscured after reported FEC hack</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:06.795433+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "deb7e03fcbc1",
+      "slug": "bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings-deb7e03fcbc1",
+      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+      "excerpt": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+      "content": "<p>Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:08.377353+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a73a6cdd3d57",
+      "slug": "phantom-launches-kalshi-powered-prediction-markets-for-us-users-a73a6cdd3d57",
+      "title": "Phantom launches Kalshi-powered prediction markets for US users",
+      "excerpt": "Phantom launches Kalshi-powered prediction markets for US users",
+      "content": "<p>Phantom launches Kalshi-powered prediction markets for US users</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:09.923336+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b3a579386b70",
+      "slug": "cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-t-b3a579386b70",
+      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "excerpt": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "content": "<p>CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:12.102426+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d28619bba9a4",
+      "slug": "crypto-isnt-a-partisan-fight-proven-by-data-d28619bba9a4",
+      "title": "Crypto isn’t a partisan fight, proven by data",
+      "excerpt": "Crypto isn’t a partisan fight, proven by data",
+      "content": "<p>Crypto isn’t a partisan fight, proven by data</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:13.646265+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "16da209423ae",
+      "slug": "fed-leaves-interest-rates-unchanged-as-expected-16da209423ae",
+      "title": "Fed leaves interest rates unchanged, as expected",
+      "excerpt": "Fed leaves interest rates unchanged, as expected",
+      "content": "<p>Fed leaves interest rates unchanged, as expected</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:15.203171+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8f76b03d2744",
+      "slug": "coinbase-earnings-wall-street-divided-on-trading-rebound-after-robinhood-crypto--8f76b03d2744",
+      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "excerpt": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+      "content": "<p>Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T20:40:16.746354+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d7d52684f962",
       "slug": "google-cloud-outlines-mpc-service-for-institutional-bitcoin-custody-d7d52684f962",
       "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
@@ -719,189 +899,9 @@
       "date": "2026-10-27T23:18:55.399730+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8d40bbcd2e4f",
-      "slug": "cftc-sues-utah-to-block-action-against-prediction-markets-8d40bbcd2e4f",
-      "title": "CFTC sues Utah to block action against prediction markets",
-      "excerpt": "CFTC sues Utah to block action against prediction markets",
-      "content": "<p>CFTC sues Utah to block action against prediction markets</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:17.449465+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "89d38fe697cf",
-      "slug": "majority-of-americans-want-candidates-who-support-us-based-financial-technology--89d38fe697cf",
-      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
-      "excerpt": "Majority of Americans want candidates who support US-based financial technology: Poll",
-      "content": "<p>Majority of Americans want candidates who support US-based financial technology: Poll</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:18.991537+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b2abb2ed41e5",
-      "slug": "janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar-b2abb2ed41e5",
-      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-      "excerpt": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-      "content": "<p>Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:20.524348+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5009f32cbc03",
-      "slug": "usdc-overtakes-usdt-in-euro-stablecoin-trading-as-eu-rules-reshape-market-kaiko-5009f32cbc03",
-      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
-      "excerpt": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
-      "content": "<p>USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:22.062819+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f1c89d0205f6",
-      "slug": "us-agency-hits-utah-with-lawsuit-to-shield-kalshis-ability-to-offer-betting-ther-f1c89d0205f6",
-      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
-      "excerpt": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
-      "content": "<p>U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:23.818839+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9d7ad4542f1a",
-      "slug": "intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okxice-tokenized-stock--9d7ad4542f1a",
-      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-      "excerpt": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-      "content": "<p>Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:25.350821+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4f7aa49bc901",
-      "slug": "brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-cr-4f7aa49bc901",
-      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-      "excerpt": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-      "content": "<p>Brazilian companies turned to stablecoins on election day to dodge a currency crash</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:26.884545+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "cd3d18019545",
-      "slug": "robinhood-taps-ripples-25-billion-rlusd-stablecoin-despite-backing-rival-usdg-cd3d18019545",
-      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "excerpt": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-      "content": "<p>Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:28.417285+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1de7c8ad0256",
-      "slug": "ai-agents-are-creating-a-new-layer-of-cybersecurity-spending-1de7c8ad0256",
-      "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
-      "excerpt": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
-      "content": "<p>AI Agents Are Creating a New Layer of Cybersecurity Spending</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:30.020852+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c115e5423844",
-      "slug": "intel-oracle-ibm-join-objections-to-okx-ice-tokenized-stock-venue-bringing-total-c115e5423844",
-      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "excerpt": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "content": "<p>Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T19:44:31.553513+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-28T15:36:03.350307+00:00",
+  "lastUpdated": "2026-10-28T20:40:18.246504+00:00",
   "totalCount": 50,
   "newCount": 10
 }
