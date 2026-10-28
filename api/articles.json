@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "5ee0fe940204",
+      "slug": "bitcoin-etf-inflows-climb-to-176m-as-btc-rebounds-above-80k-5ee0fe940204",
+      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+      "excerpt": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+      "content": "<p>Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:48:50.385155+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a0efc8c6edd0",
+      "slug": "coinbase-denies-systems-breach-says-vendor-exposed-customer-data-a0efc8c6edd0",
+      "title": "Coinbase denies systems breach, says vendor exposed customer data",
+      "excerpt": "Coinbase denies systems breach, says vendor exposed customer data",
+      "content": "<p>Coinbase denies systems breach, says vendor exposed customer data</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:48:51.920342+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e3329a03beb8",
+      "slug": "robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets-e3329a03beb8",
+      "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "excerpt": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+      "content": "<p>Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:48:53.455155+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ec8cc881af94",
+      "slug": "bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-cant-access-its-btc-ec8cc881af94",
+      "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "excerpt": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+      "content": "<p>Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:48:55.247342+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "30890e54fd0f",
+      "slug": "bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cybe-30890e54fd0f",
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "excerpt": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "content": "<p>Bithumb hacked through employee system as South Korean financial firms face cyberattacks</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:48:56.777041+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "908eab7d8114",
+      "slug": "bitcoin-nears-81000-ahead-of-fed-decision-as-zec-jumps-8-908eab7d8114",
+      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "excerpt": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+      "content": "<p>Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:48:58.310615+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5395aeffad72",
+      "slug": "coinbase-says-user-funds-are-safe-after-third-party-vendor-exposes-customer-cont-5395aeffad72",
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "excerpt": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "content": "<p>Coinbase says user funds are safe after third-party vendor exposes customer contact info</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:48:59.840868+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0e730da187d4",
+      "slug": "germanys-trade-struggles-with-china-set-to-put-asia-pacific-deficit-on-course-fo-0e730da187d4",
+      "title": "Germany's trade struggles with China set to put Asia-Pacific deficit on course for record high",
+      "excerpt": "Germany's trade struggles with China set to put Asia-Pacific deficit on course for record high",
+      "content": "<p>Germany's trade struggles with China set to put Asia-Pacific deficit on course for record high</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:49:01.545411+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a7d40d78a768",
+      "slug": "what-are-the-main-events-for-today-a7d40d78a768",
+      "title": "What are the main events for today?",
+      "excerpt": "What are the main events for today?",
+      "content": "<p>What are the main events for today?</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:49:03.076428+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7e712e5150a2",
+      "slug": "germany-consumer-sentiment-remains-weak-ahead-of-november-as-inflation-fears-clo-7e712e5150a2",
+      "title": "Germany consumer sentiment remains weak ahead of November as inflation fears cloud recovery outlook",
+      "excerpt": "Germany consumer sentiment remains weak ahead of November as inflation fears cloud recovery outlook",
+      "content": "<p>Germany consumer sentiment remains weak ahead of November as inflation fears cloud recovery outlook</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-28T08:49:04.609040+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "5e6379ae2b38",
       "slug": "bithumb-discloses-data-leak-after-internal-system-breach-report-5e6379ae2b38",
       "title": "Bithumb discloses data leak after internal system breach: Report",
@@ -719,189 +899,9 @@
       "date": "2026-10-27T14:44:11.812047+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "df4e4be80673",
-      "slug": "bitcoin-etfs-claw-back-110m-after-774m-exit-df4e4be80673",
-      "title": "Bitcoin ETFs claw back $110M after $774M exit",
-      "excerpt": "Bitcoin ETFs claw back $110M after $774M exit",
-      "content": "<p>Bitcoin ETFs claw back $110M after $774M exit</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:13.673016+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bebeff077de9",
-      "slug": "redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg-bebeff077de9",
-      "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
-      "excerpt": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
-      "content": "<p>RedotPay weighs confidential US IPO filing by year-end: Bloomberg</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:15.255146+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "be3b8d996b1b",
-      "slug": "solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam-be3b8d996b1b",
-      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-      "excerpt": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-      "content": "<p>Solana bug reports now cost 1 SOL as AI floods security teams with spam</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:17.318287+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7e85f75be7d3",
-      "slug": "ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders-7e85f75be7d3",
-      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-      "excerpt": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-      "content": "<p>Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:18.901876+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9e76fd9ba5b6",
-      "slug": "zcash-co-founder-proposes-ending-grants-funding-citing-125-million-treasury-9e76fd9ba5b6",
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "excerpt": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
-      "content": "<p>Zcash co-founder proposes ending grants funding, citing $125 million treasury</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:20.485740+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9466cc6f493a",
-      "slug": "ripple-gets-a-final-go-ahead-to-launch-its-own-us-national-trust-bank-9466cc6f493a",
-      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-      "excerpt": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-      "content": "<p>Ripple gets a final go-ahead to launch its own U.S. national trust bank</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:22.063840+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8998cd923865",
-      "slug": "france-consumer-confidence-plunges-to-lowest-since-2013-as-fiscal-worries-deepen-8998cd923865",
-      "title": "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
-      "excerpt": "France consumer confidence plunges to lowest since 2013 as fiscal worries deepen",
-      "content": "<p>France consumer confidence plunges to lowest since 2013 as fiscal worries deepen</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:24.100033+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "91fcd0dcaeee",
-      "slug": "what-are-the-main-events-for-today-91fcd0dcaeee",
-      "title": "What are the main events for today?",
-      "excerpt": "What are the main events for today?",
-      "content": "<p>What are the main events for today?</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:25.683131+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0b51738fd048",
-      "slug": "bond-market-tensions-ease-but-treasury-yields-near-5-and-frances-debt-risks-keep-0b51738fd048",
-      "title": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
-      "excerpt": "Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge",
-      "content": "<p>Bond market tensions ease but Treasury yields near 5% and France's debt risks keep investors on edge</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:27.264258+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6678bdca86f7",
-      "slug": "european-markets-face-a-quiet-calendar-today-as-central-banks-and-big-tech-earni-6678bdca86f7",
-      "title": "European markets face a quiet calendar today as central banks and big tech earnings loom",
-      "excerpt": "European markets face a quiet calendar today as central banks and big tech earnings loom",
-      "content": "<p>European markets face a quiet calendar today as central banks and big tech earnings loom</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-27T08:05:28.847820+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-28T02:27:43.115498+00:00",
+  "lastUpdated": "2026-10-28T08:49:06.109216+00:00",
   "totalCount": 50,
   "newCount": 10
 }
