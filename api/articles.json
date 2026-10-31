@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "uid": "a26b24d88803",
+      "slug": "intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-a26b24d88803",
+      "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+      "excerpt": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+      "content": "<p>Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T23:50:26.625808+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ce20d754e17f",
+      "slug": "worried-about-crypto-hacks-buy-bitcoin-proxies-in-stock-market-instead-say-wall--ce20d754e17f",
+      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+      "excerpt": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+      "content": "<p>Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T23:50:28.203145+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "9b4ae6d06566",
       "slug": "bitcoins-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bail-9b4ae6d06566",
       "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
@@ -863,45 +899,9 @@
       "date": "2026-10-30T20:55:55.051434+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "05504892835a",
-      "slug": "recap-how-binances-record-63b-hack-unfolded-05504892835a",
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "excerpt": "Recap: How Binance’s record $6.3B hack unfolded",
-      "content": "<p>Recap: How Binance’s record $6.3B hack unfolded</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T20:55:56.595401+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "564d08614972",
-      "slug": "as-it-happened-binances-record-63b-crypto-hack-564d08614972",
-      "title": "As it happened: Binance’s record $6.3B crypto hack",
-      "excerpt": "As it happened: Binance’s record $6.3B crypto hack",
-      "content": "<p>As it happened: Binance’s record $6.3B crypto hack</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T20:55:58.143910+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-31T20:31:21.631879+00:00",
+  "lastUpdated": "2026-10-31T23:50:30.864957+00:00",
   "totalCount": 50,
-  "newCount": 9
+  "newCount": 2
 }
