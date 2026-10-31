@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "uid": "c9da2a1feabc",
+      "slug": "bitcoin-stolen-from-binance-tops-teslas-holdings-and-is-over-twice-el-salvadors--c9da2a1feabc",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "excerpt": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "content": "<p>Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:21.011917+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b8cbda7ab8f0",
+      "slug": "openai-reportedly-cuts-fundraising-and-valuation-targets-amid-ai-jitters-b8cbda7ab8f0",
+      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "excerpt": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+      "content": "<p>OpenAI reportedly cuts fundraising and valuation targets amid AI jitters</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:22.540899+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "660232b51f06",
+      "slug": "us-employment-cost-index-for-q3-08-vs-08-expected-660232b51f06",
+      "title": "US employment cost index for Q3 +0.8% vs +0.8% expected",
+      "excerpt": "US employment cost index for Q3 +0.8% vs +0.8% expected",
+      "content": "<p>US employment cost index for Q3 +0.8% vs +0.8% expected</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:24.202749+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fe032955025b",
+      "slug": "grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-fe032955025b",
+      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+      "excerpt": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+      "content": "<p>Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:25.881691+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e539701817da",
+      "slug": "has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-e539701817da",
+      "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "excerpt": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+      "content": "<p>Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:27.412102+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ed71ab252096",
+      "slug": "this-cybersecurity-stock-will-be-the-next-to-join-the-sp-500-ed71ab252096",
+      "title": "This cybersecurity stock will be the next to join the S&P 500",
+      "excerpt": "This cybersecurity stock will be the next to join the S&P 500",
+      "content": "<p>This cybersecurity stock will be the next to join the S&P 500</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:28.938533+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "802d5401b686",
+      "slug": "why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-802d5401b686",
+      "title": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "excerpt": "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
+      "content": "<p>Why gold plunged to its lowest price in a year despite renewed Iran jitters</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:30.466401+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "bba0bcd0518e",
+      "slug": "warsh-wants-the-fed-to-say-less-two-officials-are-pushing-for-more-transparency-bba0bcd0518e",
+      "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "excerpt": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+      "content": "<p>Warsh wants the Fed to say less. Two officials are pushing for more transparency.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:31.994593+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ec5c6390413b",
+      "slug": "in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-ec5c6390413b",
+      "title": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "excerpt": "In a wild October for markets, these stocks were the biggest winners and losers",
+      "content": "<p>In a wild October for markets, these stocks were the biggest winners and losers</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-10-31T06:00:33.521834+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "5910c58df8ea",
       "slug": "binance-hackers-raced-to-move-billions-before-it-could-be-frozen-5910c58df8ea",
       "title": "Binance hackers raced to move billions before it could be frozen",
@@ -737,171 +899,9 @@
       "date": "2026-10-30T02:44:46.127165+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a4a9cad6ac22",
-      "slug": "binance-hack-rattles-markets-as-bnb-falls-8-bitcoin-nears-77k-a4a9cad6ac22",
-      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-      "excerpt": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-      "content": "<p>Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:44:47.682430+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "174ba4b02326",
-      "slug": "live-updates-binance-says-3b-in-crypto-frozen-in-connection-to-hack-174ba4b02326",
-      "title": "Live updates: Binance says $3B in crypto frozen in connection to hack",
-      "excerpt": "Live updates: Binance says $3B in crypto frozen in connection to hack",
-      "content": "<p>Live updates: Binance says $3B in crypto frozen in connection to hack</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:44:49.221958+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:44:50.761960+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c653be1bbaa5",
-      "slug": "binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows-c653be1bbaa5",
-      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-      "excerpt": "Binance hack drained wallets backing customer assets, reserve data shows",
-      "content": "<p>Binance hack drained wallets backing customer assets, reserve data shows</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:44:52.759956+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2b9ef136e32f",
-      "slug": "binance-loses-57-billion-in-biggest-crypto-hack-in-history-2b9ef136e32f",
-      "title": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
-      "excerpt": "Binance loses $5.7 billion in 'biggest crypto hack in history'",
-      "content": "<p>Binance loses $5.7 billion in 'biggest crypto hack in history'</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:44:54.298459+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "899c5fb310b8",
-      "slug": "polymarket-pauses-trading-as-prediction-market-investigates-security-incident-899c5fb310b8",
-      "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
-      "excerpt": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
-      "content": "<p>Polymarket Pauses Trading as Prediction Market Investigates Security Incident</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:44:55.949843+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6715738556e4",
-      "slug": "hackers-publish-work-details-of-41000-homeland-security-employees-6715738556e4",
-      "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
-      "excerpt": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
-      "content": "<p>Hackers Publish Work Details of 41,000 Homeland Security Employees</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:44:57.497864+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "14ca1d1b7575",
-      "slug": "some-good-news-treasuries-rally-as-ai-selloff-drives-flight-to-safety-10-year-yi-14ca1d1b7575",
-      "title": "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-year yield at one-month low",
-      "excerpt": "(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-year yield at one-month low",
-      "content": "<p>(Some good news!) Treasuries rally as AI selloff drives flight to safety, 10-year yield at one-month low</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:44:59.268006+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "18c1fe58196f",
-      "slug": "japan-september-factory-output-beats-forecasts-but-retail-sales-disappoint-ahead-18c1fe58196f",
-      "title": "Japan September factory output beats forecasts, but retail sales disappoint ahead of BoJ",
-      "excerpt": "Japan September factory output beats forecasts, but retail sales disappoint ahead of BoJ",
-      "content": "<p>Japan September factory output beats forecasts, but retail sales disappoint ahead of BoJ</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T02:45:00.813026+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-31T00:15:36.029382+00:00",
+  "lastUpdated": "2026-10-31T06:00:35.038786+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 9
 }
