@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "uid": "c2debc0bf761",
+      "slug": "fbi-confirms-north-koreas-role-in-6-billion-binance-hack-asks-defi-community-to--c2debc0bf761",
+      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "excerpt": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+      "content": "<p>FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-01T03:02:57.738120+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "a26b24d88803",
       "slug": "intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-a26b24d88803",
       "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
@@ -881,27 +899,9 @@
       "date": "2026-10-30T20:55:53.509099+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "98b096be4939",
-      "slug": "crypto-biz-bitcoins-quantum-threat-is-becoming-an-economic-problem-98b096be4939",
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "excerpt": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "content": "<p>Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-10-30T20:55:55.051434+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-10-31T23:50:30.864957+00:00",
+  "lastUpdated": "2026-11-01T03:03:00.068676+00:00",
   "totalCount": 50,
-  "newCount": 2
+  "newCount": 1
 }
