@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "uid": "a0ad1f4bdd0a",
+      "slug": "the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-a0ad1f4bdd0a",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "excerpt": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "content": "<p>The crypto industry has found new ways to grow. Making money from them is another story</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T23:12:47.519414+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "862a4d69f567",
+      "slug": "second-guessing-my-adviser-is-an-annuity-the-right-move-in-this-market-862a4d69f567",
+      "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+      "excerpt": "Second-guessing my adviser: Is an annuity the right move in this market?",
+      "content": "<p>Second-guessing my adviser: Is an annuity the right move in this market?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T23:12:49.387277+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e7f31ea5041a",
+      "slug": "here-are-the-2027-capital-gains-tax-rates-for-each-income-level-e7f31ea5041a",
+      "title": "Here are the 2027 capital-gains tax rates for each income level",
+      "excerpt": "Here are the 2027 capital-gains tax rates for each income level",
+      "content": "<p>Here are the 2027 capital-gains tax rates for each income level</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T23:12:50.906358+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6c52ddf456df",
       "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
       "title": "Here’s what happened in crypto today",
@@ -845,63 +899,9 @@
       "date": "2026-11-06T17:35:23.345021+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b9194652a26a",
-      "slug": "nigeria-sets-new-crypto-licensing-rules-bans-algorithmic-stablecoins-b9194652a26a",
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "excerpt": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "content": "<p>Nigeria sets new crypto licensing rules, bans algorithmic stablecoins</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:24.892502+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "be734acbe618",
-      "slug": "ethereum-devs-wont-fork-glamsterdam-on-hoodi-until-smart-contract-risks-resolved-be734acbe618",
-      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-      "excerpt": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-      "content": "<p>Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:26.456806+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "21002222dbaa",
-      "slug": "solanas-shanghai-event-halted-over-unauthorized-promotion-report-21002222dbaa",
-      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-      "excerpt": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-      "content": "<p>Solana’s Shanghai event halted over unauthorized promotion: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:28.000347+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-07T19:30:39.229983+00:00",
+  "lastUpdated": "2026-11-07T23:12:52.491438+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 3
 }
