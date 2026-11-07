@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:22.610367+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c3cdcc9dba82",
+      "slug": "binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-c3cdcc9dba82",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "excerpt": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "content": "<p>Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:24.523010+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "cd6960a2e256",
+      "slug": "us-treasury-moves-to-cut-off-crypto-exchange-mexc-over-16-billion-in-alleged-ill-cd6960a2e256",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "excerpt": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "content": "<p>U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:26.089356+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "81b675c67394",
+      "slug": "gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets-81b675c67394",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "excerpt": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "content": "<p>Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:27.629495+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5eefe2125e78",
+      "slug": "apple-completes-the-set-every-magnificent-seven-stock-opts-out-of-okx-ice-venue-5eefe2125e78",
+      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "excerpt": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "content": "<p>Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:29.256455+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "be9522f80583",
+      "slug": "ai-chip-stocks-bounce-after-global-routbut-is-the-bubble-starting-to-burst-be9522f80583",
+      "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+      "excerpt": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+      "content": "<p>AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:30.795648+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c50ebb11dd80",
+      "slug": "medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-y-c50ebb11dd80",
+      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "excerpt": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+      "content": "<p>Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:33.111855+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e82fdd9d8125",
+      "slug": "my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environmen-e82fdd9d8125",
+      "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+      "excerpt": "My adviser recommended an annuity. Is it the right move in this market environment?",
+      "content": "<p>My adviser recommended an annuity. Is it the right move in this market environment?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:34.647739+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "708ea5e7bb93",
+      "slug": "democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-708ea5e7bb93",
+      "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+      "excerpt": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+      "content": "<p>Democrats’ big election win revives a difficult Social Security question: Who pays?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:36.192215+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8cf0078c5de4",
+      "slug": "im-65-and-worth-more-than-56-million-can-i-afford-a-200000-camper-8cf0078c5de4",
+      "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "excerpt": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+      "content": "<p>I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T19:30:37.729800+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "8bb732f02bec",
       "slug": "ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto-8bb732f02bec",
       "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
@@ -719,189 +899,9 @@
       "date": "2026-11-06T17:35:28.000347+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "540ad051c10b",
-      "slug": "binance-hackers-had-8-weeks-of-access-before-63b-exploit-security-alliance-estim-540ad051c10b",
-      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
-      "excerpt": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
-      "content": "<p>Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:29.549234+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a0ad1f4bdd0a",
-      "slug": "the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-a0ad1f4bdd0a",
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "excerpt": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "content": "<p>The crypto industry has found new ways to grow. Making money from them is another story</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:31.480574+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6ac0c3538da6",
-      "slug": "thailand-moves-to-block-bitget-as-crypto-exchanges-local-acquisition-faces-uncer-6ac0c3538da6",
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "excerpt": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "content": "<p>Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:33.042109+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "aabd2ce12a89",
-      "slug": "us-added-165000-jobs-in-october-blowing-past-65000-estimate-aabd2ce12a89",
-      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "excerpt": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-      "content": "<p>U.S. added 165,000 jobs in October, blowing past 65,000 estimate</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:34.589909+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5173657ba761",
-      "slug": "over-1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spo-5173657ba761",
-      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "excerpt": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "content": "<p>Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:36.138417+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "f25d01caf203",
-      "slug": "live-updates-bitcoin-holds-in-narrow-range-stocks-bounce-after-strong-october-jo-f25d01caf203",
-      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
-      "excerpt": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
-      "content": "<p>Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T17:35:37.692891+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b46765bcf90e",
-      "slug": "zcash-nu7-upgrade-goes-live-leaves-12224-zec-stranded-in-sprout-pool-b46765bcf90e",
-      "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "excerpt": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
-      "content": "<p>Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T10:03:49.854974+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "edda5643192e",
-      "slug": "hyperliquid-strategies-seeks-futures-registration-for-perps-edda5643192e",
-      "title": "Hyperliquid Strategies seeks futures registration for perps",
-      "excerpt": "Hyperliquid Strategies seeks futures registration for perps",
-      "content": "<p>Hyperliquid Strategies seeks futures registration for perps</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T10:03:51.395209+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1a435125b5a6",
-      "slug": "bitcoin-ether-etfs-post-530m-outflows-as-election-gains-evaporate-1a435125b5a6",
-      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-      "excerpt": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-      "content": "<p>Bitcoin, Ether ETFs post $530M outflows as election gains evaporate</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T10:03:52.938714+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b974228eb931",
-      "slug": "chainalysis-says-breach-exposed-password-hashes-and-live-tokens-b974228eb931",
-      "title": "Chainalysis says breach exposed password hashes and live tokens",
-      "excerpt": "Chainalysis says breach exposed password hashes and live tokens",
-      "content": "<p>Chainalysis says breach exposed password hashes and live tokens</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T10:03:54.503531+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-07T15:26:42.251990+00:00",
+  "lastUpdated": "2026-11-07T19:30:39.229983+00:00",
   "totalCount": 50,
   "newCount": 10
 }
