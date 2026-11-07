@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "52c0141c2e28",
+      "slug": "nvidia-may-face-a-more-hostile-post-election-washington-report-52c0141c2e28",
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "excerpt": "Nvidia may face a more hostile post-election Washington: Report",
+      "content": "<p>Nvidia may face a more hostile post-election Washington: Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T08:58:53.000492+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "43e37dac314a",
+      "slug": "elon-musk-opens-the-door-for-a-big-spacex-acquisition-43e37dac314a",
+      "title": "Elon Musk opens the door for a big SpaceX acquisition",
+      "excerpt": "Elon Musk opens the door for a big SpaceX acquisition",
+      "content": "<p>Elon Musk opens the door for a big SpaceX acquisition</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T08:58:55.881643+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2def6a8cb4ee",
+      "slug": "data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-goi-2def6a8cb4ee",
+      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "excerpt": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
+      "content": "<p>Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T08:58:57.418449+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9232a6cd483e",
+      "slug": "nvidia-amd-and-other-chip-stocks-rebound-but-is-relief-from-the-violent-selloff--9232a6cd483e",
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "excerpt": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "content": "<p>Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T08:58:58.950030+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "78ce6273b93e",
+      "slug": "it-seems-bizarre-were-in-our-80s-with-950000-in-traditional-iras-why-is-our-advi-78ce6273b93e",
+      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "excerpt": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+      "content": "<p>‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T08:59:00.482479+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "24d40b498f5d",
+      "slug": "it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500000-b-24d40b498f5d",
+      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "excerpt": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+      "content": "<p>‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-07T08:59:02.015873+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "6e297f1325a4",
       "slug": "paraguay-protests-over-bank-lockout-intensify-as-impeachment-vote-nears-6e297f1325a4",
       "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
@@ -791,117 +899,9 @@
       "date": "2026-11-06T02:38:55.209323+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "af6c4c772553",
-      "slug": "hyperliquid-treasury-firm-seeking-us-regulatory-nod-as-a-domestic-futures-platfo-af6c4c772553",
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "excerpt": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "content": "<p>Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T02:38:57.033861+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ae7cfd3021da",
-      "slug": "bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc-ae7cfd3021da",
-      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "excerpt": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "content": "<p>Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T02:38:58.554539+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "838679ccd132",
-      "slug": "bitcoin-tumbles-to-76000-as-collapsing-ai-trade-drags-stocks-sharply-lower-838679ccd132",
-      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-      "excerpt": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-      "content": "<p>Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T02:39:00.077965+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fdea1b587b2a",
-      "slug": "claude-gets-personal-financeanthony-pompliano-accuses-anthropic-of-copying-his-s-fdea1b587b2a",
-      "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
-      "excerpt": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
-      "content": "<p>Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T02:39:01.669392+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d741d870a4db",
-      "slug": "bitcoin-fixes-this-paraguay-president-resigns-after-bank-lockout-hits-60-of-coun-d741d870a4db",
-      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-      "excerpt": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-      "content": "<p>Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T02:39:03.191377+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "28a1af545beb",
-      "slug": "openai-promises-to-foot-ais-power-bill-after-voter-revolt-who-enforces-it-28a1af545beb",
-      "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
-      "excerpt": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
-      "content": "<p>OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-06T02:39:04.709267+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-07T02:11:48.512901+00:00",
+  "lastUpdated": "2026-11-07T08:59:03.590345+00:00",
   "totalCount": 50,
-  "newCount": 10
+  "newCount": 6
 }
