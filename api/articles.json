@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "e9e1965d8ef6",
+      "slug": "zcash-devs-propose-another-block-time-cut-days-after-nu7-upgrade-e9e1965d8ef6",
+      "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "excerpt": "Zcash devs propose another block time cut days after NU7 upgrade",
+      "content": "<p>Zcash devs propose another block time cut days after NU7 upgrade</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:22.939005+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "36068db415a1",
+      "slug": "tbtc-bridge-partially-resumes-as-120m-aave-reserve-remains-frozen-36068db415a1",
+      "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "excerpt": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+      "content": "<p>tBTC bridge partially resumes as $120M Aave reserve remains frozen</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:24.469042+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "998d536caa3c",
+      "slug": "spacex-proposes-a-24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile-998d536caa3c",
+      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "excerpt": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "content": "<p>SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:26.249638+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5b571bb5694d",
+      "slug": "solana-moves-to-scrap-the-transaction-feature-used-in-the-270-million-drift-hack-5b571bb5694d",
+      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "excerpt": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "content": "<p>Solana moves to scrap the transaction feature used in the $270 million Drift hack</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:27.777285+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c17cebe78f72",
+      "slug": "two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts-c17cebe78f72",
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "excerpt": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "content": "<p>Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:29.309554+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0515e84ce2f0",
+      "slug": "binances-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears-0515e84ce2f0",
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "excerpt": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "content": "<p>Binance's bitcoin mining pool finds just one block in a week as shutdown nears</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:30.845799+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f671ee6ff933",
+      "slug": "bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-f671ee6ff933",
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "excerpt": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "content": "<p>Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:32.372826+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "810c315da3cf",
+      "slug": "investinglive-asia-pacific-market-news-asia-shrugs-off-nvidia-scandal-oil-steadi-810c315da3cf",
+      "title": "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies",
+      "excerpt": "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies",
+      "content": "<p>investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:34.097021+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3381aa4d24a0",
+      "slug": "china-october-2026-cpi-07-yy-expected-08-prior-09-3381aa4d24a0",
+      "title": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
+      "excerpt": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
+      "content": "<p>China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:35.629659+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5cec1baa8fee",
+      "slug": "equity-close-decent-rebound-or-a-dead-cat-bounce-5cec1baa8fee",
+      "title": "Equity close: Decent rebound or a dead-cat bounce",
+      "excerpt": "Equity close: Decent rebound or a dead-cat bounce",
+      "content": "<p>Equity close: Decent rebound or a dead-cat bounce</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/534216/pexels-photo-534216.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-09T06:56:37.161813+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "29a0a918f912",
       "slug": "vitalik-pivots-eth-to-store-of-value-crypto-suffers-after-us-midterms-hodlers-di-29a0a918f912",
       "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
@@ -719,189 +899,9 @@
       "date": "2026-11-07T15:26:40.751872+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "52c0141c2e28",
-      "slug": "nvidia-may-face-a-more-hostile-post-election-washington-report-52c0141c2e28",
-      "title": "Nvidia may face a more hostile post-election Washington: Report",
-      "excerpt": "Nvidia may face a more hostile post-election Washington: Report",
-      "content": "<p>Nvidia may face a more hostile post-election Washington: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T08:58:53.000492+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "43e37dac314a",
-      "slug": "elon-musk-opens-the-door-for-a-big-spacex-acquisition-43e37dac314a",
-      "title": "Elon Musk opens the door for a big SpaceX acquisition",
-      "excerpt": "Elon Musk opens the door for a big SpaceX acquisition",
-      "content": "<p>Elon Musk opens the door for a big SpaceX acquisition</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T08:58:55.881643+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2def6a8cb4ee",
-      "slug": "data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-goi-2def6a8cb4ee",
-      "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-      "excerpt": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-      "content": "<p>Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T08:58:57.418449+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9232a6cd483e",
-      "slug": "nvidia-amd-and-other-chip-stocks-rebound-but-is-relief-from-the-violent-selloff--9232a6cd483e",
-      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "excerpt": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "content": "<p>Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T08:58:58.950030+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "78ce6273b93e",
-      "slug": "it-seems-bizarre-were-in-our-80s-with-950000-in-traditional-iras-why-is-our-advi-78ce6273b93e",
-      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "excerpt": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-      "content": "<p>‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T08:59:00.482479+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "24d40b498f5d",
-      "slug": "it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500000-b-24d40b498f5d",
-      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "excerpt": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-      "content": "<p>‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T08:59:02.015873+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6e297f1325a4",
-      "slug": "paraguay-protests-over-bank-lockout-intensify-as-impeachment-vote-nears-6e297f1325a4",
-      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
-      "excerpt": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
-      "content": "<p>Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T02:11:32.503953+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "afc1ed7062ed",
-      "slug": "bitcoin-etfs-bleed-430-million-as-tech-rout-tests-wall-street-buyers-afc1ed7062ed",
-      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-      "excerpt": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-      "content": "<p>Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T02:11:34.033572+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0f08835d8937",
-      "slug": "us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group-0f08835d8937",
-      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-      "excerpt": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-      "content": "<p>US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T02:11:35.561155+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1ba6afabbe73",
-      "slug": "investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates-1ba6afabbe73",
-      "title": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
-      "excerpt": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
-      "content": "<p>investingLive Americas market news wrap: Non-farm payrolls beat estimates</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T02:11:37.328666+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-09T00:15:10.476580+00:00",
+  "lastUpdated": "2026-11-09T06:56:38.661937+00:00",
   "totalCount": 50,
-  "newCount": 4
+  "newCount": 10
 }
