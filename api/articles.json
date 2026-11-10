@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "6c52ddf456df",
+      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
+      "title": "Here’s what happened in crypto today",
+      "excerpt": "Here’s what happened in crypto today",
+      "content": "<p>Here’s what happened in crypto today</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:11.328742+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "8a8198cd57c9",
+      "slug": "crypto-exchanges-need-hard-dollar-caps-on-hot-wallets-certik-says-8a8198cd57c9",
+      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+      "excerpt": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+      "content": "<p>Crypto exchanges need hard dollar caps on hot wallets, CertiK says</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:12.861152+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "0560e790478e",
+      "slug": "openai-builds-kill-switch-to-stop-rogue-agents-within-35-seconds-0560e790478e",
+      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "excerpt": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+      "content": "<p>OpenAI builds kill switch to stop rogue agents within 35 seconds</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:14.392473+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3a43641ae6ef",
+      "slug": "hive-mara-mine-more-bitcoin-but-earn-less-as-crypto-prices-fall-3a43641ae6ef",
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "excerpt": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "content": "<p>HIVE, MARA mine more Bitcoin but earn less as crypto prices fall</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:15.921612+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1d89324c014c",
+      "slug": "an-11-year-old-ethereum-wallet-moved-46-million-and-dodged-a-scam-set-up-in-minu-1d89324c014c",
+      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "excerpt": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+      "content": "<p>An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:17.740601+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "dc923ce06cc4",
+      "slug": "bitcoin-miner-mara-sold-13597-btc-for-11-billion-in-six-weeks-plans-to-sell-more-dc923ce06cc4",
+      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "excerpt": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+      "content": "<p>Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:19.269395+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7eaf1263b0b7",
+      "slug": "xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users-7eaf1263b0b7",
+      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "excerpt": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+      "content": "<p>XRP Ledger maps out quantum-proof accounts, with no extra fees for users</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:20.798861+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5d4ac2bcaeaa",
+      "slug": "bitcoin-faces-us-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough-5d4ac2bcaeaa",
+      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "excerpt": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+      "content": "<p>Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:22.328422+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3143ca0b2a89",
+      "slug": "binance-hack-launderers-mint-elon-musk-and-animal-meme-coins-to-move-stolen-cryp-3143ca0b2a89",
+      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+      "excerpt": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+      "content": "<p>Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:23.944013+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "08d4f6648b12",
+      "slug": "bitcoin-in-limbo-as-stocks-rebound-ahead-of-us-inflation-report-08d4f6648b12",
+      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "excerpt": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "content": "<p>Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-10T07:52:25.475589+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "8c7e4a7d23a7",
       "slug": "should-you-leave-australia-to-avoid-paying-47-tax-on-crypto-gains-8c7e4a7d23a7",
       "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
@@ -719,189 +899,9 @@
       "date": "2026-11-08T16:26:20.167264+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fc59b6f24673",
-      "slug": "amsterdam-protesters-break-into-microsoft-data-center-construction-site-report-fc59b6f24673",
-      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
-      "excerpt": "Amsterdam protesters break into Microsoft data center construction site: Report",
-      "content": "<p>Amsterdam protesters break into Microsoft data center construction site: Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-08T16:26:21.701899+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "9fcd02db821c",
-      "slug": "these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-9fcd02db821c",
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "excerpt": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "content": "<p>These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-08T16:26:23.724014+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e13b289cfa3b",
-      "slug": "this-bitcoin-developers-idea-would-make-quantum-attacks-a-losing-bet-e13b289cfa3b",
-      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-      "excerpt": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-      "content": "<p>This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-08T16:26:25.388998+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1a47416b255e",
-      "slug": "funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-trad-1a47416b255e",
-      "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-      "excerpt": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-      "content": "<p>Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-08T16:26:27.779536+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e54f5ca7c35c",
-      "slug": "my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-e-e54f5ca7c35c",
-      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "excerpt": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-      "content": "<p>My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-08T16:26:29.316397+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4f35597dcd59",
-      "slug": "corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectati-4f35597dcd59",
-      "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-      "excerpt": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-      "content": "<p>Corporate America’s profit numbers are just barely beating Wall Street’s expectations</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-08T16:26:30.857407+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8417e229c5b3",
-      "slug": "binances-finance-chief-kaiser-ng-to-leave-company-report-says-8417e229c5b3",
-      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
-      "excerpt": "Binance’s  finance chief Kaiser Ng to leave company, report says",
-      "content": "<p>Binance’s  finance chief Kaiser Ng to leave company, report says</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-08T09:40:20.177269+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a0ad1f4bdd0a",
-      "slug": "the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-a0ad1f4bdd0a",
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "excerpt": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "content": "<p>The crypto industry has found new ways to grow. Making money from them is another story</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T23:12:47.519414+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "862a4d69f567",
-      "slug": "second-guessing-my-adviser-is-an-annuity-the-right-move-in-this-market-862a4d69f567",
-      "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
-      "excerpt": "Second-guessing my adviser: Is an annuity the right move in this market?",
-      "content": "<p>Second-guessing my adviser: Is an annuity the right move in this market?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T23:12:49.387277+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e7f31ea5041a",
-      "slug": "here-are-the-2027-capital-gains-tax-rates-for-each-income-level-e7f31ea5041a",
-      "title": "Here are the 2027 capital-gains tax rates for each income level",
-      "excerpt": "Here are the 2027 capital-gains tax rates for each income level",
-      "content": "<p>Here are the 2027 capital-gains tax rates for each income level</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-07T23:12:50.906358+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-10T00:45:39.670061+00:00",
+  "lastUpdated": "2026-11-10T07:52:26.975739+00:00",
   "totalCount": 50,
   "newCount": 10
 }
