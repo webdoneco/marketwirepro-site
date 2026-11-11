@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "a30368e0bd1d",
+      "slug": "bitcoin-hovers-near-74k-as-stocks-rise-despite-us-bond-yield-rebound-a30368e0bd1d",
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "excerpt": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "content": "<p>Bitcoin hovers near $74K as stocks rise despite US bond yield rebound</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:24.620183+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eeae269be872",
+      "slug": "deutsche-bank-launches-crypto-custody-for-companies-and-institutions-eeae269be872",
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "excerpt": "Deutsche Bank launches crypto custody for companies and institutions",
+      "content": "<p>Deutsche Bank launches crypto custody for companies and institutions</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:26.151346+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "fa16ba76ffef",
+      "slug": "paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts-fa16ba76ffef",
+      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+      "excerpt": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+      "content": "<p>Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:27.694582+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5becc134318f",
+      "slug": "bitcoin-covenants-part-5-matt-and-opcheckcontractverify-how-bitcoin-could-carry--5becc134318f",
+      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
+      "excerpt": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
+      "content": "<p>Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:29.230850+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ea3901ed0323",
+      "slug": "coreweave-stock-jumps-15-premarket-after-q3-revenue-beats-estimates-ea3901ed0323",
+      "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
+      "excerpt": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
+      "content": "<p>CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:30.764655+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3f06cb727480",
+      "slug": "crypto-long-short-the-genius-acts-guarantees-dont-cover-defi-lending-3f06cb727480",
+      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+      "excerpt": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+      "content": "<p>Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:32.794470+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "af37be226a82",
+      "slug": "okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month-af37be226a82",
+      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+      "excerpt": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+      "content": "<p>OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:34.332927+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "129a4221262b",
+      "slug": "meet-spiko-the-largest-tokenized-fund-in-the-world-youve-probably-never-heard-ab-129a4221262b",
+      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
+      "excerpt": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
+      "content": "<p>Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:35.864274+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9a5a4c42e211",
+      "slug": "live-news-bitcoin-remains-under-pressure-as-coreweave-nvidia-lead-ai-rebound-9a5a4c42e211",
+      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+      "excerpt": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+      "content": "<p>Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:37.396064+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ebd5a9effda9",
+      "slug": "bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows-ebd5a9effda9",
+      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+      "excerpt": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+      "content": "<p>Bitcoin barely flinches at hot CPI as ETF selling slows</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-11T16:44:38.931809+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "bdbb6cf40ed7",
       "slug": "initia-confirms-second-exploit-in-3-weeks-327m-stolen-in-latest-attack-bdbb6cf40ed7",
       "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
@@ -719,189 +899,9 @@
       "date": "2026-11-10T15:55:03.201713+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:11.328742+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "8a8198cd57c9",
-      "slug": "crypto-exchanges-need-hard-dollar-caps-on-hot-wallets-certik-says-8a8198cd57c9",
-      "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-      "excerpt": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-      "content": "<p>Crypto exchanges need hard dollar caps on hot wallets, CertiK says</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:12.861152+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0560e790478e",
-      "slug": "openai-builds-kill-switch-to-stop-rogue-agents-within-35-seconds-0560e790478e",
-      "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-      "excerpt": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-      "content": "<p>OpenAI builds kill switch to stop rogue agents within 35 seconds</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:14.392473+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3a43641ae6ef",
-      "slug": "hive-mara-mine-more-bitcoin-but-earn-less-as-crypto-prices-fall-3a43641ae6ef",
-      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-      "excerpt": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-      "content": "<p>HIVE, MARA mine more Bitcoin but earn less as crypto prices fall</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:15.921612+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1d89324c014c",
-      "slug": "an-11-year-old-ethereum-wallet-moved-46-million-and-dodged-a-scam-set-up-in-minu-1d89324c014c",
-      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
-      "excerpt": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
-      "content": "<p>An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:17.740601+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "dc923ce06cc4",
-      "slug": "bitcoin-miner-mara-sold-13597-btc-for-11-billion-in-six-weeks-plans-to-sell-more-dc923ce06cc4",
-      "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-      "excerpt": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-      "content": "<p>Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:19.269395+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7eaf1263b0b7",
-      "slug": "xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users-7eaf1263b0b7",
-      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-      "excerpt": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-      "content": "<p>XRP Ledger maps out quantum-proof accounts, with no extra fees for users</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:20.798861+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5d4ac2bcaeaa",
-      "slug": "bitcoin-faces-us-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough-5d4ac2bcaeaa",
-      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-      "excerpt": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-      "content": "<p>Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:22.328422+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3143ca0b2a89",
-      "slug": "binance-hack-launderers-mint-elon-musk-and-animal-meme-coins-to-move-stolen-cryp-3143ca0b2a89",
-      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-      "excerpt": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-      "content": "<p>Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:23.944013+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "08d4f6648b12",
-      "slug": "bitcoin-in-limbo-as-stocks-rebound-ahead-of-us-inflation-report-08d4f6648b12",
-      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
-      "excerpt": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
-      "content": "<p>Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-10T07:52:25.475589+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-11T08:35:52.183661+00:00",
+  "lastUpdated": "2026-11-11T16:44:40.431997+00:00",
   "totalCount": 50,
   "newCount": 10
 }
