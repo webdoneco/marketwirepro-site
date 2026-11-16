@@ -1,6 +1,114 @@
 {
   "articles": [
     {
+      "uid": "e1f6bcce561e",
+      "slug": "us-sellers-drive-bitcoin-crash-jensen-plots-nvidia-comeback-hodlers-digest-e1f6bcce561e",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "excerpt": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
+      "content": "<p>US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-16T00:03:44.983076+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b92198c49e34",
+      "slug": "new-zealand-services-psi-hits-35-year-high-at-517-fifth-straight-month-of-growth-b92198c49e34",
+      "title": "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of growth",
+      "excerpt": "New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of growth",
+      "content": "<p>New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of growth</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-16T00:03:46.751622+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3746ea93f110",
+      "slug": "investinglive-americas-market-news-wrap-hawkish-fed-worries-ebb-after-ppi-3746ea93f110",
+      "title": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
+      "excerpt": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
+      "content": "<p>investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-16T00:03:48.267267+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b0a0111197d5",
+      "slug": "the-us-consumer-may-be-hitting-a-wall-a-look-at-eight-indicators-b0a0111197d5",
+      "title": "The US consumer may be hitting a wall. A look at eight indicators",
+      "excerpt": "The US consumer may be hitting a wall. A look at eight indicators",
+      "content": "<p>The US consumer may be hitting a wall. A look at eight indicators</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-16T00:03:49.792235+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1412680b752a",
+      "slug": "earnings-week-ahead-nvidia-without-jensen-anthropics-ipo-and-the-consumer-meets--1412680b752a",
+      "title": "Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed",
+      "excerpt": "Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed",
+      "content": "<p>Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed</p>",
+      "category": "forex",
+      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "forex",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-16T00:03:51.310365+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f7f29637ab82",
+      "slug": "budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-f7f29637ab82",
+      "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "excerpt": "Budget airlines are going upscale with first-class seats and faster wifi",
+      "content": "<p>Budget airlines are going upscale with first-class seats and faster wifi</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-16T00:03:52.962958+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "78ee3016d7e2",
       "slug": "enterprise-blockchain-is-going-to-come-back-from-the-dead-78ee3016d7e2",
       "title": "Enterprise blockchain is going to come back from the dead",
@@ -791,117 +899,9 @@
       "date": "2026-11-14T09:37:03.955777+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "eb69261b71b3",
-      "slug": "bitcoin-etfs-shed-235b-in-2-weeks-blackrocks-losing-streak-hits-11-eb69261b71b3",
-      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-      "excerpt": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-      "content": "<p>Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-14T09:37:05.503793+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b1f0f7e1b649",
-      "slug": "satoshi-era-wallet-served-in-a-260-billion-lawsuit-moves-75-btc-it-held-since-20-b1f0f7e1b649",
-      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-      "excerpt": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-      "content": "<p>Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-14T09:37:07.350147+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3cdedb47057b",
-      "slug": "faa-lifts-rare-nationwide-ground-stop-on-flights-air-travel-may-take-days-to-rec-3cdedb47057b",
-      "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-      "excerpt": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-      "content": "<p>FAA lifts rare nationwide ground stop on flights; air travel may take days to recover</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-14T09:37:09.337605+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "484b8c92f549",
-      "slug": "14-dividend-stocks-selected-for-long-term-growth-484b8c92f549",
-      "title": "14 dividend stocks selected for long-term growth",
-      "excerpt": "14 dividend stocks selected for long-term growth",
-      "content": "<p>14 dividend stocks selected for long-term growth</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-14T09:37:10.866594+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0ab981f0a115",
-      "slug": "the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-schem-0ab981f0a115",
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "excerpt": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "content": "<p>‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-14T09:37:12.400341+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "7c08de4008d9",
-      "slug": "4-expert-tips-for-signing-up-for-medicare-7c08de4008d9",
-      "title": "4 expert tips for signing up for Medicare",
-      "excerpt": "4 expert tips for signing up for Medicare",
-      "content": "<p>4 expert tips for signing up for Medicare</p>",
-      "category": "stocks",
-      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "stocks",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-14T09:37:13.930435+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-15T20:01:05.117242+00:00",
+  "lastUpdated": "2026-11-16T00:03:54.470735+00:00",
   "totalCount": 50,
-  "newCount": 9
+  "newCount": 6
 }
