@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "7049999d304d",
+      "slug": "moonpay-seeks-us-bank-charter-for-stablecoin-custody-services-7049999d304d",
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "excerpt": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "content": "<p>MoonPay seeks US bank charter for stablecoin, custody services</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:28.063468+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "f7aa80abe907",
+      "slug": "hyperliquid-anthropic-futures-priced-within-1-of-nasdaq-opening-price-f7aa80abe907",
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "excerpt": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "content": "<p>Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:29.594713+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "a8b9204104fb",
+      "slug": "trumps-sec-nominee-johnson-backs-formal-rulemaking-for-tokenized-stock-trading-a8b9204104fb",
+      "title": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "excerpt": "Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "content": "<p>Trump’s SEC nominee Johnson backs formal rulemaking for tokenized stock trading</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:31.127593+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "4f5867acfffc",
+      "slug": "ethereums-glamsterdam-upgrade-could-slip-to-may-2027-over-compatibility-concerns-4f5867acfffc",
+      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+      "excerpt": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+      "content": "<p>Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:32.659812+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5f4c8d2e1452",
+      "slug": "why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms-5f4c8d2e1452",
+      "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+      "excerpt": "Why higher rates could slow Bitcoin buying at treasury firms",
+      "content": "<p>Why higher rates could slow Bitcoin buying at treasury firms</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:34.200976+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "43866a76ff98",
+      "slug": "skys-usds-stablecoin-shrinks-35-as-15-billion-exits-reserves-after-illicit-finan-43866a76ff98",
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "excerpt": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "content": "<p>Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:36.135453+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1e659a2eb0ae",
+      "slug": "trumps-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-proce-1e659a2eb0ae",
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "excerpt": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "content": "<p>Trump's Democratic SEC pick suggests tokenization policy deserves full rule process</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:37.664717+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "688f1b5ec58b",
+      "slug": "anthropic-gains-after-ipo-but-pulls-off-highest-levels-688f1b5ec58b",
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "excerpt": "Anthropic gains after IPO, but pulls off highest levels",
+      "content": "<p>Anthropic gains after IPO, but pulls off highest levels</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:39.195598+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "877f380374b4",
+      "slug": "crypto-for-advisors-falling-prices-drove-octobers-10-drop-in-institutional-crypt-877f380374b4",
+      "title": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "excerpt": "Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure",
+      "content": "<p>Crypto for Advisors: Falling prices drove October’s 10% drop in institutional crypto exposure</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:40.727299+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ce5d819d339b",
+      "slug": "binance-wins-65-billion-feezing-order-against-hackers-behind-cryptos-largest-the-ce5d819d339b",
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "excerpt": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "content": "<p>Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-19T21:54:42.259231+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "f2e4b1fd2794",
       "slug": "hong-kong-adds-hyperliquid-to-list-of-suspicious-crypto-platforms-f2e4b1fd2794",
       "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
@@ -719,189 +899,9 @@
       "date": "2026-11-18T16:47:40.017614+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "2bef6ddc4604",
-      "slug": "ledger-hardware-implant-saga-reaches-dubais-virgin-megastore-2bef6ddc4604",
-      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-      "excerpt": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
-      "content": "<p>Ledger hardware implant saga reaches Dubai’s Virgin Megastore</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:21.297527+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "29ae419c842b",
-      "slug": "google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files-29ae419c842b",
-      "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "excerpt": "Google finds self-running AI hacking tool with Russian comments in its files",
-      "content": "<p>Google finds self-running AI hacking tool with Russian comments in its files</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:23.025442+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d2555dd3189b",
-      "slug": "live-updates-bitcoin-stuck-near-65000-as-popular-basis-trade-returns-dry-up-d2555dd3189b",
-      "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
-      "excerpt": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
-      "content": "<p>Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:24.544693+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "ab5cb0ac5fcd",
-      "slug": "us-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-25-million-fra-ab5cb0ac5fcd",
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "excerpt": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "content": "<p>U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:26.064606+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "739c50a209c6",
-      "slug": "bitcoins-12-slide-through-key-support-looks-scary-but-history-says-give-it-3-mon-739c50a209c6",
-      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-      "excerpt": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-      "content": "<p>Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:27.585471+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "1ee9960c3c71",
-      "slug": "xrp-whales-moved-270-million-during-the-selloff-the-coins-didnt-go-to-exchanges-1ee9960c3c71",
-      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-      "excerpt": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-      "content": "<p>XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:29.111161+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "501622fde347",
-      "slug": "cftc-nominee-questions-public-benefit-of-prediction-markets-as-legal-fight-grows-501622fde347",
-      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "excerpt": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "content": "<p>CFTC nominee questions public benefit of prediction markets as legal fight grows</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:30.633013+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "862ba362fbaf",
-      "slug": "openais-gpt-62-astra-challenges-anthropic-on-price-but-not-every-benchmark-862ba362fbaf",
-      "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
-      "excerpt": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
-      "content": "<p>OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:32.200282+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "902ac6756d5a",
-      "slug": "world-bank-taps-circle-and-citi-to-test-stablecoins-for-development-payments-902ac6756d5a",
-      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-      "excerpt": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-      "content": "<p>World Bank Taps Circle and Citi to Test Stablecoins for Development Payments</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:33.721525+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "c347d8ed4e44",
-      "slug": "bitcoin-investors-are-capitulatingthats-historically-been-a-bottom-signal-c347d8ed4e44",
-      "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
-      "excerpt": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
-      "content": "<p>Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-18T07:50:35.240446+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-19T13:38:36.541540+00:00",
+  "lastUpdated": "2026-11-19T21:54:43.759356+00:00",
   "totalCount": 50,
   "newCount": 10
 }
