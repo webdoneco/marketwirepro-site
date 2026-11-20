@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "uid": "50771c36c556",
+      "slug": "sky-protocol-sees-2-billion-in-stablecoin-withdrawals-disputes-illicit-fund-clai-50771c36c556",
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "excerpt": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "content": "<p>Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:53:57.665651+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "e14539adcfed",
+      "slug": "bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff-e14539adcfed",
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "excerpt": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "content": "<p>Bitcoin falls below $60K for first time since July amid broader market selloff</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:53:59.206760+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "b0561406c2db",
+      "slug": "us-senate-advances-prediction-market-restrictions-with-death-bets-act-b0561406c2db",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "excerpt": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "content": "<p>US Senate advances prediction market restrictions with DEATH BETS Act</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:54:00.749975+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "34ff6f48596c",
+      "slug": "bitcoin-price-drops-to-60k-as-anthropic-drops-to-87-in-tech-sell-off-34ff6f48596c",
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "excerpt": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "content": "<p>Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:54:02.290778+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "3d5c3edbb989",
+      "slug": "dbs-bets-it-can-lose-the-deposit-and-keep-the-client-3d5c3edbb989",
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "excerpt": "DBS bets it can lose the deposit and keep the client",
+      "content": "<p>DBS bets it can lose the deposit and keep the client</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:54:03.840444+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "5eb12d6f295b",
+      "slug": "bitcoin-plunges-below-59000-as-rush-to-cash-puts-new-bear-market-lows-back-in-pl-5eb12d6f295b",
+      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "excerpt": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "content": "<p>Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:54:05.751170+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "1b7367f1b4f3",
+      "slug": "former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-a-1b7367f1b4f3",
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "excerpt": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "content": "<p>Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:54:07.291528+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "c7e5a5f76ce4",
+      "slug": "hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodi-c7e5a5f76ce4",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "excerpt": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "content": "<p>Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:54:08.834607+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "7e30aaaa2392",
+      "slug": "us-senate-passes-bill-to-ban-prediction-market-bets-on-war-and-death-7e30aaaa2392",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "excerpt": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "content": "<p>U.S. Senate passes bill to ban prediction market bets on war and death</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:54:10.375821+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "eab62f2fe938",
+      "slug": "live-news-bitcoin-slips-to-fresh-lows-below-60000-as-anthropic-slides-after-nasd-eab62f2fe938",
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "excerpt": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "content": "<p>Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-20T18:54:11.920727+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "10a674e64d77",
       "slug": "bitcoin-nears-repeat-of-chart-pattern-that-preceded-2023s-25k-retest-10a674e64d77",
       "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
@@ -719,189 +899,9 @@
       "date": "2026-11-19T13:38:35.041400+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "41d1c8135229",
-      "slug": "trump-administration-unveils-new-center-to-choke-off-scam-payments-41d1c8135229",
-      "title": "Trump administration unveils new center to choke off scam payments",
-      "excerpt": "Trump administration unveils new center to choke off scam payments",
-      "content": "<p>Trump administration unveils new center to choke off scam payments</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:45.434416+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "a44707378f89",
-      "slug": "fed-officials-saw-october-rate-hold-as-a-close-call-minutes-show-a44707378f89",
-      "title": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
-      "excerpt": "Fed officials saw October rate hold as a ‘close call,’ minutes show",
-      "content": "<p>Fed officials saw October rate hold as a ‘close call,’ minutes show</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:47.008895+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "6c52ddf456df",
-      "slug": "heres-what-happened-in-crypto-today-6c52ddf456df",
-      "title": "Here’s what happened in crypto today",
-      "excerpt": "Here’s what happened in crypto today",
-      "content": "<p>Here’s what happened in crypto today</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:48.577658+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "bb3fa3f6896c",
-      "slug": "cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day-bb3fa3f6896c",
-      "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-      "excerpt": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-      "content": "<p>CZ says tokenized Anthropic is coming to BNB Chain on IPO day</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:50.593487+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "48171e3f38c6",
-      "slug": "another-us-appellate-court-goes-against-kalshi-building-the-industrys-legal-head-48171e3f38c6",
-      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "excerpt": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-      "content": "<p>Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:52.161792+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "0ba00ede9717",
-      "slug": "googles-genie-4-is-here-letting-ultra-subscribers-build-ai-worlds-in-real-time-0ba00ede9717",
-      "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
-      "excerpt": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
-      "content": "<p>Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:53.856654+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "4f84c3860259",
-      "slug": "why-coinshares-just-sold-all-its-ethereum-and-half-its-solana-4f84c3860259",
-      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-      "excerpt": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-      "content": "<p>Why CoinShares Just Sold All Its Ethereum and Half Its Solana</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:55.427518+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "91e16e4908fd",
-      "slug": "bitcoin-tanks-ahead-of-anthropics-ipo-should-we-really-blame-ai-91e16e4908fd",
-      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-      "excerpt": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-      "content": "<p>Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:56.993937+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "19ec568aa0ed",
-      "slug": "australian-unemployment-rate-jumps-to-49-in-october-against-47-expected-19ec568aa0ed",
-      "title": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
-      "excerpt": "Australian unemployment rate jumps to 4.9% in October, against 4.7% expected",
-      "content": "<p>Australian unemployment rate jumps to 4.9% in October, against 4.7% expected</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/164527/pexels-photo-164527.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:17:58.859294+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "fbf0a9ad4ace",
-      "slug": "moodys-keeps-us-rating-at-aa1-as-the-economy-beats-forecasts-seeing-23-growth-th-fbf0a9ad4ace",
-      "title": "Moody’s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growth this year",
-      "excerpt": "Moody’s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growth this year",
-      "content": "<p>Moody’s keeps US rating at Aa1 as the economy beats forecasts, seeing 2.3% growth this year</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-19T04:18:00.430270+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-20T10:41:42.096709+00:00",
+  "lastUpdated": "2026-11-20T18:54:13.420869+00:00",
   "totalCount": 50,
   "newCount": 10
 }
