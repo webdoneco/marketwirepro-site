@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "uid": "5a8e248bfe87",
+      "slug": "the-future-of-onchain-fx-could-start-with-users-not-institutional-liquidity-5a8e248bfe87",
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "excerpt": "The future of onchain FX could start with users, not institutional liquidity",
+      "content": "<p>The future of onchain FX could start with users, not institutional liquidity</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:16.992584+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ae26aa5ead07",
+      "slug": "bitcoin-briefly-drops-to-17k-on-kraken-exchange-upholds-trades-ae26aa5ead07",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "excerpt": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "content": "<p>Bitcoin briefly drops to $17K on Kraken, exchange upholds trades</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:18.530479+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "ca4a3f65900d",
+      "slug": "bitcoins-quantum-security-challenge-extends-to-bridges-custodians-and-millions-o-ca4a3f65900d",
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "excerpt": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "content": "<p>Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/6771985/pexels-photo-6771985.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:20.465309+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "d4ab59920d0e",
+      "slug": "googles-quantum-chip-beats-classical-limits-in-impossible-game-d4ab59920d0e",
+      "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+      "excerpt": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+      "content": "<p>Google's Quantum Chip Beats Classical Limits in 'Impossible' Game</p>",
+      "category": "crypto",
+      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "crypto",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:22.090637+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "9b5c2892e6f5",
+      "slug": "i-felt-so-seen-why-families-across-america-are-laughing-and-crying-over-snls-sis-9b5c2892e6f5",
+      "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "excerpt": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
+      "content": "<p>‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:24.499877+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "708dfb9d2e83",
+      "slug": "never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-708dfb9d2e83",
+      "title": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "excerpt": "‘Never too late to start’: Practical investing advice from some of the top women in finance",
+      "content": "<p>‘Never too late to start’: Practical investing advice from some of the top women in finance</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:26.047928+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "47fadf635844",
+      "slug": "my-husband-spent-80000-on-a-boat-yet-says-my-plans-for-a-100000-pottery-studio-a-47fadf635844",
+      "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "excerpt": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
+      "content": "<p>My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:27.585451+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "959970c12fb8",
+      "slug": "corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-la-a-959970c12fb8",
+      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+      "excerpt": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+      "content": "<p>Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/669619/pexels-photo-669619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:29.117924+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
+      "uid": "2d0e9bb44fc7",
+      "slug": "stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-f-2d0e9bb44fc7",
+      "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+      "excerpt": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+      "content": "<p>Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.</p>",
+      "category": "stocks",
+      "image": "https://images.pexels.com/photos/955447/pexels-photo-955447.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "tags": [
+        "stocks",
+        "markets",
+        "finance",
+        "trading"
+      ],
+      "date": "2026-11-22T16:29:30.651825+00:00",
+      "readTime": 2,
+      "author": "MarketWirePro Desk"
+    },
+    {
       "uid": "d72cc33b5a1b",
       "slug": "south-korean-exchanges-halt-cyber-transfers-amid-suspected-bridge-exploit-d72cc33b5a1b",
       "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
@@ -737,171 +899,9 @@
       "date": "2026-11-21T00:27:32.389832+00:00",
       "readTime": 2,
       "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "af1b4b2708d3",
-      "slug": "google-gives-gemini-control-of-mac-apps-but-its-new-ai-agent-comes-with-risks-af1b4b2708d3",
-      "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
-      "excerpt": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
-      "content": "<p>Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-21T00:27:33.923272+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b00e4b7df99b",
-      "slug": "wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host-b00e4b7df99b",
-      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-      "excerpt": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-      "content": "<p>Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/6772076/pexels-photo-6772076.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-21T00:27:35.460527+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "d008845574f7",
-      "slug": "investinglive-americas-fx-news-wrap-20-nov-stocks-get-hammered-as-nasdaq-plunges-d008845574f7",
-      "title": "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%",
-      "excerpt": "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%",
-      "content": "<p>investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%</p>",
-      "category": "forex",
-      "image": "https://images.pexels.com/photos/186461/pexels-photo-186461.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "forex",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-21T00:27:37.260006+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "50771c36c556",
-      "slug": "sky-protocol-sees-2-billion-in-stablecoin-withdrawals-disputes-illicit-fund-clai-50771c36c556",
-      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-      "excerpt": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-      "content": "<p>Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7534777/pexels-photo-7534777.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-20T18:53:57.665651+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "e14539adcfed",
-      "slug": "bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff-e14539adcfed",
-      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-      "excerpt": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-      "content": "<p>Bitcoin falls below $60K for first time since July amid broader market selloff</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-20T18:53:59.206760+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "b0561406c2db",
-      "slug": "us-senate-advances-prediction-market-restrictions-with-death-bets-act-b0561406c2db",
-      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-      "excerpt": "US Senate advances prediction market restrictions with DEATH BETS Act",
-      "content": "<p>US Senate advances prediction market restrictions with DEATH BETS Act</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-20T18:54:00.749975+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "34ff6f48596c",
-      "slug": "bitcoin-price-drops-to-60k-as-anthropic-drops-to-87-in-tech-sell-off-34ff6f48596c",
-      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-      "excerpt": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-      "content": "<p>Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/7567443/pexels-photo-7567443.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-20T18:54:02.290778+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "3d5c3edbb989",
-      "slug": "dbs-bets-it-can-lose-the-deposit-and-keep-the-client-3d5c3edbb989",
-      "title": "DBS bets it can lose the deposit and keep the client",
-      "excerpt": "DBS bets it can lose the deposit and keep the client",
-      "content": "<p>DBS bets it can lose the deposit and keep the client</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-20T18:54:03.840444+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
-    },
-    {
-      "uid": "5eb12d6f295b",
-      "slug": "bitcoin-plunges-below-59000-as-rush-to-cash-puts-new-bear-market-lows-back-in-pl-5eb12d6f295b",
-      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "excerpt": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-      "content": "<p>Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play</p>",
-      "category": "crypto",
-      "image": "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&w=800",
-      "tags": [
-        "crypto",
-        "markets",
-        "finance",
-        "trading"
-      ],
-      "date": "2026-11-20T18:54:05.751170+00:00",
-      "readTime": 2,
-      "author": "MarketWirePro Desk"
     }
   ],
-  "lastUpdated": "2026-11-22T08:23:55.706912+00:00",
+  "lastUpdated": "2026-11-22T16:29:32.216569+00:00",
   "totalCount": 50,
-  "newCount": 2
+  "newCount": 9
 }
